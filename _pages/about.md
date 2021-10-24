@@ -15,8 +15,8 @@ Since Sept. 2017, I'm pursuing my Ph.D. degree in Computer Science at Peking Uni
 Research interests
 ======
 * Deep Learning, Data Mining
-* Graph Representation Learning
-* Generative Model
+* Graph Representation Learning, , Graph Neural Networks
+* Deep Generative Model
 
 <span style="color:red">What’s New</span>
 =====
