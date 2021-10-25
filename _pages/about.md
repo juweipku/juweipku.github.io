@@ -35,10 +35,10 @@ Publications
 
 Honors and Awards
 =====
-Dec. 2020: **Huawei Scholarship**, Huawei Technologies Co., Ltd.
-Dec. 2020: **Merit student**, Peking University
-Sept. 2018: **Third Prize in China Postgraduate Mathematical Contest in Modeling**, CSADGE
-May. 2018: **Top 1 of the men's team in table tennis competition for college students**, Beijing
-Jan. 2017: **Outstanding Student**, Sichuan University
-Jan. 2017: **The First Price Scholarship**, Sichuan University
-May. 2014: **Top 1 of men's singles in table tennis competition for college students**, Sichuan Province
+* Dec. 2020: **Huawei Scholarship**, Huawei Technologies Co., Ltd.
+* Dec. 2020: **Merit student**, Peking University
+* Sept. 2018: **Third Prize in China Postgraduate Mathematical Contest in Modeling**, CSADGE
+* May. 2018: **Top 1 of the men's team in table tennis competition for college students**, Beijing
+* Jan. 2017: **Outstanding Student**, Sichuan University
+* Jan. 2017: **The First Price Scholarship**, Sichuan University
+* May. 2014: **Top 1 of men's singles in table tennis competition for college students**, Sichuan Province
