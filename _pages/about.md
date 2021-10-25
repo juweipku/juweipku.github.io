@@ -10,7 +10,7 @@ redirect_from:
 Since Sept. 2017, Wei Ju (琚玮) is pursuing my Ph.D. degree in Computer Science at Peking University, under the supervision of Prof. [Ming Zhang](http://net.pku.edu.cn/dlib/mzhang/). 
 <!-- I have also been closely working with Prof. [Jian Tang](https://jian-tang.com/), who is my supervior at [Mila](https://mila.quebec/en/) during Sept. 2018 - Sept. 2019. -->
 
-<span style="color:red">I'm on job market now! If you are interested in me, contact me via firstname.lastname@pku.edu.cn</span>
+<span style="color:red">I'm on job market now! If you are interested in me, contact me via juwei@pku.edu.cn</span>
 
 Research interests
 ======
