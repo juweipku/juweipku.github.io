@@ -32,3 +32,13 @@ Publications
 * Weinan Wang, Yuhang Guo, **Wei Ju**, Xiao Luo, and Minghua Deng. An Interpretation of Convolutional Neural Networks for Motif Finding from the View of Probability. To appear in ICTAI'2021. <span style="color:red">CCF-C</span>
 * Xiao Luo, Yuhang Guo, Zeyu Ma, Tao Li, **Wei Ju**, Chong Chen, and Minghua Deng. Deep Supervised Hashing By Classification For Image Retrieval. To appear in ICONIP'2021. <span style="color:red">CCF-C</span>
 * Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Meng Qu, Chong Chen, Minghua Deng, Xian-Sheng Hua, and Ming Zhang. DualGraph: Improving Semi-supervised Graph Classification via Dual Contrastive Learning. To appear in ICDE'2022. <span style="color:red">CCF-A</span>
+
+Honors and Awards
+=====
+Dec. 2020: **Huawei Scholarship**, Huawei Technologies Co., Ltd.
+Dec. 2020: **Merit student**, Peking University
+Sept. 2018: **Third Prize in China Postgraduate Mathematical Contest in Modeling**, CSADGE
+May. 2018: **Top 1 of the men's team in table tennis competition for college students**, Beijing
+Jan. 2017: **Outstanding Student**, Sichuan University
+Jan. 2017: **The First Price Scholarship**, Sichuan University
+May. 2014: **Top 1 of men's singles in table tennis competition for college students**, Sichuan Province
