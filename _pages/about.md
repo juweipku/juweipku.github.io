@@ -20,10 +20,10 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
-* Oct. 2021: One paper has been accepted to WSDM'2022!!
-* Oct. 2021: One paper has been accepted to ICONIP'2021!!
-* Sept. 2021: One paper has been accepted to ICTAI'2021!!
-* Aug. 2021: One paper has been accepted to ICDE'2022!!
+* Oct. 2021: One paper has been accepted by WSDM'2022!!
+* Oct. 2021: One paper has been accepted by ICONIP'2021!!
+* Sept. 2021: One paper has been accepted by ICTAI'2021!!
+* Aug. 2021: One paper has been accepted by ICDE'2022!!
 
 Publications
 =====
