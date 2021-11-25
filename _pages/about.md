@@ -20,6 +20,7 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
+# Receive the SIGIR Student Travel Grant for WSDM. Thank you SIGIR!
 * Oct. 2021: One paper has been accepted by WSDM'2022!!
 * Oct. 2021: One paper has been accepted by ICONIP'2021!!
 * Sept. 2021: One paper has been accepted by ICTAI'2021!!
