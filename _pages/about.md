@@ -17,6 +17,7 @@ Research interests
 * Deep Learning, Data Mining
 * Graph Representation Learning, Graph Neural Networks
 * Deep Generative Model
+* Contrastive Learning
 
 <span style="color:red">What’s New</span>
 =====
@@ -36,6 +37,7 @@ Publications
 
 Honors and Awards
 =====
+* Dec. 2021: **Award for Scientific Research**, Peking University
 * Dec. 2020: **Huawei Scholarship**, Huawei Technologies Co., Ltd.
 * Dec. 2020: **Merit student**, Peking University
 * Sept. 2018: **Third Prize in China Postgraduate Mathematical Contest in Modeling**, CSADGE
