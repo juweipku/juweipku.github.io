@@ -17,7 +17,7 @@ Research interests
 * Deep Learning, Data Mining
 * Graph Representation Learning, Graph Neural Networks
 * Deep Generative Model
-* Contrastive Learning
+* Contrastive Learning, Semi-supervised Learning
 
 <span style="color:red">What’s New</span>
 =====
