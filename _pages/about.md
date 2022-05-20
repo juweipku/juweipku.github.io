@@ -34,7 +34,7 @@ Research interests
 Publications
 =====
 (\* Equal Contribution)
-* Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Meng Qu, Yifan Wang, Chong Chen, Minghua Deng, Xian-Sheng Hua, and Ming Zhang. CLEAR: Cluster-enhanced Contrast for Self-supervised Graph Representation Learning. To appear in TNNLS'2022. <span style="color:red">CCF-B, JCR Q1, IF=10.451</span>
+* Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Meng Qu, Yiyang Gu, Chong Chen, Minghua Deng, Xian-Sheng Hua, and Ming Zhang. CLEAR: Cluster-enhanced Contrast for Self-supervised Graph Representation Learning. To appear in TNNLS'2022. <span style="color:red">CCF-B, JCR Q1, IF=10.451</span>
 * **Wei Ju**<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Meng Qu, Yifan Wang, Chong Chen, Minghua Deng, Xian-Sheng Hua, and Ming Zhang. TGNN: A Joint Semi-supervised Framework for Graph-level Classification. To appear in IJCAI'2022. <span style="color:red">CCF-A</span>
 * **Wei Ju**<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Zequ Ma, Junwei Yang, Minghua Deng, and Ming Zhang. GHNN: Graph Harmonic Neural Networks for Semi-supervised Graph-level Classification. Neural Networks'2022. <span style="color:red">CCF-B, JCR Q1, IF=8.050</span>
 * Yifan Wang, Yiping Song, Shuai Li, Chaoran Cheng, **Wei Ju**, Ming Zhang, and Sheng Wang. DisenCite: Graph-based Disentangled Representation Learning for Context-specific Citation Generation. AAAI'2022. <span style="color:red">CCF-A</span>
