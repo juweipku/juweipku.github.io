@@ -22,6 +22,7 @@ Research interests
 <span style="color:red">What’s New</span>
 =====
 
+* May. 2022: One paper has been accepted by TNNLS'2022!!
 * Apr. 2022: One paper has been accepted by IJCAI'2022!!
 * Mar. 2022: One paper has been accepted by Neural Networks'2022!!
 * Dec. 2021: One paper has been accepted by AAAI'2022!!
@@ -33,8 +34,9 @@ Research interests
 Publications
 =====
 (\* Equal Contribution)
+* Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Meng Qu, Yifan Wang, Chong Chen, Minghua Deng, Xian-Sheng Hua, and Ming Zhang. CLEAR: Cluster-enhanced Contrast for Self-supervised Graph Representation Learning. To appear in TNNLS'2022. <span style="color:red">CCF-B, JCR Q1, IF=10.451</span>
 * **Wei Ju**<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Meng Qu, Yifan Wang, Chong Chen, Minghua Deng, Xian-Sheng Hua, and Ming Zhang. TGNN: A Joint Semi-supervised Framework for Graph-level Classification. To appear in IJCAI'2022. <span style="color:red">CCF-A</span>
-* **Wei Ju**<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Zequ Ma, Junwei Yang, Minghua Deng, and Ming Zhang. GHNN: Graph Harmonic Neural Networks for Semi-supervised Graph-level Classification. Neural Networks'2022. <span style="color:red">CCF-B</span>
+* **Wei Ju**<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Zequ Ma, Junwei Yang, Minghua Deng, and Ming Zhang. GHNN: Graph Harmonic Neural Networks for Semi-supervised Graph-level Classification. Neural Networks'2022. <span style="color:red">CCF-B, JCR Q1, IF=8.050</span>
 * Yifan Wang, Yiping Song, Shuai Li, Chaoran Cheng, **Wei Ju**, Ming Zhang, and Sheng Wang. DisenCite: Graph-based Disentangled Representation Learning for Context-specific Citation Generation. AAAI'2022. <span style="color:red">CCF-A</span>
 * **Wei Ju**, Junwei Yang, Meng Qu, Weiping Song, Jianhao Shen, and Ming Zhang. KGNN: Harnessing Kernel-based Networks for Semi-supervised Graph Classification. WSDM'2022. <span style="color:red">CCF-B</span>
 * Weinan Wang, Yuhang Guo, **Wei Ju**, Xiao Luo, and Minghua Deng. An Interpretation of Convolutional Neural Networks for Motif Finding from the View of Probability. ICTAI'2021. <span style="color:red">CCF-C</span>
