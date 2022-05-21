@@ -53,3 +53,7 @@ Honors and Awards
 * Jan. 2017: **Outstanding Student**, Sichuan University
 * Jan. 2017: **The First Price Scholarship**, Sichuan University
 * May. 2014: **Top 1 of men's singles in table tennis competition for college students**, Sichuan Province
+
+Program Committee Member and Reviewer
+=====
+IJCNN, ECCV, etc.
