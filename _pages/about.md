@@ -56,4 +56,4 @@ Honors and Awards
 
 Program Committee Member and Reviewer
 =====
-IJCNN, ECCV, etc.
+TNNLS, ECCV2022, IJCNN2022, etc.
