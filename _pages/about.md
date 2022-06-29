@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Since Sept. 2017, Wei Ju (琚玮) is pursuing my Ph.D. degree in Computer Science at Peking University, under the supervision of Prof. [Ming Zhang](http://net.pku.edu.cn/dlib/mzhang/). 
+Wei Ju (琚玮) is a PostDoc in Computer Science at Peking University. Previously, he received my Ph.D. degree in Computer Science at Peking University in June 2022, under the supervision of Prof. [Ming Zhang](http://net.pku.edu.cn/dlib/mzhang/). My current research interests lie primarily in the area of graph representation learning and interdisciplinary applications such as drug discovery.
+
 <!-- I have also been closely working with Prof. [Jian Tang](https://jian-tang.com/), who is my supervior at [Mila](https://mila.quebec/en/) during Sept. 2018 - Sept. 2019. -->
 
 <span style="color:red">I'm on job market now! If you are interested in me, contact me via juwei@pku.edu.cn</span>
