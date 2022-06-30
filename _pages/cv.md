@@ -12,4 +12,5 @@ redirect_from:
 Education
 ======
 * B.S. in Mathematics, Sichuan University, 2017
-* Ph.D in Computer Science, Peking University, 2022 (expected)
+* Ph.D in Computer Science, Peking University, 2022
+* PostDoc in Computer Science, Peking University, 2024 (expected)
