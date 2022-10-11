@@ -63,10 +63,10 @@ Honors and Awards
 
 Program Committee Member and Reviewer
 =====
-Journal:
+* Journal:
 
 IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Knowledge-Based Systems (KBS), Signal Processing (SP), etc.
 
-Conference:
+* Conference:
 
 AAAI2023, ECCV2022, IJCNN2022, ICONIP2022, etc.
