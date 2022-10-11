@@ -23,6 +23,8 @@ Research interests
 <span style="color:red">What’s New</span>
 =====
 
+* Sept. 2022: One paper has been accepted by ICONIP'2022!!
+* Sept. 2022: One paper has been accepted by ICDM'2022!!
 * Jun. 2022: One paper has been accepted by ACMMM'2022!!
 * May. 2022: One paper has been accepted by TNNLS'2022!!
 * Apr. 2022: One paper has been accepted by IJCAI'2022!!
@@ -36,6 +38,8 @@ Research interests
 Publications
 =====
 (\* Equal Contribution)
+* Yiping Song<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Zhiliang Tian, Luchen Liu, Ming Zhang, and Zheng Xie. Building Conversational Diagnosis Systems for Fine-grained Diseases using Few Annotated Data. To appear in ICONIP'2022. <span style="color:red">CCF-C</span>
+* **Wei Ju**<sup>\*</sup>, Yifang Qin<sup>\*</sup>, Ziyue Qiao, Xiao Luo, Yifan Wang, Yanjie Fu, and Ming Zhang. [Kernel-based Substructure Exploration for Next POI Recommendation](https://arxiv.org/abs/2210.03969). To appear in ICDM'2022. <span style="color:red">CCF-B</span>
 * Zeyu Ma<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Xiao Luo, Chong Chen, Xian-Sheng Hua, and Guangming Lu. Improved Deep Unsupervised Hashing via Prototypical Learning. To appear in ACMMM'2022. <span style="color:red">CCF-A</span>
 * Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Meng Qu, Yiyang Gu, Chong Chen, Minghua Deng, Xian-Sheng Hua, and Ming Zhang. [CLEAR: Cluster-enhanced Contrast for Self-supervised Graph Representation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9791433). TNNLS'2022. <span style="color:red">CCF-B, JCR Q1, IF=14.255</span>
 * **Wei Ju**<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Meng Qu, Yifan Wang, Chong Chen, Minghua Deng, Xian-Sheng Hua, and Ming Zhang. TGNN: A Joint Semi-supervised Framework for Graph-level Classification. To appear in IJCAI'2022. <span style="color:red">CCF-A</span>
@@ -59,4 +63,7 @@ Honors and Awards
 
 Program Committee Member and Reviewer
 =====
-TNNLS, ECCV2022, IJCNN2022, etc.
+Journal:
+TNNLS, Knowledge-Based Systems (KBS), Signal Processing (SP), etc.
+Conference:
+AAAI2023, ECCV2022, IJCNN2022, ICONIP2022, etc.
