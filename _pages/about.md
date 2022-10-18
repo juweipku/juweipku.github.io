@@ -39,7 +39,8 @@ Research interests
 Publications
 =====
 (\* Equal Contribution)
-Yifang Qin, Yifan Wang, Fang Sun, **Wei Ju**, Xuyang Hou, Zhe Wang, Jia Cheng, Jun Lei and Ming Zhang. DisenPOI: Disentangling Sequential and Geographical Influence for Point-of-Interest Recommendation. To appear in WSDM 2023. <span style="color:red">CCF-B</span>
+
+* Yifang Qin, Yifan Wang, Fang Sun, **Wei Ju**, Xuyang Hou, Zhe Wang, Jia Cheng, Jun Lei and Ming Zhang. DisenPOI: Disentangling Sequential and Geographical Influence for Point-of-Interest Recommendation. To appear in WSDM 2023. <span style="color:red">CCF-B</span>
 * Yiping Song, **Wei Ju**, Zhiliang Tian, Luchen Liu, Ming Zhang, and Zheng Xie. [Building Conversational Diagnosis Systems for Fine-grained Diseases using Few Annotated Data](../files/ICONIP-22.pdf). To appear in ICONIP'2022. <span style="color:red">CCF-C</span>
 * **Wei Ju**<sup>\*</sup>, Yifang Qin<sup>\*</sup>, Ziyue Qiao, Xiao Luo, Yifan Wang, Yanjie Fu, and Ming Zhang. [Kernel-based Substructure Exploration for Next POI Recommendation](https://arxiv.org/pdf/2210.03969.pdf). To appear in ICDM'2022. <span style="color:red">CCF-B</span>
 * Zeyu Ma<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Xiao Luo, Chong Chen, Xian-Sheng Hua, and Guangming Lu. [Improved Deep Unsupervised Hashing via Prototypical Learning](../files/MM_PURPLE.pdf). To appear in ACMMM'2022. <span style="color:red">CCF-A</span>
