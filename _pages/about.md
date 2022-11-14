@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Wei Ju (琚玮) is currently a postdoc research fellow in Computer Science at Peking University. Prior to that, he received his Ph.D. degree in Computer Science from Peking University in June 2022, under the supervision of Prof. [Ming Zhang](http://net.pku.edu.cn/dlib/mzhang/). His current research interests lie primarily in the area of machine learning on graphs including graph neural networks and graph representation learning, and interdisciplinary applications such as drug discovery.
+Wei Ju (琚玮) is currently a postdoc research fellow in Computer Science at Peking University. Prior to that, he received his Ph.D. degree in Computer Science from Peking University in June 2022, under the supervision of Prof. [Ming Zhang](http://net.pku.edu.cn/dlib/mzhang/). His current research interests lie primarily in the area of machine learning on graphs including graph representation learning and graph neural networks, and interdisciplinary applications such as drug discovery and recommender systems.
 
 <!-- I have also been closely working with Prof. [Jian Tang](https://jian-tang.com/), who is my supervior at [Mila](https://mila.quebec/en/) during Sept. 2018 - Sept. 2019. -->
 
@@ -37,6 +37,10 @@ Research interests
 * Oct. 2021: One paper has been accepted by ICONIP'2021!!
 * Sept. 2021: One paper has been accepted by ICTAI'2021!!
 * Aug. 2021: One paper has been accepted by ICDE'2022!!
+
+Preprints
+=====
+* **Wei Ju**<sup>\*</sup>, Yiyang Gu<sup>\*</sup>, Binqi Chen, Gongbo Sun, Yifang Qin, Xingyuming Liu, Xiao Luo, Ming Zhang. [GLCC: A General Framework for Graph-level Clustering](https://arxiv.org/pdf/2210.11879.pdf).
 
 Publications
 =====
@@ -70,7 +74,10 @@ Honors and Awards
 Program Committee Member and Reviewer
 =====
 Journal:
-* IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Knowledge-Based Systems (KBS), Signal Processing (SP), etc.
+* IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+* Knowledge-Based Systems (KBS)
+* Signal Processing (SP)
 
 Conference:
-* AAAI2023, ECCV2022, IJCNN2022, ICONIP2022, etc.
+* 2023: AAAI 
+* 2022: ECCV, IJCNN, ICONIP
