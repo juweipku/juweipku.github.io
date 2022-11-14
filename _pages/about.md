@@ -18,11 +18,13 @@ Research interests
 * Deep Learning, Data Mining
 * Graph Representation Learning, Graph Neural Networks
 * Deep Generative Model, Drug Discovery
+* Recommender Systems
 * Contrastive Learning, Semi-supervised Learning
 
 <span style="color:red">What’s New</span>
 =====
 
+* Nov. 2022: One paper has been accepted by Neural Networks'2023!!
 * Oct. 2022: One paper has been accepted by WSDM'2023!!
 * Sept. 2022: One paper has been accepted by ICONIP'2022!!
 * Sept. 2022: One paper has been accepted by ICDM'2022!!
@@ -40,10 +42,11 @@ Publications
 =====
 (\* Equal Contribution)
 
-* Yifang Qin, Yifan Wang, Fang Sun, **Wei Ju**, Xuyang Hou, Zhe Wang, Jia Cheng, Jun Lei and Ming Zhang. DisenPOI: Disentangling Sequential and Geographical Influence for Point-of-Interest Recommendation. To appear in WSDM 2023. <span style="color:red">CCF-B</span>
+* **Wei Ju**<sup>\*</sup>, Yiyang Gu<sup>\*</sup>, Xiao Luo, Yifan Wang, Haochen Yuan, Huasong Zhong and Ming Zhang. Unsupervised Graph-level Representation Learning with Hierarchical Contrasts. Neural Networks'2023. <span style="color:red">CCF-B, JCR Q1, IF=9.657</span>
+* Yifang Qin, Yifan Wang, Fang Sun, **Wei Ju**, Xuyang Hou, Zhe Wang, Jia Cheng, Jun Lei and Ming Zhang. [DisenPOI: Disentangling Sequential and Geographical Influence for Point-of-Interest Recommendation](https://arxiv.org/pdf/2210.16591.pdf). To appear in WSDM 2023. <span style="color:red">CCF-B</span>
 * Yiping Song, **Wei Ju**, Zhiliang Tian, Luchen Liu, Ming Zhang, and Zheng Xie. [Building Conversational Diagnosis Systems for Fine-grained Diseases using Few Annotated Data](../files/ICONIP-22.pdf). To appear in ICONIP'2022. <span style="color:red">CCF-C</span>
-* **Wei Ju**<sup>\*</sup>, Yifang Qin<sup>\*</sup>, Ziyue Qiao, Xiao Luo, Yifan Wang, Yanjie Fu, and Ming Zhang. [Kernel-based Substructure Exploration for Next POI Recommendation](https://arxiv.org/pdf/2210.03969.pdf). To appear in ICDM'2022. <span style="color:red">CCF-B</span>
-* Zeyu Ma<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Xiao Luo, Chong Chen, Xian-Sheng Hua, and Guangming Lu. [Improved Deep Unsupervised Hashing via Prototypical Learning](../files/MM_PURPLE.pdf). To appear in ACMMM'2022. <span style="color:red">CCF-A</span>
+* **Wei Ju**<sup>\*</sup>, Yifang Qin<sup>\*</sup>, Ziyue Qiao, Xiao Luo, Yifan Wang, Yanjie Fu, and Ming Zhang. [Kernel-based Substructure Exploration for Next POI Recommendation](https://arxiv.org/pdf/2210.03969.pdf). ICDM'2022. <span style="color:red">CCF-B</span>
+* Zeyu Ma<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Xiao Luo, Chong Chen, Xian-Sheng Hua, and Guangming Lu. [Improved Deep Unsupervised Hashing via Prototypical Learning](../files/MM_PURPLE.pdf). ACMMM'2022. <span style="color:red">CCF-A</span>
 * Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Meng Qu, Yiyang Gu, Chong Chen, Minghua Deng, Xian-Sheng Hua, and Ming Zhang. [CLEAR: Cluster-enhanced Contrast for Self-supervised Graph Representation Learning](../files/TNNLS_CLEAR.pdf). TNNLS'2022. <span style="color:red">CCF-B, JCR Q1, IF=14.255</span>
 * **Wei Ju**<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Meng Qu, Yifan Wang, Chong Chen, Minghua Deng, Xian-Sheng Hua, and Ming Zhang. [TGNN: A Joint Semi-supervised Framework for Graph-level Classification](https://www.ijcai.org/proceedings/2022/0295.pdf). IJCAI'2022. <span style="color:red">CCF-A</span>
 * **Wei Ju**<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Zequ Ma, Junwei Yang, Minghua Deng, and Ming Zhang. [GHNN: Graph Harmonic Neural Networks for Semi-supervised Graph-level Classification](../files/NN_GHNN.pdf). Neural Networks'2022. <span style="color:red">CCF-B, JCR Q1, IF=9.657</span>
