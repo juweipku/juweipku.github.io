@@ -7,6 +7,8 @@ author_profile: true
 
 <!-- You can also find my articles on <u><a href="https://scholar.google.com/citations?user=pppQSXgAAAAJ&hl=en">my Google Scholar profile</a>.</u> -->
 (\* Equal Contribution)
+
+* **Wei Ju**<sup>\*</sup>, Yiyang Gu<sup>\*</sup>, Binqi Chen, Gongbo Sun, Yifang Qin, Xingyuming Liu, Xiao Luo, Ming Zhang. [GLCC: A General Framework for Graph-level Clustering](https://arxiv.org/pdf/2210.11879.pdf). AAAI'2023. <span style="color:red">CCF-A</span>
 * **Wei Ju**<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Meng Qu, Yifan Wang, Chong Chen, Minghua Deng, Xian-Sheng Hua, and Ming Zhang. [TGNN: A Joint Semi-supervised Framework for Graph-level Classification](https://www.ijcai.org/proceedings/2022/0295.pdf). IJCAI'2022. <span style="color:red">CCF-A</span>
 * **Wei Ju**, Junwei Yang, Meng Qu, Weiping Song, Jianhao Shen, and Ming Zhang. [KGNN: Harnessing Kernel-based Networks for Semi-supervised Graph Classification](https://arxiv.org/pdf/2205.10550.pdf). WSDM'2022. <span style="color:red">CCF-B</span>
 * **Wei Ju**<sup>\*</sup>, Yifang Qin<sup>\*</sup>, Ziyue Qiao, Xiao Luo, Yifan Wang, Yanjie Fu, and Ming Zhang. [Kernel-based Substructure Exploration for Next POI Recommendation](https://arxiv.org/pdf/2210.03969.pdf). ICDM'2022. <span style="color:red">CCF-B</span>
