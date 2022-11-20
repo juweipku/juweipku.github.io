@@ -24,20 +24,20 @@ Research interests
 <span style="color:red">What’s New</span>
 =====
 
-* **2022-11**: One paper has been accepted by **AAAI 2023**!!
-* Nov. 2022: One paper has been accepted by Neural Networks'2023!!
-* Oct. 2022: One paper has been accepted by WSDM'2023!!
-* Sept. 2022: One paper has been accepted by ICONIP'2022!!
-* Sept. 2022: One paper has been accepted by ICDM'2022!!
-* Jun. 2022: One paper has been accepted by ACMMM'2022!!
-* May. 2022: One paper has been accepted by TNNLS'2022!!
-* Apr. 2022: One paper has been accepted by IJCAI'2022!!
-* Mar. 2022: One paper has been accepted by Neural Networks'2022!!
-* Dec. 2021: One paper has been accepted by AAAI'2022!!
-* Oct. 2021: One paper has been accepted by WSDM'2022!!
-* Oct. 2021: One paper has been accepted by ICONIP'2021!!
-* Sept. 2021: One paper has been accepted by ICTAI'2021!!
-* Aug. 2021: One paper has been accepted by ICDE'2022!!
+* **2022-11**: One paper has been accepted by **AAAI 2023** !!
+* **2022-11**: One paper has been accepted by **Neural Networks 2023 !!
+* **2022-10**: One paper has been accepted by **WSDM 2023 !!
+* **2022-9**: One paper has been accepted by **ICONIP 2022 !!
+* **2022-9**: One paper has been accepted by **ICDM 2022** !!
+* **2022-6**: One paper has been accepted by **ACMMM 2022** !!
+* **2022-5**: One paper has been accepted by **TNNLS 2022 !!**
+* **2022-4**: One paper has been accepted by **IJCAI 2022 !!**
+* **2022-3**: One paper has been accepted by **Neural Networks 2022 !!**
+* **2021-12**: One paper has been accepted by **AAAI 2022 !!**
+* **2021-10**: One paper has been accepted by **WSDM 2022 !!**
+* **2021-10**: One paper has been accepted by **ICONIP 2021** !!
+* **2021-9**: One paper has been accepted by **ICTAI 2021** !!
+* **2021-8**: One paper has been accepted by **ICDE 2022** !!
 
 <!-- Preprints
 =====
