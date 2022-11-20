@@ -24,20 +24,20 @@ Research interests
 <span style="color:red">What’s New</span>
 =====
 
-* **2022-11**: One paper has been accepted by **AAAI 2023** !!
-* **2022-11**: One paper has been accepted by **Neural Networks 2023** !!
-* **2022-10**: One paper has been accepted by **WSDM 2023** !!
-* **2022-9**: One paper has been accepted by **ICONIP 2022** !!
-* **2022-9**: One paper has been accepted by **ICDM 2022** !!
-* **2022-6**: One paper has been accepted by **ACMMM 2022** !!
-* **2022-5**: One paper has been accepted by **TNNLS 2022** !!
-* **2022-4**: One paper has been accepted by **IJCAI 2022** !!
-* **2022-3**: One paper has been accepted by **Neural Networks 2022** !!
-* **2021-12**: One paper has been accepted by **AAAI 2022** !!
-* **2021-10**: One paper has been accepted by **WSDM 2022** !!
-* **2021-10**: One paper has been accepted by **ICONIP 2021** !!
-* **2021-9**: One paper has been accepted by **ICTAI 2021** !!
-* **2021-8**: One paper has been accepted by **ICDE 2022** !!
+* **2022-11**: One paper has been accepted by ***AAAI 2023*** !!
+* **2022-11**: One paper has been accepted by ***Neural Networks 2023*** !!
+* **2022-10**: One paper has been accepted by ***WSDM 2023*** !!
+* **2022-9**: One paper has been accepted by ***ICONIP 2022*** !!
+* **2022-9**: One paper has been accepted by ***ICDM 2022*** !!
+* **2022-6**: One paper has been accepted by ***ACMMM 2022*** !!
+* **2022-5**: One paper has been accepted by ***TNNLS 2022*** !!
+* **2022-4**: One paper has been accepted by ***IJCAI 2022*** !!
+* **2022-3**: One paper has been accepted by ***Neural Networks 2022*** !!
+* **2021-12**: One paper has been accepted by ***AAAI 2022*** !!
+* **2021-10**: One paper has been accepted by ***WSDM 2022*** !!
+* **2021-10**: One paper has been accepted by ***ICONIP 2021*** !!
+* **2021-9**: One paper has been accepted by ***ICTAI 2021*** !!
+* **2021-8**: One paper has been accepted by ***ICDE 2022*** !!
 
 <!-- Preprints
 =====
@@ -47,7 +47,7 @@ Publications
 =====
 (\* Equal Contribution)
 
-* **Wei Ju**<sup>\*</sup>, Yiyang Gu<sup>\*</sup>, Binqi Chen, Gongbo Sun, Yifang Qin, Xingyuming Liu, Xiao Luo, Ming Zhang. [GLCC: A General Framework for Graph-level Clustering](https://arxiv.org/pdf/2210.11879.pdf). AAAI 2023. <span style="color:red">CCF-A</span>
+* **Wei Ju**<sup>\*</sup>, Yiyang Gu<sup>\*</sup>, Binqi Chen, Gongbo Sun, Yifang Qin, Xingyuming Liu, Xiao Luo, Ming Zhang. [GLCC: A General Framework for Graph-level Clustering](https://arxiv.org/pdf/2210.11879.pdf). ***AAAI 2023. <span style="color:red">CCF-A</span>***
 * **Wei Ju**<sup>\*</sup>, Yiyang Gu<sup>\*</sup>, Xiao Luo, Yifan Wang, Haochen Yuan, Huasong Zhong and Ming Zhang. Unsupervised Graph-level Representation Learning with Hierarchical Contrasts. Neural Networks 2023. <span style="color:red">CCF-B, JCR Q1, IF=9.657</span>
 * Yifang Qin, Yifan Wang, Fang Sun, **Wei Ju**, Xuyang Hou, Zhe Wang, Jia Cheng, Jun Lei and Ming Zhang. [DisenPOI: Disentangling Sequential and Geographical Influence for Point-of-Interest Recommendation](https://arxiv.org/pdf/2210.16591.pdf). WSDM 2023. <span style="color:red">CCF-B</span>
 * Yiping Song, **Wei Ju**, Zhiliang Tian, Luchen Liu, Ming Zhang, and Zheng Xie. [Building Conversational Diagnosis Systems for Fine-grained Diseases using Few Annotated Data](../files/ICONIP-22.pdf). ICONIP 2022. <span style="color:red">Oral, CCF-C</span>
