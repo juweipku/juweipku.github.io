@@ -24,7 +24,7 @@ Research interests
 <span style="color:red">What’s New</span>
 =====
 
-* Nov. 2022: One paper has been accepted by AAAI'2023!!
+* **2022-11**: One paper has been accepted by **AAAI 2023**!!
 * Nov. 2022: One paper has been accepted by Neural Networks'2023!!
 * Oct. 2022: One paper has been accepted by WSDM'2023!!
 * Sept. 2022: One paper has been accepted by ICONIP'2022!!
