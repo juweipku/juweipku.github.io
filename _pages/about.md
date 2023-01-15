@@ -24,6 +24,7 @@ Research interests
 <span style="color:red">What’s New</span>
 =====
 
+* **2022-11**: We win the ***<span style="color:orange">Best Paper Finalist</span>*** in ***ICDM 2022*** !！
 * **2022-11**: One paper has been accepted by ***AAAI 2023*** !!
 * **2022-11**: One paper has been accepted by ***Neural Networks 2023*** !!
 * **2022-10**: One paper has been accepted by ***WSDM 2023*** !!
@@ -64,6 +65,7 @@ Publications
 
 Honors and Awards
 =====
+* Nov. 2022: **Best Paper Finalist**, ICDM
 * Dec. 2021: **Award for Scientific Research**, Peking University
 * Dec. 2020: **Huawei Scholarship**, Huawei Technologies Co., Ltd.
 * Dec. 2020: **Merit student**, Peking University
@@ -81,5 +83,5 @@ Journal:
 * Signal Processing (SP)
 
 Conference:
-* 2023: AAAI 
+* 2023: KDD, AAAI, IJCAI
 * 2022: ECCV, IJCNN, ICONIP
