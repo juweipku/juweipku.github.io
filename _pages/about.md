@@ -24,7 +24,7 @@ Research interests
 <span style="color:red">What’s New</span>
 =====
 
-* **2022-11**: We win the ***<span style="color:orange">Best Paper Finalist</span>*** in ***ICDM 2022*** !!!
+* **2022-11**: We win the ***<span style="color:orange">Best Paper Finalist</span>*** in ***ICDM 2022*** !!
 * **2022-11**: One paper has been accepted by ***AAAI 2023*** !!
 * **2022-11**: One paper has been accepted by ***Neural Networks 2023*** !!
 * **2022-10**: One paper has been accepted by ***WSDM 2023*** !!
