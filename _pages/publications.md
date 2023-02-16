@@ -18,12 +18,17 @@ author_profile: true
 * Zeyu Ma<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Xiao Luo, Chong Chen, Xian-Sheng Hua, and Guangming Lu. [Improved Deep Unsupervised Hashing via Prototypical Learning](../files/MM_PURPLE.pdf). ***ACMMM 2022, <span style="color:red">CCF-A</span>***
 * Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Meng Qu, Yiyang Gu, Chong Chen, Minghua Deng, Xian-Sheng Hua, and Ming Zhang. [CLEAR: Cluster-enhanced Contrast for Self-supervised Graph Representation Learning](../files/TNNLS_CLEAR.pdf). ***TNNLS 2022, <span style="color:red">CCF-B, JCR Q1, IF=14.255</span>***
 * Yiping Song, **Wei Ju**, Zhiliang Tian, Luchen Liu, Ming Zhang, and Zheng Xie. [Building Conversational Diagnosis Systems for Fine-grained Diseases using Few Annotated Data](../files/ICONIP-22.pdf). ***ICONIP 2022, <span style="color:red">CCF-C</span>, <span style="color:orange">Oral Representation</span>***
+* Yusheng Zhao<sup>\*</sup>, Xiao Luo<sup>\*</sup>, **Wei Ju**, Chong Chen, Xian-Sheng Hua, and Ming Zhang. Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting. ***ICDE 2023, <span style="color:red">CCF-A</span>***
 * Yifan Wang, Yiping Song, Shuai Li, Chaoran Cheng, **Wei Ju**, Ming Zhang, and Sheng Wang. [DisenCite: Graph-based Disentangled Representation Learning for Context-specific Citation Generation](https://www.aaai.org/AAAI22Papers/AAAI-8309.WangY.pdf). ***AAAI 2022, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation</span>***
 * Yifang Qin, Yifan Wang, Fang Sun, **Wei Ju**, Xuyang Hou, Zhe Wang, Jia Cheng, Jun Lei and Ming Zhang. [DisenPOI: Disentangling Sequential and Geographical Influence for Point-of-Interest Recommendation](https://arxiv.org/pdf/2210.16591.pdf). ***WSDM 2023, <span style="color:red">CCF-B</span>***
+* Jingyang Yuan<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Yifang Qin, Yusheng Zhao, **Wei Ju**, and Ming Zhang. Learning on Graphs under Label Noise. ***ICASSP 2023, <span style="color:red">CCF-B</span>***
 * Weinan Wang, Yuhang Guo, **Wei Ju**, Xiao Luo, and Minghua Deng. [An Interpretation of Convolutional Neural Networks for Motif Finding from the View of Probability](../files/ICTAI-21.pdf). ***ICTAI 2021, <span style="color:red">CCF-C</span>***
 * Xiao Luo, Yuhang Guo, Zeyu Ma, Tao Li, **Wei Ju**, Chong Chen, and Minghua Deng. [Deep Supervised Hashing by Classification For Image Retrieval](../files/ICONIP-21.pdf). ***ICONIP 2021, <span style="color:red">CCF-C</span>***
 
 
+
 Corresponding Author
 =====
+* Yusheng Zhao<sup>\*</sup>, Xiao Luo<sup>\*</sup>, **Wei Ju**, Chong Chen, Xian-Sheng Hua, and Ming Zhang. Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting. ***ICDE 2023, <span style="color:red">CCF-A</span>***
 * Yifang Qin, Yifan Wang, Fang Sun, **Wei Ju**, Xuyang Hou, Zhe Wang, Jia Cheng, Jun Lei and Ming Zhang. [DisenPOI: Disentangling Sequential and Geographical Influence for Point-of-Interest Recommendation](https://arxiv.org/pdf/2210.16591.pdf). ***WSDM 2023, <span style="color:red">CCF-B</span>***
+* Jingyang Yuan<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Yifang Qin, Yusheng Zhao, **Wei Ju**, and Ming Zhang. Learning on Graphs under Label Noise. ***ICASSP 2023, <span style="color:red">CCF-B</span>***
