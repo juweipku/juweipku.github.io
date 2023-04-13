@@ -24,6 +24,7 @@ Research interests
 <span style="color:red">What’s New</span>
 =====
 
+* **2023-3**: One paper has been accepted by ***Neural Networks 2023*** !!
 * **2023-2**: One paper has been accepted by ***ICASSP 2023*** !!
 * **2023-2**: One paper has been accepted by ***ICDE 2023*** !!
 * **2022-11**: We win the ***<span style="color:orange">Best Paper Finalist</span>*** in ***ICDM 2022*** !!
@@ -50,6 +51,7 @@ Publications
 =====
 (\* Equal Contribution)
 
+* **Wei Ju**<sup>\*</sup>, Zequn Liu<sup>\*</sup>, Yifang Qin, Bin Feng, Chen Wang, Zhihui Guo, Xiao Luo and Ming Zhang. [Few-shot Molecular Property Prediction via Hierarchically Structured Learning on Relation Graphs](../files/NN_HSL-RG.pdf). ***Neural Networks 2023, <span style="color:red">CCF-B, JCR Q1, IF=9.657</span>***
 * Jingyang Yuan<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Yifang Qin, Yusheng Zhao, **Wei Ju**, and Ming Zhang. [Learning on Graphs under Label Noise](../files/ICASSP_CGNN.pdf). ***ICASSP 2023, <span style="color:red">CCF-B</span>, <span style="color:orange">Corresponding Author</span>***
 * Yusheng Zhao<sup>\*</sup>, Xiao Luo<sup>\*</sup>, **Wei Ju**, Chong Chen, Xian-Sheng Hua, and Ming Zhang. [Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting](../files/ICDE23_DyHSL.pdf). ***ICDE 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 * **Wei Ju**<sup>\*</sup>, Yiyang Gu<sup>\*</sup>, Binqi Chen, Gongbo Sun, Yifang Qin, Xingyuming Liu, Xiao Luo, Ming Zhang. [GLCC: A General Framework for Graph-level Clustering](https://arxiv.org/pdf/2210.11879.pdf). ***AAAI 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation</span>***
@@ -83,9 +85,10 @@ Program Committee Member and Reviewer
 =====
 Journal:
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+* ACM Transactions on Knowledge Discovery from Data
 * Knowledge-Based Systems (KBS)
 * Signal Processing (SP)
 
 Conference:
-* 2023: KDD, AAAI, IJCAI, SIGIR
+* 2023: NeurIPS, KDD, AAAI, IJCAI, SIGIR
 * 2022: ECCV, IJCNN, ICONIP
