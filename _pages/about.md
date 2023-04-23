@@ -87,7 +87,7 @@ Program Committee Member and Reviewer
 =====
 Journal:
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-* ACM Transactions on Knowledge Discovery from Data
+* ACM Transactions on Knowledge Discovery from Data (TKDD)
 * Knowledge-Based Systems (KBS)
 * Signal Processing (SP)
 
