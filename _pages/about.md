@@ -43,9 +43,11 @@ Research interests
 * **2021-9**: One paper has been accepted by ***ICTAI 2021*** !!
 * **2021-8**: One paper has been accepted by ***ICDE 2022*** !!
 
-<!-- Preprints
+Preprints
 =====
-* **Wei Ju**<sup>\*</sup>, Yiyang Gu<sup>\*</sup>, Binqi Chen, Gongbo Sun, Yifang Qin, Xingyuming Liu, Xiao Luo, Ming Zhang. [GLCC: A General Framework for Graph-level Clustering](https://arxiv.org/pdf/2210.11879.pdf). -->
+* Wei Ju, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Xiao Luo, Ming Zhang. [A Comprehensive Survey on Deep Graph Representation Learning](https://arxiv.org/pdf/2304.05055.pdf).
+* Yifang Qin<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Hongjun Wu, Xiao Luo, Ming Zhang. [Learning Graph ODE for Continuous-Time Sequential Recommendation](https://arxiv.org/pdf/2304.07042.pdf).
+* Yifang Qin, Hongjun Wu, **Wei Ju**, Xiao Luo, Ming Zhang. [A Diffusion model for POI recommendation](https://arxiv.org/pdf/2304.07041.pdf).
 
 Publications
 =====
@@ -90,5 +92,5 @@ Journal:
 * Signal Processing (SP)
 
 Conference:
-* 2023: NeurIPS, KDD, AAAI, IJCAI, SIGIR
+* 2023: NeurIPS, KDD, AAAI, IJCAI, SIGIR, ACMMM
 * 2022: ECCV, IJCNN, ICONIP
