@@ -45,7 +45,7 @@ Research interests
 
 Preprints
 =====
-* Wei Ju, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Xiao Luo, Ming Zhang. [A Comprehensive Survey on Deep Graph Representation Learning](https://arxiv.org/pdf/2304.05055.pdf).
+* **Wei Ju**, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Xiao Luo, Ming Zhang. [A Comprehensive Survey on Deep Graph Representation Learning](https://arxiv.org/pdf/2304.05055.pdf).
 * Yifang Qin<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Hongjun Wu, Xiao Luo, Ming Zhang. [Learning Graph ODE for Continuous-Time Sequential Recommendation](https://arxiv.org/pdf/2304.07042.pdf).
 * Yifang Qin, Hongjun Wu, **Wei Ju**, Xiao Luo, Ming Zhang. [A Diffusion model for POI recommendation](https://arxiv.org/pdf/2304.07041.pdf).
 
