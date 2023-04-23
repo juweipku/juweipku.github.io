@@ -30,6 +30,6 @@ author_profile: true
 
 Corresponding Author
 =====
-* Yusheng Zhao<sup>\*</sup>, Xiao Luo<sup>\*</sup>, **Wei Ju**, Chong Chen, Xian-Sheng Hua, and Ming Zhang. [Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting](../files/ICDE23_DyHSL.pdf). ***ICDE 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+* Yusheng Zhao<sup>\*</sup>, Xiao Luo<sup>\*</sup>, **Wei Ju**, Chong Chen, Xian-Sheng Hua, and Ming Zhang. [Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting](../files/ICDE23_DyHSL.pdf). ***ICDE 2023, <span style="color:red">CCF-A</span>***
 * Yifang Qin, Yifan Wang, Fang Sun, **Wei Ju**, Xuyang Hou, Zhe Wang, Jia Cheng, Jun Lei and Ming Zhang. [DisenPOI: Disentangling Sequential and Geographical Influence for Point-of-Interest Recommendation](https://arxiv.org/pdf/2210.16591.pdf). ***WSDM 2023, <span style="color:red">CCF-B</span>***
-* Jingyang Yuan<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Yifang Qin, Yusheng Zhao, **Wei Ju**, and Ming Zhang. [Learning on Graphs under Label Noise](../files/ICASSP_CGNN.pdf). ***ICASSP 2023, <span style="color:red">CCF-B</span>, <span style="color:orange">Corresponding Author</span>***
+* Jingyang Yuan<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Yifang Qin, Yusheng Zhao, **Wei Ju**, and Ming Zhang. [Learning on Graphs under Label Noise](../files/ICASSP_CGNN.pdf). ***ICASSP 2023, <span style="color:red">CCF-B</span>***
