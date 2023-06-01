@@ -56,7 +56,7 @@ Publications
 (\* Equal Contribution)
 
 * Xiao Luo<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Yifang Qin<sup>\*</sup>, **Wei Ju**, Ming Zhang. Towards Semi-supervised Universal Graph Classification. ***TKDE 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
-* Xiao Luo<sup>\*</sup>, Jingyang Yuan<sup>\*</sup>, Zijie Huang, Huiyu Jiang, Yifang Qin, **Wei Ju**, Ming Zhang, Yizhou Sun. HOPE: High-order Graph ODE For Modeling Interacting Dynamics. ***ICML 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+* Xiao Luo, Jingyang Yuan, Zijie Huang, Huiyu Jiang, Yifang Qin, **Wei Ju**, Ming Zhang, Yizhou Sun. HOPE: High-order Graph ODE For Modeling Interacting Dynamics. ***ICML 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 * **Wei Ju**<sup>\*</sup>, Zequn Liu<sup>\*</sup>, Yifang Qin, Bin Feng, Chen Wang, Zhihui Guo, Xiao Luo and Ming Zhang. [Few-shot Molecular Property Prediction via Hierarchically Structured Learning on Relation Graphs](../files/NN_HSL-RG.pdf). ***Neural Networks 2023, <span style="color:red">CCF-B, JCR Q1, IF=9.657</span>***
 * Jingyang Yuan<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Yifang Qin, Yusheng Zhao, **Wei Ju**, and Ming Zhang. [Learning on Graphs under Label Noise](../files/ICASSP_CGNN.pdf). ***ICASSP 2023, <span style="color:red">CCF-B</span>, <span style="color:orange">Corresponding Author</span>***
 * Yusheng Zhao<sup>\*</sup>, Xiao Luo<sup>\*</sup>, **Wei Ju**, Chong Chen, Xian-Sheng Hua, and Ming Zhang. [Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting](../files/ICDE23_DyHSL.pdf). ***ICDE 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
@@ -93,6 +93,7 @@ Journal:
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 * ACM Transactions on Knowledge Discovery from Data (TKDD)
+* Transactions on Machine Learning Research (TMLR)
 * Knowledge-Based Systems (KBS)
 * Signal Processing (SP)
 
