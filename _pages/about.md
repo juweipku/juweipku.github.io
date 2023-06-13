@@ -94,6 +94,7 @@ Journal:
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 * ACM Transactions on Knowledge Discovery from Data (TKDD)
 * Transactions on Machine Learning Research (TMLR)
+* Information Fusion (IF)
 * Knowledge-Based Systems (KBS)
 * Signal Processing (SP)
 
