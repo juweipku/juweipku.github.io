@@ -92,6 +92,7 @@ Program Committee Member and Reviewer
 Journal:
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+* IEEE Transactions on Cognitive and Developmental Systems (TCDS)
 * ACM Transactions on Knowledge Discovery from Data (TKDD)
 * Transactions on Machine Learning Research (TMLR)
 * Information Fusion (IF)
