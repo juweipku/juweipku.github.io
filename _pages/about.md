@@ -75,6 +75,10 @@ Publications
 * Xiao Luo, Yuhang Guo, Zeyu Ma, Tao Li, **Wei Ju**, Chong Chen, and Minghua Deng. [Deep Supervised Hashing by Classification For Image Retrieval](../files/ICONIP-21.pdf). ***ICONIP 2021, <span style="color:red">CCF-C</span>***
 * Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Meng Qu, Chong Chen, Minghua Deng, Xian-Sheng Hua, and Ming Zhang. [DualGraph: Improving Semi-supervised Graph Classification via Dual Contrastive Learning](../files/ICDE_DualGraph.pdf). ***ICDE 2022, <span style="color:red">CCF-A</span>, <span style="color:orange">Early Accept</span>***
 
+Funds and Projects
+=====
+* China Postdoctoral Science Foundation Funded Project
+
 Honors and Awards
 =====
 * Nov. 2022: **Best Paper Finalist**, ICDM
