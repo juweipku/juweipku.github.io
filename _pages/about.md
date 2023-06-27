@@ -24,6 +24,7 @@ Research interests
 <span style="color:red">What’s New</span>
 =====
 
+* **2023-6**: I am honored to be appointed as an ***<span style="color:orange">Academic Editor</span>*** of ***PLOS ONE*** !!
 * **2023-5**: One paper has been accepted by ***TKDE 2023*** !!
 * **2023-4**: One paper has been accepted by ***ICML 2023*** !!
 * **2023-3**: One paper has been accepted by ***Neural Networks 2023*** !!
