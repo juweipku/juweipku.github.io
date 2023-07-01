@@ -101,6 +101,7 @@ Journal:
 * ACM Transactions on Knowledge Discovery from Data (TKDD)
 * Transactions on Machine Learning Research (TMLR)
 * Information Fusion (IF)
+* Neural Networks (NN)
 * Knowledge-Based Systems (KBS)
 * Signal Processing (SP)
 
