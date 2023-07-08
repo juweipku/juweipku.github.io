@@ -20,6 +20,8 @@ Research interests
 * Deep Generative Model, Drug Discovery
 * Recommender Systems
 * Contrastive Learning, Semi-supervised Learning
+* Knowledge Graph, Knowledge Graph Reasoning
+* Vision-Language Learning
 
 <span style="color:red">What’s New</span>
 =====
