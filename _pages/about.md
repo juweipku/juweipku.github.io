@@ -108,5 +108,5 @@ Journal:
 * Signal Processing (SP)
 
 Conference:
-* 2023: NeurIPS, KDD, AAAI, IJCAI, SIGIR, ACMMM, CIKM
+* 2023: NeurIPS, KDD, AAAI, IJCAI, SIGIR, ACMMM, CIKM, BMVC
 * 2022: ECCV, IJCNN, ICONIP
