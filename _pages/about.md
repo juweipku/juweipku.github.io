@@ -80,7 +80,7 @@ Publications
 
 Funds and Projects
 =====
-* China Postdoctoral Science Foundation Funded Project
+* China Postdoctoral Science Foundation Funded Project, **Principal Investigator**
 
 Honors and Awards
 =====
