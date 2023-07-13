@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Wei Ju (琚玮) is currently a postdoc research fellow in Computer Science at Peking University. Prior to that, he received his Ph.D. degree in Computer Science from Peking University in June 2022, under the supervision of Prof. [Ming Zhang](https://cs.pku.edu.cn/info/1080/1371.htm). His current research interests lie primarily in the area of machine learning on graphs including graph representation learning and graph neural networks, and interdisciplinary applications such as drug discovery and recommender systems.
+Wei Ju (琚玮) is currently a postdoc research fellow in Computer Science at Peking University. Prior to that, he received his Ph.D. degree in Computer Science from Peking University in June 2022, under the supervision of Prof. [Ming Zhang](https://cs.pku.edu.cn/info/1080/1371.htm). His current research interests lie primarily in the area of machine learning on graphs including graph representation learning and graph neural networks, and interdisciplinary applications such as knowledge graphs, drug discovery and recommender systems.
 
 <!-- I have also been closely working with Prof. [Jian Tang](https://jian-tang.com/), who is my supervior at [Mila](https://mila.quebec/en/) during Sept. 2018 - Sept. 2019. -->
 
