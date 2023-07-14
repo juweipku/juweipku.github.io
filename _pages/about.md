@@ -32,7 +32,7 @@ Research interests
 * **2023-3**: One paper has been accepted by ***Neural Networks 2023*** !!
 * **2023-2**: One paper has been accepted by ***ICASSP 2023*** !!
 * **2023-2**: One paper has been accepted by ***ICDE 2023*** !!
-* **2022-11**: We win the ***<span style="color:orange">Best Paper Finalist</span>*** in ***ICDM 2022*** !!
+* **2022-11**: 🏆 We win the ***<span style="color:orange">Best Paper Finalist</span>*** in ***ICDM 2022*** !!
 * **2022-11**: One paper has been accepted by ***AAAI 2023*** !!
 * **2022-11**: One paper has been accepted by ***Neural Networks 2023*** !!
 * **2022-10**: One paper has been accepted by ***WSDM 2023*** !!
@@ -71,7 +71,7 @@ International Joint Conference on Artificial Intelligence <br>
 1.  *Kernel-based Substructure Exploration for Next POI Recommendation* [[Paper](https://arxiv.org/pdf/2210.03969.pdf)] <br>
 **Wei Ju**<sup>\*</sup>, Yifang Qin<sup>\*</sup>, Ziyue Qiao, Xiao Luo, Yifan Wang, Yanjie Fu, and Ming Zhang <br>
 IEEE International Conference on Data Mining <br>
-***ICDM 2022, <span style="color:red">CCF-B</span>, <span style="color:orange">Best Paper Finalist</span>***
+***ICDM 2022, <span style="color:red">CCF-B</span>, 🏆 <span style="color:orange">Best Paper Finalist</span>***
 
 1.  *KGNN: Harnessing Kernel-based Networks for Semi-supervised Graph Classification* [[Paper](https://arxiv.org/pdf/2205.10550.pdf)] <br>
 **Wei Ju**, Junwei Yang, Meng Qu, Weiping Song, Jianhao Shen, and Ming Zhang <br>
