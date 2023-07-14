@@ -159,7 +159,7 @@ Funds and Projects
 
 Honors and Awards
 =====
-* Nov. 2022: **Best Paper Finalist**, ICDM
+* Nov. 2022: 🏆 **Best Paper Finalist**, ICDM
 * Dec. 2021: **Award for Scientific Research**, Peking University
 * Dec. 2020: **Huawei Scholarship**, Huawei Technologies Co., Ltd.
 * Dec. 2020: **Merit student**, Peking University
