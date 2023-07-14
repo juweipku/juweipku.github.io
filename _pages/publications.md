@@ -8,6 +8,11 @@ author_profile: true
 <!-- You can also find my articles on <u><a href="https://scholar.google.com/citations?user=pppQSXgAAAAJ&hl=en">my Google Scholar profile</a>.</u> -->
 (\* Equal Contribution)
 
+1.  *GLCC: A General Framework for Graph-level Clustering* [[Paper](https://arxiv.org/pdf/2210.11879.pdf)] <br>
+**Wei Ju**<sup>\*</sup>, Yiyang Gu<sup>\*</sup>, Binqi Chen, Gongbo Sun, Yifang Qin, Xingyuming Liu, Xiao Luo, Ming Zhang <br>
+Thirty-Seventh AAAI Conference on Artificial Intelligence <br>
+***AAAI 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation</span>***
+
 * **Wei Ju**<sup>\*</sup>, Yiyang Gu<sup>\*</sup>, Binqi Chen, Gongbo Sun, Yifang Qin, Xingyuming Liu, Xiao Luo, Ming Zhang. [GLCC: A General Framework for Graph-level Clustering](https://arxiv.org/pdf/2210.11879.pdf). ***AAAI 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation</span>***
 * **Wei Ju**<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Meng Qu, Yifan Wang, Chong Chen, Minghua Deng, Xian-Sheng Hua, and Ming Zhang. [TGNN: A Joint Semi-supervised Framework for Graph-level Classification](../files/IJCAI_TGNN.pdf). ***IJCAI 2022, <span style="color:red">CCF-A</span>***
 * **Wei Ju**<sup>\*</sup>, Yifang Qin<sup>\*</sup>, Ziyue Qiao, Xiao Luo, Yifan Wang, Yanjie Fu, and Ming Zhang. [Kernel-based Substructure Exploration for Next POI Recommendation](https://arxiv.org/pdf/2210.03969.pdf). ***ICDM 2022, <span style="color:red">CCF-B</span>, <span style="color:orange">Best Paper Finalist</span>***
