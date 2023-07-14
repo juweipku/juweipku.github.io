@@ -58,6 +58,12 @@ Publications
 =====
 (\* Equal Contribution)
 
+1.  *GLCC: A General Framework for Graph-level Clustering* [[Paper](https://arxiv.org/pdf/2210.11879.pdf)] <br>
+**Wei Ju**<sup>\*</sup>, Yiyang Gu<sup>\*</sup>, Binqi Chen, Gongbo Sun, Yifang Qin, Xingyuming Liu, Xiao Luo, Ming Zhang <br>
+Thirty-Seventh AAAI Conference on Artificial Intelligence <br>
+***AAAI 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation</span>***
+
+
 * Xiao Luo<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Yifang Qin<sup>\*</sup>, **Wei Ju**, Ming Zhang. [Towards Semi-supervised Universal Graph Classification](../files/TKDE-UGNN.pdf). ***TKDE 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 * Xiao Luo, Jingyang Yuan, Zijie Huang, Huiyu Jiang, Yifang Qin, **Wei Ju**, Ming Zhang, Yizhou Sun. HOPE: High-order Graph ODE For Modeling Interacting Dynamics. ***ICML 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 * **Wei Ju**<sup>\*</sup>, Zequn Liu<sup>\*</sup>, Yifang Qin, Bin Feng, Chen Wang, Zhihui Guo, Xiao Luo and Ming Zhang. [Few-shot Molecular Property Prediction via Hierarchically Structured Learning on Relation Graphs](../files/NN_HSL-RG.pdf). ***Neural Networks 2023, <span style="color:red">CCF-B, JCR Q1, IF=9.657</span>***
