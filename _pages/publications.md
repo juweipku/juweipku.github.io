@@ -60,7 +60,7 @@ Thirty-First International Joint Conference on Artificial Intelligence <br>
 1.  *Kernel-based Substructure Exploration for Next POI Recommendation* [[Paper](https://arxiv.org/pdf/2210.03969.pdf)][[Code](https://github.com/Fang6ang/KBGNN)] <br>
 **Wei Ju**<sup>\*</sup>, Yifang Qin<sup>\*</sup>, Ziyue Qiao, Xiao Luo, Yifan Wang, Yanjie Fu, and Ming Zhang <br>
 IEEE International Conference on Data Mining <br>
-***ICDM 2022, <span style="color:red">CCF-B</span>, <span style="color:orange">Best Paper Finalist</span>***
+***ICDM 2022, <span style="color:red">CCF-B</span>, 🏆 <span style="color:orange">Best Paper Finalist</span>***
 
 1.  *KGNN: Harnessing Kernel-based Networks for Semi-supervised Graph Classification* [[Paper](https://arxiv.org/pdf/2205.10550.pdf)] <br>
 **Wei Ju**, Junwei Yang, Meng Qu, Weiping Song, Jianhao Shen, and Ming Zhang <br>
