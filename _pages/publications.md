@@ -20,7 +20,7 @@ Thirty-Seventh AAAI Conference on Artificial Intelligence <br>
 Neural Networks <br>
 ***Neural Networks 2023, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
 
-1.  *Unsupervised Graph-level Representation Learning with Hierarchical Contrasts* [[Paper](../files/NN_HSL-RG.pdf)] <br>
+1.  *Unsupervised Graph-level Representation Learning with Hierarchical Contrasts* [[Paper](../files/NN-HGCL.pdf)] <br>
 **Wei Ju**<sup>\*</sup>, Zequn Liu<sup>\*</sup>, Yifang Qin, Bin Feng, Chen Wang, Zhihui Guo, Xiao Luo and Ming Zhang <br>
 Neural Networks <br>
 ***Neural Networks 2023, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
