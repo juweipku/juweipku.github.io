@@ -43,7 +43,7 @@ International Conference on Machine Learning <br>
 1.  *DisenPOI: Disentangling Sequential and Geographical Influence for Point-of-Interest Recommendation* [[Paper](https://arxiv.org/pdf/2210.16591.pdf)] <br>
 Yifang Qin<sup>\*</sup>, Yifan Wang<sup>\*</sup>, Fang Sun<sup>\*</sup>, **Wei Ju**, Xuyang Hou, Zhe Wang, Jia Cheng, Jun Lei, and Ming Zhang <br>
 ACM International Conference on Web Search and Data Mining <br>
-***WSDM 2023, <span style="color:red">CCF-B</span>***
+***WSDM 2023, <span style="color:red">CCF-B</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *Learning on Graphs under Label Noise* [[Paper](../files/ICASSP_CGNN.pdf)] <br>
 Jingyang Yuan<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Yifang Qin, Yusheng Zhao, **Wei Ju**, and Ming Zhang <br>
