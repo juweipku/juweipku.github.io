@@ -25,6 +25,11 @@ Neural Networks <br>
 Neural Networks <br>
 ***Neural Networks 2023, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
 
+1.  *RAHNet: Retrieval Augmented Hybrid Network for Long-tailed Graph Classification* [[Paper]()] <br>
+Zhengyang Mao<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yifang Qin, Xiao Luo, and Ming Zhang <br>
+ACM International Conference on Multimedia <br>
+***ACMMM 2023, <span style="color:red">CCF-A</span>***
+
 1.  *Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting* [[Paper](../files/ICDE23_DyHSL.pdf)] <br>
 Yusheng Zhao<sup>\*</sup>, Xiao Luo<sup>\*</sup>, **Wei Ju**, Chong Chen, Xian-Sheng Hua, and Ming Zhang <br>
 IEEE International Conference on Data Engineering <br>
@@ -34,6 +39,11 @@ IEEE International Conference on Data Engineering <br>
 Xiao Luo<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Yifang Qin<sup>\*</sup>, **Wei Ju**, and Ming Zhang <br>
 IEEE Transactions on Knowledge and Data Engineering <br>
 ***TKDE 2023, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>, <span style="color:orange">Corresponding Author</span>***
+
+1.  *ALEX: Towards Effective Graph Transfer Learning with Noisy Labels* [[Paper]()] <br>
+Jingyang Yuan<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Yifang Qin, Zhengyang Mao, **Wei Ju**, and Ming Zhang <br>
+ACM International Conference on Multimedia <br>
+***ACMMM 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *HOPE: High-order Graph ODE For Modeling Interacting Dynamics* [[Paper](../files/ICML23-HOPE.pdf)] <br>
 Xiao Luo, Jingyang Yuan, Zijie Huang, Huiyu Jiang, Yifang Qin, **Wei Ju**, Ming Zhang, and Yizhou Sun <br>
