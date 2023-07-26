@@ -25,6 +25,7 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
+* **2023-7**: Two papers have been accepted by ***ACMMM 2023*** !!
 * **2023-7**: I am honored to be appointed as an ***<span style="color:orange">Editorial Board Member</span>*** of ***Applied Research*** !!
 * **2023-6**: I am honored to be appointed as an ***<span style="color:orange">Academic Editor</span>*** of ***PLOS ONE*** !!
 * **2023-5**: One paper has been accepted by ***TKDE 2023*** !!
@@ -98,6 +99,11 @@ Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Meng Qu, Chong Chen, Minghua Den
 IEEE International Conference on Data Engineering <br>
 ***ICDE 2022, <span style="color:red">CCF-A</span>, <span style="color:orange">Early Accept</span>***
 
+1.  *RAHNet: Retrieval Augmented Hybrid Network for Long-tailed Graph Classification* [[Paper]()] <br>
+Zhengyang Mao<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yifang Qin, Xiao Luo, and Ming Zhang <br>
+ACM International Conference on Multimedia <br>
+***ACMMM 2023, <span style="color:red">CCF-A</span>***
+
 1.  *Improved Deep Unsupervised Hashing via Prototypical Learning* [[Paper](../files/MM_PURPLE.pdf)] <br>
 Zeyu Ma<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Xiao Luo, Chong Chen, Xian-Sheng Hua, and Guangming Lu <br>
 ACM International Conference on Multimedia <br>
@@ -122,6 +128,11 @@ IEEE International Conference on Data Engineering <br>
 Xiao Luo<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Yifang Qin<sup>\*</sup>, **Wei Ju**, and Ming Zhang <br>
 IEEE Transactions on Knowledge and Data Engineering <br>
 ***TKDE 2023, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>, <span style="color:orange">Corresponding Author</span>***
+
+1.  *ALEX: Towards Effective Graph Transfer Learning with Noisy Labels* [[Paper]()] <br>
+Jingyang Yuan<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Yifang Qin, Zhengyang Mao, **Wei Ju**, and Ming Zhang <br>
+ACM International Conference on Multimedia <br>
+***ACMMM 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *HOPE: High-order Graph ODE For Modeling Interacting Dynamics* [[Paper](../files/ICML23-HOPE.pdf)] <br>
 Xiao Luo, Jingyang Yuan, Zijie Huang, Huiyu Jiang, Yifang Qin, **Wei Ju**, Ming Zhang, and Yizhou Sun <br>
