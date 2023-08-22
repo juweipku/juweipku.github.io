@@ -192,6 +192,7 @@ Journal:
 * Neural Networks (NN)
 * Knowledge-Based Systems (KBS)
 * Signal Processing (SP)
+* PLOS ONE
 
 Conference:
 * 2024: AAAI, WSDM
