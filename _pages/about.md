@@ -29,8 +29,8 @@ Research interests
 * **2023-8**: Project supported by the ***<span style="color:orange">Young Scientists Fund of the National Natural Science Foundation of China</span>*** !!
 * **2023-8**: One paper has been accepted by ***TMLR 2023*** !!
 * **2023-7**: Two papers have been accepted by ***ACMMM 2023*** !!
-* **2023-7**: I am honored to be appointed as an ***<span style="color:orange">Editorial Board Member</span>*** of ***Applied Research*** !!
-* **2023-6**: I am honored to be appointed as an ***<span style="color:orange">Academic Editor</span>*** of ***PLOS ONE*** !!
+* **2023-7**: Honored to be appointed as an ***<span style="color:orange">Editorial Board Member</span>*** of ***Applied Research*** !!
+* **2023-6**: Honored to be appointed as an ***<span style="color:orange">Academic Editor</span>*** of ***PLOS ONE*** !!
 * **2023-6**: Project supported by the ***<span style="color:orange">China Postdoctoral Science Foundation</span>*** !!
 * **2023-5**: One paper has been accepted by ***TKDE 2023*** !!
 * **2023-4**: One paper has been accepted by ***ICML 2023*** !!
