@@ -18,7 +18,7 @@ Research interests
 * Deep Learning, Data Mining
 * Graph Representation Learning, Graph Neural Networks
 * Deep Generative Model, Drug Discovery
-* Recommender Systems
+* Recommender Systems, Drug/Medicine Recommendation
 * Contrastive Learning, Semi-supervised Learning
 * Knowledge Graph, Knowledge Graph Reasoning
 <!-- * Vision-Language Learning -->
@@ -26,10 +26,12 @@ Research interests
 <span style="color:red">What’s New</span>
 =====
 * **2023-8**: One paper has been accepted by ***TOIS 2023*** !!
+* **2023-8**: Project supported by the ***<span style="color:orange">Young Scientists Fund of the National Natural Science Foundation of China</span>*** !!
 * **2023-8**: One paper has been accepted by ***TMLR 2023*** !!
 * **2023-7**: Two papers have been accepted by ***ACMMM 2023*** !!
 * **2023-7**: I am honored to be appointed as an ***<span style="color:orange">Editorial Board Member</span>*** of ***Applied Research*** !!
 * **2023-6**: I am honored to be appointed as an ***<span style="color:orange">Academic Editor</span>*** of ***PLOS ONE*** !!
+* **2023-6**: Project supported by the ***<span style="color:orange">China Postdoctoral Science Foundation</span>*** !!
 * **2023-5**: One paper has been accepted by ***TKDE 2023*** !!
 * **2023-4**: One paper has been accepted by ***ICML 2023*** !!
 * **2023-3**: One paper has been accepted by ***Neural Networks 2023*** !!
@@ -181,8 +183,8 @@ International Conference on Neural Information Processing <br>
 
 Funds and Projects
 =====
-* China Postdoctoral Science Foundation Funded Project, **Principal Investigator**
 * Young Scientists Fund of the National Natural Science Foundation of China, **Principal Investigator**
+* China Postdoctoral Science Foundation Funded Project, **Principal Investigator**
 
 Honors and Awards
 =====
