@@ -32,7 +32,7 @@ ACM International Conference on Multimedia <br>
 
 1.  *A Diffusion model for POI recommendation* [[Paper](https://arxiv.org/pdf/2304.07041.pdf)] <br>
 Yifang Qin, Hongjun Wu, **Wei Ju**, Xiao Luo, and Ming Zhang <br>
-ACM Transactions on Information Systemsg <br>
+ACM Transactions on Information Systems <br>
 ***TOIS 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting* [[Paper](../files/ICDE23_DyHSL.pdf)] <br>
