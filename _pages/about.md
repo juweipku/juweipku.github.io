@@ -21,10 +21,12 @@ Research interests
 * Recommender Systems
 * Contrastive Learning, Semi-supervised Learning
 * Knowledge Graph, Knowledge Graph Reasoning
-* Vision-Language Learning
+<!-- * Vision-Language Learning -->
 
 <span style="color:red">What’s New</span>
 =====
+* **2023-8**: One paper has been accepted by ***TOIS 2023*** !!
+* **2023-8**: One paper has been accepted by ***TMLR 2023*** !!
 * **2023-7**: Two papers have been accepted by ***ACMMM 2023*** !!
 * **2023-7**: I am honored to be appointed as an ***<span style="color:orange">Editorial Board Member</span>*** of ***Applied Research*** !!
 * **2023-6**: I am honored to be appointed as an ***<span style="color:orange">Academic Editor</span>*** of ***PLOS ONE*** !!
@@ -51,9 +53,12 @@ Research interests
 
 Preprints
 =====
-* **Wei Ju**, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Xiao Luo, Ming Zhang. [A Comprehensive Survey on Deep Graph Representation Learning](https://arxiv.org/pdf/2304.05055.pdf).
-* Yifang Qin<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Hongjun Wu, Xiao Luo, Ming Zhang. [Learning Graph ODE for Continuous-Time Sequential Recommendation](https://arxiv.org/pdf/2304.07042.pdf).
-* Yifang Qin, Hongjun Wu, **Wei Ju**, Xiao Luo, Ming Zhang. [A Diffusion model for POI recommendation](https://arxiv.org/pdf/2304.07041.pdf).
+1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](https://arxiv.org/pdf/2304.05055.pdf)] <br>
+**Wei Ju**, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Xiao Luo, and Ming Zhang <br>
+
+1.  *Learning Graph ODE for Continuous-Time Sequential Recommendation* [[Paper](https://arxiv.org/pdf/2304.07042.pdf)] <br>
+Yifang Qin<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Hongjun Wu, Xiao Luo, and Ming Zhang <br>
+
 
 Publications
 =====
@@ -119,6 +124,11 @@ Yiping Song, **Wei Ju**, Zhiliang Tian, Luchen Liu, Ming Zhang, and Zheng Xie <b
 International Conference on Neural Information Processing <br>
 ***ICONIP 2022, <span style="color:red">CCF-C</span>, <span style="color:orange">Oral Representation</span>***
 
+1.  *A Diffusion model for POI recommendation* [[Paper](https://arxiv.org/pdf/2304.07041.pdf)] <br>
+Yifang Qin, Hongjun Wu, **Wei Ju**, Xiao Luo, and Ming Zhang <br>
+ACM Transactions on Information Systemsg <br>
+***TOIS 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting* [[Paper](../files/ICDE23_DyHSL.pdf)] <br>
 Yusheng Zhao<sup>\*</sup>, Xiao Luo<sup>\*</sup>, **Wei Ju**, Chong Chen, Xian-Sheng Hua, and Ming Zhang <br>
 IEEE International Conference on Data Engineering <br>
@@ -154,6 +164,11 @@ Jingyang Yuan<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Yifang Qin, Yusheng Zhao, **W
 IEEE International Conference on Acoustics, Speech and Signal Processing <br>
 ***ICASSP 2023, <span style="color:red">CCF-B</span>, <span style="color:orange">Corresponding Author</span>***
 
+1.  *RIGNN: A Rationale Perspective for Semi-supervised Open-world Graph Classification* [[Paper]()] <br>
+Xiao Luo<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Zhengyang Mao, Yifang Qin, **Wei Ju**, Ming Zhang, and Yizhou Sun <br>
+Transactions on Machine Learning Research <br>
+***TMLR 2023, <span style="color:orange">Corresponding Author</span>***
+
 1.  *An Interpretation of Convolutional Neural Networks for Motif Finding from the View of Probability* [[Paper](../files/ICTAI-21.pdf)] <br>
 Weinan Wang, Yuhang Guo, **Wei Ju**, Xiao Luo, and Minghua Deng <br>
 IEEE International Conference on Tools with Artificial Intelligence <br>
@@ -167,6 +182,7 @@ International Conference on Neural Information Processing <br>
 Funds and Projects
 =====
 * China Postdoctoral Science Foundation Funded Project, **Principal Investigator**
+* Young Scientists Fund of the National Natural Science Foundation of China, **Principal Investigator**
 
 Honors and Awards
 =====
@@ -192,9 +208,10 @@ Journal:
 * Neural Networks (NN)
 * Knowledge-Based Systems (KBS)
 * Signal Processing (SP)
+* BMC Bioinformatics
 * PLOS ONE
 
 Conference:
-* 2024: AAAI, WSDM
+* 2024: AAAI, WSDM, DASFAA
 * 2023: NeurIPS, KDD, AAAI, IJCAI, SIGIR, ACMMM, CIKM, BMVC, ICDM, LoG
 * 2022: ECCV, IJCNN, ICONIP
