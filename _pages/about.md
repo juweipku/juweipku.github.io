@@ -17,14 +17,15 @@ Research interests
 ======
 * Deep Learning, Data Mining
 * Graph Representation Learning, Graph Neural Networks
+* Self-supervised/Contrastive Learning, Semi-supervised Learning on Graphs
 * Deep Generative Model, Drug Discovery
 * Recommender Systems, Drug/Medicine Recommendation
-* Contrastive Learning, Semi-supervised Learning
 * Knowledge Graph, Knowledge Graph Reasoning
 <!-- * Vision-Language Learning -->
 
 <span style="color:red">What’s New</span>
 =====
+* **2023-8**: One paper has been accepted by ***TBD 2023*** !!
 * **2023-8**: One paper has been accepted by ***TOIS 2023*** !!
 * **2023-8**: Project supported by the ***<span style="color:orange">Young Scientists Fund of the National Natural Science Foundation of China</span>*** !!
 * **2023-8**: One paper has been accepted by ***TMLR 2023*** !!
@@ -136,6 +137,11 @@ Yusheng Zhao<sup>\*</sup>, Xiao Luo<sup>\*</sup>, **Wei Ju**, Chong Chen, Xian-S
 IEEE International Conference on Data Engineering <br>
 ***ICDE 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
+1.  *Towards Long-Tailed Recognition for Graph Classification via Collaborative Experts* [[Paper]()] <br>
+Si-Yu Yi<sup>\*</sup>, Zhengyang Mao<sup>\*</sup>, **Wei Ju**, Yong-Dao Zhou, Luchen Liu, Xiao Luo, and Ming Zhang <br>
+IEEE Transactions on Big Data <br>
+***TBD 2023, <span style="color:red">CCF-C, JCR Q1, IF=7.2</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *Towards Semi-supervised Universal Graph Classification* [[Paper](../files/TKDE-UGNN.pdf)] <br>
 Xiao Luo<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Yifang Qin<sup>\*</sup>, **Wei Ju**, and Ming Zhang <br>
 IEEE Transactions on Knowledge and Data Engineering <br>
@@ -192,7 +198,7 @@ Honors and Awards
 * Dec. 2021: **Award for Scientific Research**, Peking University
 * Dec. 2020: **Huawei Scholarship**, Huawei Technologies Co., Ltd.
 * Dec. 2020: **Merit student**, Peking University
-* Sept. 2018: **Third Prize in China Postgraduate Mathematical Contest in Modeling**, CSADGE
+<!-- * Sept. 2018: **Third Prize in China Postgraduate Mathematical Contest in Modeling**, CSADGE -->
 * May. 2018: **Top 1 of the men's team in table tennis competition for college students**, Beijing
 * Jan. 2017: **Outstanding Student**, Sichuan University
 * Jan. 2017: **The First Price Scholarship**, Sichuan University
