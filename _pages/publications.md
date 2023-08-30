@@ -40,6 +40,11 @@ Yusheng Zhao<sup>\*</sup>, Xiao Luo<sup>\*</sup>, **Wei Ju**, Chong Chen, Xian-S
 IEEE International Conference on Data Engineering <br>
 ***ICDE 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
+1.  *Towards Long-Tailed Recognition for Graph Classification via Collaborative Experts* [[Paper]()] <br>
+Si-Yu Yi<sup>\*</sup>, Zhengyang Mao<sup>\*</sup>, **Wei Ju**, Yong-Dao Zhou, Luchen Liu, Xiao Luo, and Ming Zhang <br>
+IEEE Transactions on Big Data <br>
+***TBD 2023, <span style="color:red">CCF-C, JCR Q1, IF=7.2</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *Towards Semi-supervised Universal Graph Classification* [[Paper](../files/TKDE-UGNN.pdf)] <br>
 Xiao Luo<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Yifang Qin<sup>\*</sup>, **Wei Ju**, and Ming Zhang <br>
 IEEE Transactions on Knowledge and Data Engineering <br>
