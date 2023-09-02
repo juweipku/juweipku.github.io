@@ -51,7 +51,7 @@ IEEE Transactions on Knowledge and Data Engineering <br>
 ***TKDE 2023, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *ALEX: Towards Effective Graph Transfer Learning with Noisy Labels* [[Paper]()] <br>
-Jingyang Yuan<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Yifang Qin, Zhengyang Mao, **Wei Ju**, and Ming Zhang <br>
+Jingyang Yuan, Xiao Luo, Yifang Qin, Zhengyang Mao, **Wei Ju**, and Ming Zhang <br>
 ACM International Conference on Multimedia <br>
 ***ACMMM 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
