@@ -25,8 +25,9 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
-* **2023-8**: One paper has been accepted by ***TBD 2023*** !!
-* **2023-8**: One paper has been accepted by ***TOIS 2023*** !!
+* **2023-8**: One paper has been accepted by ***TNNLS 2024*** !!
+* **2023-8**: One paper has been accepted by ***TBD 2024*** !!
+* **2023-8**: One paper has been accepted by ***TOIS 2024*** !!
 * **2023-8**: Project supported by the ***<span style="color:orange">Young Scientists Fund of the National Natural Science Foundation of China</span>*** !!
 * **2023-8**: One paper has been accepted by ***TMLR 2023*** !!
 * **2023-7**: Two papers have been accepted by ***ACMMM 2023*** !!
@@ -121,6 +122,11 @@ ACM International Conference on Multimedia <br>
 Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Meng Qu, Yiyang Gu, Chong Chen, Minghua Deng, Xian-Sheng Hua, and Ming Zhang <br>
 IEEE Transactions on Neural Networks and Learning Systems <br>
 ***TNNLS 2022, <span style="color:red">CCF-B, JCR Q1, IF=10.4</span>***
+
+1.  *Redundancy-Free Self-Supervised Relational Learning for Graph Clustering* [[Paper]()] <br>
+Siyu Yi, **Wei Ju**, Yifang Qin, Xiao Luo, Luchen Liu, Yongdao Zhou, and Ming Zhang <br>
+IEEE Transactions on Neural Networks and Learning Systems <br>
+***TNNLS 2024, <span style="color:red">CCF-B, JCR Q1, IF=10.4</span>***
 
 1.  *Building Conversational Diagnosis Systems for Fine-grained Diseases using Few Annotated Data* [[Paper](../files/ICONIP-22.pdf)] <br>
 Yiping Song, **Wei Ju**, Zhiliang Tian, Luchen Liu, Ming Zhang, and Zheng Xie <br>
