@@ -108,7 +108,7 @@ Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Meng Qu, Chong Chen, Minghua Den
 IEEE International Conference on Data Engineering <br>
 ***ICDE 2022, <span style="color:red">CCF-A</span>, <span style="color:orange">Early Accept</span>***
 
-1.  *RAHNet: Retrieval Augmented Hybrid Network for Long-tailed Graph Classification* [[Paper]()] <br>
+1.  *RAHNet: Retrieval Augmented Hybrid Network for Long-tailed Graph Classification* [[Paper](https://arxiv.org/pdf/2308.02335.pdf)] <br>
 Zhengyang Mao<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yifang Qin, Xiao Luo, and Ming Zhang <br>
 ACM International Conference on Multimedia <br>
 ***ACMMM 2023, <span style="color:red">CCF-A</span>***
@@ -123,7 +123,7 @@ Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Meng Qu, Yiyang Gu, Chong Chen, 
 IEEE Transactions on Neural Networks and Learning Systems <br>
 ***TNNLS 2022, <span style="color:red">CCF-B, JCR Q1, IF=10.4</span>***
 
-1.  *Redundancy-Free Self-Supervised Relational Learning for Graph Clustering* [[Paper]()] <br>
+1.  *Redundancy-Free Self-Supervised Relational Learning for Graph Clustering* [[Paper](../files/TNNLS_R2FGC.pdf)] <br>
 Siyu Yi, **Wei Ju**, Yifang Qin, Xiao Luo, Luchen Liu, Yongdao Zhou, and Ming Zhang <br>
 IEEE Transactions on Neural Networks and Learning Systems <br>
 ***TNNLS 2024, <span style="color:red">CCF-B, JCR Q1, IF=10.4</span>, <span style="color:orange">Corresponding Author</span>***
@@ -138,7 +138,7 @@ Yusheng Zhao<sup>\*</sup>, Xiao Luo<sup>\*</sup>, **Wei Ju**, Chong Chen, Xian-S
 IEEE International Conference on Data Engineering <br>
 ***ICDE 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Towards Long-Tailed Recognition for Graph Classification via Collaborative Experts* [[Paper]()] <br>
+1.  *Towards Long-Tailed Recognition for Graph Classification via Collaborative Experts* [[Paper](../files/TBD_CoMe.pdf)] <br>
 Si-Yu Yi<sup>\*</sup>, Zhengyang Mao<sup>\*</sup>, **Wei Ju**, Yong-Dao Zhou, Luchen Liu, Xiao Luo, and Ming Zhang <br>
 IEEE Transactions on Big Data <br>
 ***TBD 2024, <span style="color:red">CCF-C, JCR Q1, IF=7.2</span>, <span style="color:orange">Corresponding Author</span>***
@@ -148,7 +148,7 @@ Xiao Luo<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Yifang Qin<sup>\*</sup>, **Wei
 IEEE Transactions on Knowledge and Data Engineering <br>
 ***TKDE 2023, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *ALEX: Towards Effective Graph Transfer Learning with Noisy Labels* [[Paper]()] <br>
+1.  *ALEX: Towards Effective Graph Transfer Learning with Noisy Labels* [[Paper](../files/MM23_ALEX.pdf)] <br>
 Jingyang Yuan, Xiao Luo, Yifang Qin, Zhengyang Mao, **Wei Ju**, and Ming Zhang <br>
 ACM International Conference on Multimedia <br>
 ***ACMMM 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
@@ -156,7 +156,7 @@ ACM International Conference on Multimedia <br>
 1.  *HOPE: High-order Graph ODE For Modeling Interacting Dynamics* [[Paper](../files/ICML23-HOPE.pdf)] <br>
 Xiao Luo, Jingyang Yuan, Zijie Huang, Huiyu Jiang, Yifang Qin, **Wei Ju**, Ming Zhang, and Yizhou Sun <br>
 International Conference on Machine Learning <br>
-***ICML 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+***ICML 2023, <span style="color:red">CCF-A</span>***
 
 1.  *DisenCite: Graph-based Disentangled Representation Learning for Context-specific Citation Generation* [[Paper](../files/AAAI22-DisenCite.pdf)] <br>
 Yifan Wang, Yiping Song, Shuai Li, Chaoran Cheng, **Wei Ju**, Ming Zhang, and Sheng Wang <br>
@@ -176,7 +176,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing <br>
 1.  *RIGNN: A Rationale Perspective for Semi-supervised Open-world Graph Classification* [[Paper]()] <br>
 Xiao Luo<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Zhengyang Mao, Yifang Qin, **Wei Ju**, Ming Zhang, and Yizhou Sun <br>
 Transactions on Machine Learning Research <br>
-***TMLR 2024, <span style="color:orange">Corresponding Author</span>***
+***TMLR 2024***
 
 1.  *Building Conversational Diagnosis Systems for Fine-grained Diseases using Few Annotated Data* [[Paper](../files/ICONIP-22.pdf)] <br>
 Yiping Song, **Wei Ju**, Zhiliang Tian, Luchen Liu, Ming Zhang, and Zheng Xie <br>
