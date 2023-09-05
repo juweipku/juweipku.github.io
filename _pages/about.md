@@ -25,11 +25,11 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
-* **2023-8**: One paper has been accepted by ***TNNLS 2024*** !!
+* **2023-9**: One paper has been accepted by ***TNNLS 2024*** !!
 * **2023-8**: One paper has been accepted by ***TBD 2024*** !!
 * **2023-8**: One paper has been accepted by ***TOIS 2024*** !!
 * **2023-8**: Project supported by the ***<span style="color:orange">Young Scientists Fund of the National Natural Science Foundation of China</span>*** !!
-* **2023-8**: One paper has been accepted by ***TMLR 2023*** !!
+* **2023-8**: One paper has been accepted by ***TMLR 2024*** !!
 * **2023-7**: Two papers have been accepted by ***ACMMM 2023*** !!
 * **2023-7**: Honored to be appointed as an ***<span style="color:orange">Editorial Board Member</span>*** of ***Applied Research*** !!
 * **2023-6**: Honored to be appointed as an ***<span style="color:orange">Academic Editor</span>*** of ***PLOS ONE*** !!
@@ -128,11 +128,6 @@ Siyu Yi, **Wei Ju**, Yifang Qin, Xiao Luo, Luchen Liu, Yongdao Zhou, and Ming Zh
 IEEE Transactions on Neural Networks and Learning Systems <br>
 ***TNNLS 2024, <span style="color:red">CCF-B, JCR Q1, IF=10.4</span>***
 
-1.  *Building Conversational Diagnosis Systems for Fine-grained Diseases using Few Annotated Data* [[Paper](../files/ICONIP-22.pdf)] <br>
-Yiping Song, **Wei Ju**, Zhiliang Tian, Luchen Liu, Ming Zhang, and Zheng Xie <br>
-International Conference on Neural Information Processing <br>
-***ICONIP 2022, <span style="color:red">CCF-C</span>, <span style="color:orange">Oral Representation</span>***
-
 1.  *A Diffusion model for POI recommendation* [[Paper](https://arxiv.org/pdf/2304.07041.pdf)] <br>
 Yifang Qin, Hongjun Wu, **Wei Ju**, Xiao Luo, and Ming Zhang <br>
 ACM Transactions on Information Systems <br>
@@ -182,6 +177,11 @@ IEEE International Conference on Acoustics, Speech and Signal Processing <br>
 Xiao Luo<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Zhengyang Mao, Yifang Qin, **Wei Ju**, Ming Zhang, and Yizhou Sun <br>
 Transactions on Machine Learning Research <br>
 ***TMLR 2023, <span style="color:orange">Corresponding Author</span>***
+
+1.  *Building Conversational Diagnosis Systems for Fine-grained Diseases using Few Annotated Data* [[Paper](../files/ICONIP-22.pdf)] <br>
+Yiping Song, **Wei Ju**, Zhiliang Tian, Luchen Liu, Ming Zhang, and Zheng Xie <br>
+International Conference on Neural Information Processing <br>
+***ICONIP 2022, <span style="color:red">CCF-C</span>, <span style="color:orange">Oral Representation</span>***
 
 1.  *An Interpretation of Convolutional Neural Networks for Motif Finding from the View of Probability* [[Paper](../files/ICTAI-21.pdf)] <br>
 Weinan Wang, Yuhang Guo, **Wei Ju**, Xiao Luo, and Minghua Deng <br>
