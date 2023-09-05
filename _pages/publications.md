@@ -17,17 +17,17 @@ IEEE Transactions on Neural Networks and Learning Systems <br>
 1.  *A Diffusion model for POI recommendation* [[Paper](https://arxiv.org/pdf/2304.07041.pdf)] <br>
 Yifang Qin, Hongjun Wu, **Wei Ju**, Xiao Luo, and Ming Zhang <br>
 ACM Transactions on Information Systems <br>
-***TOIS 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+***TOIS 2024, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *Towards Long-Tailed Recognition for Graph Classification via Collaborative Experts* [[Paper]()] <br>
 Si-Yu Yi<sup>\*</sup>, Zhengyang Mao<sup>\*</sup>, **Wei Ju**, Yong-Dao Zhou, Luchen Liu, Xiao Luo, and Ming Zhang <br>
 IEEE Transactions on Big Data <br>
-***TBD 2023, <span style="color:red">CCF-C, JCR Q1, IF=7.2</span>, <span style="color:orange">Corresponding Author</span>***
+***TBD 2024, <span style="color:red">CCF-C, JCR Q1, IF=7.2</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *RIGNN: A Rationale Perspective for Semi-supervised Open-world Graph Classification* [[Paper]()] <br>
 Xiao Luo<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Zhengyang Mao, Yifang Qin, **Wei Ju**, Ming Zhang, and Yizhou Sun <br>
 Transactions on Machine Learning Research <br>
-***TMLR 2023, <span style="color:orange">Corresponding Author</span>***
+***TMLR 2024, <span style="color:orange">Corresponding Author</span>***
 
 2023
 ====
