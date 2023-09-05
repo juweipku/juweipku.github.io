@@ -10,7 +10,7 @@ author_profile: true
 
 2024
 ====
-1.  *Redundancy-Free Self-Supervised Relational Learning for Graph Clustering* [[Paper]()] <br>
+1.  *Redundancy-Free Self-Supervised Relational Learning for Graph Clustering* [[Paper](../files/TNNLS_R2FGC.pdf)] <br>
 Siyu Yi, **Wei Ju**, Yifang Qin, Xiao Luo, Luchen Liu, Yongdao Zhou, and Ming Zhang <br>
 IEEE Transactions on Neural Networks and Learning Systems <br>
 ***TNNLS 2024, <span style="color:red">CCF-B, JCR Q1, IF=10.4</span>, <span style="color:orange">Corresponding Author</span>***
@@ -20,7 +20,7 @@ Yifang Qin, Hongjun Wu, **Wei Ju**, Xiao Luo, and Ming Zhang <br>
 ACM Transactions on Information Systems <br>
 ***TOIS 2024, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Towards Long-Tailed Recognition for Graph Classification via Collaborative Experts* [[Paper]()] <br>
+1.  *Towards Long-Tailed Recognition for Graph Classification via Collaborative Experts* [[Paper](../files/TBD_CoMe.pdf)] <br>
 Si-Yu Yi<sup>\*</sup>, Zhengyang Mao<sup>\*</sup>, **Wei Ju**, Yong-Dao Zhou, Luchen Liu, Xiao Luo, and Ming Zhang <br>
 IEEE Transactions on Big Data <br>
 ***TBD 2024, <span style="color:red">CCF-C, JCR Q1, IF=7.2</span>, <span style="color:orange">Corresponding Author</span>***
@@ -28,7 +28,7 @@ IEEE Transactions on Big Data <br>
 1.  *RIGNN: A Rationale Perspective for Semi-supervised Open-world Graph Classification* [[Paper]()] <br>
 Xiao Luo<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Zhengyang Mao, Yifang Qin, **Wei Ju**, Ming Zhang, and Yizhou Sun <br>
 Transactions on Machine Learning Research <br>
-***TMLR 2024, <span style="color:orange">Corresponding Author</span>***
+***TMLR 2024***
 
 2023
 ====
@@ -47,7 +47,7 @@ Neural Networks <br>
 Neural Networks <br>
 ***Neural Networks 2023, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
 
-1.  *RAHNet: Retrieval Augmented Hybrid Network for Long-tailed Graph Classification* [[Paper]()] <br>
+1.  *RAHNet: Retrieval Augmented Hybrid Network for Long-tailed Graph Classification* [[Paper](https://arxiv.org/pdf/2308.02335.pdf)] <br>
 Zhengyang Mao<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yifang Qin, Xiao Luo, and Ming Zhang <br>
 ACM International Conference on Multimedia <br>
 ***ACMMM 2023, <span style="color:red">CCF-A</span>***
@@ -62,7 +62,7 @@ Xiao Luo<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Yifang Qin<sup>\*</sup>, **Wei
 IEEE Transactions on Knowledge and Data Engineering <br>
 ***TKDE 2023, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *ALEX: Towards Effective Graph Transfer Learning with Noisy Labels* [[Paper]()] <br>
+1.  *ALEX: Towards Effective Graph Transfer Learning with Noisy Labels* [[Paper](../files/MM23_ALEX.pdf)] <br>
 Jingyang Yuan, Xiao Luo, Yifang Qin, Zhengyang Mao, **Wei Ju**, and Ming Zhang <br>
 ACM International Conference on Multimedia <br>
 ***ACMMM 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
@@ -70,7 +70,7 @@ ACM International Conference on Multimedia <br>
 1.  *HOPE: High-order Graph ODE For Modeling Interacting Dynamics* [[Paper](../files/ICML23-HOPE.pdf)] <br>
 Xiao Luo, Jingyang Yuan, Zijie Huang, Huiyu Jiang, Yifang Qin, **Wei Ju**, Ming Zhang, and Yizhou Sun <br>
 International Conference on Machine Learning <br>
-***ICML 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+***ICML 2023, <span style="color:red">CCF-A</span>***
 
 1.  *DisenPOI: Disentangling Sequential and Geographical Influence for Point-of-Interest Recommendation* [[Paper](https://arxiv.org/pdf/2210.16591.pdf)] <br>
 Yifang Qin<sup>\*</sup>, Yifan Wang<sup>\*</sup>, Fang Sun<sup>\*</sup>, **Wei Ju**, Xuyang Hou, Zhe Wang, Jia Cheng, Jun Lei, and Ming Zhang <br>
