@@ -24,6 +24,10 @@ Si-Yu Yi<sup>\*</sup>, Zhengyang Mao<sup>\*</sup>, **Wei Ju**, Yong-Dao Zhou, Lu
 IEEE Transactions on Big Data <br>
 ***TBD 2023, <span style="color:red">CCF-C, JCR Q1, IF=7.2</span>, <span style="color:orange">Corresponding Author</span>***
 
+1.  *RIGNN: A Rationale Perspective for Semi-supervised Open-world Graph Classification* [[Paper]()] <br>
+Xiao Luo<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Zhengyang Mao, Yifang Qin, **Wei Ju**, Ming Zhang, and Yizhou Sun <br>
+Transactions on Machine Learning Research <br>
+***TMLR 2023, <span style="color:orange">Corresponding Author</span>***
 
 2023
 ====
@@ -76,11 +80,6 @@ ACM International Conference on Web Search and Data Mining <br>
 Jingyang Yuan<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Yifang Qin, Yusheng Zhao, **Wei Ju**, and Ming Zhang <br>
 IEEE International Conference on Acoustics, Speech and Signal Processing <br>
 ***ICASSP 2023, <span style="color:red">CCF-B</span>, <span style="color:orange">Corresponding Author</span>***
-
-1.  *RIGNN: A Rationale Perspective for Semi-supervised Open-world Graph Classification* [[Paper]()] <br>
-Xiao Luo<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Zhengyang Mao, Yifang Qin, **Wei Ju**, Ming Zhang, and Yizhou Sun <br>
-Transactions on Machine Learning Research <br>
-***TMLR 2023, <span style="color:orange">Corresponding Author</span>***
 
 
 2022
