@@ -13,7 +13,7 @@ author_profile: true
 1.  *Redundancy-Free Self-Supervised Relational Learning for Graph Clustering* [[Paper]()] <br>
 Siyu Yi, **Wei Ju**, Yifang Qin, Xiao Luo, Luchen Liu, Yongdao Zhou, and Ming Zhang <br>
 IEEE Transactions on Neural Networks and Learning Systems <br>
-***TNNLS 2024, <span style="color:red">CCF-B, JCR Q1, IF=10.4</span>***
+***TNNLS 2024, <span style="color:red">CCF-B, JCR Q1, IF=10.4</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *A Diffusion model for POI recommendation* [[Paper](https://arxiv.org/pdf/2304.07041.pdf)] <br>
 Yifang Qin, Hongjun Wu, **Wei Ju**, Xiao Luo, and Ming Zhang <br>
