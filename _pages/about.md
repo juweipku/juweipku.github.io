@@ -25,6 +25,7 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
+* **2023-9**: One paper has been accepted by ***TKDD 2024*** !!
 * **2023-9**: One paper has been accepted by ***TNNLS 2024*** !!
 * **2023-8**: One paper has been accepted by ***TBD 2024*** !!
 * **2023-8**: One paper has been accepted by ***TOIS 2024*** !!
@@ -122,6 +123,11 @@ ACM International Conference on Multimedia <br>
 Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Meng Qu, Yiyang Gu, Chong Chen, Minghua Deng, Xian-Sheng Hua, and Ming Zhang <br>
 IEEE Transactions on Neural Networks and Learning Systems <br>
 ***TNNLS 2022, <span style="color:red">CCF-B, JCR Q1, IF=10.4</span>***
+
+1.  *Self-supervised Graph-level Representation Learning with Adversarial Contrastive Learning* [[Paper]()] <br>
+Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yiyang Gu, Zhengyang Mao, Luchen Liu, Yuhui Yuan, and Ming Zhang <br>
+ACM Transactions on Knowledge Discovery from Data <br>
+***TKDD 2024, <span style="color:red">CCF-B</span>***
 
 1.  *Redundancy-Free Self-Supervised Relational Learning for Graph Clustering* [[Paper](../files/TNNLS_R2FGC.pdf)] <br>
 Siyu Yi, **Wei Ju**, Yifang Qin, Xiao Luo, Luchen Liu, Yongdao Zhou, and Ming Zhang <br>
