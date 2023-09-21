@@ -10,11 +10,6 @@ author_profile: true
 
 2024
 ====
-1.  *Self-supervised Graph-level Representation Learning with Adversarial Contrastive Learning* [[Paper]()] <br>
-Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yiyang Gu, Zhengyang Mao, Luchen Liu, Yuhui Yuan, and Ming Zhang <br>
-ACM Transactions on Knowledge Discovery from Data <br>
-***TKDD 2024, <span style="color:red">CCF-B</span>***
-
 1.  *Redundancy-Free Self-Supervised Relational Learning for Graph Clustering* [[Paper](../files/TNNLS_R2FGC.pdf)] <br>
 Siyu Yi, **Wei Ju**, Yifang Qin, Xiao Luo, Luchen Liu, Yongdao Zhou, and Ming Zhang <br>
 IEEE Transactions on Neural Networks and Learning Systems <br>
@@ -51,6 +46,11 @@ Neural Networks <br>
 Zhengyang Mao<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yifang Qin, Xiao Luo, and Ming Zhang <br>
 ACM International Conference on Multimedia <br>
 ***ACMMM 2023, <span style="color:red">CCF-A</span>***
+
+1.  *Self-supervised Graph-level Representation Learning with Adversarial Contrastive Learning* [[Paper]()] <br>
+Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yiyang Gu, Zhengyang Mao, Luchen Liu, Yuhui Yuan, and Ming Zhang <br>
+ACM Transactions on Knowledge Discovery from Data <br>
+***TKDD 2023, <span style="color:red">CCF-B</span>***
 
 1.  *Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting* [[Paper](../files/ICDE23_DyHSL.pdf)] <br>
 Yusheng Zhao<sup>\*</sup>, Xiao Luo<sup>\*</sup>, **Wei Ju**, Chong Chen, Xian-Sheng Hua, and Ming Zhang <br>
