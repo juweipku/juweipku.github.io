@@ -25,6 +25,7 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
+* **2023-9**: One paper has been accepted by ***TOMM 2024*** !!
 * **2023-9**: One paper has been accepted by ***TKDD 2024*** !!
 * **2023-9**: One paper has been accepted by ***TNNLS 2024*** !!
 * **2023-8**: One paper has been accepted by ***TBD 2024*** !!
@@ -133,6 +134,11 @@ ACM Transactions on Knowledge Discovery from Data <br>
 Siyu Yi, **Wei Ju**, Yifang Qin, Xiao Luo, Luchen Liu, Yongdao Zhou, and Ming Zhang <br>
 IEEE Transactions on Neural Networks and Learning Systems <br>
 ***TNNLS 2024, <span style="color:red">CCF-B, JCR Q1, IF=10.4</span>, <span style="color:orange">Corresponding Author</span>***
+
+1.  *Towards Effective Semi-supervised Node Classification with Hybrid Curriculum Pseudo-labeling* [[Paper]()] <br>
+Xiao Luo, **Wei Ju**, Yiyang Gu, Yifang Qin, Siyu Yi, Daqing Wu, Luchen Liu, and Ming Zhang <br>
+ACM Transactions on Multimedia Computing Communications and Applications <br>
+***TOMM 2024, <span style="color:red">CCF-B</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *A Diffusion model for POI recommendation* [[Paper](https://arxiv.org/pdf/2304.07041.pdf)] <br>
 Yifang Qin, Hongjun Wu, **Wei Ju**, Xiao Luo, and Ming Zhang <br>
