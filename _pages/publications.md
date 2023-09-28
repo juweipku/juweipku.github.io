@@ -18,7 +18,7 @@ IEEE Transactions on Neural Networks and Learning Systems <br>
 1.  *Towards Effective Semi-supervised Node Classification with Hybrid Curriculum Pseudo-labeling* [[Paper]()] <br>
 Xiao Luo, **Wei Ju**, Yiyang Gu, Yifang Qin, Siyu Yi, Daqing Wu, Luchen Liu, and Ming Zhang <br>
 ACM Transactions on Multimedia Computing Communications and Applications <br>
-***TOMM 2024, <span style="color:red">CCF-B</span>, <span style="color:orange">Corresponding Author</span>***
+***TOMM 2024, <span style="color:red">CCF-B, JCR Q1, IF=5.1</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *A Diffusion model for POI recommendation* [[Paper](https://arxiv.org/pdf/2304.07041.pdf)] <br>
 Yifang Qin, Hongjun Wu, **Wei Ju**, Xiao Luo, and Ming Zhang <br>
