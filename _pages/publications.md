@@ -47,6 +47,11 @@ Neural Networks <br>
 Neural Networks <br>
 ***Neural Networks 2023, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
 
+1.  *Zero-shot Node Classification with Graph Contrastive Embedding Network* [[Paper]()] <br>
+**Wei Ju**, Yifang Qin, Siyu Yi, Zhengyang Mao, Kangjie Zheng, Luchen Liu, Xiao Luo, and Ming Zhang <br>
+Transactions on Machine Learning Research <br>
+***TMLR 2023***
+
 1.  *RAHNet: Retrieval Augmented Hybrid Network for Long-tailed Graph Classification* [[Paper](https://arxiv.org/pdf/2308.02335.pdf)] <br>
 Zhengyang Mao<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yifang Qin, Xiao Luo, and Ming Zhang <br>
 ACM International Conference on Multimedia <br>
