@@ -25,13 +25,14 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
+* **2023-10**: One paper has been accepted by ***TMLR 2023*** !!
 * **2023-9**: One paper has been accepted by ***TOMM 2024*** !!
-* **2023-9**: One paper has been accepted by ***TKDD 2024*** !!
+* **2023-9**: One paper has been accepted by ***TKDD 2023*** !!
 * **2023-9**: One paper has been accepted by ***TNNLS 2024*** !!
 * **2023-8**: One paper has been accepted by ***TBD 2024*** !!
 * **2023-8**: One paper has been accepted by ***TOIS 2024*** !!
 * **2023-8**: Project supported by the ***<span style="color:orange">Young Scientists Fund of the National Natural Science Foundation of China</span>*** !!
-* **2023-8**: One paper has been accepted by ***TMLR 2024*** !!
+* **2023-8**: One paper has been accepted by ***TMLR 2023*** !!
 * **2023-7**: Two papers have been accepted by ***ACMMM 2023*** !!
 * **2023-7**: Honored to be appointed as an ***<span style="color:orange">Editorial Board Member</span>*** of ***Applied Research*** !!
 * **2023-6**: Honored to be appointed as an ***<span style="color:orange">Academic Editor</span>*** of ***PLOS ONE*** !!
@@ -104,6 +105,11 @@ Neural Networks <br>
 **Wei Ju**<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Zequ Ma, Junwei Yang, Minghua Deng, and Ming Zhang <br>
 Neural Networks <br>
 ***Neural Networks 2022, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
+
+1.  *Zero-shot Node Classification with Graph Contrastive Embedding Network* [[Paper]()] <br>
+**Wei Ju**, Yifang Qin, Siyu Yi, Zhengyang Mao, Kangjie Zheng, Luchen Liu, Xiao Luo, and Ming Zhang <br>
+Transactions on Machine Learning Research <br>
+***TMLR 2023***
 
 1.  *DualGraph: Improving Semi-supervised Graph Classification via Dual Contrastive Learning* [[Paper](../files/ICDE_DualGraph.pdf)] <br>
 Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Meng Qu, Chong Chen, Minghua Deng, Xian-Sheng Hua, and Ming Zhang <br>
