@@ -26,11 +26,11 @@ Research interests
 <span style="color:red">What’s New</span>
 =====
 * **2023-10**: One paper has been accepted by ***TMLR 2023*** !!
-* **2023-9**: One paper has been accepted by ***TOMM 2024*** !!
+* **2023-9**: One paper has been accepted by ***TOMM 2023*** !!
 * **2023-9**: One paper has been accepted by ***TKDD 2023*** !!
 * **2023-9**: One paper has been accepted by ***TNNLS 2024*** !!
 * **2023-8**: One paper has been accepted by ***TBD 2024*** !!
-* **2023-8**: One paper has been accepted by ***TOIS 2024*** !!
+* **2023-8**: One paper has been accepted by ***TOIS 2023*** !!
 * **2023-8**: Project supported by the ***<span style="color:orange">Young Scientists Fund of the National Natural Science Foundation of China</span>*** !!
 * **2023-8**: One paper has been accepted by ***TMLR 2023*** !!
 * **2023-7**: Two papers have been accepted by ***ACMMM 2023*** !!
@@ -144,12 +144,12 @@ IEEE Transactions on Neural Networks and Learning Systems <br>
 1.  *Towards Effective Semi-supervised Node Classification with Hybrid Curriculum Pseudo-labeling* [[Paper]()] <br>
 Xiao Luo, **Wei Ju**, Yiyang Gu, Yifang Qin, Siyu Yi, Daqing Wu, Luchen Liu, and Ming Zhang <br>
 ACM Transactions on Multimedia Computing Communications and Applications <br>
-***TOMM 2024, <span style="color:red">CCF-B, JCR Q1, IF=5.1</span>, <span style="color:orange">Corresponding Author</span>***
+***TOMM 2023, <span style="color:red">CCF-B, JCR Q1, IF=5.1</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *A Diffusion model for POI recommendation* [[Paper](https://arxiv.org/pdf/2304.07041.pdf)] <br>
 Yifang Qin, Hongjun Wu, **Wei Ju**, Xiao Luo, and Ming Zhang <br>
 ACM Transactions on Information Systems <br>
-***TOIS 2024, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+***TOIS 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting* [[Paper](../files/ICDE23_DyHSL.pdf)] <br>
 Yusheng Zhao<sup>\*</sup>, Xiao Luo<sup>\*</sup>, **Wei Ju**, Chong Chen, Xian-Sheng Hua, and Ming Zhang <br>
