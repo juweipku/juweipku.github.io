@@ -15,16 +15,6 @@ Siyu Yi, **Wei Ju**, Yifang Qin, Xiao Luo, Luchen Liu, Yongdao Zhou, and Ming Zh
 IEEE Transactions on Neural Networks and Learning Systems <br>
 ***TNNLS 2024, <span style="color:red">CCF-B, JCR Q1, IF=10.4</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Towards Effective Semi-supervised Node Classification with Hybrid Curriculum Pseudo-labeling* [[Paper]()] <br>
-Xiao Luo, **Wei Ju**, Yiyang Gu, Yifang Qin, Siyu Yi, Daqing Wu, Luchen Liu, and Ming Zhang <br>
-ACM Transactions on Multimedia Computing Communications and Applications <br>
-***TOMM 2024, <span style="color:red">CCF-B, JCR Q1, IF=5.1</span>, <span style="color:orange">Corresponding Author</span>***
-
-1.  *A Diffusion model for POI recommendation* [[Paper](https://arxiv.org/pdf/2304.07041.pdf)] <br>
-Yifang Qin, Hongjun Wu, **Wei Ju**, Xiao Luo, and Ming Zhang <br>
-ACM Transactions on Information Systems <br>
-***TOIS 2024, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
-
 1.  *Towards Long-Tailed Recognition for Graph Classification via Collaborative Experts* [[Paper](../files/TBD_CoMe.pdf)] <br>
 Si-Yu Yi<sup>\*</sup>, Zhengyang Mao<sup>\*</sup>, **Wei Ju**, Yong-Dao Zhou, Luchen Liu, Xiao Luo, and Ming Zhang <br>
 IEEE Transactions on Big Data <br>
@@ -61,6 +51,16 @@ ACM International Conference on Multimedia <br>
 Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yiyang Gu, Zhengyang Mao, Luchen Liu, Yuhui Yuan, and Ming Zhang <br>
 ACM Transactions on Knowledge Discovery from Data <br>
 ***TKDD 2023, <span style="color:red">CCF-B</span>***
+
+1.  *Towards Effective Semi-supervised Node Classification with Hybrid Curriculum Pseudo-labeling* [[Paper]()] <br>
+Xiao Luo, **Wei Ju**, Yiyang Gu, Yifang Qin, Siyu Yi, Daqing Wu, Luchen Liu, and Ming Zhang <br>
+ACM Transactions on Multimedia Computing Communications and Applications <br>
+***TOMM 2023, <span style="color:red">CCF-B, JCR Q1, IF=5.1</span>, <span style="color:orange">Corresponding Author</span>***
+
+1.  *A Diffusion model for POI recommendation* [[Paper](https://arxiv.org/pdf/2304.07041.pdf)] <br>
+Yifang Qin, Hongjun Wu, **Wei Ju**, Xiao Luo, and Ming Zhang <br>
+ACM Transactions on Information Systems <br>
+***TOIS 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting* [[Paper](../files/ICDE23_DyHSL.pdf)] <br>
 Yusheng Zhao<sup>\*</sup>, Xiao Luo<sup>\*</sup>, **Wei Ju**, Chong Chen, Xian-Sheng Hua, and Ming Zhang <br>
