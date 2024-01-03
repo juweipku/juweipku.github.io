@@ -25,11 +25,12 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
+* **2023-12**: One paper has been accepted by ***TKDE 2024*** !!
 * **2023-10**: One paper has been accepted by ***TMLR 2023*** !!
 * **2023-9**: One paper has been accepted by ***TOMM 2023*** !!
 * **2023-9**: One paper has been accepted by ***TKDD 2023*** !!
-* **2023-9**: One paper has been accepted by ***TNNLS 2024*** !!
-* **2023-8**: One paper has been accepted by ***TBD 2024*** !!
+* **2023-9**: One paper has been accepted by ***TNNLS 2023*** !!
+* **2023-8**: One paper has been accepted by ***TBD 2023*** !!
 * **2023-8**: One paper has been accepted by ***TOIS 2023*** !!
 * **2023-8**: Project supported by the ***<span style="color:orange">Young Scientists Fund of the National Natural Science Foundation of China</span>*** !!
 * **2023-8**: One paper has been accepted by ***TMLR 2023*** !!
@@ -63,9 +64,8 @@ Preprints
 1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](https://arxiv.org/pdf/2304.05055.pdf)] <br>
 **Wei Ju**, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Xiao Luo, and Ming Zhang <br>
 
-1.  *Learning Graph ODE for Continuous-Time Sequential Recommendation* [[Paper](https://arxiv.org/pdf/2304.07042.pdf)] <br>
-Yifang Qin<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Hongjun Wu, Xiao Luo, and Ming Zhang <br>
-
+1.  *A Survey on Graph Neural Networks in Intelligent Transportation Systems* [[Paper](https://arxiv.org/pdf/2401.00713.pdf)] <br>
+Hourun Li, Yusheng Zhao, Zhengyang Mao, Yifang Qin, Zhiping Xiao, Jiaqi Feng, Yiyang Gu, **Wei Ju**, Xiao Luo, and Ming Zhang <br>
 
 Publications
 =====
@@ -111,6 +111,11 @@ Neural Networks <br>
 Transactions on Machine Learning Research <br>
 ***TMLR 2023***
 
+1.  *Learning Graph ODE for Continuous-Time Sequential Recommendation* [[Paper](https://arxiv.org/pdf/2304.07042.pdf)] <br>
+Yifang Qin<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Hongjun Wu, Xiao Luo, and Ming Zhang <br>
+IEEE Transactions on Knowledge and Data Engineering <br>
+***TKDE 2024, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *DualGraph: Improving Semi-supervised Graph Classification via Dual Contrastive Learning* [[Paper](../files/ICDE_DualGraph.pdf)] <br>
 Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Meng Qu, Chong Chen, Minghua Deng, Xian-Sheng Hua, and Ming Zhang <br>
 IEEE International Conference on Data Engineering <br>
@@ -139,7 +144,7 @@ ACM Transactions on Knowledge Discovery from Data <br>
 1.  *Redundancy-Free Self-Supervised Relational Learning for Graph Clustering* [[Paper](../files/TNNLS_R2FGC.pdf)] <br>
 Siyu Yi, **Wei Ju**, Yifang Qin, Xiao Luo, Luchen Liu, Yongdao Zhou, and Ming Zhang <br>
 IEEE Transactions on Neural Networks and Learning Systems <br>
-***TNNLS 2024, <span style="color:red">CCF-B, JCR Q1, IF=10.4</span>, <span style="color:orange">Corresponding Author</span>***
+***TNNLS 2023, <span style="color:red">CCF-B, JCR Q1, IF=10.4</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *Towards Effective Semi-supervised Node Classification with Hybrid Curriculum Pseudo-labeling* [[Paper]()] <br>
 Xiao Luo, **Wei Ju**, Yiyang Gu, Yifang Qin, Siyu Yi, Daqing Wu, Luchen Liu, and Ming Zhang <br>
@@ -159,7 +164,7 @@ IEEE International Conference on Data Engineering <br>
 1.  *Towards Long-Tailed Recognition for Graph Classification via Collaborative Experts* [[Paper](../files/TBD_CoMe.pdf)] <br>
 Si-Yu Yi<sup>\*</sup>, Zhengyang Mao<sup>\*</sup>, **Wei Ju**, Yong-Dao Zhou, Luchen Liu, Xiao Luo, and Ming Zhang <br>
 IEEE Transactions on Big Data <br>
-***TBD 2024, <span style="color:red">CCF-C, JCR Q1, IF=7.2</span>, <span style="color:orange">Corresponding Author</span>***
+***TBD 2023, <span style="color:red">CCF-C, JCR Q1, IF=7.2</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *Towards Semi-supervised Universal Graph Classification* [[Paper](../files/TKDE-UGNN.pdf)] <br>
 Xiao Luo<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Yifang Qin<sup>\*</sup>, **Wei Ju**, and Ming Zhang <br>
@@ -239,11 +244,12 @@ Journal:
 * Information Fusion (IF)
 * Neural Networks (NN)
 * Knowledge-Based Systems (KBS)
+* Neurocomputing
 * Signal Processing (SP)
 * BMC Bioinformatics
 * PLOS ONE
 
 Conference:
-* 2024: ICLR, AAAI, WWW, CVPR, WSDM, SDM, ICASSP, AISTATS, DASFAA, PAKDD
+* 2024: ICLR, AAAI, WWW, CVPR, IJCAI, WSDM, SDM, ICASSP, AISTATS, DASFAA, PAKDD
 * 2023: NeurIPS, KDD, AAAI, IJCAI, SIGIR, ACMMM, CIKM, ICDM, BMVC, LoG, ISKE
 * 2022: ECCV, IJCNN, ICONIP
