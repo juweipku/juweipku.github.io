@@ -114,7 +114,7 @@ Transactions on Machine Learning Research <br>
 1.  *Learning Graph ODE for Continuous-Time Sequential Recommendation* [[Paper](https://arxiv.org/pdf/2304.07042.pdf)] <br>
 Yifang Qin<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Hongjun Wu, Xiao Luo, and Ming Zhang <br>
 IEEE Transactions on Knowledge and Data Engineering <br>
-***TKDE 2024, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>, <span style="color:orange">Corresponding Author</span>***
+***TKDE 2024, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>***
 
 1.  *DualGraph: Improving Semi-supervised Graph Classification via Dual Contrastive Learning* [[Paper](../files/ICDE_DualGraph.pdf)] <br>
 Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Meng Qu, Chong Chen, Minghua Deng, Xian-Sheng Hua, and Ming Zhang <br>
