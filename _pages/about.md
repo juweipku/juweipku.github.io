@@ -242,9 +242,10 @@ Journal:
 * ACM Transactions on Knowledge Discovery from Data (TKDD)
 * Transactions on Machine Learning Research (TMLR)
 * Information Fusion (IF)
+* Pattern Recognition (PR)
 * Neural Networks (NN)
 * Knowledge-Based Systems (KBS)
-* Neurocomputing
+* Neurocomputing (NC)
 * Signal Processing (SP)
 * BMC Bioinformatics
 * PLOS ONE
