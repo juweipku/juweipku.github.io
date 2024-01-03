@@ -13,7 +13,7 @@ author_profile: true
 1.  *Learning Graph ODE for Continuous-Time Sequential Recommendation* [[Paper](https://arxiv.org/pdf/2304.07042.pdf)] <br>
 Yifang Qin<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Hongjun Wu, Xiao Luo, and Ming Zhang <br>
 IEEE Transactions on Knowledge and Data Engineering <br>
-***TKDE 2024, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>, <span style="color:orange">Corresponding Author</span>***
+***TKDE 2024, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>***
 
 2023
 ====
