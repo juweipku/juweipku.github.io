@@ -223,6 +223,7 @@ Funds and Projects
 
 Honors and Awards
 =====
+* Sep. 2023: [**Outstanding Doctoral Dissertation Award**](https://mp.weixin.qq.com/s/q7mgixyw9tbdIcKq3C3GNw), ACM SIGCSE
 * Nov. 2022: 🏆 **Best Paper Finalist**, ICDM
 * Dec. 2021: **Award for Scientific Research**, Peking University
 * Dec. 2020: **Huawei Scholarship**, Huawei Technologies Co., Ltd.
@@ -251,6 +252,6 @@ Journal:
 * PLOS ONE
 
 Conference:
-* 2024: ICLR, AAAI, WWW, CVPR, IJCAI, WSDM, SDM, ICASSP, AISTATS, DASFAA, PAKDD
+* 2024: ICLR, KDD, WWW, CVPR, AAAI, IJCAI, WSDM, SDM, ICASSP, AISTATS, DASFAA, PAKDD, CAI
 * 2023: NeurIPS, KDD, AAAI, IJCAI, SIGIR, ACMMM, CIKM, ICDM, BMVC, LoG, ISKE
 * 2022: ECCV, IJCNN, ICONIP
