@@ -27,6 +27,7 @@ Research interests
 =====
 * **2023-12**: One paper has been accepted by ***TKDE 2024*** !!
 * **2023-10**: One paper has been accepted by ***TMLR 2023*** !!
+* **2023-9**: Honored to be awared ***<span style="color:orange">2023 Outstanding Doctoral Dissertation Award</span>***** of ***ACM SIGCSE*** !!
 * **2023-9**: One paper has been accepted by ***TOMM 2023*** !!
 * **2023-9**: One paper has been accepted by ***TKDD 2023*** !!
 * **2023-9**: One paper has been accepted by ***TNNLS 2023*** !!
