@@ -18,7 +18,7 @@ Research interests
 * Deep Learning, Data Mining
 * Graph Representation Learning, Graph Neural Networks
 * Self-supervised/Contrastive Learning, Semi-supervised Learning on Graphs
-* Deep Generative Model, Drug Discovery
+* Bioinformatics, Deep Generative Model, Drug Discovery
 * Recommender Systems, Drug/Medicine Recommendation
 * Knowledge Graph, Knowledge Graph Reasoning
 <!-- * Vision-Language Learning -->
@@ -105,7 +105,7 @@ Neural Networks <br>
 1.  *GHNN: Graph Harmonic Neural Networks for Semi-supervised Graph-level Classification* [[Paper](../files/NN_GHNN.pdf)] <br>
 **Wei Ju**<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Zequ Ma, Junwei Yang, Minghua Deng, and Ming Zhang <br>
 Neural Networks <br>
-***Neural Networks 2022, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
+***Neural Networks 2022, <span style="color:red">CCF-B, JCR Q1, IF=9.657</span>***
 
 1.  *Zero-shot Node Classification with Graph Contrastive Embedding Network* [[Paper]()] <br>
 **Wei Ju**, Yifang Qin, Siyu Yi, Zhengyang Mao, Kangjie Zheng, Luchen Liu, Xiao Luo, and Ming Zhang <br>
@@ -135,7 +135,7 @@ ACM International Conference on Multimedia <br>
 1.  *CLEAR: Cluster-enhanced Contrast for Self-supervised Graph Representation Learning* [[Paper](../files/TNNLS_CLEAR.pdf)] <br>
 Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Meng Qu, Yiyang Gu, Chong Chen, Minghua Deng, Xian-Sheng Hua, and Ming Zhang <br>
 IEEE Transactions on Neural Networks and Learning Systems <br>
-***TNNLS 2022, <span style="color:red">CCF-B, JCR Q1, IF=10.4</span>***
+***TNNLS 2022, <span style="color:red">CCF-B, JCR Q1, IF=14.255</span>***
 
 1.  *Self-supervised Graph-level Representation Learning with Adversarial Contrastive Learning* [[Paper]()] <br>
 Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yiyang Gu, Zhengyang Mao, Luchen Liu, Yuhui Yuan, and Ming Zhang <br>
