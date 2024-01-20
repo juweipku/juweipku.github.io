@@ -122,7 +122,7 @@ ACM International Conference on Web Search and Data Mining <br>
 1.  *GHNN: Graph Harmonic Neural Networks for Semi-supervised Graph-level Classification* [[Paper](../files/NN_GHNN.pdf)] <br>
 **Wei Ju**<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Zequ Ma, Junwei Yang, Minghua Deng, and Ming Zhang <br>
 Neural Networks <br>
-***Neural Networks 2022, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
+***Neural Networks 2022, <span style="color:red">CCF-B, JCR Q1, IF=9.657</span>***
 
 1.  *DualGraph: Improving Semi-supervised Graph Classification via Dual Contrastive Learning* [[Paper](../files/ICDE_DualGraph.pdf)] <br>
 Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Meng Qu, Chong Chen, Minghua Deng, Xian-Sheng Hua, and Ming Zhang <br>
@@ -137,7 +137,7 @@ ACM International Conference on Multimedia <br>
 1.  *CLEAR: Cluster-enhanced Contrast for Self-supervised Graph Representation Learning* [[Paper](../files/TNNLS_CLEAR.pdf)] <br>
 Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Meng Qu, Yiyang Gu, Chong Chen, Minghua Deng, Xian-Sheng Hua, and Ming Zhang <br>
 IEEE Transactions on Neural Networks and Learning Systems <br>
-***TNNLS 2022, <span style="color:red">CCF-B, JCR Q1, IF=10.4</span>***
+***TNNLS 2022, <span style="color:red">CCF-B, JCR Q1, IF=14.255</span>***
 
 1.  *Building Conversational Diagnosis Systems for Fine-grained Diseases using Few Annotated Data* [[Paper](../files/ICONIP-22.pdf)] <br>
 Yiping Song, **Wei Ju**, Zhiliang Tian, Luchen Liu, Ming Zhang, and Zheng Xie <br>
