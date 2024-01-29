@@ -10,6 +10,11 @@ author_profile: true
 
 2024
 ====
+1.  *GPS: Graph Contrastive Learning via Multi-scale Augmented Views from Adversarial Pooling* [[Paper](../files/SCIS-GPS.pdf)] <br>
+**Wei Ju**, Yiyang Gu, Zhengyang Mao, Ziyue Qiao, Yifang Qin, Xiao Luo, Hui Xiong, and Ming Zhang <br>
+SCIENCE CHINA Information Sciences <br>
+***SCIS 2024, <span style="color:red">CCF-A, JCR Q1, IF=8.8</span>***
+
 1.  *Learning Graph ODE for Continuous-Time Sequential Recommendation* [[Paper](https://arxiv.org/pdf/2304.07042.pdf)] <br>
 Yifang Qin<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Hongjun Wu, Xiao Luo, and Ming Zhang <br>
 IEEE Transactions on Knowledge and Data Engineering <br>
