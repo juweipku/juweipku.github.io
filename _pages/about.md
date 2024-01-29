@@ -96,7 +96,7 @@ Thirty-Seventh AAAI Conference on Artificial Intelligence <br>
 International Joint Conference on Artificial Intelligence <br>
 ***IJCAI 2022, <span style="color:red">CCF-A</span>***
 
-1.  *GPS: Graph Contrastive Learning via Multi-scale Augmented Views from Adversarial Pooling* [[Paper](../files/SCIS_GPS.pdf)] <br>
+1.  *GPS: Graph Contrastive Learning via Multi-scale Augmented Views from Adversarial Pooling* [[Paper]()] <br>
 **Wei Ju**, Yiyang Gu, Zhengyang Mao, Ziyue Qiao, Yifang Qin, Xiao Luo, Hui Xiong, and Ming Zhang <br>
 SCIENCE CHINA Information Sciences <br>
 ***SCIS 2024, <span style="color:red">CCF-A, JCR Q1, IF=8.8</span>***
