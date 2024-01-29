@@ -25,6 +25,7 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
+* **2024-1**: One paper has been accepted by ***SCIS 2024*** !!
 * **2023-12**: One paper has been accepted by ***TKDE 2024*** !!
 * **2023-10**: One paper has been accepted by ***TMLR 2023*** !!
 * **2023-9**: Honored to be awared ***<span style="color:orange">2023 Outstanding Doctoral Dissertation Award</span>***** of ***ACM SIGCSE*** !!
@@ -68,6 +69,9 @@ Preprints
 1.  *A Survey on Graph Neural Networks in Intelligent Transportation Systems* [[Paper](https://arxiv.org/pdf/2401.00713.pdf)] <br>
 Hourun Li, Yusheng Zhao, Zhengyang Mao, Yifang Qin, Zhiping Xiao, Jiaqi Feng, Yiyang Gu, **Wei Ju**, Xiao Luo, and Ming Zhang <br>
 
+1.  *PolyCF: Towards the Optimal Spectral Graph Filters for Collaborative Filtering* [[Paper](https://arxiv.org/pdf/2401.12590.pdf)] <br>
+Yifang Qin, **Wei Ju**, Xiao Luo, Yiyang Gu, Ming Zhang <br>
+
 1.  *Fimo: A challenge formal dataset for automated theorem proving* [[Paper](https://arxiv.org/pdf/2309.04295.pdf)] <br>
 Chengwu Liu, Jianhao Shen, Huajian Xin, Zhengying Liu, Ye Yuan, Haiming Wang, **Wei Ju**, Chuanyang Zheng, Yichun Yin, Lin Li, Ming Zhang, Qun Liu <br>
 
@@ -91,6 +95,11 @@ Thirty-Seventh AAAI Conference on Artificial Intelligence <br>
 **Wei Ju**<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Meng Qu, Yifan Wang, Chong Chen, Minghua Deng, Xian-Sheng Hua, and Ming Zhang <br>
 International Joint Conference on Artificial Intelligence <br>
 ***IJCAI 2022, <span style="color:red">CCF-A</span>***
+
+1.  *GPS: Graph Contrastive Learning via Multi-scale Augmented Views from Adversarial Pooling* [[Paper](../files/SCIS-GPS.pdf)] <br>
+**Wei Ju**, Yiyang Gu, Zhengyang Mao, Ziyue Qiao, Yifang Qin, Xiao Luo, Hui Xiong, and Ming Zhang <br>
+SCIENCE CHINA Information Sciences <br>
+***SCIS 2024, <span style="color:red">CCF-A, JCR Q1, IF=8.8</span>***
 
 1.  *Kernel-based Substructure Exploration for Next POI Recommendation* [[Paper](https://arxiv.org/pdf/2210.03969.pdf)][[Code](https://github.com/Fang6ang/KBGNN)] <br>
 **Wei Ju**<sup>\*</sup>, Yifang Qin<sup>\*</sup>, Ziyue Qiao, Xiao Luo, Yifan Wang, Yanjie Fu, and Ming Zhang <br>
