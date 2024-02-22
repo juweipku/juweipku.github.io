@@ -65,7 +65,9 @@ Research interests
 Survey
 =====
 1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](https://arxiv.org/pdf/2304.05055.pdf)] <br>
-**Wei Ju**, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Xiao Luo, and Ming Zhang <br>
+**Wei Ju**, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Yifan Wang, Xiao Luo, and Ming Zhang <br>
+Neural Networks <br>
+***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
 
 1.  *A Survey of Data-Efficient Graph Learning* [[Paper](https://arxiv.org/pdf/2402.00447.pdf)] <br>
 **Wei Ju**, Siyu Yi, Yifan Wang, Qingqing Long, Junyu Luo, Zhiping Xiao, and Ming Zhang <br>
@@ -119,7 +121,8 @@ ACM International Conference on Web Search and Data Mining <br>
 
 1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](https://arxiv.org/pdf/2304.05055.pdf)] <br>
 **Wei Ju**, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Yifan Wang, Xiao Luo, and Ming Zhang <br>
-***Neural Networks 2023, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
+Neural Networks <br>
+***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
 
 1.  *Few-shot Molecular Property Prediction via Hierarchically Structured Learning on Relation Graphs* [[Paper](../files/NN_HSL-RG.pdf)] <br>
 **Wei Ju**<sup>\*</sup>, Zequn Liu<sup>\*</sup>, Yifang Qin, Bin Feng, Chen Wang, Zhihui Guo, Xiao Luo and Ming Zhang <br>
