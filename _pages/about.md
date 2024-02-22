@@ -25,6 +25,7 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
+* **2024-2**: One paper has been accepted by ***Neural Networks 2024*** !!
 * **2024-1**: One paper has been accepted by ***SCIS 2024*** !!
 * **2023-12**: One paper has been accepted by ***TKDE 2024*** !!
 * **2023-10**: One paper has been accepted by ***TMLR 2023*** !!
@@ -61,7 +62,7 @@ Research interests
 * **2021-9**: One paper has been accepted by ***ICTAI 2021*** !!
 * **2021-8**: One paper has been accepted by ***ICDE 2022*** !!
 
-Preprints
+Survey
 =====
 1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](https://arxiv.org/pdf/2304.05055.pdf)] <br>
 **Wei Ju**, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Xiao Luo, and Ming Zhang <br>
@@ -72,6 +73,8 @@ Preprints
 1.  *A Survey on Graph Neural Networks in Intelligent Transportation Systems* [[Paper](https://arxiv.org/pdf/2401.00713.pdf)] <br>
 Hourun Li, Yusheng Zhao, Zhengyang Mao, Yifang Qin, Zhiping Xiao, Jiaqi Feng, Yiyang Gu, **Wei Ju**, Xiao Luo, and Ming Zhang <br>
 
+Preprints
+=====
 1.  *PolyCF: Towards the Optimal Spectral Graph Filters for Collaborative Filtering* [[Paper](https://arxiv.org/pdf/2401.12590.pdf)] <br>
 Yifang Qin, **Wei Ju**, Xiao Luo, Yiyang Gu, Zhiping Xiao, Ming Zhang <br>
 
@@ -113,6 +116,10 @@ IEEE International Conference on Data Mining <br>
 **Wei Ju**, Junwei Yang, Meng Qu, Weiping Song, Jianhao Shen, and Ming Zhang <br>
 ACM International Conference on Web Search and Data Mining <br>
 ***WSDM 2022, <span style="color:red">CCF-B</span>***
+
+1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](https://arxiv.org/pdf/2304.05055.pdf)] <br>
+**Wei Ju**, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Yifan Wang, Xiao Luo, and Ming Zhang <br>
+***Neural Networks 2023, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
 
 1.  *Few-shot Molecular Property Prediction via Hierarchically Structured Learning on Relation Graphs* [[Paper](../files/NN_HSL-RG.pdf)] <br>
 **Wei Ju**<sup>\*</sup>, Zequn Liu<sup>\*</sup>, Yifang Qin, Bin Feng, Chen Wang, Zhihui Guo, Xiao Luo and Ming Zhang <br>
