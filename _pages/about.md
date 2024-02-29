@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Wei Ju (琚玮) is currently a postdoc research fellow in Computer Science at Peking University. Prior to that, he received his Ph.D. degree in Computer Science from Peking University in June 2022, under the supervision of Prof. [Ming Zhang](https://cs.pku.edu.cn/info/1086/1730.htm). His current research interests lie primarily in the area of machine learning on graphs including graph representation learning and graph neural networks, and interdisciplinary applications such as bioinformatics, drug discovery, recommender systems and knowledge graphs.
+Wei Ju (琚玮) is currently a postdoc research fellow in Computer Science at Peking University. Prior to that, he received his Ph.D. degree in Computer Science from Peking University in June 2022, under the supervision of Prof. [Ming Zhang](https://cs.pku.edu.cn/info/1086/1730.htm). His current research interests lie primarily in the area of machine learning on graphs including graph representation learning and graph neural networks, and interdisciplinary applications such as bioinformatics, drug discovery, recommender systems, spatio-temporal analysis and knowledge graphs.
 
 <!-- I have also been closely working with Prof. [Jian Tang](https://jian-tang.com/), who is my supervior at [Mila](https://mila.quebec/en/) during Sept. 2018 - Sept. 2019. -->
 
@@ -20,11 +20,13 @@ Research interests
 * Self-supervised/Contrastive Learning, Semi-supervised Learning on Graphs
 * Bioinformatics, Drug Discovery
 * Recommender Systems, Drug/Medicine Recommendation
+* Spatio-temporal Analysis, Traffic Prediction
 * Knowledge Graph, Knowledge Graph Reasoning
 <!-- * Vision-Language Learning -->
 
 <span style="color:red">What’s New</span>
 =====
+* **2024-3**: One paper has been accepted by ***Information Fusion 2024*** !!
 * **2024-2**: One paper has been accepted by ***Neural Networks 2024*** !!
 * **2024-1**: One paper has been accepted by ***SCIS 2024*** !!
 * **2023-12**: One paper has been accepted by ***TKDE 2024*** !!
@@ -108,6 +110,10 @@ International Joint Conference on Artificial Intelligence <br>
 SCIENCE CHINA Information Sciences <br>
 ***SCIS 2024, <span style="color:red">CCF-A, JCR Q1, IF=8.8</span>***
 
+1.  *COOL: A Conjoint Perspective on Spatio-Temporal Graph Neural Network for Traffic Forecasting* [[Paper]()] <br>
+**Wei Ju**<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Yifang Qin, Siyu Yi, Jingyang Yuan, Zhiping Xiao, Xiao Luo, Xiting Yan, and Ming Zhang <br>
+***Information Fusion 2024, <span style="color:red">JCR Q1, IF=18.6</span>***
+
 1.  *Kernel-based Substructure Exploration for Next POI Recommendation* [[Paper](https://arxiv.org/pdf/2210.03969.pdf)][[Code](https://github.com/Fang6ang/KBGNN)] <br>
 **Wei Ju**<sup>\*</sup>, Yifang Qin<sup>\*</sup>, Ziyue Qiao, Xiao Luo, Yifan Wang, Yanjie Fu, and Ming Zhang <br>
 IEEE International Conference on Data Mining <br>
@@ -123,11 +129,11 @@ ACM International Conference on Web Search and Data Mining <br>
 ***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
 
 1.  *Few-shot Molecular Property Prediction via Hierarchically Structured Learning on Relation Graphs* [[Paper](../files/NN_HSL-RG.pdf)] <br>
-**Wei Ju**<sup>\*</sup>, Zequn Liu<sup>\*</sup>, Yifang Qin, Bin Feng, Chen Wang, Zhihui Guo, Xiao Luo and Ming Zhang <br>
+**Wei Ju**<sup>\*</sup>, Zequn Liu<sup>\*</sup>, Yifang Qin, Bin Feng, Chen Wang, Zhihui Guo, Xiao Luo, and Ming Zhang <br>
 ***Neural Networks 2023, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
 
 1.  *Unsupervised Graph-level Representation Learning with Hierarchical Contrasts* [[Paper](../files/NN-HGCL.pdf)] <br>
-**Wei Ju**<sup>\*</sup>, Zequn Liu<sup>\*</sup>, Yifang Qin, Bin Feng, Chen Wang, Zhihui Guo, Xiao Luo and Ming Zhang <br>
+**Wei Ju**<sup>\*</sup>, Zequn Liu<sup>\*</sup>, Yifang Qin, Bin Feng, Chen Wang, Zhihui Guo, Xiao Luo, and Ming Zhang <br>
 ***Neural Networks 2023, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
 
 1.  *GHNN: Graph Harmonic Neural Networks for Semi-supervised Graph-level Classification* [[Paper](../files/NN_GHNN.pdf)] <br>
