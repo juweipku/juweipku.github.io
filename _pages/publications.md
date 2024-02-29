@@ -19,6 +19,10 @@ SCIENCE CHINA Information Sciences <br>
 **Wei Ju**, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Yifan Wang, Xiao Luo, and Ming Zhang <br>
 ***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
 
+1.  *COOL: A Conjoint Perspective on Spatio-Temporal Graph Neural Network for Traffic Forecasting* [[Paper]()] <br>
+**Wei Ju**<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Yifang Qin, Siyu Yi, Jingyang Yuan, Zhiping Xiao, Xiao Luo, Xiting Yan, and Ming Zhang <br>
+***Information Fusion 2024, <span style="color:red">JCR Q1, IF=18.6</span>***
+
 1.  *Learning Graph ODE for Continuous-Time Sequential Recommendation* [[Paper](https://arxiv.org/pdf/2304.07042.pdf)] <br>
 Yifang Qin<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Hongjun Wu, Xiao Luo, and Ming Zhang <br>
 IEEE Transactions on Knowledge and Data Engineering <br>
@@ -32,11 +36,11 @@ Thirty-Seventh AAAI Conference on Artificial Intelligence <br>
 ***AAAI 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation</span>***
 
 1.  *Few-shot Molecular Property Prediction via Hierarchically Structured Learning on Relation Graphs* [[Paper](../files/NN_HSL-RG.pdf)] <br>
-**Wei Ju**<sup>\*</sup>, Zequn Liu<sup>\*</sup>, Yifang Qin, Bin Feng, Chen Wang, Zhihui Guo, Xiao Luo and Ming Zhang <br>
+**Wei Ju**<sup>\*</sup>, Zequn Liu<sup>\*</sup>, Yifang Qin, Bin Feng, Chen Wang, Zhihui Guo, Xiao Luo, and Ming Zhang <br>
 ***Neural Networks 2023, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
 
 1.  *Unsupervised Graph-level Representation Learning with Hierarchical Contrasts* [[Paper](../files/NN-HGCL.pdf)] <br>
-**Wei Ju**<sup>\*</sup>, Zequn Liu<sup>\*</sup>, Yifang Qin, Bin Feng, Chen Wang, Zhihui Guo, Xiao Luo and Ming Zhang <br>
+**Wei Ju**<sup>\*</sup>, Zequn Liu<sup>\*</sup>, Yifang Qin, Bin Feng, Chen Wang, Zhihui Guo, Xiao Luo, and Ming Zhang <br>
 ***Neural Networks 2023, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
 
 1.  *Zero-shot Node Classification with Graph Contrastive Embedding Network* [[Paper]()] <br>
