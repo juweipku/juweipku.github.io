@@ -286,6 +286,7 @@ Journal:
 * Information Fusion (IF)
 * Pattern Recognition (PR)
 * Neural Networks (NN)
+* Knowledge and Information Systems (KAIS)
 * Knowledge-Based Systems (KBS)
 * Neurocomputing (NC)
 * Neural Computing and Applications (NCAA)
