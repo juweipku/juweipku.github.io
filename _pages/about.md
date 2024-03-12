@@ -82,17 +82,19 @@ Hourun Li, Yusheng Zhao, Zhengyang Mao, Yifang Qin, Zhiping Xiao, Jiaqi Feng, Yi
 Preprints
 =====
 1.  *PolyCF: Towards the Optimal Spectral Graph Filters for Collaborative Filtering* [[Paper](https://arxiv.org/pdf/2401.12590.pdf)] <br>
-Yifang Qin, **Wei Ju**, Xiao Luo, Yiyang Gu, Zhiping Xiao, Ming Zhang <br>
+Yifang Qin, **Wei Ju**, Xiao Luo, Yiyang Gu, Zhiping Xiao, and Ming Zhang <br>
 
 1.  *Fimo: A challenge formal dataset for automated theorem proving* [[Paper](https://arxiv.org/pdf/2309.04295.pdf)] <br>
-Chengwu Liu, Jianhao Shen, Huajian Xin, Zhengying Liu, Ye Yuan, Haiming Wang, **Wei Ju**, Chuanyang Zheng, Yichun Yin, Lin Li, Ming Zhang, Qun Liu <br>
+Chengwu Liu, Jianhao Shen, Huajian Xin, Zhengying Liu, Ye Yuan, Haiming Wang, **Wei Ju**, Chuanyang Zheng, Yichun Yin, Lin Li, Ming Zhang, and Qun Liu <br>
 
 1.  *Poisoning scientific knowledge using large language models* [[Paper](https://www.biorxiv.org/content/biorxiv/early/2023/11/10/2023.11.06.565928.full.pdf)] <br>
-Junwei Yang, Hanwen Xu, Srbuhi Mirzoyan, Tong Chen, Zixuan Liu, **Wei Ju**, Luchen Liu, Ming Zhang, Sheng Wang <br>
+Junwei Yang, Hanwen Xu, Srbuhi Mirzoyan, Tong Chen, Zixuan Liu, **Wei Ju**, Luchen Liu, Ming Zhang, and Sheng Wang <br>
 
 1.  *Graph ODE with Factorized Prototypes for Modeling Complicated Interacting Dynamics* [[Paper](https://arxiv.org/pdf/2311.06554.pdf)] <br>
-Xiao Luo, Yiyang Gu, Huiyu Jiang, Jinsheng Huang, **Wei Ju**, Ming Zhang, Yizhou Sun <br>
+Xiao Luo, Yiyang Gu, Huiyu Jiang, Jinsheng Huang, **Wei Ju**, Ming Zhang, and Yizhou Sun <br>
 
+1.  *Learning from the Future: Improve Long-term Mesh-based Simulation with Foresight* [[Paper](https://openreview.net/pdf?id=tFYcEUlUTt)] <br>
+Xiao Luo, Junyu Luo, Huiyu Jiang, Wei Ju, Carl Yang, Ming Zhang, and Yizhou Sun <br>
 
 Publications
 =====
