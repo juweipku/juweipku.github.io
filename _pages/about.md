@@ -70,6 +70,9 @@ Survey
 **Wei Ju**, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Yifan Wang, Xiao Luo, and Ming Zhang <br>
 ***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
 
+1.  *A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges* [[Paper](https://arxiv.org/pdf/2403.04468.pdf)] <br>
+**Wei Ju**, Siyu Yi, Yifan Wang, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Xiao Luo, Philip S Yu, and Ming Zhang <br>
+
 1.  *A Survey of Data-Efficient Graph Learning* [[Paper](https://arxiv.org/pdf/2402.00447.pdf)] <br>
 **Wei Ju**, Siyu Yi, Yifan Wang, Qingqing Long, Junyu Luo, Zhiping Xiao, and Ming Zhang <br>
 
@@ -273,7 +276,9 @@ Program Committee Member and Reviewer
 Journal:
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+* IEEE Transactions on Intelligent Vehicles (TIV)
 * IEEE Transactions on Cognitive and Developmental Systems (TCDS)
+* ACM Transactions on Information Systems (TOIS)
 * ACM Transactions on Knowledge Discovery from Data (TKDD)
 * Transactions on Machine Learning Research (TMLR)
 * Information Fusion (IF)
@@ -281,11 +286,12 @@ Journal:
 * Neural Networks (NN)
 * Knowledge-Based Systems (KBS)
 * Neurocomputing (NC)
+* Neural Computing and Applications (NCAA)
 * Signal Processing (SP)
 * BMC Bioinformatics
 * PLOS ONE
 
 Conference:
-* 2024: ICLR, KDD, WWW, CVPR, ACL, AAAI, IJCAI, ACMMM, WSDM, SDM, ICASSP, AISTATS, DASFAA, PAKDD, CAI
+* 2024: ICLR, KDD, WWW, CVPR, ECCV, ACL, AAAI, IJCAI, ACMMM, WSDM, SDM, ICASSP, AISTATS, DASFAA, PAKDD, CAI
 * 2023: NeurIPS, KDD, AAAI, IJCAI, SIGIR, ACMMM, CIKM, ICDM, BMVC, LoG, ISKE
 * 2022: ECCV, IJCNN, ICONIP
