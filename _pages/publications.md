@@ -43,7 +43,7 @@ Thirty-Seventh AAAI Conference on Artificial Intelligence <br>
 **Wei Ju**<sup>\*</sup>, Zequn Liu<sup>\*</sup>, Yifang Qin, Bin Feng, Chen Wang, Zhihui Guo, Xiao Luo, and Ming Zhang <br>
 ***Neural Networks 2023, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
 
-1.  *Zero-shot Node Classification with Graph Contrastive Embedding Network* [[Paper]()] <br>
+1.  *Zero-shot Node Classification with Graph Contrastive Embedding Network* [[Paper](https://openreview.net/pdf?id=8wGXnjRLSy)] <br>
 **Wei Ju**, Yifang Qin, Siyu Yi, Zhengyang Mao, Kangjie Zheng, Luchen Liu, Xiao Luo, and Ming Zhang <br>
 Transactions on Machine Learning Research <br>
 ***TMLR 2023***
@@ -53,17 +53,17 @@ Zhengyang Mao<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yifang Qin, Xiao Luo, and M
 ACM International Conference on Multimedia <br>
 ***ACMMM 2023, <span style="color:red">CCF-A</span>***
 
-1.  *Self-supervised Graph-level Representation Learning with Adversarial Contrastive Learning* [[Paper]()] <br>
+1.  *Self-supervised Graph-level Representation Learning with Adversarial Contrastive Learning* [[Paper](https://dl.acm.org/doi/pdf/10.1145/3624018)] <br>
 Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yiyang Gu, Zhengyang Mao, Luchen Liu, Yuhui Yuan, and Ming Zhang <br>
 ACM Transactions on Knowledge Discovery from Data <br>
 ***TKDD 2023, <span style="color:red">CCF-B</span>***
 
-1.  *Redundancy-Free Self-Supervised Relational Learning for Graph Clustering* [[Paper](../files/TNNLS_R2FGC.pdf)] <br>
+1.  *Redundancy-Free Self-Supervised Relational Learning for Graph Clustering* [[Paper](https://arxiv.org/pdf/2309.04694.pdf)] <br>
 Siyu Yi, **Wei Ju**, Yifang Qin, Xiao Luo, Luchen Liu, Yongdao Zhou, and Ming Zhang <br>
 IEEE Transactions on Neural Networks and Learning Systems <br>
 ***TNNLS 2023, <span style="color:red">CCF-B, JCR Q1, IF=10.4</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Towards Effective Semi-supervised Node Classification with Hybrid Curriculum Pseudo-labeling* [[Paper]()] <br>
+1.  *Towards Effective Semi-supervised Node Classification with Hybrid Curriculum Pseudo-labeling* [[Paper](https://dl.acm.org/doi/pdf/10.1145/3626528)] <br>
 Xiao Luo, **Wei Ju**, Yiyang Gu, Yifang Qin, Siyu Yi, Daqing Wu, Luchen Liu, and Ming Zhang <br>
 ACM Transactions on Multimedia Computing Communications and Applications <br>
 ***TOMM 2023, <span style="color:red">CCF-B, JCR Q1, IF=5.1</span>, <span style="color:orange">Corresponding Author</span>***
@@ -73,27 +73,27 @@ Yifang Qin, Hongjun Wu, **Wei Ju**, Xiao Luo, and Ming Zhang <br>
 ACM Transactions on Information Systems <br>
 ***TOIS 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting* [[Paper](../files/ICDE23_DyHSL.pdf)] <br>
+1.  *Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting* [[Paper](https://arxiv.org/pdf/2309.12028.pdf)] <br>
 Yusheng Zhao<sup>\*</sup>, Xiao Luo<sup>\*</sup>, **Wei Ju**, Chong Chen, Xian-Sheng Hua, and Ming Zhang <br>
 IEEE International Conference on Data Engineering <br>
 ***ICDE 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Towards Long-Tailed Recognition for Graph Classification via Collaborative Experts* [[Paper](../files/TBD_CoMe.pdf)] <br>
+1.  *Towards Long-Tailed Recognition for Graph Classification via Collaborative Experts* [[Paper](https://arxiv.org/pdf/2308.16609.pdf)] <br>
 Si-Yu Yi<sup>\*</sup>, Zhengyang Mao<sup>\*</sup>, **Wei Ju**, Yong-Dao Zhou, Luchen Liu, Xiao Luo, and Ming Zhang <br>
 IEEE Transactions on Big Data <br>
 ***TBD 2023, <span style="color:red">CCF-C, JCR Q1, IF=7.2</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Towards Semi-supervised Universal Graph Classification* [[Paper](../files/TKDE-UGNN.pdf)] <br>
+1.  *Towards Semi-supervised Universal Graph Classification* [[Paper](https://arxiv.org/pdf/2305.19598.pdf)] <br>
 Xiao Luo<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Yifang Qin<sup>\*</sup>, **Wei Ju**, and Ming Zhang <br>
 IEEE Transactions on Knowledge and Data Engineering <br>
 ***TKDE 2023, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *ALEX: Towards Effective Graph Transfer Learning with Noisy Labels* [[Paper](../files/MM23_ALEX.pdf)] <br>
+1.  *ALEX: Towards Effective Graph Transfer Learning with Noisy Labels* [[Paper](https://arxiv.org/pdf/2309.14673.pdf)] <br>
 Jingyang Yuan, Xiao Luo, Yifang Qin, Zhengyang Mao, **Wei Ju**, and Ming Zhang <br>
 ACM International Conference on Multimedia <br>
 ***ACMMM 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *HOPE: High-order Graph ODE For Modeling Interacting Dynamics* [[Paper](../files/ICML23-HOPE.pdf)] <br>
+1.  *HOPE: High-order Graph ODE For Modeling Interacting Dynamics* [[Paper](https://proceedings.mlr.press/v202/luo23f/luo23f.pdf)] <br>
 Xiao Luo, Jingyang Yuan, Zijie Huang, Huiyu Jiang, Yifang Qin, **Wei Ju**, Ming Zhang, and Yizhou Sun <br>
 International Conference on Machine Learning <br>
 ***ICML 2023, <span style="color:red">CCF-A</span>***
@@ -103,12 +103,12 @@ Yifang Qin<sup>\*</sup>, Yifan Wang<sup>\*</sup>, Fang Sun<sup>\*</sup>, **Wei J
 ACM International Conference on Web Search and Data Mining <br>
 ***WSDM 2023, <span style="color:red">CCF-B</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Learning on Graphs under Label Noise* [[Paper](../files/ICASSP_CGNN.pdf)] <br>
+1.  *Learning on Graphs under Label Noise* [[Paper](https://arxiv.org/pdf/2306.08194.pdf)] <br>
 Jingyang Yuan<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Yifang Qin, Yusheng Zhao, **Wei Ju**, and Ming Zhang <br>
 IEEE International Conference on Acoustics, Speech and Signal Processing <br>
 ***ICASSP 2023, <span style="color:red">CCF-B</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *RIGNN: A Rationale Perspective for Semi-supervised Open-world Graph Classification* [[Paper]()] <br>
+1.  *RIGNN: A Rationale Perspective for Semi-supervised Open-world Graph Classification* [[Paper](https://openreview.net/pdf?id=qcCE4mC2jI)] <br>
 Xiao Luo, Yusheng Zhao, Zhengyang Mao, Yifang Qin, **Wei Ju**, Ming Zhang, and Yizhou Sun <br>
 Transactions on Machine Learning Research <br>
 ***TMLR 2023***
