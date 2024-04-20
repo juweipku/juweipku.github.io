@@ -10,6 +10,11 @@ author_profile: true
 
 2024
 ====
+1.  *A Survey of Data-Efficient Graph Learning* [[Paper](https://arxiv.org/pdf/2402.00447.pdf)] <br>
+**Wei Ju**, Siyu Yi, Yifan Wang, Qingqing Long, Junyu Luo, Zhiping Xiao, and Ming Zhang <br>
+International Joint Conference on Artificial Intelligence <br>
+***IJCAI 2024, <span style="color:red">CCF-A</span>***
+
 1.  *GPS: Graph Contrastive Learning via Multi-scale Augmented Views from Adversarial Pooling* [[Paper]()] <br>
 **Wei Ju**, Yiyang Gu, Zhengyang Mao, Ziyue Qiao, Yifang Qin, Xiao Luo, Hui Xiong, and Ming Zhang <br>
 SCIENCE CHINA Information Sciences <br>
@@ -28,11 +33,16 @@ Yifang Qin<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Hongjun Wu, Xiao Luo, and Mi
 IEEE Transactions on Knowledge and Data Engineering <br>
 ***TKDE 2024, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>***
 
+1.  *Rank and Align: Towards effective Source-free Graph Domain Adaptation* [[Paper]()] <br>
+Junyu Luo, Zhiping Xiao, Yifan Wang, Xiao Luo, Jingyang Yuan, Wei Ju, Langechuan Liu, and Ming Zhang <br>
+International Joint Conference on Artificial Intelligence <br>
+***IJCAI 2024, <span style="color:red">CCF-A</span>***
+
 2023
 ====
 1.  *GLCC: A General Framework for Graph-level Clustering* [[Paper](https://arxiv.org/pdf/2210.11879.pdf)] <br>
 **Wei Ju**<sup>\*</sup>, Yiyang Gu<sup>\*</sup>, Binqi Chen, Gongbo Sun, Yifang Qin, Xingyuming Liu, Xiao Luo, and Ming Zhang <br>
-Thirty-Seventh AAAI Conference on Artificial Intelligence <br>
+AAAI Conference on Artificial Intelligence <br>
 ***AAAI 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation</span>***
 
 1.  *Few-shot Molecular Property Prediction via Hierarchically Structured Learning on Relation Graphs* [[Paper](../files/NN_HSL-RG.pdf)] <br>
@@ -40,7 +50,7 @@ Thirty-Seventh AAAI Conference on Artificial Intelligence <br>
 ***Neural Networks 2023, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
 
 1.  *Unsupervised Graph-level Representation Learning with Hierarchical Contrasts* [[Paper](../files/NN-HGCL.pdf)] <br>
-**Wei Ju**<sup>\*</sup>, Zequn Liu<sup>\*</sup>, Yifang Qin, Bin Feng, Chen Wang, Zhihui Guo, Xiao Luo, and Ming Zhang <br>
+**Wei Ju**<sup>\*</sup>, Yiyang Gu<sup>\*</sup>, Xiao Luo, Yifan Wang, Haochen Yuan, Huasong Zhong, and Ming Zhang <br>
 ***Neural Networks 2023, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
 
 1.  *Zero-shot Node Classification with Graph Contrastive Embedding Network* [[Paper](https://openreview.net/pdf?id=8wGXnjRLSy)] <br>
@@ -117,7 +127,7 @@ Transactions on Machine Learning Research <br>
 ====
 1.  *TGNN: A Joint Semi-supervised Framework for Graph-level Classification* [[Paper](../files/IJCAI_TGNN.pdf)] <br>
 **Wei Ju**<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Meng Qu, Yifan Wang, Chong Chen, Minghua Deng, Xian-Sheng Hua, and Ming Zhang <br>
-Thirty-First International Joint Conference on Artificial Intelligence <br>
+International Joint Conference on Artificial Intelligence <br>
 ***IJCAI 2022, <span style="color:red">CCF-A</span>***
 
 1.  *Kernel-based Substructure Exploration for Next POI Recommendation* [[Paper](https://arxiv.org/pdf/2210.03969.pdf)][[Code](https://github.com/Fang6ang/KBGNN)] <br>
