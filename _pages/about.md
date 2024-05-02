@@ -27,6 +27,7 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
+* **2024-5**: Two papers have been accepted by ***ICML 2024*** !!
 * **2024-4**: Two papers have been accepted by ***IJCAI 2024*** !!
 * **2024-3**: One paper has been accepted by ***Information Fusion 2024*** !!
 * **2024-2**: One paper has been accepted by ***Neural Networks 2024*** !!
@@ -100,9 +101,17 @@ Xiao Luo, Yiyang Gu, Huiyu Jiang, Jinsheng Huang, **Wei Ju**, Ming Zhang, and Yi
 1.  *Learning from the Future: Improve Long-term Mesh-based Simulation with Foresight* [[Paper](https://openreview.net/pdf?id=tFYcEUlUTt)] <br>
 Xiao Luo, Junyu Luo, Huiyu Jiang, Wei Ju, Carl Yang, Ming Zhang, and Yizhou Sun <br>
 
+1.  *When does maml work the best? an empirical study on model-agnostic meta-learning in nlp applications* [[Paper](https://arxiv.org/pdf/2005.11700)] <br>
+Zequn Liu, Ruiyi Zhang, Yiping Song, Wei Ju, and Ming Zhang <br>
+
 Selected Publications [[See All](https://juweipku.github.io/publications/)]
 =====
 (\* Equal Contribution)
+
+1.  *Hypergraph-enhanced Dual Semi-supervised Graph Classification* [[Paper]()] <br>
+**Wei Ju**, Zhengyang Mao, Siyu Yi, Yifang Qin, Yiyang Gu, Zhiping Xiao, Yifan Wang, Xiao Luo, and Ming Zhang <br>
+International Conference on Machine Learning <br>
+***ICML 2024, <span style="color:red">CCF-A</span>***
 
 1.  *GLCC: A General Framework for Graph-level Clustering* [[Paper](https://arxiv.org/pdf/2210.11879.pdf)] <br>
 **Wei Ju**<sup>\*</sup>, Yiyang Gu<sup>\*</sup>, Binqi Chen, Gongbo Sun, Yifang Qin, Xingyuming Liu, Xiao Luo, and Ming Zhang <br>
@@ -137,6 +146,10 @@ IEEE International Conference on Data Mining <br>
 **Wei Ju**, Junwei Yang, Meng Qu, Weiping Song, Jianhao Shen, and Ming Zhang <br>
 ACM International Conference on Web Search and Data Mining <br>
 ***WSDM 2022, <span style="color:red">CCF-B</span>***
+
+1.  *Focus on Informative Graphs! Semi-supervised Active Learning for Graph-level Classification* [[Paper]()] <br>
+**Wei Ju**, Zhengyang Mao, Ziyue Qiao, Yifang Qin, Siyu Yi, Zhiping Xiao, Xiao Luo, Yanjie Fu, and Ming Zhang <br>
+***Pattern Recognition 2024, <span style="color:red">CCF-B, JCR Q1, IF=8.0</span>***
 
 1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](https://arxiv.org/pdf/2304.05055.pdf)] <br>
 **Wei Ju**, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Yifan Wang, Xiao Luo, and Ming Zhang <br>
@@ -202,6 +215,6 @@ Journal:
 * Multimedia Systems
 
 Conference:
-* 2024: ICLR, ICML, KDD, WWW, CVPR, ECCV, ACL, AAAI, IJCAI, ACMMM, WSDM, SDM, ICASSP, AISTATS, DASFAA, PAKDD, CAI
+* 2024: ICLR, ICML, KDD, WWW, CVPR, ECCV, ACL, AAAI, IJCAI, ACMMM, WSDM, CIKM, SDM, ICASSP, AISTATS, DASFAA, PAKDD, CAI
 * 2023: NeurIPS, KDD, AAAI, IJCAI, SIGIR, ACMMM, CIKM, ICDM, BMVC, LoG, ISKE
 * 2022: ECCV, IJCNN, ICONIP
