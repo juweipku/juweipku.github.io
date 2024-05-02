@@ -10,6 +10,11 @@ author_profile: true
 
 2024
 ====
+1.  *Hypergraph-enhanced Dual Semi-supervised Graph Classification* [[Paper]()] <br>
+**Wei Ju**, Zhengyang Mao, Siyu Yi, Yifang Qin, Yiyang Gu, Zhiping Xiao, Yifan Wang, Xiao Luo, and Ming Zhang <br>
+International Conference on Machine Learning <br>
+***ICML 2024, <span style="color:red">CCF-A</span>***
+
 1.  *A Survey of Data-Efficient Graph Learning* [[Paper](https://arxiv.org/pdf/2402.00447.pdf)] <br>
 **Wei Ju**, Siyu Yi, Yifan Wang, Qingqing Long, Junyu Luo, Zhiping Xiao, and Ming Zhang <br>
 International Joint Conference on Artificial Intelligence <br>
@@ -19,6 +24,10 @@ International Joint Conference on Artificial Intelligence <br>
 **Wei Ju**, Yiyang Gu, Zhengyang Mao, Ziyue Qiao, Yifang Qin, Xiao Luo, Hui Xiong, and Ming Zhang <br>
 SCIENCE CHINA Information Sciences <br>
 ***SCIS 2024, <span style="color:red">CCF-A, JCR Q1, IF=8.8</span>***
+
+1.  *Focus on Informative Graphs! Semi-supervised Active Learning for Graph-level Classification* [[Paper]()] <br>
+**Wei Ju**, Zhengyang Mao, Ziyue Qiao, Yifang Qin, Siyu Yi, Zhiping Xiao, Xiao Luo, Yanjie Fu, and Ming Zhang <br>
+***Pattern Recognition 2024, <span style="color:red">CCF-B, JCR Q1, IF=8.0</span>***
 
 1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](https://arxiv.org/pdf/2304.05055.pdf)] <br>
 **Wei Ju**, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Yifan Wang, Xiao Luo, and Ming Zhang <br>
@@ -33,8 +42,13 @@ Yifang Qin<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Hongjun Wu, Xiao Luo, and Mi
 IEEE Transactions on Knowledge and Data Engineering <br>
 ***TKDE 2024, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>***
 
+1.  *PGODE: Towards High-quality System Dynamics Modeling* [[Paper]()] <br>
+Xiao Luo, Yiyang Gu, Huiyu Jiang, Hang Zhou, Jinsheng Huang, **Wei Ju**, Zhiping Xiao, Ming Zhang, and Yizhou Sun <br>
+International Conference on Machine Learning <br>
+***ICML 2024, <span style="color:red">CCF-A</span>***
+
 1.  *Rank and Align: Towards effective Source-free Graph Domain Adaptation* [[Paper]()] <br>
-Junyu Luo, Zhiping Xiao, Yifan Wang, Xiao Luo, Jingyang Yuan, Wei Ju, Langechuan Liu, and Ming Zhang <br>
+Junyu Luo, Zhiping Xiao, Yifan Wang, Xiao Luo, Jingyang Yuan, **Wei Ju**, Langechuan Liu, and Ming Zhang <br>
 International Joint Conference on Artificial Intelligence <br>
 ***IJCAI 2024, <span style="color:red">CCF-A</span>***
 
