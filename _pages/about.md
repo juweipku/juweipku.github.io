@@ -28,6 +28,7 @@ Research interests
 <span style="color:red">What’s New</span>
 =====
 * **2024-5**: Two papers have been accepted by ***ICML 2024*** !!
+* **2024-5**: One paper has been accepted by ***Pattern Recognition 2024*** !!
 * **2024-4**: Two papers have been accepted by ***IJCAI 2024*** !!
 * **2024-3**: One paper has been accepted by ***Information Fusion 2024*** !!
 * **2024-2**: One paper has been accepted by ***Neural Networks 2024*** !!
