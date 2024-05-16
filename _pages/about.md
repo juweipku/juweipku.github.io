@@ -181,7 +181,7 @@ Funds and Projects
 
 Honors and Awards
 =====
-* Sep. 2023: [**Outstanding Doctoral Dissertation Award**](https://mp.weixin.qq.com/s/q7mgixyw9tbdIcKq3C3GNw), ACM SIGCSE
+* Sep. 2023: [**Outstanding Doctoral Dissertation Award (The Only Winner in ACM SIGCSE Chapter)**](https://mp.weixin.qq.com/s/q7mgixyw9tbdIcKq3C3GNw), ACM SIGCSE
 * Nov. 2022: 🏆 **Best Paper Finalist**, ICDM
 * Dec. 2021: **Award for Scientific Research**, Peking University
 * Dec. 2020: **Huawei Scholarship**, Huawei Technologies Co., Ltd.
@@ -197,6 +197,7 @@ Program Committee Member and Reviewer
 Journal:
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+* IEEE Transactions on Multimedia (TMM)
 * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 * IEEE Transactions on Intelligent Vehicles (TIV)
 * IEEE Transactions on Cognitive and Developmental Systems (TCDS)
