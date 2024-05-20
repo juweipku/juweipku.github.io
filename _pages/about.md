@@ -27,6 +27,7 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
+* **2024-5**: One paper has been accepted by ***TMM 2024*** !!
 * **2024-5**: Two papers have been accepted by ***ICML 2024*** !!
 * **2024-5**: One paper has been accepted by ***Pattern Recognition 2024*** !!
 * **2024-4**: Two papers have been accepted by ***IJCAI 2024*** !!
@@ -100,10 +101,10 @@ Junwei Yang, Hanwen Xu, Srbuhi Mirzoyan, Tong Chen, Zixuan Liu, **Wei Ju**, Luch
 Xiao Luo, Yiyang Gu, Huiyu Jiang, Jinsheng Huang, **Wei Ju**, Ming Zhang, and Yizhou Sun <br>
 
 1.  *Learning from the Future: Improve Long-term Mesh-based Simulation with Foresight* [[Paper](https://openreview.net/pdf?id=tFYcEUlUTt)] <br>
-Xiao Luo, Junyu Luo, Huiyu Jiang, Wei Ju, Carl Yang, Ming Zhang, and Yizhou Sun <br>
+Xiao Luo, Junyu Luo, Huiyu Jiang, **Wei Ju**, Carl Yang, Ming Zhang, and Yizhou Sun <br>
 
 1.  *When does maml work the best? an empirical study on model-agnostic meta-learning in nlp applications* [[Paper](https://arxiv.org/pdf/2005.11700)] <br>
-Zequn Liu, Ruiyi Zhang, Yiping Song, Wei Ju, and Ming Zhang <br>
+Zequn Liu, Ruiyi Zhang, Yiping Song, **Wei Ju**, and Ming Zhang <br>
 
 Selected Publications [[See All](https://juweipku.github.io/publications/)]
 =====
