@@ -80,8 +80,11 @@ International Joint Conference on Artificial Intelligence <br>
 **Wei Ju**, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Yifan Wang, Xiao Luo, and Ming Zhang <br>
 ***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
 
-1.  *A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges* [[Paper](https://arxiv.org/pdf/2403.04468.pdf)] <br>
+1.  *Towards Graph Contrastive Learning: A Survey and Beyond* [[Paper](https://arxiv.org/pdf/2405.11868.pdf)] <br>
 **Wei Ju**, Siyu Yi, Yifan Wang, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Xiao Luo, Philip S Yu, and Ming Zhang <br>
+
+1.  *A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges* [[Paper](https://arxiv.org/pdf/2403.04468.pdf)] <br>
+**Wei Ju**, Yifan Wang, Yifang Qin, Zhengyang Mao, Zhiping Xiao, Junyu Luo, Junwei Yang, Yiyang Gu, Dongjie Wang, Qingqing Long, Siyu Yi, Xiao Luo, and Ming Zhang <br>
 
 1.  *A Survey on Graph Neural Networks in Intelligent Transportation Systems* [[Paper](https://arxiv.org/pdf/2401.00713.pdf)] <br>
 Hourun Li, Yusheng Zhao, Zhengyang Mao, Yifang Qin, Zhiping Xiao, Jiaqi Feng, Yiyang Gu, **Wei Ju**, Xiao Luo, and Ming Zhang <br>
