@@ -42,6 +42,11 @@ Yifang Qin<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Hongjun Wu, Xiao Luo, and Mi
 IEEE Transactions on Knowledge and Data Engineering <br>
 ***TKDE 2024, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>***
 
+1.  *GALA: Graph Diffusion-based Alignment with Jigsaw for Source-free Domain Adaptation* [[Paper]()] <br>
+Junyu Luo, Yiyang Gu, Xiao Luo, **Wei Ju**, Yusheng Zhao, Zhiping Xiao, Jingyang Yuan, and Ming Zhang <br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence <br>
+***TPAMI 2024, <span style="color:red">CCF-A, JCR Q1, IF=23.6</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *PGODE: Towards High-quality System Dynamics Modeling* [[Paper]()] <br>
 Xiao Luo, Yiyang Gu, Huiyu Jiang, Hang Zhou, Jinsheng Huang, **Wei Ju**, Zhiping Xiao, Ming Zhang, and Yizhou Sun <br>
 International Conference on Machine Learning <br>
