@@ -27,6 +27,7 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
+* **2024-6**: One paper has been accepted by ***TPAMI 2024*** !!
 * **2024-5**: One paper has been accepted by ***TMM 2024*** !!
 * **2024-5**: Two papers have been accepted by ***ICML 2024*** !!
 * **2024-5**: One paper has been accepted by ***Pattern Recognition 2024*** !!
@@ -207,6 +208,7 @@ Journal:
 * IEEE Transactions on Cognitive and Developmental Systems (TCDS)
 * ACM Transactions on Information Systems (TOIS)
 * ACM Transactions on Knowledge Discovery from Data (TKDD)
+* ACM Transactions on Intelligent Systems and Technology (TIST)
 * Transactions on Machine Learning Research (TMLR)
 * Information Fusion (IF)
 * Pattern Recognition (PR)
@@ -221,6 +223,7 @@ Journal:
 * Multimedia Systems
 
 Conference:
-* 2024: ICLR, ICML, NeurIPS, KDD, WWW, CVPR, ECCV, ACL, AAAI, IJCAI, ACMMM, WSDM, CIKM, SDM, ICASSP, AISTATS, DASFAA, BMVC, PAKDD, CAI
+* 2025: AAAI
+* 2024: ICLR, ICML, NeurIPS, KDD, WWW, CVPR, ECCV, ACL, AAAI, IJCAI, ACMMM, WSDM, CIKM, SDM, ICASSP, AISTATS, DASFAA, BMVC, PAKDD, LoG, CAI
 * 2023: NeurIPS, KDD, AAAI, IJCAI, SIGIR, ACMMM, CIKM, ICDM, BMVC, LoG, ISKE
 * 2022: ECCV, IJCNN, ICONIP
