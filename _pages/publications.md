@@ -55,7 +55,7 @@ International Conference on Machine Learning <br>
 1.  *Rank and Align: Towards effective Source-free Graph Domain Adaptation* [[Paper]()] <br>
 Junyu Luo, Zhiping Xiao, Yifan Wang, Xiao Luo, Jingyang Yuan, **Wei Ju**, Langechuan Liu, and Ming Zhang <br>
 International Joint Conference on Artificial Intelligence <br>
-***IJCAI 2024, <span style="color:red">CCF-A</span>***
+***IJCAI 2024, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation</span>***
 
 1.  *DEER: Distribution Divergence-based Graph Contrast for Partial Label Learning on Graphs* [[Paper]()] <br>
 Yiyang Gu, Zihao Chen, Yifang Qin, Zhengyang Mao, Zhiping Xiao, **Wei Ju**, Chong Chen, Xian-Sheng Hua, Yifan Wang, Xiao Luo, and Ming Zhang <br>
