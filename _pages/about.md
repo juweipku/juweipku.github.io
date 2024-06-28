@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Wei Ju (琚玮) is currently a postdoc research fellow in Computer Science at Peking University. Prior to that, he received his Ph.D. degree in Computer Science from Peking University in June 2022, under the supervision of Prof. [Ming Zhang](https://cs.pku.edu.cn/info/1086/1730.htm). His current research interests lie primarily in the area of machine learning on graphs including graph representation learning and graph neural networks, and interdisciplinary applications such as bioinformatics, drug discovery, recommender systems, spatio-temporal analysis and knowledge graphs.
+Wei Ju (琚玮) is currently an associate professor (副研究员) with the College of Computer Science, Sichuan University (SCU), Chengdu, China. I'm also a member of [DICALab](https://dicalab.cn/) (Data Intelligence and Computing Arts Lab), which is led by Prof. [Jiancheng Lv](https://cs.scu.edu.cn/info/1303/13767.htm). Before joining SCU, he worked as a postdoc research fellow with Prof. [Ming Zhang](https://cs.pku.edu.cn/info/1086/1730.htm) in the School of Computer Science at Peking University. Prior to that, he received his Ph.D. degree in the School of Computer Science from Peking University in June 2022, under the supervision of Prof. [Ming Zhang](https://cs.pku.edu.cn/info/1086/1730.htm). His current research interests lie primarily in the area of machine learning on graphs including graph representation learning and graph neural networks, and interdisciplinary applications such as bioinformatics, drug discovery, recommender systems, spatio-temporal analysis and knowledge graphs.
 
 <!-- I have also been closely working with Prof. [Jian Tang](https://jian-tang.com/), who is my supervior at [Mila](https://mila.quebec/en/) during Sept. 2018 - Sept. 2019. -->
 
-<span style="color:red">I'm on job market now! If you are interested in me, contact me via juwei@pku.edu.cn</span>
+<!-- <span style="color:red">I'm on job market now! If you are interested in me, contact me via juwei@pku.edu.cn</span> -->
 
 Research interests
 ======
@@ -224,6 +224,6 @@ Journal:
 
 Conference:
 * 2025: AAAI
-* 2024: ICLR, ICML, NeurIPS, KDD, WWW, CVPR, ECCV, ACL, AAAI, IJCAI, ACMMM, WSDM, CIKM, SDM, ICASSP, AISTATS, DASFAA, BMVC, PAKDD, LoG, CAI
+* 2024: ICLR, ICML, NeurIPS, KDD, WWW, CVPR, ECCV, ACL, AAAI, IJCAI, ACMMM, WSDM, CIKM, SDM, ICASSP, AISTATS, DASFAA, BMVC, PAKDD, ACML, LoG, CAI
 * 2023: NeurIPS, KDD, AAAI, IJCAI, SIGIR, ACMMM, CIKM, ICDM, BMVC, LoG, ISKE
 * 2022: ECCV, IJCNN, ICONIP
