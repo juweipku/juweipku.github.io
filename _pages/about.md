@@ -15,7 +15,7 @@ Wei Ju (琚玮) is currently an associate professor (副研究员) with the Coll
 
 <!-- <span style="color:red">I'm on job market now! If you are interested in me, contact me via juwei@pku.edu.cn</span> -->
 
-Research interests
+Research Interests
 ======
 * Deep Learning, Data Mining
 * Graph Representation Learning, Graph Neural Networks
