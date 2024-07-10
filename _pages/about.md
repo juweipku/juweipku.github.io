@@ -219,13 +219,14 @@ Journal:
 * Knowledge-Based Systems (KBS)
 * Neurocomputing (NC)
 * Neural Computing and Applications (NCAA)
+* Artificial Intelligence Review (AIR)
 * Signal Processing (SP)
 * BMC Bioinformatics
 * PLOS ONE
 * Multimedia Systems
 
 Conference:
-* 2025: AAAI
+* 2025: KDD, AAAI
 * 2024: ICLR, ICML, NeurIPS, KDD, WWW, CVPR, ECCV, ACL, AAAI, IJCAI, ACMMM, WSDM, CIKM, SDM, ICASSP, AISTATS, DASFAA, BMVC, PAKDD, ACML, LoG, CAI
 * 2023: NeurIPS, KDD, AAAI, IJCAI, SIGIR, ACMMM, CIKM, ICDM, BMVC, LoG, ISKE
 * 2022: ECCV, IJCNN, ICONIP
