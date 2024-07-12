@@ -65,7 +65,7 @@ IEEE Transactions on Multimedia <br>
 1.  *DisenSemi: Semi-supervised Graph Classification via Disentangled Representation Learning* [[Paper]()] <br>
 Yifan Wang, Xiao Luo, Chong Chen, Xian-Sheng Hua, Ming Zhang, and **Wei Ju** <br>
 IEEE Transactions on Neural Networks and Learning Systems <br>
-***TNNLS 2023, <span style="color:red">CCF-B, JCR Q1, IF=10.2</span>, <span style="color:orange">Corresponding Author</span>***
+***TNNLS 2024, <span style="color:red">CCF-B, JCR Q1, IF=10.2</span>, <span style="color:orange">Corresponding Author</span>***
 
 2023
 ====
