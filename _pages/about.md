@@ -29,6 +29,7 @@ Research Interests
 
 <span style="color:red">What’s New</span>
 =====
+* **2024-7**: One paper has been accepted by ***TNNLS 2024*** !!
 * **2024-6**: One paper has been accepted by ***TPAMI 2024*** !!
 * **2024-5**: One paper has been accepted by ***TMM 2024*** !!
 * **2024-5**: Two papers have been accepted by ***ICML 2024*** !!
