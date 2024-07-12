@@ -62,6 +62,11 @@ Yiyang Gu, Zihao Chen, Yifang Qin, Zhengyang Mao, Zhiping Xiao, **Wei Ju**, Chon
 IEEE Transactions on Multimedia <br>
 ***TMM 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.3</span>***
 
+1.  *DisenSemi: Semi-supervised Graph Classification via Disentangled Representation Learning* [[Paper]()] <br>
+Yifan Wang, Xiao Luo, Chong Chen, Xian-Sheng Hua, Ming Zhang, and **Wei Ju** <br>
+IEEE Transactions on Neural Networks and Learning Systems <br>
+***TNNLS 2023, <span style="color:red">CCF-B, JCR Q1, IF=10.2</span>, <span style="color:orange">Corresponding Author</span>***
+
 2023
 ====
 1.  *GLCC: A General Framework for Graph-level Clustering* [[Paper](https://arxiv.org/pdf/2210.11879.pdf)] <br>
