@@ -125,7 +125,7 @@ IEEE Transactions on Big Data <br>
 1.  *Towards Semi-supervised Universal Graph Classification* [[Paper](https://arxiv.org/pdf/2305.19598.pdf)] <br>
 Xiao Luo<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Yifang Qin<sup>\*</sup>, **Wei Ju**, and Ming Zhang <br>
 IEEE Transactions on Knowledge and Data Engineering <br>
-***TKDE 2023, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>, <span style="color:orange">Corresponding Author</span>***
+***TKDE 2023, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>, <span style="color:orange">Corresponding Author</span>, <span style="color:red">ESI Highly Cited Paper</span>***
 
 1.  *ALEX: Towards Effective Graph Transfer Learning with Noisy Labels* [[Paper](https://arxiv.org/pdf/2309.14673.pdf)] <br>
 Jingyang Yuan, Xiao Luo, Yifang Qin, Zhengyang Mao, **Wei Ju**, and Ming Zhang <br>
