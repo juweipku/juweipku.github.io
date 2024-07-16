@@ -114,6 +114,9 @@ Xiao Luo, Junyu Luo, Huiyu Jiang, **Wei Ju**, Carl Yang, Ming Zhang, and Yizhou 
 1.  *When does maml work the best? an empirical study on model-agnostic meta-learning in nlp applications* [[Paper](https://arxiv.org/pdf/2005.11700)] <br>
 Zequn Liu, Ruiyi Zhang, Yiping Song, **Wei Ju**, and Ming Zhang <br>
 
+1.  *MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation* [[Paper](https://arxiv.org/pdf/2407.00468)] <br>
+Jinsheng Huang, Liang Chen, Taian Guo, Fu Zeng, Yusheng Zhao, Bohan Wu, Ye Yuan, Haozhe Zhao, Zhihui Guo, Yichi Zhang, Jingyang Yuan, **Wei Ju**, Luchen Liu, Tianyu Liu, Baobao Chang, Ming Zhang <br>
+
 Selected Publications [[See All](https://juweipku.github.io/publications/)]
 =====
 (\* Equal Contribution)
