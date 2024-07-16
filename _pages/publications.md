@@ -67,6 +67,11 @@ Yifan Wang, Xiao Luo, Chong Chen, Xian-Sheng Hua, Ming Zhang, and **Wei Ju** <br
 IEEE Transactions on Neural Networks and Learning Systems <br>
 ***TNNLS 2024, <span style="color:red">CCF-B, JCR Q1, IF=10.2</span>, <span style="color:orange">Corresponding Author</span>***
 
+1.  *MOAT: Graph Prompting for 3D Molecular Graphs* [[Paper]()] <br>
+Qingqing Long, Yuchen Yan, Wentao Cui, Meng Xiao, Zhihong Zhu, Wei Ju, Xuezhi Wang and Yuanchun Zhou <br>
+ACM International Conference on Information and Knowledge Management <br>
+***CIKM 2024, <span style="color:red">CCF-B</span>***
+
 2023
 ====
 1.  *GLCC: A General Framework for Graph-level Clustering* [[Paper](https://arxiv.org/pdf/2210.11879.pdf)] <br>
