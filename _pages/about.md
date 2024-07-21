@@ -29,7 +29,7 @@ Research Interests
 
 <span style="color:red">What’s New</span>
 =====
-* **2024-7**: One paper has been accepted by ***TKDD 2024*** !!
+* **2024-7**: One paper has been accepted by ***TKDD 2024*** !
 * **2024-7**: One paper has been accepted by ***CIKM 2024*** !!
 * **2024-7**: Our paper [Towards Semi-Supervised Universal Graph Classification](https://arxiv.org/pdf/2305.19598.pdf) published in ***TKDE 2023*** has been selected as an ***<span style="color:red">ESI Highly Cited Paper</span>*** !!
 * **2024-7**: One paper has been accepted by ***TNNLS 2024*** !!
