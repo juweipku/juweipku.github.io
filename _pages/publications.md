@@ -73,9 +73,14 @@ IEEE Transactions on Multimedia <br>
 ***TMM 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.3</span>***
 
 1.  *MOAT: Graph Prompting for 3D Molecular Graphs* [[Paper]()] <br>
-Qingqing Long, Yuchen Yan, Wentao Cui, Meng Xiao, Zhihong Zhu, **Wei Ju**, Xuezhi Wang and Yuanchun Zhou <br>
+Qingqing Long, Yuchen Yan, Wentao Cui, Meng Xiao, Zhihong Zhu, **Wei Ju**, Xuezhi Wang, and Yuanchun Zhou <br>
 ACM International Conference on Information and Knowledge Management <br>
 ***CIKM 2024, <span style="color:red">CCF-B</span>***
+
+1.  *Poisoning medical knowledge using large language models* [[Paper]()] <br>
+Junwei Yang, Hanwen Xu, Srbuhi Mirzoyan, Tong Chen, Zixuan Liu, Zequn Liu, Wei Ju, Luchen Liu, Zhiping Xiao, Ming Zhang, and Sheng Wang <br>
+Nature Machine Intelligence <br>
+***NMI 2024, <span style="color:red">IF=18.8</span>***
 
 2023
 ====
@@ -120,7 +125,7 @@ ACM Transactions on Multimedia Computing Communications and Applications <br>
 1.  *A Diffusion model for POI recommendation* [[Paper](https://arxiv.org/pdf/2304.07041.pdf)] <br>
 Yifang Qin, Hongjun Wu, **Wei Ju**, Xiao Luo, and Ming Zhang <br>
 ACM Transactions on Information Systems <br>
-***TOIS 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+***TOIS 2023, <span style="color:red">CCF-A</span>, IF=5.6<span style="color:orange">Corresponding Author</span>***
 
 1.  *Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting* [[Paper](https://arxiv.org/pdf/2309.12028.pdf)] <br>
 Yusheng Zhao<sup>\*</sup>, Xiao Luo<sup>\*</sup>, **Wei Ju**, Chong Chen, Xian-Sheng Hua, and Ming Zhang <br>
