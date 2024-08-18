@@ -78,7 +78,7 @@ ACM International Conference on Information and Knowledge Management <br>
 ***CIKM 2024, <span style="color:red">CCF-B</span>***
 
 1.  *Poisoning medical knowledge using large language models* [[Paper]()] <br>
-Junwei Yang, Hanwen Xu, Srbuhi Mirzoyan, Tong Chen, Zixuan Liu, Zequn Liu, Wei Ju, Luchen Liu, Zhiping Xiao, Ming Zhang, and Sheng Wang <br>
+Junwei Yang, Hanwen Xu, Srbuhi Mirzoyan, Tong Chen, Zixuan Liu, Zequn Liu, **Wei Ju**, Luchen Liu, Zhiping Xiao, Ming Zhang, and Sheng Wang <br>
 Nature Machine Intelligence <br>
 ***NMI 2024, <span style="color:red">IF=18.8</span>***
 
