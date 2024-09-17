@@ -32,7 +32,7 @@ Research Interests
 * **2024-9**: Honored to be appointed as an ***<span style="color:orange">Early Career Editor</span>*** of ***Information Fusion*** !!
 * **2024-8**: One paper has been accepted by ***Nature Machine Intelligence 2024*** !!
 * **2024-7**: One paper has been accepted by ***CIKM 2024*** !!
-* **2024-7**: Our paper [Towards Semi-Supervised Universal Graph Classification](https://arxiv.org/pdf/2305.19598.pdf) published in ***TKDE 2023*** has been selected as an ***<span style="color:red">ESI Highly Cited Paper</span>*** !!
+<!-- * **2024-7**: Our paper [Towards Semi-Supervised Universal Graph Classification](https://arxiv.org/pdf/2305.19598.pdf) published in ***TKDE 2023*** has been selected as an ***<span style="color:red">ESI Highly Cited Paper</span>*** !! -->
 * **2024-7**: One paper has been accepted by ***TNNLS 2024*** !!
 * **2024-6**: One paper has been accepted by ***TPAMI 2024*** !!
 * **2024-5**: One paper has been accepted by ***TMM 2024*** !!
@@ -86,16 +86,16 @@ Nature Machine Intelligence <br>
 
 ESI Hot & Highly Cited Paper
 =====
-1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](../files/NN-Survey.pdf)][Link](https://webofscience-clarivate-cn-s.webvpn.scu.edu.cn/wos/alldb/full-record/WOS:001207850100001) <br>
+1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](../files/NN-Survey.pdf)][Link](https://webofscience-clarivate-cn-s.webvpn.scu.edu.cn/wos/alldb/full-record/WOS:001207850100001)] <br>
 **Wei Ju**, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Yifan Wang, Xiao Luo, and Ming Zhang <br>
 ***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>, <span style="color:red">ESI Hot & Highly Cited Paper</span>******
 
-1.  *Self-supervised Graph-level Representation Learning with Adversarial Contrastive Learning* [[Paper](https://dl.acm.org/doi/pdf/10.1145/3624018)][Link](https://webofscience-clarivate-cn-s.webvpn.scu.edu.cn/wos/alldb/full-record/WOS:001099632700002)  <br>
+1.  *Self-supervised Graph-level Representation Learning with Adversarial Contrastive Learning* [[Paper](https://dl.acm.org/doi/pdf/10.1145/3624018)][Link](https://webofscience-clarivate-cn-s.webvpn.scu.edu.cn/wos/alldb/full-record/WOS:001099632700002)]  <br>
 Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yiyang Gu, Zhengyang Mao, Luchen Liu, Yuhui Yuan, and Ming Zhang <br>
 ACM Transactions on Knowledge Discovery from Data <br>
 ***TKDD 2023, <span style="color:red">CCF-B, IF=3.6</span>, <span style="color:orange">Co-first Author</span>, <span style="color:red">ESI Highly Cited Paper</span>***
 
-1.  *Towards Semi-supervised Universal Graph Classification* [[Paper](https://arxiv.org/pdf/2305.19598.pdf)][Link](https://webofscience-clarivate-cn-s.webvpn.scu.edu.cn/wos/alldb/full-record/WOS:001124222100012)  <br>
+1.  *Towards Semi-supervised Universal Graph Classification* [[Paper](https://arxiv.org/pdf/2305.19598.pdf)][Link](https://webofscience-clarivate-cn-s.webvpn.scu.edu.cn/wos/alldb/full-record/WOS:001124222100012)]  <br>
 Xiao Luo<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Yifang Qin<sup>\*</sup>, **Wei Ju**, and Ming Zhang <br>
 IEEE Transactions on Knowledge and Data Engineering <br>
 ***TKDE 2023, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>, <span style="color:orange">Corresponding Author</span>, <span style="color:red">ESI Highly Cited Paper</span>***
