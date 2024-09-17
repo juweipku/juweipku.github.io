@@ -29,8 +29,8 @@ Research Interests
 
 <span style="color:red">What’s New</span>
 =====
+* **2024-9**: Honored to be appointed as an ***<span style="color:orange">Early Career Editor</span>*** of ***Information Fusion*** !!
 * **2024-8**: One paper has been accepted by ***Nature Machine Intelligence 2024*** !!
-* **2024-7**: One paper has been accepted by ***TKDD 2024*** !!
 * **2024-7**: One paper has been accepted by ***CIKM 2024*** !!
 * **2024-7**: Our paper [Towards Semi-Supervised Universal Graph Classification](https://arxiv.org/pdf/2305.19598.pdf) published in ***TKDE 2023*** has been selected as an ***<span style="color:red">ESI Highly Cited Paper</span>*** !!
 * **2024-7**: One paper has been accepted by ***TNNLS 2024*** !!
@@ -84,6 +84,22 @@ Junwei Yang, Hanwen Xu, Srbuhi Mirzoyan, Tong Chen, Zixuan Liu, Zequn Liu, **Wei
 Nature Machine Intelligence <br>
 ***NMI 2024, <span style="color:red">IF=18.8</span>***
 
+ESI Hot & Highly Cited Paper
+=====
+1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](../files/NN-Survey.pdf)] <br>
+**Wei Ju**, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Yifan Wang, Xiao Luo, and Ming Zhang <br>
+***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>, <span style="color:red">ESI Hot & Highly Cited Paper</span>******
+
+1.  *Self-supervised Graph-level Representation Learning with Adversarial Contrastive Learning* [[Paper](https://dl.acm.org/doi/pdf/10.1145/3624018)] <br>
+Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yiyang Gu, Zhengyang Mao, Luchen Liu, Yuhui Yuan, and Ming Zhang <br>
+ACM Transactions on Knowledge Discovery from Data <br>
+***TKDD 2023, <span style="color:red">CCF-B, IF=3.6</span>, <span style="color:orange">Co-first Author</span>, <span style="color:red">ESI Highly Cited Paper</span>***
+
+1.  *Towards Semi-supervised Universal Graph Classification* [[Paper](https://arxiv.org/pdf/2305.19598.pdf)] <br>
+Xiao Luo<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Yifang Qin<sup>\*</sup>, **Wei Ju**, and Ming Zhang <br>
+IEEE Transactions on Knowledge and Data Engineering <br>
+***TKDE 2023, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>, <span style="color:orange">Corresponding Author</span>, <span style="color:red">ESI Highly Cited Paper</span>***
+
 Survey
 =====
 1.  *A Survey of Data-Efficient Graph Learning* [[Paper](https://arxiv.org/pdf/2402.00447.pdf)] <br>
@@ -91,9 +107,9 @@ Survey
 International Joint Conference on Artificial Intelligence <br>
 ***IJCAI 2024, <span style="color:red">CCF-A</span>***
 
-1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](https://arxiv.org/pdf/2304.05055.pdf)] <br>
+1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](../files/NN-Survey.pdf)] <br>
 **Wei Ju**, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Yifan Wang, Xiao Luo, and Ming Zhang <br>
-***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
+***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>, <span style="color:red">ESI Hot & Highly Cited Paper</span>******
 
 1.  *Towards Graph Contrastive Learning: A Survey and Beyond* [[Paper](https://arxiv.org/pdf/2405.11868.pdf)] <br>
 **Wei Ju**, Yifan Wang, Yifang Qin, Zhengyang Mao, Zhiping Xiao, Junyu Luo, Junwei Yang, Yiyang Gu, Dongjie Wang, Qingqing Long, Siyu Yi, Xiao Luo, and Ming Zhang <br>
