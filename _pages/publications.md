@@ -29,9 +29,9 @@ SCIENCE CHINA Information Sciences <br>
 **Wei Ju**, Zhengyang Mao, Ziyue Qiao, Yifang Qin, Siyu Yi, Zhiping Xiao, Xiao Luo, Yanjie Fu, and Ming Zhang <br>
 ***Pattern Recognition 2024, <span style="color:red">CCF-B, JCR Q1, IF=8.0</span>***
 
-1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](https://arxiv.org/pdf/2304.05055.pdf)] <br>
+1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](../files/NN-Survey.pdf)] <br>
 **Wei Ju**, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Yifan Wang, Xiao Luo, and Ming Zhang <br>
-***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
+***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>, <span style="color:red">ESI Hot & Highly Cited Paper</span>******
 
 1.  *COOL: A Conjoint Perspective on Spatio-Temporal Graph Neural Network for Traffic Forecasting* [[Paper]()] <br>
 **Wei Ju**<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Yifang Qin, Siyu Yi, Jingyang Yuan, Zhiping Xiao, Xiao Luo, Xiting Yan, and Ming Zhang <br>
@@ -61,11 +61,6 @@ International Joint Conference on Artificial Intelligence <br>
 Yifan Wang, Xiao Luo, Chong Chen, Xian-Sheng Hua, Ming Zhang, and **Wei Ju** <br>
 IEEE Transactions on Neural Networks and Learning Systems <br>
 ***TNNLS 2024, <span style="color:red">CCF-B, JCR Q1, IF=10.2</span>, <span style="color:orange">Corresponding Author</span>***
-
-1.  *SPORT: A Subgraph Perspective on Graph Classification with Label Noise* [[Paper]()] <br>
-Nan Yin, Yawei Zhao, Li Shen, **Wei Ju**, Chong Chen, Xian-Sheng Hua, and Xiao Luo <br>
-ACM Transactions on Knowledge Discovery from Data <br>
-***TKDD 2024, <span style="color:red">CCF-B, IF=4</span>***
 
 1.  *DEER: Distribution Divergence-based Graph Contrast for Partial Label Learning on Graphs* [[Paper]()] <br>
 Yiyang Gu, Zihao Chen, Yifang Qin, Zhengyang Mao, Zhiping Xiao, **Wei Ju**, Chong Chen, Xian-Sheng Hua, Yifan Wang, Xiao Luo, and Ming Zhang <br>
@@ -110,7 +105,7 @@ ACM International Conference on Multimedia <br>
 1.  *Self-supervised Graph-level Representation Learning with Adversarial Contrastive Learning* [[Paper](https://dl.acm.org/doi/pdf/10.1145/3624018)] <br>
 Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yiyang Gu, Zhengyang Mao, Luchen Liu, Yuhui Yuan, and Ming Zhang <br>
 ACM Transactions on Knowledge Discovery from Data <br>
-***TKDD 2023, <span style="color:red">CCF-B, IF=3.6</span>***
+***TKDD 2023, <span style="color:red">CCF-B, IF=3.6</span>, <span style="color:orange">Co-first Author</span>, <span style="color:red">ESI Highly Cited Paper</span>***
 
 1.  *Redundancy-Free Self-Supervised Relational Learning for Graph Clustering* [[Paper](https://arxiv.org/pdf/2309.04694.pdf)] <br>
 Siyu Yi, **Wei Ju**, Yifang Qin, Xiao Luo, Luchen Liu, Yongdao Zhou, and Ming Zhang <br>
