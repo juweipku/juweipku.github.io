@@ -72,7 +72,7 @@ Yiyang Gu, Zihao Chen, Yifang Qin, Zhengyang Mao, Zhiping Xiao, **Wei Ju**, Chon
 IEEE Transactions on Multimedia <br>
 ***TMM 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.3</span>***
 
-1.  *MOAT: Graph Prompting for 3D Molecular Graphs* [[Paper](../files/CIKM24-MOAT)] <br>
+1.  *MOAT: Graph Prompting for 3D Molecular Graphs* [[Paper](../files/CIKM24-MOAT.pdf)] <br>
 Qingqing Long, Yuchen Yan, Wentao Cui, Meng Xiao, Zhihong Zhu, **Wei Ju**, Xuezhi Wang, and Yuanchun Zhou <br>
 ACM International Conference on Information and Knowledge Management <br>
 ***CIKM 2024, <span style="color:red">CCF-B</span>***
