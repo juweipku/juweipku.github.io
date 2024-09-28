@@ -226,6 +226,7 @@ Honors and Awards
 * May. 2014: **Top 1 of men's singles in table tennis competition for college students**, Sichuan Province
 
 Editorial Board Member
+=====
 * Information Fusion ***<span style="color:red">JCR Q1, IF=18.6</span>
 * Applied Research
 
