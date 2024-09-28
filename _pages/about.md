@@ -227,7 +227,7 @@ Honors and Awards
 
 Editorial Board Member
 =====
-* Information Fusion ***<span style="color:red">JCR Q1, IF=18.6</span>
+* Information Fusion ***<span style="color:red">JCR Q1, IF=18.6</span>***
 * Applied Research
 
 Program Committee Member and Reviewer
