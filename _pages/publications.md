@@ -40,7 +40,7 @@ SCIENCE CHINA Information Sciences <br>
 1.  *Learning Graph ODE for Continuous-Time Sequential Recommendation* [[Paper](../files/TKDE24-GDERec.pdf)] <br>
 Yifang Qin<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Hongjun Wu, Xiao Luo, and Ming Zhang <br>
 IEEE Transactions on Knowledge and Data Engineering <br>
-***TKDE 2024, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>***
+***TKDE 2024, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>, <span style="color:orange">Co-first Author</span>***
 
 1.  *GALA: Graph Diffusion-based Alignment with Jigsaw for Source-free Domain Adaptation* [[Paper](../files/TPAMI24-GALA.pdf)][[Code](https://github.com/luo-junyu/GALA)] <br>
 Junyu Luo, Yiyang Gu, Xiao Luo, **Wei Ju**, Yusheng Zhao, Zhiping Xiao, Jingyang Yuan, and Ming Zhang <br>
@@ -105,7 +105,7 @@ Transactions on Machine Learning Research <br>
 1.  *RAHNet: Retrieval Augmented Hybrid Network for Long-tailed Graph Classification* [[Paper](../files/MM23-RAHNet.pdf)] <br>
 Zhengyang Mao<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yifang Qin, Xiao Luo, and Ming Zhang <br>
 ACM International Conference on Multimedia <br>
-***ACMMM 2023, <span style="color:red">CCF-A</span>***
+***ACMMM 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Co-first Author</span>***
 
 1.  *Self-supervised Graph-level Representation Learning with Adversarial Contrastive Learning* [[Paper](../files/TKDD23-GraphACL.pdf)] <br>
 Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yiyang Gu, Zhengyang Mao, Luchen Liu, Yuhui Yuan, and Ming Zhang <br>
@@ -191,17 +191,17 @@ ACM International Conference on Web Search and Data Mining <br>
 1.  *DualGraph: Improving Semi-supervised Graph Classification via Dual Contrastive Learning* [[Paper](../files/ICDE22-DualGraph.pdf)] <br>
 Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Meng Qu, Chong Chen, Minghua Deng, Xian-Sheng Hua, and Ming Zhang <br>
 IEEE International Conference on Data Engineering <br>
-***ICDE 2022, <span style="color:red">CCF-A</span>, <span style="color:orange">Early Accept</span>***
+***ICDE 2022, <span style="color:red">CCF-A</span>, , <span style="color:orange">Co-first Author</span>, <span style="color:orange">Early Accept</span>***
 
 1.  *Improved Deep Unsupervised Hashing via Prototypical Learning* [[Paper](../files/MM22-PURPLE.pdf)] <br>
 Zeyu Ma<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Xiao Luo, Chong Chen, Xian-Sheng Hua, and Guangming Lu <br>
 ACM International Conference on Multimedia <br>
-***ACMMM 2022, <span style="color:red">CCF-A</span>***
+***ACMMM 2022, <span style="color:red">CCF-A</span>, <span style="color:orange">Co-first Author</span>***
 
 1.  *CLEAR: Cluster-enhanced Contrast for Self-supervised Graph Representation Learning* [[Paper](../files/TNNLS22-CLEAR.pdf)] <br>
 Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Meng Qu, Yiyang Gu, Chong Chen, Minghua Deng, Xian-Sheng Hua, and Ming Zhang <br>
 IEEE Transactions on Neural Networks and Learning Systems <br>
-***TNNLS 2022, <span style="color:red">CCF-B, JCR Q1, IF=14.255</span>***
+***TNNLS 2022, <span style="color:red">CCF-B, JCR Q1, IF=14.255</span>, <span style="color:orange">Co-first Author</span>***
 
 1.  *Building Conversational Diagnosis Systems for Fine-grained Diseases using Few Annotated Data* [[Paper](../files/ICONIP-22.pdf)] <br>
 Yiping Song, **Wei Ju**, Zhiliang Tian, Luchen Liu, Ming Zhang, and Zheng Xie <br>
