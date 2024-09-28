@@ -57,6 +57,11 @@ Junyu Luo, Zhiping Xiao, Yifan Wang, Xiao Luo, Jingyang Yuan, **Wei Ju**, Langec
 International Joint Conference on Artificial Intelligence <br>
 ***IJCAI 2024, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation</span>***
 
+1.  *EGODE: An Event-attended Graph ODE Framework for Modeling Rigid Dynamics* [[Paper]()] <br>
+Jingyang Yuan, Gongbo Sun, Zhiping Xiao, Hang Zhou, Xiao Luo, Junyu Luo, Yusheng Zhao, **Wei Ju**, and Ming Zhang <br>
+International Conference on Machine Learning <br>
+***NeurIPS 2024, <span style="color:red">CCF-A</span>***
+
 1.  *DisenSemi: Semi-supervised Graph Classification via Disentangled Representation Learning* [[Paper]()] <br>
 Yifan Wang, Xiao Luo, Chong Chen, Xian-Sheng Hua, Ming Zhang, and **Wei Ju** <br>
 IEEE Transactions on Neural Networks and Learning Systems <br>
