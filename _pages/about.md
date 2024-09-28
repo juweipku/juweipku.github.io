@@ -80,35 +80,35 @@ Research Interests
 
 Nature 子刊
 =====
-1.  *Poisoning medical knowledge using large language models* [[Paper]()] <br>
+1.  *Poisoning medical knowledge using large language models* [[Paper](../files/NMI24.pdf)] <br>
 Junwei Yang, Hanwen Xu, Srbuhi Mirzoyan, Tong Chen, Zixuan Liu, Zequn Liu, **Wei Ju**, Luchen Liu, Zhiping Xiao, Ming Zhang, and Sheng Wang <br>
 Nature Machine Intelligence <br>
 ***NMI 2024, <span style="color:red">IF=18.8</span>***
 
 ESI Hot & Highly Cited Paper
 =====
-1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](../files/NN-Survey.pdf)][Link](https://webofscience-clarivate-cn-s.webvpn.scu.edu.cn/wos/alldb/full-record/WOS:001207850100001)] <br>
+1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](../files/NN24-Survey.pdf)][Link](https://webofscience-clarivate-cn-s.webvpn.scu.edu.cn/wos/alldb/full-record/WOS:001207850100001)] <br>
 **Wei Ju**, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Yifan Wang, Xiao Luo, and Ming Zhang <br>
 ***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>, <span style="color:red">ESI Hot & Highly Cited Paper</span>******
 
-1.  *Self-supervised Graph-level Representation Learning with Adversarial Contrastive Learning* [[Paper](https://dl.acm.org/doi/pdf/10.1145/3624018)][Link](https://webofscience-clarivate-cn-s.webvpn.scu.edu.cn/wos/alldb/full-record/WOS:001099632700002)]  <br>
+1.  *Self-supervised Graph-level Representation Learning with Adversarial Contrastive Learning* [[Paper](../files/TKDD23-GraphACL.pdf)][Link](https://webofscience-clarivate-cn-s.webvpn.scu.edu.cn/wos/alldb/full-record/WOS:001099632700002)]  <br>
 Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yiyang Gu, Zhengyang Mao, Luchen Liu, Yuhui Yuan, and Ming Zhang <br>
 ACM Transactions on Knowledge Discovery from Data <br>
 ***TKDD 2023, <span style="color:red">CCF-B, IF=3.6</span>, <span style="color:orange">Co-first Author</span>, <span style="color:red">ESI Highly Cited Paper</span>***
 
-1.  *Towards Semi-supervised Universal Graph Classification* [[Paper](https://arxiv.org/pdf/2305.19598.pdf)][Link](https://webofscience-clarivate-cn-s.webvpn.scu.edu.cn/wos/alldb/full-record/WOS:001124222100012)]  <br>
+1.  *Towards Semi-supervised Universal Graph Classification* [[Paper](../files/TKDE23-UGNN.pdf)][Link](https://webofscience-clarivate-cn-s.webvpn.scu.edu.cn/wos/alldb/full-record/WOS:001124222100012)]  <br>
 Xiao Luo<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Yifang Qin<sup>\*</sup>, **Wei Ju**, and Ming Zhang <br>
 IEEE Transactions on Knowledge and Data Engineering <br>
 ***TKDE 2023, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>, <span style="color:orange">Corresponding Author</span>, <span style="color:red">ESI Highly Cited Paper</span>***
 
 Survey
 =====
-1.  *A Survey of Data-Efficient Graph Learning* [[Paper](https://arxiv.org/pdf/2402.00447.pdf)] <br>
+1.  *A Survey of Data-Efficient Graph Learning* [[Paper](../files/IJCAI24-Survey.pdf)] <br>
 **Wei Ju**, Siyu Yi, Yifan Wang, Qingqing Long, Junyu Luo, Zhiping Xiao, and Ming Zhang <br>
 International Joint Conference on Artificial Intelligence <br>
-***IJCAI 2024, <span style="color:red">CCF-A</span>***
+***IJCAI 2024, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation</span>***
 
-1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](../files/NN-Survey.pdf)] <br>
+1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](../files/NN24-Survey.pdf)] <br>
 **Wei Ju**, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Yifan Wang, Xiao Luo, and Ming Zhang <br>
 ***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>, <span style="color:red">ESI Hot & Highly Cited Paper</span>******
 
@@ -142,66 +142,66 @@ Selected Publications [[See All](https://juweipku.github.io/publications/)]
 =====
 (\* Equal Contribution)
 
-1.  *Hypergraph-enhanced Dual Semi-supervised Graph Classification* [[Paper]()] <br>
+1.  *Hypergraph-enhanced Dual Semi-supervised Graph Classification* [[Paper](../files/ICML24-HEAL.pdf)] <br>
 **Wei Ju**, Zhengyang Mao, Siyu Yi, Yifang Qin, Yiyang Gu, Zhiping Xiao, Yifan Wang, Xiao Luo, and Ming Zhang <br>
 International Conference on Machine Learning <br>
 ***ICML 2024, <span style="color:red">CCF-A</span>***
 
-1.  *GLCC: A General Framework for Graph-level Clustering* [[Paper](https://arxiv.org/pdf/2210.11879.pdf)] <br>
+1.  *GLCC: A General Framework for Graph-level Clustering* [[Paper](../files/AAAI23-GLCC.pdf)] <br>
 **Wei Ju**<sup>\*</sup>, Yiyang Gu<sup>\*</sup>, Binqi Chen, Gongbo Sun, Yifang Qin, Xingyuming Liu, Xiao Luo, and Ming Zhang <br>
 AAAI Conference on Artificial Intelligence <br>
 ***AAAI 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation</span>***
 
-1.  *TGNN: A Joint Semi-supervised Framework for Graph-level Classification* [[Paper](../files/IJCAI_TGNN.pdf)] <br>
+1.  *TGNN: A Joint Semi-supervised Framework for Graph-level Classification* [[Paper](../files/IJCAI22-TGNN.pdf)] <br>
 **Wei Ju**<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Meng Qu, Yifan Wang, Chong Chen, Minghua Deng, Xian-Sheng Hua, and Ming Zhang <br>
 International Joint Conference on Artificial Intelligence <br>
 ***IJCAI 2022, <span style="color:red">CCF-A</span>***
 
-1.  *A Survey of Data-Efficient Graph Learning* [[Paper](https://arxiv.org/pdf/2402.00447.pdf)] <br>
+1.  *A Survey of Data-Efficient Graph Learning* [[Paper](../files/IJCAI24-Survey.pdf)] <br>
 **Wei Ju**, Siyu Yi, Yifan Wang, Qingqing Long, Junyu Luo, Zhiping Xiao, and Ming Zhang <br>
 International Joint Conference on Artificial Intelligence <br>
-***IJCAI 2024, <span style="color:red">CCF-A</span>***
+***IJCAI 2024, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation</span>***
 
-1.  *GPS: Graph Contrastive Learning via Multi-scale Augmented Views from Adversarial Pooling* [[Paper](https://arxiv.org/pdf/2401.16011.pdf)] <br>
+1.  *GPS: Graph Contrastive Learning via Multi-scale Augmented Views from Adversarial Pooling* [[Paper](../files/SCIS24-GPS.pdf)] <br>
 **Wei Ju**, Yiyang Gu, Zhengyang Mao, Ziyue Qiao, Yifang Qin, Xiao Luo, Hui Xiong, and Ming Zhang <br>
 SCIENCE CHINA Information Sciences <br>
 ***SCIS 2024, <span style="color:red">CCF-A, JCR Q1, IF=8.8</span>***
 
-1.  *COOL: A Conjoint Perspective on Spatio-Temporal Graph Neural Network for Traffic Forecasting* [[Paper](https://arxiv.org/pdf/2403.01091.pdf)] <br>
+1.  *COOL: A Conjoint Perspective on Spatio-Temporal Graph Neural Network for Traffic Forecasting* [[Paper](../files/IF24-COOL.pdf)] <br>
 **Wei Ju**<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Yifang Qin, Siyu Yi, Jingyang Yuan, Zhiping Xiao, Xiao Luo, Xiting Yan, and Ming Zhang <br>
 ***Information Fusion 2024, <span style="color:red">JCR Q1, IF=18.6</span>***
 
-1.  *Kernel-based Substructure Exploration for Next POI Recommendation* [[Paper](https://arxiv.org/pdf/2210.03969.pdf)][[Code](https://github.com/Fang6ang/KBGNN)] <br>
+1.  *Kernel-based Substructure Exploration for Next POI Recommendation* [[Paper](../files/ICDM22-KBGNN.pdf)][[Code](https://github.com/Fang6ang/KBGNN)] <br>
 **Wei Ju**<sup>\*</sup>, Yifang Qin<sup>\*</sup>, Ziyue Qiao, Xiao Luo, Yifan Wang, Yanjie Fu, and Ming Zhang <br>
 IEEE International Conference on Data Mining <br>
 ***ICDM 2022, <span style="color:red">CCF-B</span>, 🏆 <span style="color:orange">Best Paper Finalist</span>***
 
-1.  *KGNN: Harnessing Kernel-based Networks for Semi-supervised Graph Classification* [[Paper](https://arxiv.org/pdf/2205.10550.pdf)] <br>
+1.  *KGNN: Harnessing Kernel-based Networks for Semi-supervised Graph Classification* [[Paper](../files/WSDM22-KGNN.pdf)] <br>
 **Wei Ju**, Junwei Yang, Meng Qu, Weiping Song, Jianhao Shen, and Ming Zhang <br>
 ACM International Conference on Web Search and Data Mining <br>
 ***WSDM 2022, <span style="color:red">CCF-B</span>***
 
-1.  *Focus on Informative Graphs! Semi-supervised Active Learning for Graph-level Classification* [[Paper]()] <br>
+1.  *Focus on Informative Graphs! Semi-supervised Active Learning for Graph-level Classification* [[Paper](../files/PR24-GraphSpa.pdf)] <br>
 **Wei Ju**, Zhengyang Mao, Ziyue Qiao, Yifang Qin, Siyu Yi, Zhiping Xiao, Xiao Luo, Yanjie Fu, and Ming Zhang <br>
 ***Pattern Recognition 2024, <span style="color:red">CCF-B, JCR Q1, IF=8.0</span>***
 
-1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](https://arxiv.org/pdf/2304.05055.pdf)] <br>
+1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](../files/NN24-Survey.pdf)] <br>
 **Wei Ju**, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Yifan Wang, Xiao Luo, and Ming Zhang <br>
-***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
+***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>, <span style="color:red">ESI Hot & Highly Cited Paper</span>******
 
-1.  *Few-shot Molecular Property Prediction via Hierarchically Structured Learning on Relation Graphs* [[Paper](../files/NN_HSL-RG.pdf)] <br>
+1.  *Few-shot Molecular Property Prediction via Hierarchically Structured Learning on Relation Graphs* [[Paper](../files/NN23-HSL-RG.pdf)] <br>
 **Wei Ju**<sup>\*</sup>, Zequn Liu<sup>\*</sup>, Yifang Qin, Bin Feng, Chen Wang, Zhihui Guo, Xiao Luo, and Ming Zhang <br>
 ***Neural Networks 2023, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
 
-1.  *Unsupervised Graph-level Representation Learning with Hierarchical Contrasts* [[Paper](../files/NN-HGCL.pdf)] <br>
+1.  *Unsupervised Graph-level Representation Learning with Hierarchical Contrasts* [[Paper](../files/NN23-HGCL.pdf)] <br>
 **Wei Ju**<sup>\*</sup>, Yiyang Gu<sup>\*</sup>, Xiao Luo, Yifan Wang, Haochen Yuan, Huasong Zhong, and Ming Zhang <br>
 ***Neural Networks 2023, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
 
-1.  *GHNN: Graph Harmonic Neural Networks for Semi-supervised Graph-level Classification* [[Paper](../files/NN_GHNN.pdf)] <br>
+1.  *GHNN: Graph Harmonic Neural Networks for Semi-supervised Graph-level Classification* [[Paper](../files/NN22-GHNN.pdf)] <br>
 **Wei Ju**<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Zequ Ma, Junwei Yang, Minghua Deng, and Ming Zhang <br>
 ***Neural Networks 2022, <span style="color:red">CCF-B, JCR Q1, IF=9.657</span>***
 
-1.  *Zero-shot Node Classification with Graph Contrastive Embedding Network* [[Paper](https://openreview.net/pdf?id=8wGXnjRLSy)] <br>
+1.  *Zero-shot Node Classification with Graph Contrastive Embedding Network* [[Paper](../files/TMLR23-GraphCEN.pdf)] <br>
 **Wei Ju**, Yifang Qin, Siyu Yi, Zhengyang Mao, Kangjie Zheng, Luchen Liu, Xiao Luo, and Ming Zhang <br>
 Transactions on Machine Learning Research <br>
 ***TMLR 2023***
@@ -227,7 +227,7 @@ Honors and Awards
 
 Editorial Board Member
 =====
-* Information Fusion ***<span style="color:red">JCR Q1, IF=18.6</span>***
+* Information Fusion ***<span style="color:red">JCR Q1, IF=14.7</span>***
 * Applied Research
 
 Program Committee Member and Reviewer
