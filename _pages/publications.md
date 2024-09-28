@@ -42,7 +42,7 @@ Yifang Qin<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Hongjun Wu, Xiao Luo, and Mi
 IEEE Transactions on Knowledge and Data Engineering <br>
 ***TKDE 2024, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>***
 
-1.  *GALA: Graph Diffusion-based Alignment with Jigsaw for Source-free Domain Adaptation* [[Paper](../files/TPAMI24-GALA.pdf)] <br>
+1.  *GALA: Graph Diffusion-based Alignment with Jigsaw for Source-free Domain Adaptation* [[Paper](../files/TPAMI24-GALA.pdf)][[Code](https://github.com/luo-junyu/GALA)] <br>
 Junyu Luo, Yiyang Gu, Xiao Luo, **Wei Ju**, Yusheng Zhao, Zhiping Xiao, Jingyang Yuan, and Ming Zhang <br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence <br>
 ***TPAMI 2024, <span style="color:red">CCF-A, JCR Q1, IF=23.6</span>, <span style="color:orange">Corresponding Author</span>***
@@ -62,7 +62,7 @@ Jingyang Yuan, Gongbo Sun, Zhiping Xiao, Hang Zhou, Xiao Luo, Junyu Luo, Yusheng
 International Conference on Machine Learning <br>
 ***NeurIPS 2024, <span style="color:red">CCF-A</span>***
 
-1.  *DisenSemi: Semi-supervised Graph Classification via Disentangled Representation Learning* [[Paper](../files/TNNLS24-DisenSemi.pdf)] <br>
+1.  *DisenSemi: Semi-supervised Graph Classification via Disentangled Representation Learning* [[Paper](../files/TNNLS24-DisenSemi.pdf)][[Code](https://github.com/jamesyifan/DisenSemi)] <br>
 Yifan Wang, Xiao Luo, Chong Chen, Xian-Sheng Hua, Ming Zhang, and **Wei Ju** <br>
 IEEE Transactions on Neural Networks and Learning Systems <br>
 ***TNNLS 2024, <span style="color:red">CCF-B, JCR Q1, IF=10.2</span>, <span style="color:orange">Corresponding Author</span>***
@@ -80,7 +80,7 @@ ACM International Conference on Information and Knowledge Management <br>
 1.  *Poisoning medical knowledge using large language models* [[Paper](../files/NMI24.pdf)] <br>
 Junwei Yang, Hanwen Xu, Srbuhi Mirzoyan, Tong Chen, Zixuan Liu, Zequn Liu, **Wei Ju**, Luchen Liu, Zhiping Xiao, Ming Zhang, and Sheng Wang <br>
 Nature Machine Intelligence <br>
-***NMI 2024, <span style="color:red">IF=18.8</span>***
+***NMI 2024, <span style="color:red">IF=18.8 (Nature 子刊)</span>***
 
 2023
 ====
@@ -122,7 +122,7 @@ Xiao Luo, **Wei Ju**, Yiyang Gu, Yifang Qin, Siyu Yi, Daqing Wu, Luchen Liu, and
 ACM Transactions on Multimedia Computing Communications and Applications <br>
 ***TOMM 2023, <span style="color:red">CCF-B, JCR Q1, IF=5.1</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *A Diffusion model for POI recommendation* [[Paper](../files/TOIS23-Diff-POI.pdf)] <br>
+1.  *A Diffusion model for POI recommendation* [[Paper](../files/TOIS23-Diff-POI.pdf)][[Code](https://github.com/Yifang-Qin/Diff-POI)] <br>
 Yifang Qin, Hongjun Wu, **Wei Ju**, Xiao Luo, and Ming Zhang <br>
 ACM Transactions on Information Systems <br>
 ***TOIS 2023, <span style="color:red">CCF-A, IF=5.6</span>, <span style="color:orange">Corresponding Author</span>***
@@ -208,7 +208,7 @@ Yiping Song, **Wei Ju**, Zhiliang Tian, Luchen Liu, Ming Zhang, and Zheng Xie <b
 International Conference on Neural Information Processing <br>
 ***ICONIP 2022, <span style="color:red">CCF-C</span>, <span style="color:orange">Oral Representation</span>***
 
-1.  *DisenCite: Graph-based Disentangled Representation Learning for Context-specific Citation Generation* [[Paper](../files/AAAI22-DisenCite.pdf)] <br>
+1.  *DisenCite: Graph-based Disentangled Representation Learning for Context-specific Citation Generation* [[Paper](../files/AAAI22-DisenCite.pdf)][[Code](https://github.com/jamesyifan/DisenCite)] <br>
 Yifan Wang, Yiping Song, Shuai Li, Chaoran Cheng, **Wei Ju**, Ming Zhang, and Sheng Wang <br>
 AAAI Conference on Artificial Intelligence <br>
 ***AAAI 2022, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation</span>***
