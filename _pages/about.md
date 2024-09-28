@@ -29,6 +29,7 @@ Research Interests
 
 <span style="color:red">What’s New</span>
 =====
+* **2024-9**: One paper has been accepted by ***NeurIPS 2024*** !!
 * **2024-9**: Honored to be appointed as an ***<span style="color:orange">Early Career Editor</span>*** of ***Information Fusion*** !!
 * **2024-8**: One paper has been accepted by ***Nature Machine Intelligence 2024*** !!
 * **2024-7**: One paper has been accepted by ***CIKM 2024*** !!
@@ -224,6 +225,10 @@ Honors and Awards
 * Jan. 2017: **The First Price Scholarship**, Sichuan University
 * May. 2014: **Top 1 of men's singles in table tennis competition for college students**, Sichuan Province
 
+Editorial Board Member
+* Information Fusion ***<span style="color:red">JCR Q1, IF=18.6</span>
+* Applied Research
+
 Program Committee Member and Reviewer
 =====
 Journal:
@@ -251,7 +256,7 @@ Journal:
 * Multimedia Systems
 
 Conference:
-* 2025: KDD, WWW, AAAI, WSDM, ICASSP
+* 2025: ICLR, KDD, WWW, AAAI, WSDM, ICASSP
 * 2024: ICLR, ICML, NeurIPS, KDD, WWW, CVPR, ECCV, ACL, EMNLP, AAAI, IJCAI, ACMMM, WSDM, ICDM, CIKM, SDM, ICASSP, AISTATS, DASFAA, BMVC, PAKDD, LoG <!-- ACML, CAI -->
 * 2023: NeurIPS, KDD, AAAI, IJCAI, SIGIR, ACMMM, CIKM, ICDM, BMVC, LoG, ISKE
 * 2022: ECCV, IJCNN, ICONIP
