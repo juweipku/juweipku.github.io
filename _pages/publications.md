@@ -107,7 +107,7 @@ Zhengyang Mao<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yifang Qin, Xiao Luo, and M
 ACM International Conference on Multimedia <br>
 ***ACMMM 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Co-first Author</span>***
 
-1.  *Self-supervised Graph-level Representation Learning with Adversarial Contrastive Learning* [[Paper](../files/TKDD23-GraphACL.pdf)][[Link](tkdd23-graphacl-highly-cited.jpeg)]  <br>
+1.  *Self-supervised Graph-level Representation Learning with Adversarial Contrastive Learning* [[Paper](../files/TKDD23-GraphACL.pdf)][[Link](../files/tkdd23-graphacl-highly-cited.jpeg)]  <br>
 Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yiyang Gu, Zhengyang Mao, Luchen Liu, Yuhui Yuan, and Ming Zhang <br>
 ACM Transactions on Knowledge Discovery from Data <br>
 ***TKDD 2023, <span style="color:red">CCF-B, IF=3.6</span>, <span style="color:orange">Co-first Author</span>, <span style="color:red">ESI Highly Cited Paper</span>***
@@ -137,7 +137,7 @@ Si-Yu Yi<sup>\*</sup>, Zhengyang Mao<sup>\*</sup>, **Wei Ju**, Yong-Dao Zhou, Lu
 IEEE Transactions on Big Data <br>
 ***TBD 2023, <span style="color:red">CCF-C, JCR Q1, IF=7.2</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Towards Semi-supervised Universal Graph Classification* [[Paper](../files/TKDE23-UGNN.pdf)][[Link](tkde23-ugnn-highly-cited.jpeg)]  <br>
+1.  *Towards Semi-supervised Universal Graph Classification* [[Paper](../files/TKDE23-UGNN.pdf)][[Link](../files/tkde23-ugnn-highly-cited.jpeg)]  <br>
 Xiao Luo<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Yifang Qin<sup>\*</sup>, **Wei Ju**, and Ming Zhang <br>
 IEEE Transactions on Knowledge and Data Engineering <br>
 ***TKDE 2023, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>, <span style="color:orange">Corresponding Author</span>, <span style="color:red">ESI Highly Cited Paper</span>***
