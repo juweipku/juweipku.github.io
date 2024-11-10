@@ -31,7 +31,7 @@ Research Interests
 =====
 * **2024-10**: Honored to be appointed as an ***<span style="color:orange">Associate Editor</span>*** of ***Expert Systems with Applications*** !!
 * **2024-9**: One paper has been accepted by ***NeurIPS 2024*** !!
-* **2024-9**: Honored to be appointed as an ***<span style="color:orange">Early Career Editor</span>*** of ***Information Fusion*** !!
+* **2024-9**: Honored to be appointed as an ***<span style="color:orange">Area Editor</span>*** of ***Information Fusion*** !!
 * **2024-8**: One paper has been accepted by ***Nature Machine Intelligence 2024*** !!
 * **2024-7**: One paper has been accepted by ***CIKM 2024*** !!
 <!-- * **2024-7**: Our paper [Towards Semi-Supervised Universal Graph Classification](https://arxiv.org/pdf/2305.19598.pdf) published in ***TKDE 2023*** has been selected as an ***<span style="color:red">ESI Highly Cited Paper</span>*** !! -->
