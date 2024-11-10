@@ -42,6 +42,11 @@ Yifang Qin<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Hongjun Wu, Xiao Luo, and Mi
 IEEE Transactions on Knowledge and Data Engineering <br>
 ***TKDE 2024, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>, <span style="color:orange">Co-first Author</span>***
 
+1.  *Learning Knowledge-diverse Experts for Long-tailed Graph Classification* [[Paper]()] <br>
+Zhengyang Mao, **Wei Ju**, Siyu Yi, Yifan Wang, Zhiping Xiao, Qingqing Long, Nan Yin, Xinwang Liu, and Ming Zhang <br>
+ACM Transactions on Knowledge Discovery from Data <br>
+***TKDD 2024, <span style="color:red">CCF-B, IF=4.0</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *GALA: Graph Diffusion-based Alignment with Jigsaw for Source-free Domain Adaptation* [[Paper](../files/TPAMI24-GALA.pdf)][[Code](https://github.com/luo-junyu/GALA)] <br>
 Junyu Luo, Yiyang Gu, Xiao Luo, **Wei Ju**, Yusheng Zhao, Zhiping Xiao, Jingyang Yuan, and Ming Zhang <br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence <br>
