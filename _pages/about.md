@@ -20,6 +20,7 @@ Research Interests
 * Deep Learning, Data Mining
 * Graph Representation Learning, Graph Neural Networks
 * Self-supervised/Contrastive Learning, Semi-supervised Learning on Graphs
+* Data-Efficient/Data-Centric Graph Learning
 * Bioinformatics, Drug Discovery
 * Recommender Systems, Drug/Medicine Recommendation
 * Spatio-temporal Analysis, Traffic Prediction
@@ -29,6 +30,7 @@ Research Interests
 
 <span style="color:red">What’s New</span>
 =====
+* **2024-11**: One paper has been accepted by ***TKDD 2024*** !!
 * **2024-10**: Honored to be appointed as an ***<span style="color:orange">Associate Editor</span>*** of ***Expert Systems with Applications*** !!
 * **2024-9**: One paper has been accepted by ***NeurIPS 2024*** !!
 * **2024-9**: Honored to be appointed as an ***<span style="color:orange">Area Editor</span>*** of ***Information Fusion*** !!
@@ -232,8 +234,8 @@ Honors and Awards
 
 Editorial Board Member
 =====
-* Information Fusion ***<span style="color:red">JCR Q1, IF=14.7, 中科院一区</span>***
-* Expert Systems with Applications ***<span style="color:red">JCR Q1, IF=7.5, 中科院一区</span>***
+* Information Fusion, **Associate Editor**, ***<span style="color:red">JCR Q1, IF=14.7, 中科院一区</span>***
+* Expert Systems with Applications, **Area Editor**, ***<span style="color:red">JCR Q1, IF=7.5, 中科院一区</span>***
 * Applied Research
 
 Program Committee Member and Reviewer
@@ -252,6 +254,7 @@ Journal:
 * Information Fusion (IF)
 * Pattern Recognition (PR)
 * Neural Networks (NN)
+* Expert Systems with Applications (ESWA)
 * Knowledge and Information Systems (KAIS)
 * Knowledge-Based Systems (KBS)
 * Neurocomputing (NC)
@@ -263,7 +266,7 @@ Journal:
 * Multimedia Systems
 
 Conference:
-* 2025: ICLR, KDD, WWW, AAAI, WSDM, ICASSP
+* 2025: ICLR, KDD, WWW, CVPR, AAAI, WSDM, ICASSP
 * 2024: ICLR, ICML, NeurIPS, KDD, WWW, CVPR, ECCV, ACL, EMNLP, AAAI, IJCAI, ACMMM, WSDM, ICDM, CIKM, SDM, ICASSP, AISTATS, DASFAA, BMVC, PAKDD, LoG <!-- ACML, CAI -->
 * 2023: NeurIPS, KDD, AAAI, IJCAI, SIGIR, ACMMM, CIKM, ICDM, BMVC, LoG, ISKE
 * 2022: ECCV, IJCNN, ICONIP
