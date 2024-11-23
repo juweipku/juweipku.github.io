@@ -30,6 +30,7 @@ Research Interests
 
 <span style="color:red">What’s New</span>
 =====
+* **2024-11**: One paper has been accepted by ***SIGKDD 2025*** !!
 * **2024-11**: One paper has been accepted by ***TKDD 2024*** !!
 * **2024-10**: Honored to be appointed as an ***<span style="color:orange">Associate Editor</span>*** of ***Expert Systems with Applications*** !!
 * **2024-9**: One paper has been accepted by ***NeurIPS 2024*** !!
@@ -264,6 +265,7 @@ Journal:
 * BMC Bioinformatics
 * PLOS ONE
 * Multimedia Systems
+* Journal of Computer Science and Technology (计算机科学技术学报（英文）)
 
 Conference:
 * 2025: ICLR, KDD, WWW, CVPR, AAAI, WSDM, ICASSP
