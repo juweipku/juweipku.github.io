@@ -8,7 +8,7 @@ author_profile: true
 <!-- You can also find my articles on <u><a href="https://scholar.google.com/citations?user=pppQSXgAAAAJ&hl=en">my Google Scholar profile</a>.</u> -->
 (\* Equal Contribution)
 
-2024
+2025
 ====
 1.  *Future Matters for Present: Towards Effective Physical Simulation over Meshes* [[Paper]()] <br>
 Xiao Luo, Junyu Luo, Huiyu Jiang, Hang Zhou, Zhiping Xiao, **Wei Ju**, Carl Yang, Ming Zhang, and Yizhou Sun <br>
