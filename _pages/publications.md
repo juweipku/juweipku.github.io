@@ -10,6 +10,13 @@ author_profile: true
 
 2024
 ====
+1.  *Future Matters for Present: Towards Effective Physical Simulation over Meshes* [[Paper]()] <br>
+Xiao Luo, Junyu Luo, Huiyu Jiang, Hang Zhou, Zhiping Xiao, **Wei Ju**, Carl Yang, Ming Zhang, and Yizhou Sun <br>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining <br>
+***SIGKDD 2025, <span style="color:red">CCF-A</span>***
+
+2024
+====
 1.  *Hypergraph-enhanced Dual Semi-supervised Graph Classification* [[Paper](../files/ICML24-HEAL.pdf)] <br>
 **Wei Ju**, Zhengyang Mao, Siyu Yi, Yifang Qin, Yiyang Gu, Zhiping Xiao, Yifan Wang, Xiao Luo, and Ming Zhang <br>
 International Conference on Machine Learning <br>
