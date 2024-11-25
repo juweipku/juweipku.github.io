@@ -30,6 +30,7 @@ Research Interests
 
 <span style="color:red">What’s New</span>
 =====
+* **2024-11**: One paper has been accepted by ***TMM 2024*** !!
 * **2024-11**: One paper has been accepted by ***SIGKDD 2025*** !!
 * **2024-11**: One paper has been accepted by ***TKDD 2024*** !!
 * **2024-10**: Honored to be appointed as an ***<span style="color:orange">Associate Editor</span>*** of ***Expert Systems with Applications*** !!
