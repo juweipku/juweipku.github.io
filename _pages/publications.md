@@ -79,6 +79,11 @@ Yifan Wang, Xiao Luo, Chong Chen, Xian-Sheng Hua, Ming Zhang, and **Wei Ju** <br
 IEEE Transactions on Neural Networks and Learning Systems <br>
 ***TNNLS 2024, <span style="color:red">CCF-B, JCR Q1, IF=10.2</span>, <span style="color:orange">Corresponding Author</span>***
 
+1.  *Hypergraph Consistency Learning with Relational Distillation* [[Paper]()] <br>
+Siyu Yi, Zhengyang Mao, Yifan Wang, Yiyang Gu, Zhiping Xiao, Chong Chen, Xian-Sheng Hua, Ming Zhang and **Wei Ju** <br>
+IEEE Transactions on Multimedia <br>
+***TMM 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.3</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *DEER: Distribution Divergence-based Graph Contrast for Partial Label Learning on Graphs* [[Paper](../files/TMM24-DEER.pdf)] <br>
 Yiyang Gu, Zihao Chen, Yifang Qin, Zhengyang Mao, Zhiping Xiao, **Wei Ju**, Chong Chen, Xian-Sheng Hua, Yifan Wang, Xiao Luo, and Ming Zhang <br>
 IEEE Transactions on Multimedia <br>
