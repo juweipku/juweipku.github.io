@@ -10,6 +10,21 @@ author_profile: true
 
 2025
 ====
+1.  *Cluster-guided Contrastive Class-imbalanced Graph Classification* [[Paper]()] <br>
+**Wei Ju**, Zhengyang Mao, Siyu Yi, Yifang Qin, Yiyang Gu, Zhiping Xiao, Jianhao Shen, Ziyue Qiao, and Ming Zhang <br>
+AAAI Conference on Artificial Intelligence <br>
+***AAAI 2025, <span style="color:red">CCF-A</span>***
+
+1.  *DisCo: Graph-Based Disentangled Contrastive Learning for Cold-Start Cross-Domain Recommendation* [[Paper]()] <br>
+Hourun Li, Yifan Wang, Zhiping Xiao, Jia Yang, Changling Zhou, Ming Zhang, and **Wei Ju** <br>
+AAAI Conference on Artificial Intelligence <br>
+***AAAI 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+
+1.  *TRACI: A Data-centric Approach for Multi-Domain Generalization on Graphs* [[Paper]()] <br>
+Yusheng Zhao, Changhu Wang, Xiao Luo, Junyu Luo, **Wei Ju**, Zhiping Xiao, Ming Zhang <br>
+AAAI Conference on Artificial Intelligence <br>
+***AAAI 2025, <span style="color:red">CCF-A</span>***
+
 1.  *Future Matters for Present: Towards Effective Physical Simulation over Meshes* [[Paper]()] <br>
 Xiao Luo, Junyu Luo, Huiyu Jiang, Hang Zhou, Zhiping Xiao, **Wei Ju**, Carl Yang, Ming Zhang, and Yizhou Sun <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining <br>
