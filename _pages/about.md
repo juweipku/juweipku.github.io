@@ -9,7 +9,7 @@ redirect_from:
 
 Wei Ju (琚玮) is currently an associate professor (副研究员) with the College of Computer Science, Sichuan University (SCU), Chengdu, China. He is also a member of [DICALab](https://dicalab.cn/) (Data Intelligence and Computing Arts Lab), which is led by Prof. [Jiancheng Lv](https://cs.scu.edu.cn/info/1303/13767.htm). Before joining SCU, he worked as a postdoc research fellow and received his Ph.D. degree in the School of Computer Science from Peking University in June 2022, under the supervision of Prof. [Ming Zhang](https://cs.pku.edu.cn/info/1086/1730.htm). His current research interests lie primarily in the area of machine learning on graphs including graph representation learning and graph neural networks, and interdisciplinary applications such as bioinformatics, drug discovery, recommender systems, spatio-temporal analysis and knowledge graphs.
 
-琚玮，四川大学计算机学院特聘副研究员。于2022年在北京大学计算机学院获博士学位，长期从事人工智能、机器学习、数据挖掘等方面的研究。研究兴趣主要集中图表示学习、推荐系统、时空数据分析以及交叉学科应用（AI4Science）等。主持国家自然科学基金青年科学基金项目和中国博士后科学基金面上项目，作为项目核心骨干参与多项国家重点研发计划和企业横向基金课题。近5年来共发表国际顶级学术论文40余篇，其中以第一作者/共同一作/通讯作者身份发表论文30余篇，相关研究成果发表在**Nature Machine Intelligence (Nature 子刊)**、ICML、AAAI、IJCAI、TPAMI、TKDE、TOIS等机器学习和数据挖掘的国际顶级会议和期刊上，并荣获2022年国际顶级会议ICDM的最佳论文提名奖和2023年度ACM SIGCSE中国“优博奖”。**现担任国际顶级期刊Information Fusion、Neurocomputing、Expert Systems with Applications的编委**，并在多个国际顶级会议和期刊如 ICLR、ICML、NeurIPS、KDD、WWW、AAAI、IJCAI、TKDE、TOIS、TNNLS等担任程序委员会成员和审稿人。此外，长期担任由中国科协和教育部联合组织的中学生科技创新后备人才培养计划（“英才计划”）的辅导老师，指导优秀中学生进行科研探索和科技创新。
+琚玮，四川大学计算机学院特聘副研究员。于2022年在北京大学计算机学院获博士学位，长期从事人工智能、机器学习、数据挖掘等方面的研究。研究兴趣主要集中图表示学习、推荐系统、时空数据分析以及交叉学科应用（AI4Science）等。主持国家自然科学基金青年科学基金项目和中国博士后科学基金面上项目，作为项目核心骨干参与多项国家重点研发计划和企业横向基金课题。近5年来共发表国际顶级学术论文40余篇，其中以第一作者/共同一作/通讯作者身份发表论文30余篇，相关研究成果发表在**Nature Machine Intelligence (Nature 子刊)**、ICML、AAAI、IJCAI、TPAMI、TKDE、TOIS等机器学习和数据挖掘的国际顶级会议和期刊上，并荣获2022年国际顶级会议ICDM的最佳论文提名奖和2023年度ACM SIGCSE中国“优博奖”。**现担任国际顶级期刊Information Fusion、Neurocomputing、Expert Systems with Applications编委**，并在多个国际顶级会议和期刊如 ICLR、ICML、NeurIPS、KDD、WWW、AAAI、IJCAI、TKDE、TOIS、TNNLS等担任程序委员会成员和审稿人。此外，长期担任由中国科协和教育部联合组织的中学生科技创新后备人才培养计划（“英才计划”）的辅导老师，指导优秀中学生进行科研探索和科技创新。
 
 <!-- I have also been closely working with Prof. [Jian Tang](https://jian-tang.com/), who is my supervior at [Mila](https://mila.quebec/en/) during Sept. 2018 - Sept. 2019. -->
 
@@ -30,6 +30,7 @@ Research Interests
 
 <span style="color:red">What’s New</span>
 =====
+* **2024-12**: Invited to serve as the Area Chair for ICML 2025!
 * **2024-12**: Three papers has been accepted by ***AAAI 2025*** !!
 * **2024-12**: Invited to serve as the Senior Program Committee (SPC) Member for IJCAI 2025!
 * **2024-12**: Honored to be appointed as an ***<span style="color:orange">Associate Editor</span>*** of ***Neurocomputing*** !!
