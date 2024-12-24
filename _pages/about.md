@@ -30,8 +30,9 @@ Research Interests
 
 <span style="color:red">What’s New</span>
 =====
+* **2024-12**: Invited to serve as the Area Chair for IJCNN 2025!
 * **2024-12**: Invited to serve as the Area Chair for ICML 2025!
-* **2024-12**: Three papers has been accepted by ***AAAI 2025*** !!
+* **2024-12**: Three papers have been accepted by ***AAAI 2025*** !!
 * **2024-12**: Invited to serve as the Senior Program Committee (SPC) Member for IJCAI 2025!
 * **2024-12**: Honored to be appointed as an ***<span style="color:orange">Associate Editor</span>*** of ***Neurocomputing*** !!
 * **2024-11**: One paper has been accepted by ***TMM 2024*** !!
@@ -262,6 +263,7 @@ Journal:
 * IEEE Transactions on Cognitive and Developmental Systems (TCDS)
 * ACM Transactions on Information Systems (TOIS)
 * ACM Transactions on Knowledge Discovery from Data (TKDD)
+* ACM Transactions on Multimedia Computing Communications and Applications (TOMM)
 * ACM Transactions on Intelligent Systems and Technology (TIST)
 * Transactions on Machine Learning Research (TMLR)
 * Information Fusion (IF)
@@ -280,7 +282,7 @@ Journal:
 * Journal of Computer Science and Technology (计算机科学技术学报（英文）)
 
 Conference:
-* 2025: ICLR, KDD, WWW, CVPR, AAAI, WSDM, ICASSP
+* 2025: ICLR, ICML, KDD, WWW, CVPR, AAAI, IJCAI, WSDM, ICASSP
 * 2024: ICLR, ICML, NeurIPS, KDD, WWW, CVPR, ECCV, ACL, EMNLP, AAAI, IJCAI, ACMMM, WSDM, ICDM, CIKM, SDM, ICASSP, AISTATS, DASFAA, BMVC, PAKDD, LoG <!-- ACML, CAI -->
 * 2023: NeurIPS, KDD, AAAI, IJCAI, SIGIR, ACMMM, CIKM, ICDM, BMVC, LoG, ISKE
 * 2022: ECCV, IJCNN, ICONIP
