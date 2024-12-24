@@ -11,6 +11,7 @@ Wei Ju (琚玮) is currently an associate professor (副研究员) with the Coll
 
 琚玮，四川大学计算机学院特聘副研究员。于2022年在北京大学计算机学院获博士学位，长期从事人工智能、机器学习、数据挖掘等方面的研究。研究兴趣主要集中图表示学习、推荐系统、时空数据分析以及交叉学科应用（AI4Science）等。主持国家自然科学基金青年科学基金项目和中国博士后科学基金面上项目，作为项目核心骨干参与多项国家重点研发计划和企业横向基金课题。近5年来共发表国际顶级学术论文40余篇，其中以第一作者/共同一作/通讯作者身份发表论文30余篇，相关研究成果发表在**Nature Machine Intelligence (Nature 子刊)**、ICML、AAAI、IJCAI、TPAMI、TKDE、TOIS等机器学习和数据挖掘的国际顶级会议和期刊上，并荣获2022年国际顶级会议ICDM的最佳论文提名奖和2023年度ACM SIGCSE中国“优博奖”。**现担任国际顶级期刊Information Fusion、Neurocomputing、Expert Systems with Applications编委**，并在多个国际顶级会议和期刊如 ICLR、ICML、NeurIPS、KDD、WWW、AAAI、IJCAI、TKDE、TOIS、TNNLS等担任程序委员会成员和审稿人。此外，长期担任由中国科协和教育部联合组织的中学生科技创新后备人才培养计划（“英才计划”）的辅导老师，指导优秀中学生进行科研探索和科技创新。
 
+**Email:** juwei@scu.edu.cn, juwei@pku.edu.cn
 <!-- I have also been closely working with Prof. [Jian Tang](https://jian-tang.com/), who is my supervior at [Mila](https://mila.quebec/en/) during Sept. 2018 - Sept. 2019. -->
 
 <!-- <span style="color:red">I'm on job market now! If you are interested in me, contact me via juwei@pku.edu.cn</span> -->
