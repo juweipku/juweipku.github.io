@@ -20,6 +20,11 @@ Hourun Li, Yifan Wang, Zhiping Xiao, Jia Yang, Changling Zhou, Ming Zhang, and *
 AAAI Conference on Artificial Intelligence <br>
 ***AAAI 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
+1.  *Hypergraph Consistency Learning with Relational Distillation* [[Paper]()] <br>
+Siyu Yi, Zhengyang Mao, Yifan Wang, Yiyang Gu, Zhiping Xiao, Chong Chen, Xian-Sheng Hua, Ming Zhang and **Wei Ju** <br>
+IEEE Transactions on Multimedia <br>
+***TMM 2025, <span style="color:red">CCF-B, JCR Q1, IF=7.3</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *TRACI: A Data-centric Approach for Multi-Domain Generalization on Graphs* [[Paper]()] <br>
 Yusheng Zhao, Changhu Wang, Xiao Luo, Junyu Luo, **Wei Ju**, Zhiping Xiao, Ming Zhang <br>
 AAAI Conference on Artificial Intelligence <br>
@@ -29,6 +34,11 @@ AAAI Conference on Artificial Intelligence <br>
 Xiao Luo, Junyu Luo, Huiyu Jiang, Hang Zhou, Zhiping Xiao, **Wei Ju**, Carl Yang, Ming Zhang, and Yizhou Sun <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining <br>
 ***SIGKDD 2025, <span style="color:red">CCF-A</span>***
+
+1.  *Rethinking Neural Architecture Representation for Predictors: Topological Encoding in
+Pixel Space* [[Paper]()] <br>
+Caiyang Yu, Jian Wang, Yifan Wang, **Wei Ju**, Chenwei Tang, and Jiancheng Lv <br>
+***Information Fusion 2025, <span style="color:red">JCR Q1, IF=14.8</span>***
 
 2024
 ====
@@ -93,11 +103,6 @@ International Conference on Machine Learning <br>
 Yifan Wang, Xiao Luo, Chong Chen, Xian-Sheng Hua, Ming Zhang, and **Wei Ju** <br>
 IEEE Transactions on Neural Networks and Learning Systems <br>
 ***TNNLS 2024, <span style="color:red">CCF-B, JCR Q1, IF=10.2</span>, <span style="color:orange">Corresponding Author</span>***
-
-1.  *Hypergraph Consistency Learning with Relational Distillation* [[Paper]()] <br>
-Siyu Yi, Zhengyang Mao, Yifan Wang, Yiyang Gu, Zhiping Xiao, Chong Chen, Xian-Sheng Hua, Ming Zhang and **Wei Ju** <br>
-IEEE Transactions on Multimedia <br>
-***TMM 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.3</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *DEER: Distribution Divergence-based Graph Contrast for Partial Label Learning on Graphs* [[Paper](../files/TMM24-DEER.pdf)] <br>
 Yiyang Gu, Zihao Chen, Yifang Qin, Zhengyang Mao, Zhiping Xiao, **Wei Ju**, Chong Chen, Xian-Sheng Hua, Yifan Wang, Xiao Luo, and Ming Zhang <br>
