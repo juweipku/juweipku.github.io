@@ -38,7 +38,7 @@ ACM SIGKDD Conference on Knowledge Discovery and Data Mining <br>
 1.  *Rethinking Neural Architecture Representation for Predictors: Topological Encoding in
 Pixel Space* [[Paper]()] <br>
 Caiyang Yu, Jian Wang, Yifan Wang, **Wei Ju**, Chenwei Tang, and Jiancheng Lv <br>
-***Information Fusion 2025, <span style="color:red">JCR Q1, IF=14.8</span>***
+***Information Fusion 2025, <span style="color:red">JCR Q1, IF=14.8</span>, <span style="color:orange">Corresponding Author</span>***
 
 2024
 ====
