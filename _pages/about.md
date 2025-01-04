@@ -31,12 +31,13 @@ Research Interests
 
 <span style="color:red">What’s New</span>
 =====
+* **2024-12**: One paper has been accepted by ***Information Fusion 2025*** !!
 * **2024-12**: Invited to serve as the Area Chair for IJCNN 2025!
 * **2024-12**: Invited to serve as the Area Chair for ICML 2025!
 * **2024-12**: Three papers have been accepted by ***AAAI 2025*** !!
 * **2024-12**: Invited to serve as the Senior Program Committee (SPC) Member for IJCAI 2025!
 * **2024-12**: Honored to be appointed as an ***<span style="color:orange">Associate Editor</span>*** of ***Neurocomputing*** !!
-* **2024-11**: One paper has been accepted by ***TMM 2024*** !!
+* **2024-11**: One paper has been accepted by ***TMM 2025*** !!
 * **2024-11**: One paper has been accepted by ***SIGKDD 2025*** !!
 * **2024-11**: One paper has been accepted by ***TKDD 2024*** !!
 * **2024-10**: Honored to be appointed as an ***<span style="color:orange">Associate Editor</span>*** of ***Expert Systems with Applications*** !!
