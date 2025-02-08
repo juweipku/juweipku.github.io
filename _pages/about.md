@@ -9,7 +9,7 @@ redirect_from:
 
 Wei Ju (琚玮) is currently an associate professor (副研究员) with the College of Computer Science, Sichuan University (SCU), Chengdu, China. He is also a member of [DICALab](https://dicalab.cn/) (Data Intelligence and Computing Arts Lab), which is led by Prof. [Jiancheng Lv](https://cs.scu.edu.cn/info/1303/13767.htm). Before joining SCU, he worked as a postdoc research fellow and received his Ph.D. degree in the School of Computer Science from Peking University in June 2022, under the supervision of Prof. [Ming Zhang](https://cs.pku.edu.cn/info/1086/1730.htm). His current research interests lie primarily in the area of machine learning on graphs including graph representation learning and graph neural networks, and interdisciplinary applications such as bioinformatics, drug discovery, recommender systems, spatio-temporal analysis and knowledge graphs.
 
-琚玮，四川大学计算机学院特聘副研究员。于2022年在北京大学计算机学院获博士学位，长期从事人工智能、机器学习、数据挖掘等方面的研究。研究兴趣主要集中图表示学习、推荐系统、时空数据分析以及交叉学科应用（AI4Science）等。主持国家自然科学基金青年科学基金项目和中国博士后科学基金面上项目，作为项目核心骨干参与多项国家重点研发计划和企业横向基金课题。近5年来共发表国际顶级学术论文40余篇，其中以第一作者/共同一作/通讯作者身份发表论文30余篇，相关研究成果发表在**Nature Machine Intelligence (Nature 子刊)**、ICML、AAAI、IJCAI、TPAMI、TKDE、TOIS等机器学习和数据挖掘的国际顶级会议和期刊上，并荣获2022年国际顶级会议ICDM的最佳论文提名奖和2023年度ACM SIGCSE中国“优博奖”。**现担任国际顶级期刊Information Fusion、Neurocomputing、Expert Systems with Applications编委**，并在多个国际顶级会议和期刊如 ICLR、ICML、NeurIPS、KDD、WWW、AAAI、IJCAI、TKDE、TOIS、TNNLS等担任程序委员会成员和审稿人。此外，长期担任由中国科协和教育部联合组织的中学生科技创新后备人才培养计划（“英才计划”）的辅导老师，指导优秀中学生进行科研探索和科技创新。
+琚玮，四川大学计算机学院特聘副研究员。于2022年在北京大学计算机学院获博士学位，长期从事人工智能、机器学习、数据挖掘等方面的研究。研究兴趣主要集中图表示学习、推荐系统、时空数据分析以及交叉学科应用（AI4Science：生物信息学、药物发现）等。主持国家自然科学基金青年科学基金项目和中国博士后科学基金面上项目，作为项目核心骨干参与多项国家重点研发计划和企业横向基金课题。近5年来共发表国际顶级学术论文50余篇，其中以第一作者/共同一作/通讯作者身份发表论文30余篇，相关研究成果发表在**Nature Machine Intelligence (Nature 子刊)**、ICML、AAAI、IJCAI、TPAMI、TKDE、TOIS等机器学习和数据挖掘的国际顶级会议和期刊上，并荣获2022年国际顶级会议ICDM的最佳论文提名奖和2023年度ACM SIGCSE中国“优博奖”。**现担任国际顶级期刊Information Fusion、Neurocomputing、Expert Systems with Applications编委**，并在多个国际顶级会议和期刊如 ICLR、ICML、NeurIPS、KDD、WWW、AAAI、IJCAI、TKDE、TOIS、TNNLS等担任程序委员会成员和审稿人。此外，长期担任由中国科协和教育部联合组织的中学生科技创新后备人才培养计划（“英才计划”）的辅导老师，指导优秀中学生进行科研探索和科技创新。
 
 **Email:** juwei@scu.edu.cn, juwei@pku.edu.cn
 <!-- I have also been closely working with Prof. [Jian Tang](https://jian-tang.com/), who is my supervior at [Mila](https://mila.quebec/en/) during Sept. 2018 - Sept. 2019. -->
@@ -31,6 +31,10 @@ Research Interests
 
 <span style="color:red">What’s New</span>
 =====
+* **2025-2**: One paper has been accepted by ***Information Sciences 2025*** !!
+* **2025-1**: One paper has been accepted by ***Information Processing and Management 2025*** !!
+* **2025-1**: Two papers have been accepted by ***NAACL 2025*** !!
+* **2025-1**: One paper has been accepted by ***ICLR 2025*** !!
 * **2024-12**: One paper has been accepted by ***Information Fusion 2025*** !!
 * **2024-12**: Invited to serve as the Area Chair for IJCNN 2025!
 * **2024-12**: Invited to serve as the Area Chair for ICML 2025!
@@ -135,14 +139,14 @@ Hourun Li, Yusheng Zhao, Zhengyang Mao, Yifang Qin, Zhiping Xiao, Jiaqi Feng, Yi
 
 Preprints
 =====
-1.  *SemiEvol: Semi-supervised Fine-tuning for LLM Adaptation* [[Paper](https://arxiv.org/pdf/2410.14745)] <br>
-Junyu Luo, Xiao Luo, Xiusi Chen, Zhiping Xiao, **Wei Ju**, and Ming Zhang <br>
-
-1.  *MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation* [[Paper](https://arxiv.org/pdf/2407.00468)] <br>
-Jinsheng Huang, Liang Chen, Taian Guo, Fu Zeng, Yusheng Zhao, Bohan Wu, Ye Yuan, Haozhe Zhao, Zhihui Guo, Yichi Zhang, Jingyang Yuan, **Wei Ju**, Luchen Liu, Tianyu Liu, Baobao Chang, Ming Zhang <br>
-
 1.  *PolyCF: Towards the Optimal Spectral Graph Filters for Collaborative Filtering* [[Paper](https://arxiv.org/pdf/2401.12590.pdf)] <br>
 Yifang Qin, **Wei Ju**, Xiao Luo, Yiyang Gu, Zhiping Xiao, and Ming Zhang <br>
+
+1.  *Embracing Large Language Models in Traffic Flow Forecasting* [[Paper](https://arxiv.org/pdf/2412.12201)] <br>
+Yusheng Zhao, Xiao Luo, Haomin Wen, Zhiping Xiao, **Wei Ju**, Ming Zhang <br>
+
+1.  *ExLM: Rethinking the Impact of [MASK] Tokens in Masked Language Models* [[Paper](https://arxiv.org/pdf/2501.13397)] <br>
+Kangjie Zheng, Junwei Yang, Siyue Liang, Bin Feng, Zequn Liu, **Wei Ju**, Zhiping Xiao, and Ming Zhang <br>
 
 1.  *Fimo: A challenge formal dataset for automated theorem proving* [[Paper](https://arxiv.org/pdf/2309.04295.pdf)] <br>
 Chengwu Liu, Jianhao Shen, Huajian Xin, Zhengying Liu, Ye Yuan, Haiming Wang, **Wei Ju**, Chuanyang Zheng, Yichun Yin, Lin Li, Ming Zhang, and Qun Liu <br>
