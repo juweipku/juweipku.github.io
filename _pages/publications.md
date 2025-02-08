@@ -10,12 +10,12 @@ author_profile: true
 
 2025
 ====
-1.  *Cluster-guided Contrastive Class-imbalanced Graph Classification* [[Paper]()] <br>
+1.  *Cluster-guided Contrastive Class-imbalanced Graph Classification* [[Paper](https://arxiv.org/pdf/2412.12984)] <br>
 **Wei Ju**, Zhengyang Mao, Siyu Yi, Yifang Qin, Yiyang Gu, Zhiping Xiao, Jianhao Shen, Ziyue Qiao, and Ming Zhang <br>
 AAAI Conference on Artificial Intelligence <br>
 ***AAAI 2025, <span style="color:red">CCF-A</span>***
 
-1.  *DisCo: Graph-Based Disentangled Contrastive Learning for Cold-Start Cross-Domain Recommendation* [[Paper]()] <br>
+1.  *DisCo: Graph-Based Disentangled Contrastive Learning for Cold-Start Cross-Domain Recommendation* [[Paper](https://arxiv.org/pdf/2412.15005)] <br>
 Hourun Li, Yifan Wang, Zhiping Xiao, Jia Yang, Changling Zhou, Ming Zhang, and **Wei Ju** <br>
 AAAI Conference on Artificial Intelligence <br>
 ***AAAI 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
@@ -35,15 +35,15 @@ Xiao Luo, Junyu Luo, Huiyu Jiang, Hang Zhou, Zhiping Xiao, **Wei Ju**, Carl Yang
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining <br>
 ***SIGKDD 2025, <span style="color:red">CCF-A</span>***
 
-1.  *MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation* [[Paper](https://arxiv.org/pdf/2407.00468)] <br>
+1.  *MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation* [[Paper](../files/NAACL25-MMEvalPro.pdf)] <br>
 Jinsheng Huang, Liang Chen, Taian Guo, Fu Zeng, Yusheng Zhao, Bohan Wu, Ye Yuan, Haozhe Zhao, Zhihui Guo, Yichi Zhang, Jingyang Yuan, **Wei Ju**, Luchen Liu, Tianyu Liu, Baobao Chang, Ming Zhang <br>
 ***NAACL 2025, <span style="color:red">CCF-B</span>***
 
-1.  *SemiEvol: Semi-supervised Fine-tuning for LLM Adaptation* [[Paper](https://arxiv.org/pdf/2410.14745)] <br>
+1.  *SemiEvol: Semi-supervised Fine-tuning for LLM Adaptation* [[Paper](../files/NAACL25-SemiEvol.pdf)] <br>
 Junyu Luo, Xiao Luo, Xiusi Chen, Zhiping Xiao, **Wei Ju**, and Ming Zhang <br>
 ***NAACL 2025 Findings, <span style="color:red">CCF-B</span>***
 
-1.  *GMR-Rec: Graph mutual regularization learning for multi-domain recommendation* [[Paper]()] <br>
+1.  *GMR-Rec: Graph mutual regularization learning for multi-domain recommendation* [[Paper](../files/IS25-GMR-Rec.pdf)] <br>
 Yifan Wang, Yangzi Yang, Shuai Li, Yutao Xie, Zhiping Xiao, Ming Zhang, and **Wei Ju** <br>
 ***Information Sciences 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.1</span>, <span style="color:orange">Corresponding Author</span>***
 
@@ -56,7 +56,7 @@ Kangjie Zheng, Siyue Liang, Junwei Yang, Bin Feng, Zequn Liu, Wei Ju, Zhiping Xi
  International Conference on Learning Representations <br>
 ***ICLR 2025, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Rethinking Neural Architecture Representation for Predictors: Topological Encoding in Pixel Space* [[Paper]()] <br>
+1.  *Rethinking Neural Architecture Representation for Predictors: Topological Encoding in Pixel Space* [[Paper](../files/IF25-DIMNP.pdf)] <br>
 Caiyang Yu, Jian Wang, Yifan Wang, **Wei Ju**, Chenwei Tang, and Jiancheng Lv <br>
 ***Information Fusion 2025, <span style="color:red">JCR Q1, IF=14.8</span>, <span style="color:orange">Corresponding Author</span>***
 
