@@ -30,6 +30,10 @@ Siyu Yi, Zhengyang Mao, Yifan Wang, Yiyang Gu, Zhiping Xiao, Chong Chen, Xian-Sh
 IEEE Transactions on Multimedia <br>
 ***TMM 2025, <span style="color:red">CCF-B, JCR Q1, IF=7.3</span>, <span style="color:orange">Corresponding Author</span>***
 
+1.  *GMR-Rec: Graph mutual regularization learning for multi-domain recommendation* [[Paper](../files/IS25-GMR-Rec.pdf)] <br>
+Yifan Wang, Yangzi Yang, Shuai Li, Yutao Xie, Zhiping Xiao, Ming Zhang, and **Wei Ju** <br>
+***Information Sciences 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.1</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *TRACI: A Data-centric Approach for Multi-Domain Generalization on Graphs* [[Paper]()] <br>
 Yusheng Zhao, Changhu Wang, Xiao Luo, Junyu Luo, **Wei Ju**, Zhiping Xiao, Ming Zhang <br>
 AAAI Conference on Artificial Intelligence <br>
@@ -48,16 +52,12 @@ Jinsheng Huang, Liang Chen, Taian Guo, Fu Zeng, Yusheng Zhao, Bohan Wu, Ye Yuan,
 Junyu Luo, Xiao Luo, Xiusi Chen, Zhiping Xiao, **Wei Ju**, and Ming Zhang <br>
 ***NAACL 2025 Findings, <span style="color:red">CCF-B</span>***
 
-1.  *GMR-Rec: Graph mutual regularization learning for multi-domain recommendation* [[Paper](../files/IS25-GMR-Rec.pdf)] <br>
-Yifan Wang, Yangzi Yang, Shuai Li, Yutao Xie, Zhiping Xiao, Ming Zhang, and **Wei Ju** <br>
-***Information Sciences 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.1</span>, <span style="color:orange">Corresponding Author</span>***
-
 1.  *MHGC: Multi-scale hard sample mining for contrastive deep graph clustering* [[Paper]()] <br>
 Tao Ren, Haodong Zhang, Yifan Wang, **Wei Ju**, Chengwu Liu, Fanchun Meng, Siyu Yi, and Xiao Luo <br>
 ***Information Processing and Management 2025, <span style="color:red">CCF-B, JCR Q1, IF=7.4</span>***
 
 1.  *SMI-Editor: Edit-based SMILES Language Model with Fragment-level Supervision* [[Paper](https://arxiv.org/pdf/2412.05569)] <br>
-Kangjie Zheng, Siyue Liang, Junwei Yang, Bin Feng, Zequn Liu, Wei Ju, Zhiping Xiao, and Ming Zhang <br>
+Kangjie Zheng, Siyue Liang, Junwei Yang, Bin Feng, Zequn Liu, **Wei Ju**, Zhiping Xiao, and Ming Zhang <br>
  International Conference on Learning Representations <br>
 ***ICLR 2025, <span style="color:orange">Corresponding Author</span>***
 
