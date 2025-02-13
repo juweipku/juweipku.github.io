@@ -31,6 +31,8 @@ Research Interests
 
 <span style="color:red">What’s New</span>
 =====
+* **2025-2**: Invited to serve as the Area Chair for ACL ARR 2025!
+* **2025-2**: One paper has been accepted by ***TMM 2025*** !!
 * **2025-2**: One paper has been accepted by ***Information Sciences 2025*** !!
 * **2025-1**: One paper has been accepted by ***Information Processing and Management 2025*** !!
 * **2025-1**: Two papers have been accepted by ***NAACL 2025*** !!
@@ -256,6 +258,11 @@ Editorial Board Member
 * Expert Systems with Applications, **Area Editor**, ***<span style="color:red">JCR Q1, IF=7.5, 中科院一区</span>***
 * Neurocomputing, **Associate Editor**, ***<span style="color:red">JCR Q1, IF=5.5, 中科院二区</span>***
 * Applied Research
+
+Area Chair and Senior Program Committee (SPC) Member
+=====
+Area Chair: ICML 2025, ACL ARR 2025, IJCNN 2025
+SPC: IJCAI
 
 Program Committee Member and Reviewer
 =====
