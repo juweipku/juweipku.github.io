@@ -20,6 +20,11 @@ Hourun Li, Yifan Wang, Zhiping Xiao, Jia Yang, Changling Zhou, Ming Zhang, and *
 AAAI Conference on Artificial Intelligence <br>
 ***AAAI 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
+1.  *Learning Generalizable Contrastive Representations for Graph Zero-shot Learning* [[Paper]()] <br>
+Siyu Yi, Zhengyang Mao, Kangjie Zheng, Zhiping Xiao, Ziyue Qiao, Chong Chen, Xian-Sheng Hua, Yongdao Zhou, Ming Zhang and **Wei Ju** <br>
+IEEE Transactions on Multimedia <br>
+***TMM 2025, <span style="color:red">CCF-B, JCR Q1, IF=7.3</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *Hypergraph Consistency Learning with Relational Distillation* [[Paper]()] <br>
 Siyu Yi, Zhengyang Mao, Yifan Wang, Yiyang Gu, Zhiping Xiao, Chong Chen, Xian-Sheng Hua, Ming Zhang and **Wei Ju** <br>
 IEEE Transactions on Multimedia <br>
