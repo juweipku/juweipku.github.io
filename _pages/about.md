@@ -107,7 +107,7 @@ ESI Hot & Highly Cited Paper
 =====
 1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](../files/NN24-Survey.pdf)][[Link](../files/nn24-survey-hot.jpeg)] <br>
 **Wei Ju**, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Yifan Wang, Xiao Luo, and Ming Zhang <br>
-***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>, <span style="color:red">ESI Hot & Highly Cited Paper</span>******
+***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>, <span style="color:red">ESI Hot & Highly Cited Paper</span>***
 
 1.  *Self-supervised Graph-level Representation Learning with Adversarial Contrastive Learning* [[Paper](../files/TKDD23-GraphACL.pdf)][[Code](https://github.com/liamgu06/GraphACL)][[Link](../files/tkdd23-graphacl-highly-cited.jpeg)]  <br>
 Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yiyang Gu, Zhengyang Mao, Luchen Liu, Yuhui Yuan, and Ming Zhang <br>
@@ -128,7 +128,7 @@ International Joint Conference on Artificial Intelligence <br>
 
 1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](../files/NN24-Survey.pdf)][[Link](../files/nn24-survey-hot.jpeg)] <br>
 **Wei Ju**, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Yifan Wang, Xiao Luo, and Ming Zhang <br>
-***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>, <span style="color:red">ESI Hot & Highly Cited Paper</span>******
+***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>, <span style="color:red">ESI Hot & Highly Cited Paper</span>***
 
 1.  *Towards Graph Contrastive Learning: A Survey and Beyond* [[Paper](https://arxiv.org/pdf/2405.11868.pdf)] <br>
 **Wei Ju**, Yifan Wang, Yifang Qin, Zhengyang Mao, Zhiping Xiao, Junyu Luo, Junwei Yang, Yiyang Gu, Dongjie Wang, Qingqing Long, Siyu Yi, Xiao Luo, and Ming Zhang <br>
