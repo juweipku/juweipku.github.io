@@ -23,12 +23,12 @@ AAAI Conference on Artificial Intelligence <br>
 1.  *Learning Generalizable Contrastive Representations for Graph Zero-shot Learning* [[Paper]()] <br>
 Siyu Yi, Zhengyang Mao, Kangjie Zheng, Zhiping Xiao, Ziyue Qiao, Chong Chen, Xian-Sheng Hua, Yongdao Zhou, Ming Zhang and **Wei Ju** <br>
 IEEE Transactions on Multimedia <br>
-***TMM 2025, <span style="color:red">CCF-B, JCR Q1, IF=7.3</span>, <span style="color:orange">Corresponding Author</span>***
+***TMM 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.4</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *Hypergraph Consistency Learning with Relational Distillation* [[Paper]()] <br>
 Siyu Yi, Zhengyang Mao, Yifan Wang, Yiyang Gu, Zhiping Xiao, Chong Chen, Xian-Sheng Hua, Ming Zhang and **Wei Ju** <br>
 IEEE Transactions on Multimedia <br>
-***TMM 2025, <span style="color:red">CCF-B, JCR Q1, IF=7.3</span>, <span style="color:orange">Corresponding Author</span>***
+***TMM 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.4</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *GMR-Rec: Graph mutual regularization learning for multi-domain recommendation* [[Paper](../files/IS25-GMR-Rec.pdf)] <br>
 Yifan Wang, Yangzi Yang, Shuai Li, Yutao Xie, Zhiping Xiao, Ming Zhang, and **Wei Ju** <br>
@@ -132,7 +132,7 @@ IEEE Transactions on Neural Networks and Learning Systems <br>
 1.  *DEER: Distribution Divergence-based Graph Contrast for Partial Label Learning on Graphs* [[Paper](../files/TMM24-DEER.pdf)] <br>
 Yiyang Gu, Zihao Chen, Yifang Qin, Zhengyang Mao, Zhiping Xiao, **Wei Ju**, Chong Chen, Xian-Sheng Hua, Yifan Wang, Xiao Luo, and Ming Zhang <br>
 IEEE Transactions on Multimedia <br>
-***TMM 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.3</span>***
+***TMM 2024, <span style="color:red">CCF-B, JCR Q1, IF=8.4</span>***
 
 1.  *MOAT: Graph Prompting for 3D Molecular Graphs* [[Paper](../files/CIKM24-MOAT.pdf)] <br>
 Qingqing Long, Yuchen Yan, Wentao Cui, Meng Xiao, Zhihong Zhu, **Wei Ju**, Xuezhi Wang, and Yuanchun Zhou <br>
