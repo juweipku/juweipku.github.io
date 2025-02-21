@@ -20,7 +20,8 @@ Research Interests
 ======
 * Deep Learning, Data Mining
 * Graph Representation Learning, Graph Neural Networks
-* Self-supervised/Contrastive Learning, Semi-supervised Learning on Graphs
+* Self-supervised/Contrastive Learning on Graphs
+* Semi-supervised Learning on Graphs on Graphs
 * Data-Efficient/Data-Centric Graph Learning
 * Bioinformatics, Drug Discovery
 * Recommender Systems, Drug/Medicine Recommendation
