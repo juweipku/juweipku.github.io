@@ -31,6 +31,8 @@ Research Interests
 
 <span style="color:red">What’s New</span>
 =====
+* **2025-2**: Honored to be appointed as an ***<span style="color:orange">Associate Editor</span>*** of ***Applied Soft Computing*** !!
+* **2025-2**: One paper has been accepted by ***TIP 2025*** !!
 * **2025-2**: Invited to serve as the Area Chair for ACL ARR 2025!
 * **2025-2**: One paper has been accepted by ***TMM 2025*** !!
 * **2025-2**: One paper has been accepted by ***Information Sciences 2025*** !!
@@ -255,6 +257,7 @@ Honors and Awards
 Editorial Board Member
 =====
 * Information Fusion, **Associate Editor**, ***<span style="color:red">JCR Q1, IF=14.7, 中科院一区</span>***
+* Applied Soft Computing, **Associate Editor**, ***<span style="color:red">JCR Q1, IF=7.2, 中科院一区</span>***
 * Expert Systems with Applications, **Area Editor**, ***<span style="color:red">JCR Q1, IF=7.5, 中科院一区</span>***
 * Neurocomputing, **Associate Editor**, ***<span style="color:red">JCR Q1, IF=5.5, 中科院二区</span>***
 * Applied Research
