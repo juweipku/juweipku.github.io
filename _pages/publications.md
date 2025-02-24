@@ -34,15 +34,20 @@ IEEE Transactions on Multimedia <br>
 Yifan Wang, Yangzi Yang, Shuai Li, Yutao Xie, Zhiping Xiao, Ming Zhang, and **Wei Ju** <br>
 ***Information Sciences 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.1</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *TRACI: A Data-centric Approach for Multi-Domain Generalization on Graphs* [[Paper]()] <br>
-Yusheng Zhao, Changhu Wang, Xiao Luo, Junyu Luo, **Wei Ju**, Zhiping Xiao, Ming Zhang <br>
-AAAI Conference on Artificial Intelligence <br>
-***AAAI 2025, <span style="color:red">CCF-A</span>***
+1.  *Cross-Domain Diffusion with Progressive Alignment for Efficient Adaptive Retrieval* [[Paper]()] <br>
+Junyu Luo, Yusheng Zhao, Xiao Luo, Zhiping Xiao, **Wei Ju**, Li Shen, Dacheng Tao, and Ming Zhang<br>
+IEEE Transactions on Image Processing <br>
+***TIP 2025, <span style="color:red">CCF-A, JCR Q1, IF=10.8</span>***
 
 1.  *Future Matters for Present: Towards Effective Physical Simulation over Meshes* [[Paper]()] <br>
 Xiao Luo, Junyu Luo, Huiyu Jiang, Hang Zhou, Zhiping Xiao, **Wei Ju**, Carl Yang, Ming Zhang, and Yizhou Sun <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining <br>
 ***SIGKDD 2025, <span style="color:red">CCF-A</span>***
+
+1.  *TRACI: A Data-centric Approach for Multi-Domain Generalization on Graphs* [[Paper]()] <br>
+Yusheng Zhao, Changhu Wang, Xiao Luo, Junyu Luo, **Wei Ju**, Zhiping Xiao, Ming Zhang <br>
+AAAI Conference on Artificial Intelligence <br>
+***AAAI 2025, <span style="color:red">CCF-A</span>***
 
 1.  *MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation* [[Paper](../files/NAACL25-MMEvalPro.pdf)] <br>
 Jinsheng Huang, Liang Chen, Taian Guo, Fu Zeng, Yusheng Zhao, Bohan Wu, Ye Yuan, Haozhe Zhao, Zhihui Guo, Yichi Zhang, Jingyang Yuan, **Wei Ju**, Luchen Liu, Tianyu Liu, Baobao Chang, Ming Zhang <br>
