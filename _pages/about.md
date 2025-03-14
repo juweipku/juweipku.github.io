@@ -28,9 +28,27 @@ Research Interests
 * Cross-modal Learning, Image Retrieval
 * Knowledge Graph, Knowledge Graph Reasoning
 
+Editorial Board Member
+=====
+欢迎大家投稿
+* Information Fusion, **Associate Editor**, ***<span style="color:red">JCR Q1, IF=14.7, 中科院一区</span>***
+* Applied Soft Computing, **Associate Editor**, ***<span style="color:red">JCR Q1, IF=7.2, 中科院一区</span>***
+* Expert Systems with Applications, **Area Editor**, ***<span style="color:red">JCR Q1, IF=7.5, 中科院一区</span>***
+* Neurocomputing, **Associate Editor**, ***<span style="color:red">JCR Q1, IF=5.5, 中科院二区</span>***
+* Applied Research
+
+Area Chair and Senior Program Committee (SPC) Member
+=====
+Area Chair: ICML 2025, 
+            ACL ARR 2025, 
+            ACMMM 2025
+            IJCNN 2025
+
+SPC: IJCAI 2025
 
 <span style="color:red">What’s New</span>
 =====
+* **2025-3**: Invited to serve as the Area Chair for ACMMM 2025!
 * **2025-2**: Honored to be appointed as an ***<span style="color:orange">Associate Editor</span>*** of ***Applied Soft Computing*** !!
 * **2025-2**: One paper has been accepted by ***TIP 2025*** !!
 * **2025-2**: Invited to serve as the Area Chair for ACL ARR 2025!
@@ -253,22 +271,6 @@ Honors and Awards
 * Jan. 2017: **Outstanding Student**, Sichuan University
 * Jan. 2017: **The First Price Scholarship**, Sichuan University
 * May. 2014: **Top 1 of men's singles in table tennis competition for college students**, Sichuan Province
-
-Editorial Board Member
-=====
-* Information Fusion, **Associate Editor**, ***<span style="color:red">JCR Q1, IF=14.7, 中科院一区</span>***
-* Applied Soft Computing, **Associate Editor**, ***<span style="color:red">JCR Q1, IF=7.2, 中科院一区</span>***
-* Expert Systems with Applications, **Area Editor**, ***<span style="color:red">JCR Q1, IF=7.5, 中科院一区</span>***
-* Neurocomputing, **Associate Editor**, ***<span style="color:red">JCR Q1, IF=5.5, 中科院二区</span>***
-* Applied Research
-
-Area Chair and Senior Program Committee (SPC) Member
-=====
-Area Chair: ICML 2025, 
-            ACL ARR 2025, 
-            IJCNN 2025
-
-SPC: IJCAI
 
 Program Committee Member and Reviewer
 =====
