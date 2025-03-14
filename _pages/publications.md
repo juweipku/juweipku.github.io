@@ -63,7 +63,7 @@ Tao Ren, Haodong Zhang, Yifan Wang, **Wei Ju**, Chengwu Liu, Fanchun Meng, Siyu 
 
 1.  *SMI-Editor: Edit-based SMILES Language Model with Fragment-level Supervision* [[Paper](https://arxiv.org/pdf/2412.05569)] <br>
 Kangjie Zheng, Siyue Liang, Junwei Yang, Bin Feng, Zequn Liu, **Wei Ju**, Zhiping Xiao, and Ming Zhang <br>
- International Conference on Learning Representations <br>
+International Conference on Learning Representations <br>
 ***ICLR 2025, <span style="color:orange">Corresponding Author</span>***
 
 1.  *Rethinking Neural Architecture Representation for Predictors: Topological Encoding in Pixel Space* [[Paper](../files/IF25-DIMNP.pdf)] <br>
@@ -126,7 +126,7 @@ International Joint Conference on Artificial Intelligence <br>
 
 1.  *EGODE: An Event-attended Graph ODE Framework for Modeling Rigid Dynamics* [[Paper]()] <br>
 Jingyang Yuan, Gongbo Sun, Zhiping Xiao, Hang Zhou, Xiao Luo, Junyu Luo, Yusheng Zhao, **Wei Ju**, and Ming Zhang <br>
-International Conference on Machine Learning <br>
+Annual Conference on Neural Information Processing Systems <br>
 ***NeurIPS 2024, <span style="color:red">CCF-A</span>***
 
 1.  *DisenSemi: Semi-supervised Graph Classification via Disentangled Representation Learning* [[Paper](../files/TNNLS24-DisenSemi.pdf)][[Code](https://github.com/jamesyifan/DisenSemi)] <br>
