@@ -30,18 +30,17 @@ Research Interests
 
 Editorial Board Member
 =====
-欢迎大家投稿
 * Information Fusion, **Associate Editor**, ***<span style="color:red">JCR Q1, IF=14.7, 中科院一区</span>***
 * Applied Soft Computing, **Associate Editor**, ***<span style="color:red">JCR Q1, IF=7.2, 中科院一区</span>***
 * Expert Systems with Applications, **Area Editor**, ***<span style="color:red">JCR Q1, IF=7.5, 中科院一区</span>***
 * Neurocomputing, **Associate Editor**, ***<span style="color:red">JCR Q1, IF=5.5, 中科院二区</span>***
 * Applied Research
 
-Area Chair and Senior Program Committee (SPC) Member
+Area Chair / Senior Program Committee Member
 =====
 Area Chair: ICML 2025, 
             ACL ARR 2025, 
-            ACMMM 2025
+            ACMMM 2025,
             IJCNN 2025
 
 SPC: IJCAI 2025
