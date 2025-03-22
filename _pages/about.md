@@ -43,7 +43,7 @@ Area Chair / Senior Program Committee Member
             ACMMM 2025,
             IJCNN 2025
 
-* **SPC**: IJCAI 2025
+* **SPC**: IJCAI 2025,
           CIKM 2025
 
 <span style="color:red">What’s New</span>
@@ -170,6 +170,9 @@ Yusheng Zhao, Xiao Luo, Haomin Wen, Zhiping Xiao, **Wei Ju**, Ming Zhang <br>
 
 1.  *ExLM: Rethinking the Impact of [MASK] Tokens in Masked Language Models* [[Paper](https://arxiv.org/pdf/2501.13397)] <br>
 Kangjie Zheng, Junwei Yang, Siyue Liang, Bin Feng, Zequn Liu, **Wei Ju**, Zhiping Xiao, Ming Zhang <br>
+
+1.  *Multifaceted Evaluation of Audio-Visual Capability for MLLMs: Effectiveness, Efficiency, Generalizability and Robustness* [[Paper](../files/EMNLP25_Audio__arxiv_.pdf)] <br>
+Yusheng Zhao, Junyu Luo, Xiao Luo, Weizhi Zhang, Zhiping Xiao, **Wei Ju**, Philip S. Yu, Ming Zhang <br>
 
 1.  *Fimo: A challenge formal dataset for automated theorem proving* [[Paper](https://arxiv.org/pdf/2309.04295.pdf)] <br>
 Chengwu Liu, Jianhao Shen, Huajian Xin, Zhengying Liu, Ye Yuan, Haiming Wang, **Wei Ju**, Chuanyang Zheng, Yichun Yin, Lin Li, Ming Zhang, Qun Liu <br>
