@@ -15,6 +15,11 @@ author_profile: true
 AAAI Conference on Artificial Intelligence <br>
 ***AAAI 2025, <span style="color:red">CCF-A</span>***
 
+1.  *PolyCF: Towards Optimal Spectral Graph Filters for Collaborative Filtering* [[Paper](https://arxiv.org/pdf/2401.12590.pdf)] <br>
+Yifang Qin, **Wei Ju**, Yiyang Gu, Ziyue Qiao, Zhiping Xiao, Ming Zhang <br>
+ACM Transactions on Information Systems <br>
+***TOIS 2025, <span style="color:red">CCF-A, IF=5.4</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *DisCo: Graph-Based Disentangled Contrastive Learning for Cold-Start Cross-Domain Recommendation* [[Paper](https://arxiv.org/pdf/2412.15005)] <br>
 Hourun Li, Yifan Wang, Zhiping Xiao, Jia Yang, Changling Zhou, Ming Zhang, **Wei Ju** <br>
 AAAI Conference on Artificial Intelligence <br>
@@ -29,6 +34,11 @@ IEEE Transactions on Multimedia <br>
 Siyu Yi, Zhengyang Mao, Yifan Wang, Yiyang Gu, Zhiping Xiao, Chong Chen, Xian-Sheng Hua, Ming Zhang, **Wei Ju** <br>
 IEEE Transactions on Multimedia <br>
 ***TMM 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.4</span>, <span style="color:orange">Corresponding Author</span>***
+
+1.  *Reversible Column Disentangled Augmentation Tricks for Graph Contrastive Learning* [[Paper]()] <br>
+Yuntai Ding, Tao Ren, Yifan Wang, Chong Chen, Xian-Sheng Hua, **Wei Ju** <br>
+IEEE Transactions on Multimedia <br>
+***TMM 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.4</span>***
 
 1.  *GMR-Rec: Graph mutual regularization learning for multi-domain recommendation* [[Paper](../files/IS25-GMR-Rec.pdf)] <br>
 Yifan Wang, Yangzi Yang, Shuai Li, Yutao Xie, Zhiping Xiao, Ming Zhang, **Wei Ju** <br>
