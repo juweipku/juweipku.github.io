@@ -9,7 +9,7 @@ redirect_from:
 
 Wei Ju (琚玮) is currently an associate professor (副研究员) with the College of Computer Science, Sichuan University (SCU), Chengdu, China. He is also a member of [DICALab](https://dicalab.cn/) (Data Intelligence and Computing Arts Lab), which is led by Prof. [Jiancheng Lv](https://cs.scu.edu.cn/info/1303/13767.htm). Before joining SCU, he worked as a postdoc research fellow and received his Ph.D. degree in the School of Computer Science from Peking University in June 2022, under the supervision of Prof. [Ming Zhang](https://cs.pku.edu.cn/info/1086/1730.htm). His current research interests lie primarily in the area of machine learning on graphs including graph representation learning and graph neural networks, and interdisciplinary applications such as bioinformatics, drug discovery, recommender systems, spatio-temporal analysis and knowledge graphs.
 
-琚玮，四川大学计算机学院特聘副研究员，天府峨眉计划青年人才（四川省“千人计划”）。于2022年在北京大学计算机学院获博士学位，长期从事人工智能、机器学习、数据挖掘等方面的研究。研究兴趣主要集中图神经网络、图表示学习、推荐系统、时空数据分析以及科学智能等交叉学科应用（AI4Science：生物信息学、药物发现）。主持国家自然科学基金青年科学基金项目、中国博士后科学基金面上项目、四川省自然科学基金青年科学基金项目，作为项目核心骨干参与多项国家重点研发计划和企业横向基金课题。近5年来共发表国际顶级学术论文60余篇，其中以第一作者/共同一作/通讯作者身份发表论文40余篇，总影响因子超过270，相关研究成果发表在**Nature Machine Intelligence (Nature 子刊)**、ICML、AAAI、IJCAI、TPAMI、TKDE、TOIS等机器学习和数据挖掘的国际顶级会议和期刊上，并荣获2022年国际顶级会议ICDM的最佳论文提名奖和2023年度ACM SIGCSE中国“优博奖”。**现担任国际顶级期刊Information Fusion、Applied Soft Computing、Neurocomputing、Expert Systems with Applications编委**，并在多个国际顶级会议和期刊如 ICLR、ICML、NeurIPS、KDD、WWW、CVPR、ACL、AAAI、IJCAI、TPAMI、TKDE、TOIS、TNNLS、TMM等担任高级程序委员会成员和审稿人。此外，长期担任由中国科协和教育部联合组织的中学生科技创新后备人才培养计划（“英才计划”）的辅导老师，指导优秀中学生进行科研探索和科技创新。
+琚玮，四川大学计算机学院特聘副研究员，天府峨眉计划青年人才（四川省“千人计划”）。于2022年在北京大学计算机学院获博士学位，长期从事人工智能、机器学习、数据挖掘等方面的研究。研究兴趣主要集中图神经网络、图表示学习、推荐系统、时空数据分析以及科学智能等交叉学科应用（AI4Science：生物信息学、药物发现）。主持国家自然科学基金青年科学基金项目、中国博士后科学基金面上项目、四川省自然科学基金青年科学基金项目，作为项目核心骨干参与多项国家重点研发计划和企业横向基金课题。近5年来共发表国际顶级学术论文60余篇，其中以第一作者/共同一作/通讯作者身份发表论文40余篇，总影响因子超过270，相关研究成果发表在**Nature Machine Intelligence (Nature 子刊)**、TPAMI、TKDE、TOIS、ICML、AAAI、IJCAI等机器学习和数据挖掘的国际顶级期刊和会议上，并荣获2022年国际顶级会议ICDM的最佳论文提名奖和2023年度ACM SIGCSE中国“优博奖”。**现担任国际顶级期刊Information Fusion、Applied Soft Computing、Neurocomputing、Expert Systems with Applications编委**，并在多个国际顶级会议和期刊如ICLR、ICML、NeurIPS、KDD、WWW、CVPR、ACL、AAAI、IJCAI、TPAMI、TKDE、TOIS、TNNLS、TMM等担任高级程序委员会成员和审稿人。此外，长期担任由中国科协和教育部联合组织的中学生科技创新后备人才培养计划（“英才计划”）的辅导老师，指导优秀中学生进行科研探索和科技创新。
 
 **Email:** juwei@scu.edu.cn, juwei@pku.edu.cn
 <!-- I have also been closely working with Prof. [Jian Tang](https://jian-tang.com/), who is my supervior at [Mila](https://mila.quebec/en/) during Sept. 2018 - Sept. 2019. -->
@@ -20,7 +20,7 @@ Research Interests
 ======
 * Deep Learning, Data Mining
 * Graph Representation Learning, Graph Neural Networks
-* Self-supervised/Contrastive Learning, Semi-supervised Learning on Graphs on Graphs
+* Self-supervised/Contrastive Learning, Semi-supervised Learning on Graphs
 * Data-Efficient/Data-Centric Graph Learning
 * Bioinformatics, Drug Discovery
 * Recommender Systems, Drug/Medicine Recommendation
@@ -30,7 +30,7 @@ Research Interests
 
 Editorial Board Member
 =====
-* Information Fusion, **Associate Editor**, ***<span style="color:red">JCR Q1, IF=14.7, 中科院一区</span>***
+* Information Fusion, **Associate Editor**, ***<span style="color:red">JCR Q1, IF=14.8, 中科院一区</span>***
 * Expert Systems with Applications, **Area Editor**, ***<span style="color:red">JCR Q1, IF=7.5, 中科院一区</span>***
 * Applied Soft Computing, **Associate Editor**, ***<span style="color:red">JCR Q1, IF=7.2, 中科院二区</span>***
 * Neurocomputing, **Associate Editor**, ***<span style="color:red">JCR Q1, IF=5.5, 中科院二区</span>***
@@ -161,14 +161,14 @@ International Joint Conference on Artificial Intelligence <br>
 1.  *A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges* [[Paper](https://arxiv.org/pdf/2403.04468.pdf)] <br>
 **Wei Ju**, Siyu Yi, Yifan Wang, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Xiao Luo, Philip S Yu, Ming Zhang <br>
 
+1.  *Large Language Model Agent: A Survey on Methodology, Applications and Challenges* [[Paper](https://arxiv.org/pdf/2503.21460.pdf)] <br>
+Junyu Luo, Weizhi Zhang, Ye Yuan, Yusheng Zhao, Junwei Yang, Yiyang Gu, Bohan Wu, Binqi Chen, Ziyue Qiao, Qingqing Long, Rongcheng Tu, Xiao Luo, **Wei Ju**, Zhiping Xiao, Yifan Wang, Meng Xiao, Chenwu Liu, Jingyang Yuan, Shichang Zhang, Yiqiao Jin, Fan Zhang, Xian Wu, Hanqing Zhao, Dacheng Tao, Philip S. Yu, Ming Zhang <br>
+
 1.  *A Survey on Graph Neural Networks in Intelligent Transportation Systems* [[Paper](https://arxiv.org/pdf/2401.00713.pdf)] <br>
 Hourun Li, Yusheng Zhao, Zhengyang Mao, Yifang Qin, Zhiping Xiao, Jiaqi Feng, Yiyang Gu, **Wei Ju**, Xiao Luo, Ming Zhang <br>
 
 Preprints
 =====
-1.  *Large Language Model Agent: A Survey on Methodology, Applications and Challenges* [[Paper](https://arxiv.org/pdf/2503.21460.pdf)] <br>
-Junyu Luo, Weizhi Zhang, Ye Yuan, Yusheng Zhao, Junwei Yang, Yiyang Gu, Bohan Wu, Binqi Chen, Ziyue Qiao, Qingqing Long, Rongcheng Tu, Xiao Luo, **Wei Ju**, Zhiping Xiao, Yifan Wang, Meng Xiao, Chenwu Liu, Jingyang Yuan, Shichang Zhang, Yiqiao Jin, Fan Zhang, Xian Wu, Hanqing Zhao, Dacheng Tao, Philip S. Yu, Ming Zhang <br>
-
 1.  *Embracing Large Language Models in Traffic Flow Forecasting* [[Paper](https://arxiv.org/pdf/2412.12201)] <br>
 Yusheng Zhao, Xiao Luo, Haomin Wen, Zhiping Xiao, **Wei Ju**, Ming Zhang <br>
 
