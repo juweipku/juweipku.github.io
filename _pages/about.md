@@ -305,6 +305,7 @@ Journal:
 * Neural Networks (NN)
 * Advanced Engineering Informatics (AEI)
 * Expert Systems with Applications (ESWA)
+* Engineering Applications of Artificial Intelligence (EAAI)
 * Knowledge and Information Systems (KAIS)
 * Knowledge-Based Systems (KBS)
 * Neurocomputing (NC)
@@ -315,9 +316,10 @@ Journal:
 * PLOS ONE
 * Multimedia Systems
 * Journal of Computer Science and Technology (计算机科学技术学报（英文）)
+* 计算机工程
 
 Conference:
-* 2025: ICLR, ICML, KDD, WWW, CVPR, ACL, AAAI, IJCAI, ACMMM, WSDM, CIKM, ICASSP
+* 2025: ICLR, ICML, NeurIPS, KDD, WWW, CVPR, ACL, AAAI, IJCAI, ACMMM, WSDM, CIKM, ICASSP
 * 2024: ICLR, ICML, NeurIPS, KDD, WWW, CVPR, ECCV, ACL, EMNLP, AAAI, IJCAI, ACMMM, WSDM, ICDM, CIKM, SDM, ICASSP, AISTATS, DASFAA, BMVC, PAKDD, LoG <!-- ACML, CAI -->
 * 2023: NeurIPS, KDD, AAAI, IJCAI, SIGIR, ACMMM, CIKM, ICDM, BMVC, LoG, ISKE
 * 2022: ECCV, IJCNN, ICONIP
