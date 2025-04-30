@@ -43,6 +43,7 @@ Area Chair / Senior Program Committee Member
 * **Area Chair**: ICML 2025, 
             ACL ARR 2025, 
             ACMMM 2025,
+            ACML 2025,
             IJCNN 2025
 
 * **SPC**: IJCAI 2025,
