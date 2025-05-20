@@ -51,6 +51,9 @@ Area Chair / Senior Program Committee Member
 
 <span style="color:red">What’s New</span>
 =====
+* **2025-5**: Two papers has been accepted by ***ACL 2025*** !!
+* **2025-5**: Four papers has been accepted by ***ICML 2025*** !!
+* **2025-4**: One paper has been accepted by ***IJCAI 2025*** !!
 * **2025-3**: One paper has been accepted by ***TOIS 2025*** !!
 * **2025-3**: One paper has been accepted by ***TMM 2025*** !!
 * **2025-3**: Project supported by the ***<span style="color:orange">Tianfu Emei Plan</span>*** **<span style="color:orange">(天府峨眉计划 / 四川省“千人计划”)</span>** !!
