@@ -63,7 +63,7 @@ Yusheng Zhao, Qixin Zhang, Xiao Luo, Junyu Luo, **Wei Ju**, Zhiping Xiao, Ming Z
 International Conference on Machine Learning <br>
 ***ICML 2025, <span style="color:red">CCF-A</span>***
 
-1.  *ExLM: Rethinking the Impact of *[MASK]* Tokens in Masked Language Models* [[Paper]()] <br>
+1.  *ExLM: Rethinking the Impact of *[MASK]* Tokens in Masked Language Models* [[Paper](https://arxiv.org/pdf/2501.13397)] <br>
 Kangjie Zheng, Junwei Yang, Siyue Liang, Bin Feng, Zequn Liu, **Wei Ju**, Zhiping Xiao, Ming Zhang <br>
 International Conference on Machine Learning <br>
 ***ICML 2025, <span style="color:red">CCF-A</span>***
@@ -78,7 +78,7 @@ Junyu Luo, Bohan Wu, Xiao Luo, Zhiping Xiao, Yiqiao Jin, Rong-Cheng Tu, Nan Yin,
 Annual Meeting of the Association for Computational Linguistics <br>
 ***ACL 2025, <span style="color:red">CCF-A</span>***
 
-1.  *Embracing Large Language Models in Traffic Flow Forecasting* [[Paper]()] <br>
+1.  *Embracing Large Language Models in Traffic Flow Forecasting* [[Paper](https://arxiv.org/pdf/2412.12201)] <br>
 Yusheng Zhao, Xiao Luo, Haomin Wen, Zhiping Xiao, **Wei Ju**, Ming Zhang <br>
 Annual Meeting of the Association for Computational Linguistics <br>
 ***ACL 2025 Findings, <span style="color:red">CCF-A</span>***
@@ -130,7 +130,7 @@ International Joint Conference on Artificial Intelligence <br>
 1.  *GPS: Graph Contrastive Learning via Multi-scale Augmented Views from Adversarial Pooling* [[Paper](../files/SCIS24-GPS.pdf)] <br>
 **Wei Ju**, Yiyang Gu, Zhengyang Mao, Ziyue Qiao, Yifang Qin, Xiao Luo, Hui Xiong, Ming Zhang <br>
 SCIENCE CHINA Information Sciences <br>
-***SCIS 2024, <span style="color:red">CCF-A, JCR Q1, IF=8.8</span>***
+***SCIS 2024, <span style="color:red">CCF-A, JCR Q1, IF=8.8</span>, <span style="color:red">ESI Highly Cited Paper</span>***
 
 1.  *Focus on Informative Graphs! Semi-supervised Active Learning for Graph-level Classification* [[Paper](../files/PR24-GraphSpa.pdf)] <br>
 **Wei Ju**, Zhengyang Mao, Ziyue Qiao, Yifang Qin, Siyu Yi, Zhiping Xiao, Xiao Luo, Yanjie Fu, Ming Zhang <br>
