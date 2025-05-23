@@ -21,7 +21,7 @@ International Conference on Machine Learning <br>
 ***ICML 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *PALA: Class-imbalanced Graph Domain Adaptation via Prototype-anchored Learning and Alignment* [[Paper]()] <br>
-Xin Ma, Yifan Wang, Siyu Yi, Wei Ju, Bei Wu, Ziyue Qiao, Chenwei Tang, Jiancheng Lv <br>
+Xin Ma, Yifan Wang, Siyu Yi, **Wei Ju**, Bei Wu, Ziyue Qiao, Chenwei Tang, Jiancheng Lv <br>
 International Joint Conference on Artificial Intelligence <br>
 ***IJCAI 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
@@ -127,7 +127,7 @@ International Conference on Machine Learning <br>
 International Joint Conference on Artificial Intelligence <br>
 ***IJCAI 2024, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation</span>***
 
-1.  *GPS: Graph Contrastive Learning via Multi-scale Augmented Views from Adversarial Pooling* [[Paper](../files/SCIS24-GPS.pdf)] <br>
+1.  *GPS: Graph Contrastive Learning via Multi-scale Augmented Views from Adversarial Pooling* [[Paper](../files/SCIS24-GPS.pdf)][[Link](../files/scis24-gps-highly-cited)] <br>
 **Wei Ju**, Yiyang Gu, Zhengyang Mao, Ziyue Qiao, Yifang Qin, Xiao Luo, Hui Xiong, Ming Zhang <br>
 SCIENCE CHINA Information Sciences <br>
 ***SCIS 2024, <span style="color:red">CCF-A, JCR Q1, IF=8.8</span>, <span style="color:red">ESI Highly Cited Paper</span>***
