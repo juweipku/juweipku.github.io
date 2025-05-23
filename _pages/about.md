@@ -201,7 +201,7 @@ International Joint Conference on Artificial Intelligence <br>
 International Joint Conference on Artificial Intelligence <br>
 ***IJCAI 2024, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation</span>***
 
-1.  *GPS: Graph Contrastive Learning via Multi-scale Augmented Views from Adversarial Pooling* [[Paper](../files/SCIS24-GPS.pdf)][[Link](../files/scis24-gps-highly-cited)] <br>
+1.  *GPS: Graph Contrastive Learning via Multi-scale Augmented Views from Adversarial Pooling* [[Paper](../files/SCIS24-GPS.pdf)][[Link](../files/scis24-gps-highly-cited.jpeg)] <br>
 **Wei Ju**, Yiyang Gu, Zhengyang Mao, Ziyue Qiao, Yifang Qin, Xiao Luo, Hui Xiong, Ming Zhang <br>
 SCIENCE CHINA Information Sciences <br>
 ***SCIS 2024, <span style="color:red">CCF-A, JCR Q1, IF=8.8</span>, <span style="color:red">ESI Highly Cited Paper</span>***
