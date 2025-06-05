@@ -73,7 +73,7 @@ Junyu Luo, Yuhao Tang, yiwei Fu, Xiao Luo, Zhizhuo KOU, Zhiping Xiao, **Wei Ju**
 International Conference on Machine Learning <br>
 ***ICML 2025, <span style="color:red">CCF-A</span>***
 
-1.  *Towards Efficient LLM Post Training: A Data-centric Perspective* [[Paper]()] <br>
+1.  *A Survey on Efficient Large Language Model Training: From Data-centric Perspectives* [[Paper](../files/ACL25_Survey.pdf)] <br>
 Junyu Luo, Bohan Wu, Xiao Luo, Zhiping Xiao, Yiqiao Jin, Rong-Cheng Tu, Nan Yin, Yifan Wang, Jingyang Yuan, **Wei Ju**, Ming Zhang <br>
 Annual Meeting of the Association for Computational Linguistics <br>
 ***ACL 2025, <span style="color:red">CCF-A</span>***
