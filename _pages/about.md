@@ -16,7 +16,7 @@ Wei Ju (琚玮) is currently an associate professor (副研究员) with the Coll
 
 **<span style="color:red">招收2026年秋季入学硕士研究生2名，欢迎有意向的保研同学投递简历至juwei@scu.edu.cn</span>**
 
-**<span style="color:red">长期招收solid background and self-motivated的研究生与本科生（限川大）</span>**
+**<span style="color:red">长期招收solid background and self-motivated的研究生与本科生</span>**
 
 Research Interests
 ======
