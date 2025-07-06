@@ -30,6 +30,16 @@ Hourun Li, Yifan Wang, Zhiping Xiao, Jia Yang, Changling Zhou, Ming Zhang, **Wei
 AAAI Conference on Artificial Intelligence <br>
 ***AAAI 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
+1.  *Deep Graph Clustering with Disentangled Representation Learning* [[Paper]()] <br>
+Yifan Wang, Yuntai Ding, Yiyang Gu, Ziyue Qiao, Chong Chen, Xian-Sheng Hua, Ming Zhang, **Wei Ju**  <br>
+ACM International Conference on Multimedia <br>
+***ACMMM 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+
+1.  *CODE: Towards Partial Label Graph Learning via Coupled Dual Separation* [[Paper]()] <br>
+Yiyang Gu, Taian Guo, Hang Zhou, Zihao Chen, Zhiping Xiao, Yifang Qin, Xiao Luo, **Wei Ju**, Yifan Wang, Ming Zhang <br>
+ACM International Conference on Multimedia <br>
+***ACMMM 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *PolyCF: Towards Optimal Spectral Graph Filters for Collaborative Filtering* [[Paper](https://arxiv.org/pdf/2401.12590.pdf)] <br>
 Yifang Qin, **Wei Ju**, Yiyang Gu, Ziyue Qiao, Zhiping Xiao, Ming Zhang <br>
 ACM Transactions on Information Systems <br>
@@ -48,6 +58,11 @@ IEEE Transactions on Multimedia <br>
 1.  *GMR-Rec: Graph mutual regularization learning for multi-domain recommendation* [[Paper](../files/IS25-GMR-Rec.pdf)] <br>
 Yifan Wang, Yangzi Yang, Shuai Li, Yutao Xie, Zhiping Xiao, Ming Zhang, **Wei Ju** <br>
 ***Information Sciences 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.1</span>, <span style="color:orange">Corresponding Author</span>***
+
+1.  *A Multimodal Perception System for Predicting Restorative Effect in University Open Spaces* [[Paper]()] <br>
+Jiazhen Huang, Ruoling Qi, Jiayi LIU, Tengfei Han, Fansheng Zhang, Jieqian Sun, Wei Zhao, **Wei Ju** <br>
+IEEE International Conference on Systems, Man, and Cybernetics <br>
+***SMC 2025, <span style="color:red">CCF-C</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *SMI-Editor: Edit-based SMILES Language Model with Fragment-level Supervision* [[Paper](https://arxiv.org/pdf/2412.05569)] <br>
 Kangjie Zheng, Siyue Liang, Junwei Yang, Bin Feng, Zequn Liu, **Wei Ju**, Zhiping Xiao, Ming Zhang <br>
@@ -92,6 +107,11 @@ ACM SIGKDD Conference on Knowledge Discovery and Data Mining <br>
 Yusheng Zhao, Changhu Wang, Xiao Luo, Junyu Luo, **Wei Ju**, Zhiping Xiao, Ming Zhang <br>
 AAAI Conference on Artificial Intelligence <br>
 ***AAAI 2025, <span style="color:red">CCF-A</span>***
+
+1.  *DATE: Dual Prompt Learning with Information Bottleneck for Graph Out-of-distribution Generalization* [[Paper]()] <br>
+Jiayi Zeng, Tao Ren, Changhu Wang, Yifan Wang, **Wei Ju**, Zhipeng Sun, Xiao Luo <br>
+ACM International Conference on Multimedia <br>
+***ACMMM 2025, <span style="color:red">CCF-A</span>***
 
 1.  *Cross-Domain Diffusion with Progressive Alignment for Efficient Adaptive Retrieval* [[Paper]()] <br>
 Junyu Luo, Yusheng Zhao, Xiao Luo, Zhiping Xiao, **Wei Ju**, Li Shen, Dacheng Tao, Ming Zhang<br>
