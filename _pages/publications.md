@@ -158,7 +158,7 @@ SCIENCE CHINA Information Sciences <br>
 
 1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](../files/NN24-Survey.pdf)][[Link](../files/nn24-survey-hot.jpeg)] <br>
 **Wei Ju**, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Yifan Wang, Xiao Luo, Ming Zhang <br>
-***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>, <span style="color:red">ESI Hot & Highly Cited Paper</span>******
+***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>, <span style="color:red">ESI Hot & Highly Cited Paper</span>***
 
 1.  *COOL: A Conjoint Perspective on Spatio-Temporal Graph Neural Network for Traffic Forecasting* [[Paper](../files/IF24-COOL.pdf)] <br>
 **Wei Ju**<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Yifang Qin, Siyu Yi, Jingyang Yuan, Zhiping Xiao, Xiao Luo, Xiting Yan, Ming Zhang <br>
