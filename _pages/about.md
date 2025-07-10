@@ -53,7 +53,7 @@ Area Chair / Senior Program Committee Member
 * **2025-7**: One paper has been accepted by ***TNNLS 2025*** !!
 * **2023-7**: Three papers have been accepted by ***ACMMM 2025*** !!
 * **2025-6**: One paper has been accepted by ***SMC 2025*** !!
-* **2025-6**: Project supported by the ***<span style="color:orange">China National Postdoctoral Program for Innovative Talents</span>*** **<span style="color:orange">(博士后创新人才支持计划)</span>** !!
+* **2025-6**: Project supported by the ***<span style="color:orange">Postdoctoral Innovation Talent Support Program</span>*** **<span style="color:orange">(博士后创新人才支持计划)</span>** !!
 * **2025-5**: Two papers has been accepted by ***ACL 2025*** !!
 * **2025-5**: Four papers has been accepted by ***ICML 2025*** !!
 * **2025-4**: One paper has been accepted by ***IJCAI 2025*** !!
