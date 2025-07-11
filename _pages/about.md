@@ -31,6 +31,7 @@ Research Interests
 
 Editorial Board Member
 =====
+* Pattern Recognition, **Associate Editor**, **<span style="color:red">CCF-B, JCR Q1, IF=7.6, 中科院一区</span>**
 * Information Fusion, **Associate Editor**, **<span style="color:red">JCR Q1, IF=14.8, 中科院一区</span>**
 * Expert Systems with Applications, **Area Editor**, **<span style="color:red">JCR Q1, IF=7.5, 中科院一区</span>**
 * Applied Soft Computing, **Associate Editor**, **<span style="color:red">JCR Q1, IF=7.2, 中科院二区</span>**
@@ -50,6 +51,7 @@ Area Chair / Senior Program Committee Member
 
 <span style="color:red">What’s New</span>
 =====
+* **2025-7**: Honored to be appointed as an ***<span style="color:orange">Associate Editor</span>*** of ***Pattern Recognition*** !!
 * **2025-7**: One paper has been accepted by ***TNNLS 2025*** !!
 * **2023-7**: Three papers have been accepted by ***ACMMM 2025*** !!
 * **2025-6**: One paper has been accepted by ***SMC 2025*** !!
