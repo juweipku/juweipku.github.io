@@ -32,17 +32,18 @@ Research Interests
 Editorial Board Member
 =====
 * Pattern Recognition, **Associate Editor**, **<span style="color:red">CCF-B, JCR Q1, IF=7.6, 中科院一区</span>**
-* Information Fusion, **Associate Editor**, **<span style="color:red">JCR Q1, IF=14.8, 中科院一区</span>**
+* Information Fusion, **Associate Editor**, **<span style="color:red">JCR Q1, IF=15.5, 中科院一区</span>**
 * Expert Systems with Applications, **Area Editor**, **<span style="color:red">JCR Q1, IF=7.5, 中科院一区</span>**
-* Applied Soft Computing, **Associate Editor**, **<span style="color:red">JCR Q1, IF=7.2, 中科院二区</span>**
-* Neurocomputing, **Associate Editor**, **<span style="color:red">JCR Q1, IF=5.5, 中科院二区</span>**
+* Applied Soft Computing, **Associate Editor**, **<span style="color:red">JCR Q1, IF=6.6, 中科院二区</span>**
+* Neurocomputing, **Associate Editor**, **<span style="color:red">JCR Q1, IF=6.5, 中科院二区</span>**
 * Applied Research
 
 Area Chair / Senior Program Committee Member
 =====
 * **Area Chair**: ICML 2025, 
-            ACL ARR 2025, 
+            ACL 2025, 
             ACMMM 2025,
+            EMNLP 2025,
             ACML 2025,
             IJCNN 2025
 
@@ -287,6 +288,7 @@ Journal:
 * IEEE Transactions on Intelligent Vehicles (TIV)
 * IEEE Transactions on Big Data (TBD)
 * IEEE Transactions on Cognitive and Developmental Systems (TCDS)
+* IEEE Transactions on Computational Social Systems (TCSS)
 * ACM Transactions on Information Systems (TOIS)
 * ACM Transactions on Knowledge Discovery from Data (TKDD)
 * ACM Transactions on Multimedia Computing Communications and Applications (TOMM)
