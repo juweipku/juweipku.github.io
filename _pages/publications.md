@@ -35,11 +35,6 @@ Yifan Wang, Yuntai Ding, Yiyang Gu, Ziyue Qiao, Chong Chen, Xian-Sheng Hua, Ming
 ACM International Conference on Multimedia <br>
 ***ACMMM 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *CODE: Towards Partial Label Graph Learning via Coupled Dual Separation* [[Paper]()] <br>
-Yiyang Gu, Taian Guo, Hang Zhou, Zihao Chen, Zhiping Xiao, Yifang Qin, Xiao Luo, **Wei Ju**, Yifan Wang, Ming Zhang <br>
-ACM International Conference on Multimedia <br>
-***ACMMM 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
-
 1.  *PolyCF: Towards Optimal Spectral Graph Filters for Collaborative Filtering* [[Paper](https://arxiv.org/pdf/2401.12590.pdf)] <br>
 Yifang Qin, **Wei Ju**, Yiyang Gu, Ziyue Qiao, Zhiping Xiao, Ming Zhang <br>
 ACM Transactions on Information Systems <br>
@@ -112,6 +107,16 @@ AAAI Conference on Artificial Intelligence <br>
 Jiayi Zeng, Tao Ren, Changhu Wang, Yifan Wang, **Wei Ju**, Zhipeng Sun, Xiao Luo <br>
 ACM International Conference on Multimedia <br>
 ***ACMMM 2025, <span style="color:red">CCF-A</span>***
+
+1.  *CODE: Towards Partial Label Graph Learning via Coupled Dual Separation* [[Paper]()] <br>
+Yiyang Gu, Taian Guo, Hang Zhou, Zihao Chen, Zhiping Xiao, Yifang Qin, Xiao Luo, **Wei Ju**, Yifan Wang, Ming Zhang <br>
+ACM International Conference on Multimedia <br>
+***ACMMM 2025, <span style="color:red">CCF-A</span>***
+
+1.  *MATE: Masked Optimal Transport with Dynamic Selection for Partial Label Graph Learning* [[Paper]()] <br>
+Yiyang Gu, Binqi Chen, Zihao Chen, Ziyue Qiao, Xiao Luo, Junyu Luo, Zhiping Xiao, **Wei Ju**, Ming Zhang<br>
+Artificial Intelligence <br>
+***AIJ 2025, <span style="color:red">CCF-A, JCR Q1, IF=4.6</span>***
 
 1.  *Cross-Domain Diffusion with Progressive Alignment for Efficient Adaptive Retrieval* [[Paper]()] <br>
 Junyu Luo, Yusheng Zhao, Xiao Luo, Zhiping Xiao, **Wei Ju**, Li Shen, Dacheng Tao, Ming Zhang<br>
