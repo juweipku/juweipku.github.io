@@ -47,7 +47,7 @@ Area Chair / Senior Program Committee Member
             ACML 2025,
             IJCNN 2025
 
-* **SPC**: AAAI 2026
+* **SPC**: AAAI 2026,
           IJCAI 2025,
           CIKM 2025
 
