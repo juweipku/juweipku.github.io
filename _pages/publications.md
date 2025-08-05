@@ -137,7 +137,7 @@ IEEE Transactions on Multimedia <br>
 ***TMM 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.4</span>***
 
 1.  *Cluster-Aware Few-Shot Molecular Property Prediction with Factor Disentanglement* [[Paper]()] <br>
-Haodong Zhang, Tao Ren, Ying Tian, Fanchun Meng, **Wei Ju**, Yifan Wang <br>
+Haodong Zhang, Yifan Wang, Tao Ren, Fanchun Meng, **Wei Ju**, Ying Tian <br>
 IEEE Transactions on Neural Networks and Learning Systems <br>
 ***TNNLS 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.9</span>***
 
