@@ -68,6 +68,10 @@ International Conference on Learning Representations <br>
 Caiyang Yu, Jian Wang, Yifan Wang, **Wei Ju**, Chenwei Tang, Jiancheng Lv <br>
 ***Information Fusion 2025, <span style="color:red">JCR Q1, IF=14.8</span>, <span style="color:orange">Corresponding Author</span>***
 
+1.  *Deep cut-informed graph embedding and clustering* [[Paper]()] <br>
+Zhiyuan Ning, Zaitian Wang, Ran Zhang, Ping Xu, Kunpeng Liu, Pengyang Wang, **Wei Ju**, Pengfei Wang, Yuanchun Zhou, Erik Cambria, Chong Chen <br>
+***Information Fusion 2025, <span style="color:red">JCR Q1, IF=15.5</span>***
+
 1.  *Test-time Adaptation on Graphs via Adaptive Subgraph-based Selection and Regularized Prototypes* [[Paper]()] <br>
 Yusheng Zhao, Qixin Zhang, Xiao Luo, Junyu Luo, **Wei Ju**, Zhiping Xiao, Ming Zhang <br>
 International Conference on Machine Learning <br>
