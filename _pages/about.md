@@ -293,6 +293,7 @@ Journal:
 * IEEE Transactions on Big Data (TBD)
 * IEEE Transactions on Cognitive and Developmental Systems (TCDS)
 * IEEE Transactions on Computational Social Systems (TCSS)
+* IEEE Transactions on Cognitive Communications and Networking (TCCN)
 * ACM Transactions on Information Systems (TOIS)
 * ACM Transactions on Knowledge Discovery from Data (TKDD)
 * ACM Transactions on Multimedia Computing Communications and Applications (TOMM)
