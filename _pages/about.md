@@ -53,7 +53,8 @@ Area Chair / Senior Program Committee Member
 
 <span style="color:red">What’s New</span>
 =====
-* **2024-8**: Invited to serve as the Senior Program Committee (SPC) Member for AAAI 2026!
+* **2025-8**: Invited to serve as the Senior Program Committee (SPC) Member for AAAI 2026!
+* **2025-8**: One paper has been accepted by ***Information Fusion 2025*** !!
 * **2025-7**: One paper has been accepted by ***Artificial Intelligence 2025*** !!
 * **2025-7**: Honored to be appointed as an ***<span style="color:orange">Associate Editor</span>*** of ***Pattern Recognition*** !!
 * **2025-7**: One paper has been accepted by ***TNNLS 2025*** !!
