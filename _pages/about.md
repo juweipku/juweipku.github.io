@@ -40,7 +40,8 @@ Editorial Board Member
 
 Area Chair / Senior Program Committee Member
 =====
-* **Area Chair**: ICML 2025, 
+* **Area Chair**: ICLR 2026,
+                  ICML 2025, 
                   ACL 2025, 
                   ACMMM 2025,
                   EMNLP 2025,
