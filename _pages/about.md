@@ -41,18 +41,22 @@ Editorial Board Member
 Area Chair / Senior Program Committee Member
 =====
 * **Area Chair**: ICML 2025, 
-            ACL 2025, 
-            ACMMM 2025,
-            EMNLP 2025,
-            ACML 2025,
-            IJCNN 2025
+                  ACL 2025, 
+                  ACMMM 2025,
+                  EMNLP 2025,
+                  ACML 2025,
+                  IJCNN 2025
 
 * **SPC**: AAAI 2026,
-          IJCAI 2025,
-          CIKM 2025
+           PAKDD 2026,
+           IJCAI 2025,
+           CIKM 2025
 
 <span style="color:red">What’s New</span>
 =====
+* **2025-8**: Invited to serve as the Area Chair for ICLR 2026!
+* **2025-8**: Three papers have been accepted by ***EMNLP 2025*** !!
+* **2025-8**: Invited to serve as the Senior Program Committee (SPC) Member for PAKDD 2026!
 * **2025-8**: Invited to serve as the Senior Program Committee (SPC) Member for AAAI 2026!
 * **2025-8**: One paper has been accepted by ***Information Fusion 2025*** !!
 * **2025-7**: One paper has been accepted by ***Artificial Intelligence 2025*** !!
@@ -174,9 +178,6 @@ Hourun Li, Yusheng Zhao, Zhengyang Mao, Yifang Qin, Zhiping Xiao, Jiaqi Feng, Yi
 
 Preprints
 =====
-1.  *Multifaceted Evaluation of Audio-Visual Capability for MLLMs: Effectiveness, Efficiency, Generalizability and Robustness* [[Paper](../files/EMNLP25_Audio__arxiv_.pdf)] <br>
-Yusheng Zhao, Junyu Luo, Xiao Luo, Weizhi Zhang, Zhiping Xiao, **Wei Ju**, Philip S. Yu, Ming Zhang <br>
-
 1.  *Fimo: A challenge formal dataset for automated theorem proving* [[Paper](https://arxiv.org/pdf/2309.04295.pdf)] <br>
 Chengwu Liu, Jianhao Shen, Huajian Xin, Zhengying Liu, Ye Yuan, Haiming Wang, **Wei Ju**, Chuanyang Zheng, Yichun Yin, Lin Li, Ming Zhang, Qun Liu <br>
 
