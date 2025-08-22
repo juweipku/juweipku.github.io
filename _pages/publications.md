@@ -127,6 +127,18 @@ Junyu Luo, Yusheng Zhao, Xiao Luo, Zhiping Xiao, **Wei Ju**, Li Shen, Dacheng Ta
 IEEE Transactions on Image Processing <br>
 ***TIP 2025, <span style="color:red">CCF-A, JCR Q1, IF=10.8</span>***
 
+1.  *HEAL: Hybrid Enhancement with LLM-based Agents for Text-attributed Hypergraph Self-supervised Representation Learning* [[Paper]()] <br>
+Ruochang Li, Xiao Luo, Zhiping Xiao, **Wei Ju**, Ming Zhang <br>
+***EMNLP 2025 Findings, <span style="color:red">CCF-B</span>***
+
+1.  *LEAF: Large Language Diffusion Model for Time Series Forecasting* [[Paper]()] <br>
+Yuhang Pei, Yifan Wang, Tao Ren, Zhipeng Sun, **Wei Ju**, Chong Chen, Xian-Sheng Hua, Xiao Luo <br>
+***EMNLP 2025 Findings, <span style="color:red">CCF-B</span>***
+
+1.  *Multifaceted Evaluation of Audio-Visual Capability for MLLMs: Effectiveness, Efficiency, Generalizability and Robustness* [[Paper](../files/EMNLP25_Audio__arxiv_.pdf)] <br>
+Yusheng Zhao, Xiao Luo, Junyu Luo, Weizhi Zhang, Zhiping Xiao, **Wei Ju**, Philip S. Yu, Ming Zhang <br>
+***EMNLP 2025 Findings, <span style="color:red">CCF-B</span>***
+
 1.  *MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation* [[Paper](../files/NAACL25-MMEvalPro.pdf)] <br>
 Jinsheng Huang, Liang Chen, Taian Guo, Fu Zeng, Yusheng Zhao, Bohan Wu, Ye Yuan, Haozhe Zhao, Zhihui Guo, Yichi Zhang, Jingyang Yuan, **Wei Ju**, Luchen Liu, Tianyu Liu, Baobao Chang, Ming Zhang <br>
 ***NAACL 2025, <span style="color:red">CCF-B</span>***
