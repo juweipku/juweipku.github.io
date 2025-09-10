@@ -129,22 +129,27 @@ IEEE Transactions on Image Processing <br>
 
 1.  *HEAL: Hybrid Enhancement with LLM-based Agents for Text-attributed Hypergraph Self-supervised Representation Learning* [[Paper]()] <br>
 Ruochang Li, Xiao Luo, Zhiping Xiao, **Wei Ju**, Ming Zhang <br>
+Conference on Empirical Methods in Natural Language Processing <br>
 ***EMNLP 2025 Findings, <span style="color:red">CCF-B</span>***
 
 1.  *LEAF: Large Language Diffusion Model for Time Series Forecasting* [[Paper]()] <br>
 Yuhang Pei, Yifan Wang, Tao Ren, Zhipeng Sun, **Wei Ju**, Chong Chen, Xian-Sheng Hua, Xiao Luo <br>
+Conference on Empirical Methods in Natural Language Processing <br>
 ***EMNLP 2025 Findings, <span style="color:red">CCF-B</span>***
 
 1.  *Multifaceted Evaluation of Audio-Visual Capability for MLLMs: Effectiveness, Efficiency, Generalizability and Robustness* [[Paper](../files/EMNLP25_Audio__arxiv_.pdf)] <br>
 Yusheng Zhao, Xiao Luo, Junyu Luo, Weizhi Zhang, Zhiping Xiao, **Wei Ju**, Philip S. Yu, Ming Zhang <br>
+Conference on Empirical Methods in Natural Language Processing <br>
 ***EMNLP 2025 Findings, <span style="color:red">CCF-B</span>***
 
 1.  *MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation* [[Paper](../files/NAACL25-MMEvalPro.pdf)] <br>
 Jinsheng Huang, Liang Chen, Taian Guo, Fu Zeng, Yusheng Zhao, Bohan Wu, Ye Yuan, Haozhe Zhao, Zhihui Guo, Yichi Zhang, Jingyang Yuan, **Wei Ju**, Luchen Liu, Tianyu Liu, Baobao Chang, Ming Zhang <br>
+Nations of the Americas Chapter of the Association for Computational Linguistics <br>
 ***NAACL 2025, <span style="color:red">CCF-B</span>***
 
 1.  *SemiEvol: Semi-supervised Fine-tuning for LLM Adaptation* [[Paper](../files/NAACL25-SemiEvol.pdf)] <br>
 Junyu Luo, Xiao Luo, Xiusi Chen, Zhiping Xiao, **Wei Ju**, Ming Zhang <br>
+Nations of the Americas Chapter of the Association for Computational Linguistics <br>
 ***NAACL 2025 Findings, <span style="color:red">CCF-B</span>***
 
 1.  *Reversible Column Disentangled Augmentation Tricks for Graph Contrastive Learning* [[Paper]()] <br>
@@ -160,6 +165,11 @@ IEEE Transactions on Neural Networks and Learning Systems <br>
 1.  *MHGC: Multi-scale hard sample mining for contrastive deep graph clustering* [[Paper]()] <br>
 Tao Ren, Haodong Zhang, Yifan Wang, **Wei Ju**, Chengwu Liu, Fanchun Meng, Siyu Yi, Xiao Luo <br>
 ***Information Processing and Management 2025, <span style="color:red">CCF-B, JCR Q1, IF=7.4</span>***
+
+1.  *Bridging the Gap between Learning and Inference for Diffusion-Based Molecule Generation* [[Paper]()] <br>
+Peidong Liu, Wenbo Zhang, Wei Ju, Jiancheng Lv, Xianggen Liu <br>
+Asian Conference on Machine Learning <br>
+***ACML 2025, <span style="color:red">CCF-C</span>***
 
 2024
 ====
