@@ -36,6 +36,7 @@ Editorial Board Member
 * Expert Systems with Applications, **Area Editor**, **<span style="color:red">JCR Q1, IF=7.5, 中科院一区</span>**
 * Applied Soft Computing, **Associate Editor**, **<span style="color:red">JCR Q1, IF=6.6, 中科院二区</span>**
 * Neurocomputing, **Associate Editor**, **<span style="color:red">JCR Q1, IF=6.5, 中科院二区</span>**
+* Frontiers in Big Data, **Review Editor**, **<span style="color:red">JCR Q2, IF=2.3, 中科院四区</span>**
 * Applied Research
 
 Area Chair / Senior Program Committee Member
@@ -55,6 +56,8 @@ Area Chair / Senior Program Committee Member
 
 <span style="color:red">What’s New</span>
 =====
+* **2025-9**: Honored to be appointed as an ***<span style="color:orange">Review Editor</span>*** of ***Frontiers in Big Data*** !!
+* **2025-9**: One paper has been accepted by ***ACML 2025*** !!
 * **2025-8**: Invited to serve as the Area Chair for ICLR 2026!
 * **2025-8**: Three papers have been accepted by ***EMNLP 2025*** !!
 * **2025-8**: Invited to serve as the Senior Program Committee (SPC) Member for PAKDD 2026!
