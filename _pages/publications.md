@@ -167,7 +167,7 @@ Tao Ren, Haodong Zhang, Yifan Wang, **Wei Ju**, Chengwu Liu, Fanchun Meng, Siyu 
 ***Information Processing and Management 2025, <span style="color:red">CCF-B, JCR Q1, IF=7.4</span>***
 
 1.  *Bridging the Gap between Learning and Inference for Diffusion-Based Molecule Generation* [[Paper]()] <br>
-Peidong Liu, Wenbo Zhang, Wei Ju, Jiancheng Lv, Xianggen Liu <br>
+Peidong Liu, Wenbo Zhang, **Wei Ju**, Jiancheng Lv, Xianggen Liu <br>
 Asian Conference on Machine Learning <br>
 ***ACML 2025, <span style="color:red">CCF-C</span>***
 
