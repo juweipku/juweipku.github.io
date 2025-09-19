@@ -27,7 +27,6 @@ Research Interests
 * Recommender Systems, Drug/Medicine Recommendation
 * Spatio-temporal Analysis, Traffic Prediction
 * Cross-modal Learning, Image Retrieval
-* Knowledge Graph, Knowledge Graph Reasoning
 
 Editorial Board Member
 =====
