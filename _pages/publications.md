@@ -15,6 +15,11 @@ author_profile: true
 AAAI Conference on Artificial Intelligence <br>
 ***AAAI 2025, <span style="color:red">CCF-A</span>***
 
+1.  *Dual Prototype-Enhanced Contrastive Framework for Class-Imbalanced Graph Domain Adaptation* [[Paper]()] <br>
+Xin Ma, Yifan Wang, Siyu Yi, **Wei Ju**, Junyu Luo, Yusheng Zhao, Xiao Luo, Jiancheng Lv <br>
+Annual Conference on Neural Information Processing Systems <br>
+***NeurIPS 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *DANCE: Dual Unbiased Expansion with Group-acquired Alignment for Out-of-distribution Graph Fairness Learning* [[Paper]()] <br>
 Yifan Wang, Hourun Li, Ling Yue, Zhiping Xiao, Jia Yang, Changling Zhou, **Wei Ju**, Ming Zhang, Xiao Luo <br>
 International Conference on Machine Learning <br>
@@ -71,6 +76,16 @@ Caiyang Yu, Jian Wang, Yifan Wang, **Wei Ju**, Chenwei Tang, Jiancheng Lv <br>
 1.  *Deep cut-informed graph embedding and clustering* [[Paper]()] <br>
 Zhiyuan Ning, Zaitian Wang, Ran Zhang, Ping Xu, Kunpeng Liu, Pengyang Wang, **Wei Ju**, Pengfei Wang, Yuanchun Zhou, Erik Cambria, Chong Chen <br>
 ***Information Fusion 2025, <span style="color:red">JCR Q1, IF=15.5</span>***
+
+1.  *Dynamic Text Bundling Supervision for Zero-Shot Inference on Text-Attributed Graphs* [[Paper]()] <br>
+Yusheng Zhao, Qixin Zhang, Xiao Luo, Weizhi Zhang, Zhiping Xiao, **Wei Ju**, Philip S. Yu, Ming Zhang <br>
+Annual Conference on Neural Information Processing Systems <br>
+***NeurIPS 2025, <span style="color:red">CCF-A</span>***
+
+1.  *SEGA: Shaping Semantic Geometry for Robust Hashing under Noisy Supervision* [[Paper]()] <br>
+Yiyang Gu, Bohan Wu, Qinghua Ran, Rong-Cheng Tu, Xiao Luo, Zhiping Xiao, **Wei Ju**, Dacheng Tao, Ming Zhang <br>
+Annual Conference on Neural Information Processing Systems <br>
+***NeurIPS 2025, <span style="color:red">CCF-A</span>***
 
 1.  *Test-time Adaptation on Graphs via Adaptive Subgraph-based Selection and Regularized Prototypes* [[Paper]()] <br>
 Yusheng Zhao, Qixin Zhang, Xiao Luo, Junyu Luo, **Wei Ju**, Zhiping Xiao, Ming Zhang <br>
