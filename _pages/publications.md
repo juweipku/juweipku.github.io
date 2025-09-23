@@ -17,7 +17,7 @@ AAAI Conference on Artificial Intelligence <br>
 
 1.  *Dual Prototype-Enhanced Contrastive Framework for Class-Imbalanced Graph Domain Adaptation* [[Paper]()] <br>
 Xin Ma, Yifan Wang, Siyu Yi, **Wei Ju**, Junyu Luo, Yusheng Zhao, Xiao Luo, Jiancheng Lv <br>
-Annual Conference on Neural Information Processing Systems <br>
+Advances in Neural Information Processing Systems <br>
 ***NeurIPS 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *DANCE: Dual Unbiased Expansion with Group-acquired Alignment for Out-of-distribution Graph Fairness Learning* [[Paper]()] <br>
@@ -79,12 +79,12 @@ Zhiyuan Ning, Zaitian Wang, Ran Zhang, Ping Xu, Kunpeng Liu, Pengyang Wang, **We
 
 1.  *Dynamic Text Bundling Supervision for Zero-Shot Inference on Text-Attributed Graphs* [[Paper]()] <br>
 Yusheng Zhao, Qixin Zhang, Xiao Luo, Weizhi Zhang, Zhiping Xiao, **Wei Ju**, Philip S. Yu, Ming Zhang <br>
-Annual Conference on Neural Information Processing Systems <br>
+Advances in Neural Information Processing Systems <br>
 ***NeurIPS 2025, <span style="color:red">CCF-A</span>***
 
 1.  *SEGA: Shaping Semantic Geometry for Robust Hashing under Noisy Supervision* [[Paper]()] <br>
 Yiyang Gu, Bohan Wu, Qinghua Ran, Rong-Cheng Tu, Xiao Luo, Zhiping Xiao, **Wei Ju**, Dacheng Tao, Ming Zhang <br>
-Annual Conference on Neural Information Processing Systems <br>
+Advances in Neural Information Processing Systems <br>
 ***NeurIPS 2025, <span style="color:red">CCF-A</span>***
 
 1.  *Test-time Adaptation on Graphs via Adaptive Subgraph-based Selection and Regularized Prototypes* [[Paper]()] <br>
@@ -247,7 +247,7 @@ International Conference on Machine Learning <br>
 
 1.  *EGODE: An Event-attended Graph ODE Framework for Modeling Rigid Dynamics* [[Paper]()] <br>
 Jingyang Yuan, Gongbo Sun, Zhiping Xiao, Hang Zhou, Xiao Luo, Junyu Luo, Yusheng Zhao, **Wei Ju**, Ming Zhang <br>
-Annual Conference on Neural Information Processing Systems <br>
+Advances in Neural Information Processing Systems <br>
 ***NeurIPS 2024, <span style="color:red">CCF-A</span>***
 
 1.  *Rank and Align: Towards effective Source-free Graph Domain Adaptation* [[Paper](../files/IJCAI24-RNA.pdf)] <br>
