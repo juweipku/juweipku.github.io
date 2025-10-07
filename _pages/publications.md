@@ -132,6 +132,11 @@ Yiyang Gu, Taian Guo, Hang Zhou, Zihao Chen, Zhiping Xiao, Yifang Qin, Xiao Luo,
 ACM International Conference on Multimedia <br>
 ***ACMMM 2025, <span style="color:red">CCF-A</span>***
 
+1.  *TowerDNA: Fast and Accurate Graph Retrieval with Dividing, Contrasting and Alignment* [[Paper]()] <br>
+Junwei Yang, Yiyang Gu, Yifang Qin, Xiao Luo, Zhiping Xiao, Kangjie Zheng, **Wei Ju**, Xian-Sheng Hua, Ming Zhang <br>
+IEEE Transactions on Knowledge and Data Engineering <br>
+***TKDE 2025, <span style="color:red">CCF-A, JCR Q1, IF=10.4</span>***
+
 1.  *MATE: Masked Optimal Transport with Dynamic Selection for Partial Label Graph Learning* [[Paper]()] <br>
 Yiyang Gu, Binqi Chen, Zihao Chen, Ziyue Qiao, Xiao Luo, Junyu Luo, Zhiping Xiao, **Wei Ju**, Ming Zhang<br>
 Artificial Intelligence <br>
@@ -176,6 +181,11 @@ IEEE Transactions on Multimedia <br>
 Haodong Zhang, Yifan Wang, Tao Ren, Fanchun Meng, **Wei Ju**, Ying Tian <br>
 IEEE Transactions on Neural Networks and Learning Systems <br>
 ***TNNLS 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.9</span>***
+
+1.  *SPOT: Spectral Optimal Transport for Graph Domain Generalization* [[Paper]()] <br>
+Yusheng Zhao, Xiao Luo, Junyu Luo, **Wei Ju**, Zhonghui Gu, Zhiping Xiao, Xian-Sheng Hua, Ming Zhang <br>
+ACM Transactions on Knowledge Discovery from Data <br>
+***TKDD 2025, <span style="color:red">CCF-B, JCR Q1, IF=4.8</span>***
 
 1.  *MHGC: Multi-scale hard sample mining for contrastive deep graph clustering* [[Paper]()] <br>
 Tao Ren, Haodong Zhang, Yifan Wang, **Wei Ju**, Chengwu Liu, Fanchun Meng, Siyu Yi, Xiao Luo <br>
