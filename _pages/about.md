@@ -55,6 +55,8 @@ Area Chair / Senior Program Committee Member
 
 <span style="color:red">What’s New</span>
 =====
+* **2025-9**: One paper has been accepted by ***TKDE 2025*** !!
+* **2025-9**: One paper has been accepted by ***TKDD 2025*** !!
 * **2025-9**: Honored as ***<span style="color:orange">World’s Top2% Scientists</span>*** in 2025 ranked by Stanford University!
 * **2025-9**: Three papers have been accepted by ***NeurIPS 2025*** !!
 * **2025-9**: Honored to be appointed as an ***<span style="color:orange">Review Editor</span>*** of ***Frontiers in Big Data*** !!
@@ -294,6 +296,7 @@ Journal:
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 * IEEE Transactions on Multimedia (TMM)
 * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+* IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMC)
 * IEEE Transactions on Intelligent Transportation Systems (TITS)
 * IEEE Transactions on Intelligent Vehicles (TIV)
 * IEEE Transactions on Big Data (TBD)
@@ -319,8 +322,6 @@ Journal:
 * International Journal of Intelligent Systems (IJIS)
 * Signal Processing (SP)
 * BMC Bioinformatics
-* PLOS ONE
-* Multimedia Systems
 * Journal of Computer Science and Technology (计算机科学技术学报（英文）)
 * 计算机工程
 
