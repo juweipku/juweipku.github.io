@@ -57,6 +57,7 @@ Area Chair / Senior Program Committee Member
 
 <span style="color:red">What’s New</span>
 =====
+* **2025-11**: Honored to be appointed as a committee member of the ***<span style="color:orange">Large Models and Generation (LMG) Committee of the Chinese Information Processing Society (CIPS)r</span>*** !!
 * **2025-10**: Honored to be appointed as an ***<span style="color:orange">Associate Editor</span>*** of ***IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*** !!
 * **2025-9**: One paper has been accepted by ***TKDE 2025*** !!
 * **2025-9**: One paper has been accepted by ***TKDD 2025*** !!
