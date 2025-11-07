@@ -10,6 +10,11 @@ author_profile: true
 
 2025
 ====
+1.  *A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges* [[Paper](https://arxiv.org/pdf/2403.04468.pdf)] <br>
+**Wei Ju**, Siyu Yi, Yifan Wang, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Philip S Yu, Ming Zhang <br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence <br>
+***TPAMI 2025, <span style="color:red">CCF-A, JCR Q1, IF=18.6</span>***
+
 1.  *Cluster-guided Contrastive Class-imbalanced Graph Classification* [[Paper](https://arxiv.org/pdf/2412.12984)] <br>
 **Wei Ju**, Zhengyang Mao, Siyu Yi, Yifang Qin, Yiyang Gu, Zhiping Xiao, Jianhao Shen, Ziyue Qiao, Ming Zhang <br>
 AAAI Conference on Artificial Intelligence <br>
