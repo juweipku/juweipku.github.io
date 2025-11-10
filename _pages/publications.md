@@ -18,7 +18,7 @@ AAAI Conference on Artificial Intelligence <br>
 1.  *FairGC: Fostering Individual and Group Fairness for Deep Graph Clustering* [[Paper]()] <br>
 Haodong Zhang, Xinyue Wang, Tao Ren, Yifan Wang, Siyu Yi, Fanchun Meng, Zeyu Ma, QingqingLong, **Wei Ju** <br>
 AAAI Conference on Artificial Intelligence <br>
-***AAAI 2026, <span style="color:red">CCF-A</span>***
+***AAAI 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation</span>***
 
 1.  *CogniTrust: Cognitive Memory-Driven Verifiable Supervision for Robust Hashing* [[Paper]()] <br>
 Yiyang Gu, Bohan Wu, Yifang Qin, Jiaru Tang, Rong-Cheng Tu, Zhiping Xiao, Taian Guo, Junyu Luo, **Wei Ju**, Xiao Luo, Dacheng Tao, Ming Zhang <br>
