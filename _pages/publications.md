@@ -8,6 +8,24 @@ author_profile: true
 <!-- You can also find my articles on <u><a href="https://scholar.google.com/citations?user=pppQSXgAAAAJ&hl=en">my Google Scholar profile</a>.</u> -->
 (\* Equal Contribution)
 
+2026
+====
+1.  *Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data* [[Paper]()] <br>
+Wei Zhang, Siyu Yi, Lezhi Chen, Yifan Wang, Ziyue Qiao, Yongdao Zhou, **Wei Ju** <br>
+AAAI Conference on Artificial Intelligence <br>
+***AAAI 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+
+1.  *FairGC: Fostering Individual and Group Fairness for Deep Graph Clustering* [[Paper]()] <br>
+Haodong Zhang, Xinyue Wang, Tao Ren, Yifan Wang, Siyu Yi, Fanchun Meng, Zeyu Ma, QingqingLong, **Wei Ju** <br>
+AAAI Conference on Artificial Intelligence <br>
+***AAAI 2026, <span style="color:red">CCF-A</span>***
+
+1.  *CogniTrust: Cognitive Memory-Driven Verifiable Supervision for Robust Hashing* [[Paper]()] <br>
+Yiyang Gu, Bohan Wu, Yifang Qin, Jiaru Tang, Rong-Cheng Tu, Zhiping Xiao, Taian Guo, Junyu Luo, **Wei Ju**, Xiao Luo, Dacheng Tao, Ming Zhang <br>
+AAAI Conference on Artificial Intelligence <br>
+***AAAI 2026, <span style="color:red">CCF-A</span>***
+
+
 2025
 ====
 1.  *A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges* [[Paper](https://arxiv.org/pdf/2403.04468.pdf)] <br>
