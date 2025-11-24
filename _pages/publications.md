@@ -25,6 +25,15 @@ Yiyang Gu, Bohan Wu, Yifang Qin, Jiaru Tang, Rong-Cheng Tu, Zhiping Xiao, Taian 
 AAAI Conference on Artificial Intelligence <br>
 ***AAAI 2026, <span style="color:red">CCF-A</span>***
 
+1.  *DisCo: Diffusion-guided Unbiased Discriminative Learning for Unsupervised Graph Domain Adaptation* [[Paper]()] <br>
+Haodong Zhang, Tao Ren, Changhu Wang, Yifan Wang, **Wei Ju**, Huaizhi Tang, Junyu Luo, Zimo Wang, Ziyue Qiao, Xian-Sheng Hua, Xiao Luo  <br>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining <br>
+***SIGKDD 2026, <span style="color:red">CCF-A</span>***
+
+1.  *Dual Data-centric Separation with Circular Mixup for Noise-resistant Time Series Learning* [[Paper]()] <br>
+Yuhang Pei, Fanchun Meng, Qinghua Ran, Tao Ren, Yifan Wang, **Wei Ju**, Zimo Wang, Xian-Sheng Hua, Xiao Luo <br>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining <br>
+***SIGKDD 2026, <span style="color:red">CCF-A</span>***
 
 2025
 ====
@@ -217,7 +226,7 @@ Tao Ren, Haodong Zhang, Yifan Wang, **Wei Ju**, Chengwu Liu, Fanchun Meng, Siyu 
 1.  *Bridging the Gap between Learning and Inference for Diffusion-Based Molecule Generation* [[Paper]()] <br>
 Peidong Liu, Wenbo Zhang, **Wei Ju**, Jiancheng Lv, Xianggen Liu <br>
 Asian Conference on Machine Learning <br>
-***ACML 2025, <span style="color:red">CCF-C</span>***
+***ACML 2025, <span style="color:red">CCF-C</span>, <span style="color:orange">Oral Representation</span>***
 
 2024
 ====
