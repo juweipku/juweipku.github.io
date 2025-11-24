@@ -43,6 +43,7 @@ Area Chair / Senior Program Committee Member
 =====
 * **Area Chair**: ICLR 2026,
                   ACL 2026,
+                  ICASSP 2026,
                   ICML 2025, 
                   ACL 2025, 
                   ACMMM 2025,
@@ -57,6 +58,8 @@ Area Chair / Senior Program Committee Member
 
 <span style="color:red">What’s New</span>
 =====
+* **2025-11**: Two papers have been accepted by ***SIGKDD 2026*** !!
+* **2025-11**: Invited to serve as the Area Chair for ICASSP 2026!
 * **2025-11**: Three papers have been accepted by ***AAAI 2026*** !!
 * **2025-11**: One paper has been accepted by ***TPAMI 2025*** !!
 * **2025-11**: Honored to be appointed as a committee member of the ***<span style="color:orange">Large Models and Generation (LMG) Committee of the Chinese Information Processing Society (CIPS)</span>*** !!
