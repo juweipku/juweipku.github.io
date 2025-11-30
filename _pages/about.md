@@ -22,7 +22,7 @@ Research Interests
 ======
 * Deep Learning, Machine Learning, Data Mining
 * Data-Efficient/Data-Centric Graph Representation Learning, Graph Neural Networks
-* Bioinformatics, Drug Discovery
+* Bioinformatics (Spatial Transcriptomics, Multi-Omics), Drug Discovery
 * Large Language Model，LLM
 * Recommender Systems, Drug/Medicine Recommendation
 * Spatio-temporal Analysis, Traffic Prediction
@@ -41,18 +41,13 @@ Editorial Board Member
 
 Area Chair / Senior Program Committee Member
 =====
-* **Area Chair**: ICLR 2026,\\
-                  ICML 2025-2026,\\
-                  ARR 2025-2026,\\
-                  ICASSP 2026,\\
-                  ACMMM 2025,\\
-                  ACML 2025,\\
-                  IJCNN 2025
+* **Area Chair**: 
+2026: ICML, ICLR, ARR, ICASSP\\
+2025: ICML, ARR, ACMMM, ACML, IJCNN
 
-* **SPC**: AAAI 2026,
-           PAKDD 2026,
-           IJCAI 2025,
-           CIKM 2025
+* **SPC**:
+2026: AAAI, PAKDD\\
+2025: IJCAI, CIKM
 
 <span style="color:red">What’s New</span>
 =====
