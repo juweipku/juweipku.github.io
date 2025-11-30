@@ -43,11 +43,11 @@ Area Chair / Senior Program Committee Member
 =====
 * **Area Chair**: 
 2026: ICML, ICLR, ARR, ICASSP\\
-2025: ICML, ARR, ACMMM, ACML, IJCNN
+~~~~~~~~2025: ICML, ARR, ACMMM, ACML, IJCNN
 
 * **SPC**:
 2026: AAAI, PAKDD\\
-2025: IJCAI, CIKM
+~~~~~~~~2025: IJCAI, CIKM
 
 <span style="color:red">What’s New</span>
 =====
