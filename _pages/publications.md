@@ -274,7 +274,7 @@ Yifang Qin<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Hongjun Wu, Xiao Luo, Ming Z
 IEEE Transactions on Knowledge and Data Engineering, 36(7): 3224-3236 [Pub: 2024-1-3] <br>
 ***TKDE 2024, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>, <span style="color:orange">Co-first Author</span>***
 
-1.  *Poisoning medical knowledge using large language models* [[Paper](../files/24NMI.pdf)] <br>
+1.  *Poisoning medical knowledge using large language models* [[Paper](../files/24NMI.pdf)][[Code](https://github.com/yjwtheonly/Scorpius)] <br>
 Junwei Yang, Hanwen Xu, Srbuhi Mirzoyan, Tong Chen, Zixuan Liu, Zequn Liu, **Wei Ju**, Luchen Liu, Zhiping Xiao, Ming Zhang, Sheng Wang <br>
 Nature Machine Intelligence, 6: 1156–1168  [Pub: 2024-9-20] <br>
 ***NMI 2024, <span style="color:red">IF=18.8 (Nature 子刊)</span>***
@@ -291,10 +291,10 @@ IEEE Transactions on Neural Networks and Learning Systems, 36(5): 8192-8204 [Pub
 
 1.  *PGODE: Towards High-quality System Dynamics Modeling* [[Paper](../files/24ICML-PGODE.pdf)] <br>
 Xiao Luo, Yiyang Gu, Huiyu Jiang, Hang Zhou, Jinsheng Huang, **Wei Ju**, Zhiping Xiao, Ming Zhang, Yizhou Sun <br>
-International Conference on Machine Learning, 235: 33305-33328 [Pub: 2024-7-21] <br> <br>
+International Conference on Machine Learning, 235: 33305-33328 [Pub: 2024-7-21] <br>
 ***ICML 2024, <span style="color:red">CCF-A</span>***
 
-1.  *EGODE: An Event-attended Graph ODE Framework for Modeling Rigid Dynamics* [[Paper](../files/24NIPS-EGODE.pdf)] <br>
+1.  *EGODE: An Event-attended Graph ODE Framework for Modeling Rigid Dynamics* [[Paper](../files/24NIPS-EGODE.pdf)][[Code](https://github.com/yuanjypku/EGODE)] <br>
 Jingyang Yuan, Gongbo Sun, Zhiping Xiao, Hang Zhou, Xiao Luo, Junyu Luo, Yusheng Zhao, **Wei Ju**, Ming Zhang <br>
 Advances in Neural Information Processing Systems, 37: 59093-59118 [Pub: 2024-12-10] <br>
 ***NeurIPS 2024, <span style="color:red">CCF-A</span>***
