@@ -235,9 +235,9 @@ Asian Conference on Machine Learning <br>
 International Conference on Machine Learning <br>
 ***ICML 2024, <span style="color:red">CCF-A</span>***
 
-1.  *A Survey of Data-Efficient Graph Learning* [[Paper](../files/IJCAI24-Survey.pdf)] <br>
+1.  *A Survey of Data-Efficient Graph Learning* [[Paper](../files/24IJCAI-Survey.pdf)] <br>
 **Wei Ju**, Siyu Yi, Yifan Wang, Qingqing Long, Junyu Luo, Zhiping Xiao, Ming Zhang <br>
-International Joint Conference on Artificial Intelligence <br>
+International Joint Conference on Artificial Intelligence, 8104-8113 [Pub: 2024-8-3] <br>
 ***IJCAI 2024, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation</span>***
 
 1.  *GPS: Graph Contrastive Learning via Multi-scale Augmented Views from Adversarial Pooling* [[Paper](../files/SCIS24-GPS.pdf)][[Link](../files/scis24-gps-highly-cited.jpeg)] <br>
