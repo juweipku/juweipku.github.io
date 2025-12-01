@@ -10,27 +10,27 @@ author_profile: true
 
 2026
 ====
-1.  *Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data* [[Paper]()] <br>
+1.  *Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data* [To appear] <br>
 Wei Zhang, Siyu Yi, Lezhi Chen, Yifan Wang, Ziyue Qiao, Yongdao Zhou, **Wei Ju** <br>
 AAAI Conference on Artificial Intelligence <br>
 ***AAAI 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *FairGC: Fostering Individual and Group Fairness for Deep Graph Clustering* [[Paper]()] <br>
+1.  *FairGC: Fostering Individual and Group Fairness for Deep Graph Clustering* [To appear] <br>
 Haodong Zhang, Xinyue Wang, Tao Ren, Yifan Wang, Siyu Yi, Fanchun Meng, Zeyu Ma, QingqingLong, **Wei Ju** <br>
 AAAI Conference on Artificial Intelligence <br>
 ***AAAI 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation</span>***
 
-1.  *CogniTrust: Cognitive Memory-Driven Verifiable Supervision for Robust Hashing* [[Paper]()] <br>
+1.  *CogniTrust: Cognitive Memory-Driven Verifiable Supervision for Robust Hashing* [To appear] <br>
 Yiyang Gu, Bohan Wu, Yifang Qin, Jiaru Tang, Rong-Cheng Tu, Zhiping Xiao, Taian Guo, Junyu Luo, **Wei Ju**, Xiao Luo, Dacheng Tao, Ming Zhang <br>
 AAAI Conference on Artificial Intelligence <br>
 ***AAAI 2026, <span style="color:red">CCF-A</span>***
 
-1.  *DisCo: Diffusion-guided Unbiased Discriminative Learning for Unsupervised Graph Domain Adaptation* [[Paper]()] <br>
+1.  *DisCo: Diffusion-guided Unbiased Discriminative Learning for Unsupervised Graph Domain Adaptation* [To appear] <br>
 Haodong Zhang, Tao Ren, Changhu Wang, Yifan Wang, **Wei Ju**, Huaizhi Tang, Junyu Luo, Zimo Wang, Ziyue Qiao, Xian-Sheng Hua, Xiao Luo  <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining <br>
 ***SIGKDD 2026, <span style="color:red">CCF-A</span>***
 
-1.  *Dual Data-centric Separation with Circular Mixup for Noise-resistant Time Series Learning* [[Paper]()] <br>
+1.  *Dual Data-centric Separation with Circular Mixup for Noise-resistant Time Series Learning* [To appear] <br>
 Yuhang Pei, Fanchun Meng, Qinghua Ran, Tao Ren, Yifan Wang, **Wei Ju**, Zimo Wang, Xian-Sheng Hua, Xiao Luo <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining <br>
 ***SIGKDD 2026, <span style="color:red">CCF-A</span>***
