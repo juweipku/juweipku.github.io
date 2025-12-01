@@ -47,6 +47,11 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence <br>
 AAAI Conference on Artificial Intelligence <br>
 ***AAAI 2025, <span style="color:red">CCF-A</span>***
 
+1.  *GPS: Graph Contrastive Learning via Multi-scale Augmented Views from Adversarial Pooling* [[Paper](../files/25SCIS-GPS.pdf)][[Link](../files/25scis-gps-highly-cited.jpeg)] <br>
+**Wei Ju**, Yiyang Gu, Zhengyang Mao, Ziyue Qiao, Yifang Qin, Xiao Luo, Hui Xiong, Ming Zhang <br>
+SCIENCE CHINA Information Sciences, 68(1): 112101 [Pub: 2025-1-1] <br>
+***SCIS 2025, <span style="color:red">CCF-A, JCR Q1, IF=8.8</span>, <span style="color:red">ESI Highly Cited Paper</span>***
+
 1.  *Dual Prototype-Enhanced Contrastive Framework for Class-Imbalanced Graph Domain Adaptation* [[Paper]()] <br>
 Xin Ma, Yifan Wang, Siyu Yi, **Wei Ju**, Junyu Luo, Yusheng Zhao, Xiao Luo, Jiancheng Lv <br>
 Advances in Neural Information Processing Systems <br>
@@ -240,11 +245,6 @@ International Conference on Machine Learning <br>
 International Joint Conference on Artificial Intelligence, 8104-8113 [Pub: 2024-8-3] <br>
 ***IJCAI 2024, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation</span>***
 
-1.  *GPS: Graph Contrastive Learning via Multi-scale Augmented Views from Adversarial Pooling* [[Paper](../files/SCIS24-GPS.pdf)][[Link](../files/scis24-gps-highly-cited.jpeg)] <br>
-**Wei Ju**, Yiyang Gu, Zhengyang Mao, Ziyue Qiao, Yifang Qin, Xiao Luo, Hui Xiong, Ming Zhang <br>
-SCIENCE CHINA Information Sciences <br>
-***SCIS 2024, <span style="color:red">CCF-A, JCR Q1, IF=8.8</span>, <span style="color:red">ESI Highly Cited Paper</span>***
-
 1.  *Focus on Informative Graphs! Semi-supervised Active Learning for Graph-level Classification* [[Paper](../files/PR24-GraphSpa.pdf)] <br>
 **Wei Ju**, Zhengyang Mao, Ziyue Qiao, Yifang Qin, Siyu Yi, Zhiping Xiao, Xiao Luo, Yanjie Fu, Ming Zhang <br>
 ***Pattern Recognition 2024, <span style="color:red">CCF-B, JCR Q1, IF=8.0</span>***
@@ -257,9 +257,9 @@ SCIENCE CHINA Information Sciences <br>
 **Wei Ju**<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Yifang Qin, Siyu Yi, Jingyang Yuan, Zhiping Xiao, Xiao Luo, Xiting Yan, Ming Zhang <br>
 ***Information Fusion 2024, <span style="color:red">JCR Q1, IF=18.6</span>***
 
-1.  *Learning Graph ODE for Continuous-Time Sequential Recommendation* [[Paper](../files/TKDE24-GDERec.pdf)] <br>
+1.  *Learning Graph ODE for Continuous-Time Sequential Recommendation* [[Paper](../files/24TKDE-GDERec.pdf)] <br>
 Yifang Qin<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Hongjun Wu, Xiao Luo, Ming Zhang <br>
-IEEE Transactions on Knowledge and Data Engineering <br>
+IEEE Transactions on Knowledge and Data Engineering, 36(7): 3224-3236 [Pub: 2024-1-3] <br>
 ***TKDE 2024, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>, <span style="color:orange">Co-first Author</span>***
 
 1.  *Poisoning medical knowledge using large language models* [[Paper](../files/NMI24.pdf)] <br>
