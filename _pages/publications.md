@@ -67,9 +67,9 @@ Xin Ma, Yifan Wang, Siyu Yi, **Wei Ju**, Bei Wu, Ziyue Qiao, Chenwei Tang, Jianc
 International Joint Conference on Artificial Intelligence <br>
 ***IJCAI 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *DisCo: Graph-Based Disentangled Contrastive Learning for Cold-Start Cross-Domain Recommendation* [[Paper](https://arxiv.org/pdf/2412.15005)] <br>
+1.  *DisCo: Graph-Based Disentangled Contrastive Learning for Cold-Start Cross-Domain Recommendation* [[Paper](../files/25AAAI-DisCo.pdf)][[Code](https://github.com/HourunLi/2025-AAAI-DisCo)] <br>
 Hourun Li, Yifan Wang, Zhiping Xiao, Jia Yang, Changling Zhou, Ming Zhang, **Wei Ju** <br>
-AAAI Conference on Artificial Intelligence <br>
+AAAI Conference on Artificial Intelligence, 39(11), 12049-12057 [Pub: 2025-4-11] <br>
 ***AAAI 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *Deep Graph Clustering with Disentangled Representation Learning* [[Paper](../files/25MM-DisenCluster.pdf)] <br>
@@ -154,19 +154,19 @@ Xiao Luo, Junyu Luo, Huiyu Jiang, Hang Zhou, Zhiping Xiao, **Wei Ju**, Carl Yang
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining <br>
 ***SIGKDD 2025, <span style="color:red">CCF-A</span>***
 
-1.  *TRACI: A Data-centric Approach for Multi-Domain Generalization on Graphs* [[Paper]()] <br>
+1.  *TRACI: A Data-centric Approach for Multi-Domain Generalization on Graphs* [[Paper](../files/25AAAI-TRACI.pdf)][[Code](https://github.com/YushengZhao/TRACI-AAAI25)] <br>
 Yusheng Zhao, Changhu Wang, Xiao Luo, Junyu Luo, **Wei Ju**, Zhiping Xiao, Ming Zhang <br>
-AAAI Conference on Artificial Intelligence <br>
+AAAI Conference on Artificial Intelligence, 39(11), 13401-13409 [Pub: 2025-4-11] <br>
 ***AAAI 2025, <span style="color:red">CCF-A</span>***
 
-1.  *DATE: Dual Prompt Learning with Information Bottleneck for Graph Out-of-distribution Generalization* [[Paper]()] <br>
+1.  *DATE: Dual Prompt Learning with Information Bottleneck for Graph Out-of-distribution Generalization* [[Paper](../files/25MM-DATE.pdf)] <br>
 Jiayi Zeng, Tao Ren, Changhu Wang, Yifan Wang, **Wei Ju**, Zhipeng Sun, Xiao Luo <br>
-ACM International Conference on Multimedia <br>
+ACM International Conference on Multimedia, 8920-8929 [Pub: 2025-10-27] <br>
 ***ACMMM 2025, <span style="color:red">CCF-A</span>***
 
-1.  *CODE: Towards Partial Label Graph Learning via Coupled Dual Separation* [[Paper]()] <br>
+1.  *CODE: Towards Partial Label Graph Learning via Coupled Dual Separation* [[Paper](../files/25MM-CODE.pdf)] <br>
 Yiyang Gu, Taian Guo, Hang Zhou, Zihao Chen, Zhiping Xiao, Yifang Qin, Xiao Luo, **Wei Ju**, Yifan Wang, Ming Zhang <br>
-ACM International Conference on Multimedia <br>
+ACM International Conference on Multimedia, 8949-8958 [Pub: 2025-10-27] <br>
 ***ACMMM 2025, <span style="color:red">CCF-A</span>***
 
 1.  *TowerDNA: Fast and Accurate Graph Retrieval with Dividing, Contrasting and Alignment* [[Paper]()] <br>
