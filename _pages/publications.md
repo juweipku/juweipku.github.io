@@ -77,19 +77,19 @@ Yifan Wang, Yuntai Ding, Yiyang Gu, Ziyue Qiao, Chong Chen, Xian-Sheng Hua, Ming
 ACM International Conference on Multimedia, 767-776 [Pub: 2025-10-27] <br>
 ***ACMMM 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *PolyCF: Towards Optimal Spectral Graph Filters for Collaborative Filtering* [[Paper](https://arxiv.org/pdf/2401.12590.pdf)] <br>
+1.  *PolyCF: Towards Optimal Spectral Graph Filters for Collaborative Filtering* [[Paper](../files/25TOIS-PolyCF.pdf)] <br>
 Yifang Qin, **Wei Ju**, Yiyang Gu, Ziyue Qiao, Zhiping Xiao, Ming Zhang <br>
-ACM Transactions on Information Systems <br>
+ACM Transactions on Information Systems, 43(4): 94 [Pub: 2025-6-16] <br>
 ***TOIS 2025, <span style="color:red">CCF-A, IF=5.4</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Learning Generalizable Contrastive Representations for Graph Zero-shot Learning* [[Paper]()] <br>
+1.  *Learning Generalizable Contrastive Representations for Graph Zero-shot Learning* [[Paper](../files/25TMM-GraphGCR.pdf)][[Code](https://github.com/yisiyu95/GraphGCR)] <br>
 Siyu Yi, Zhengyang Mao, Kangjie Zheng, Zhiping Xiao, Ziyue Qiao, Chong Chen, Xian-Sheng Hua, Yongdao Zhou, Ming Zhang, **Wei Ju** <br>
-IEEE Transactions on Multimedia <br>
+IEEE Transactions on Multimedia, 27: 7584-7595 [Pub: 2025-8-14] <br>
 ***TMM 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.4</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Hypergraph Consistency Learning with Relational Distillation* [[Paper]()] <br>
+1.  *Hypergraph Consistency Learning with Relational Distillation* [[Paper](../files/25TMM-HOLA.pdf)] <br>
 Siyu Yi, Zhengyang Mao, Yifan Wang, Yiyang Gu, Zhiping Xiao, Chong Chen, Xian-Sheng Hua, Ming Zhang, **Wei Ju** <br>
-IEEE Transactions on Multimedia <br>
+IEEE Transactions on Multimedia, 27: 7028-7039 [Pub: 2025-2-17] <br>
 ***TMM 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.4</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *GMR-Rec: Graph mutual regularization learning for multi-domain recommendation* [[Paper](../files/IS25-GMR-Rec.pdf)] <br>
@@ -332,9 +332,9 @@ Zhengyang Mao<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yifang Qin, Xiao Luo, Ming 
 ACM International Conference on Multimedia, 3817-3826 [Pub: 2023-10-27] <br>
 ***ACMMM 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Co-first Author</span>***
 
-1.  *Self-supervised Graph-level Representation Learning with Adversarial Contrastive Learning* [[Paper](../files/TKDD23-GraphACL.pdf)][[Code](https://github.com/liamgu06/GraphACL)][[Link](../files/tkdd23-graphacl-highly-cited.jpeg)]  <br>
+1.  *Self-supervised Graph-level Representation Learning with Adversarial Contrastive Learning* [[Paper](../files/23TKDD-GraphACL.pdf)][[Code](https://github.com/liamgu06/GraphACL)][[Link](../files/tkdd23-graphacl-highly-cited.jpeg)]  <br>
 Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yiyang Gu, Zhengyang Mao, Luchen Liu, Yuhui Yuan, Ming Zhang <br>
-ACM Transactions on Knowledge Discovery from Data <br>
+ACM Transactions on Knowledge Discovery from Data, 18(2): 34 [Pub: 2023-11-14] <br>
 ***TKDD 2023, <span style="color:red">CCF-B, IF=3.6</span>, <span style="color:orange">Co-first Author</span>, <span style="color:red">ESI Highly Cited Paper</span>***
 
 1.  *Towards Semi-supervised Universal Graph Classification* [[Paper](../files/TKDE23-UGNN.pdf)][[Link](../files/tkde23-ugnn-highly-cited.jpeg)]  <br>
@@ -342,9 +342,9 @@ Xiao Luo<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Yifang Qin<sup>\*</sup>, **Wei
 IEEE Transactions on Knowledge and Data Engineering <br>
 ***TKDE 2023, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>, <span style="color:orange">Corresponding Author</span>, <span style="color:red">ESI Highly Cited Paper</span>***
 
-1.  *A Diffusion model for POI recommendation* [[Paper](../files/TOIS23-Diff-POI.pdf)][[Code](https://github.com/Yifang-Qin/Diff-POI)] <br>
+1.  *A Diffusion model for POI recommendation* [[Paper](../files/23TOIS-Diff-POI.pdf)][[Code](https://github.com/Yifang-Qin/Diff-POI)] <br>
 Yifang Qin, Hongjun Wu, **Wei Ju**, Xiao Luo, Ming Zhang <br>
-ACM Transactions on Information Systems <br>
+ACM Transactions on Information Systems, 42(2): 54 [Pub: 2023-11-8] <br>
 ***TOIS 2023, <span style="color:red">CCF-A, IF=5.6</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting* [[Paper](../files/ICDE23-DyHSL.pdf)] <br>
