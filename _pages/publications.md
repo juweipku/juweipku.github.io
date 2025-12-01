@@ -272,9 +272,9 @@ Junyu Luo, Yiyang Gu, Xiao Luo, **Wei Ju**, Yusheng Zhao, Zhiping Xiao, Jingyang
 IEEE Transactions on Pattern Analysis and Machine Intelligence <br>
 ***TPAMI 2024, <span style="color:red">CCF-A, JCR Q1, IF=23.6</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *DisenSemi: Semi-supervised Graph Classification via Disentangled Representation Learning* [[Paper](../files/TNNLS24-DisenSemi.pdf)][[Code](https://github.com/jamesyifan/DisenSemi)] <br>
+1.  *DisenSemi: Semi-supervised Graph Classification via Disentangled Representation Learning* [[Paper](../files/24TNNLS-DisenSemi.pdf)][[Code](https://github.com/jamesyifan/DisenSemi)] <br>
 Yifan Wang, Xiao Luo, Chong Chen, Xian-Sheng Hua, Ming Zhang, **Wei Ju** <br>
-IEEE Transactions on Neural Networks and Learning Systems <br>
+IEEE Transactions on Neural Networks and Learning Systems 36(5): 8192-8204 [Pub: 2024-8-14]<br>
 ***TNNLS 2024, <span style="color:red">CCF-B, JCR Q1, IF=10.2</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *Learning Knowledge-diverse Experts for Long-tailed Graph Classification* [[Paper]()] <br>
