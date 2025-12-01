@@ -42,9 +42,9 @@ ACM SIGKDD Conference on Knowledge Discovery and Data Mining <br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence <br>
 ***TPAMI 2025, <span style="color:red">CCF-A, JCR Q1, IF=18.6</span>***
 
-1.  *Cluster-guided Contrastive Class-imbalanced Graph Classification* [[Paper](https://arxiv.org/pdf/2412.12984)] <br>
+1.  *Cluster-guided Contrastive Class-imbalanced Graph Classification* [[Paper](../files/25AAAI-C3GNN.pdf)] <br>
 **Wei Ju**, Zhengyang Mao, Siyu Yi, Yifang Qin, Yiyang Gu, Zhiping Xiao, Jianhao Shen, Ziyue Qiao, Ming Zhang <br>
-AAAI Conference on Artificial Intelligence <br>
+AAAI Conference on Artificial Intelligence, 39(11), 11924-11932 [Pub: 2025-4-11] <br>
 ***AAAI 2025, <span style="color:red">CCF-A</span>***
 
 1.  *GPS: Graph Contrastive Learning via Multi-scale Augmented Views from Adversarial Pooling* [[Paper](../files/25SCIS-GPS.pdf)][[Link](../files/25scis-gps-highly-cited.jpeg)] <br>
@@ -72,9 +72,9 @@ Hourun Li, Yifan Wang, Zhiping Xiao, Jia Yang, Changling Zhou, Ming Zhang, **Wei
 AAAI Conference on Artificial Intelligence <br>
 ***AAAI 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Deep Graph Clustering with Disentangled Representation Learning* [[Paper]()] <br>
+1.  *Deep Graph Clustering with Disentangled Representation Learning* [[Paper](../files/25MM-DisenCluster.pdf)] <br>
 Yifan Wang, Yuntai Ding, Yiyang Gu, Ziyue Qiao, Chong Chen, Xian-Sheng Hua, Ming Zhang, **Wei Ju**  <br>
-ACM International Conference on Multimedia <br>
+ACM International Conference on Multimedia, 767-776 [Pub: 2025-10-27] <br>
 ***ACMMM 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *PolyCF: Towards Optimal Spectral Graph Filters for Collaborative Filtering* [[Paper](https://arxiv.org/pdf/2401.12590.pdf)] <br>
@@ -327,9 +327,9 @@ AAAI Conference on Artificial Intelligence <br>
 Transactions on Machine Learning Research <br>
 ***TMLR 2023***
 
-1.  *RAHNet: Retrieval Augmented Hybrid Network for Long-tailed Graph Classification* [[Paper](../files/MM23-RAHNet.pdf)] <br>
+1.  *RAHNet: Retrieval Augmented Hybrid Network for Long-tailed Graph Classification* [[Paper](../files/23MM-RAHNet.pdf)] <br>
 Zhengyang Mao<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yifang Qin, Xiao Luo, Ming Zhang <br>
-ACM International Conference on Multimedia <br>
+ACM International Conference on Multimedia, 3817-3826 [Pub: 2023-10-27] <br>
 ***ACMMM 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Co-first Author</span>***
 
 1.  *Self-supervised Graph-level Representation Learning with Adversarial Contrastive Learning* [[Paper](../files/TKDD23-GraphACL.pdf)][[Code](https://github.com/liamgu06/GraphACL)][[Link](../files/tkdd23-graphacl-highly-cited.jpeg)]  <br>
@@ -352,14 +352,14 @@ Yusheng Zhao<sup>\*</sup>, Xiao Luo<sup>\*</sup>, **Wei Ju**, Chong Chen, Xian-S
 IEEE International Conference on Data Engineering <br>
 ***ICDE 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *ALEX: Towards Effective Graph Transfer Learning with Noisy Labels* [[Paper](../files/MM23-ALEX.pdf)] <br>
+1.  *ALEX: Towards Effective Graph Transfer Learning with Noisy Labels* [[Paper](../files/23MM-ALEX.pdf)] <br>
 Jingyang Yuan, Xiao Luo, Yifang Qin, Zhengyang Mao, **Wei Ju**, Ming Zhang <br>
-ACM International Conference on Multimedia <br>
+ACM International Conference on Multimedia, 3647-3656 [Pub: 2023-10-27] <br>
 ***ACMMM 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Redundancy-Free Self-Supervised Relational Learning for Graph Clustering* [[Paper](../files/TNNLS23-R2FGC.pdf)][[Code](https://github.com/yisiyu95/R2FGC)] <br>
+1.  *Redundancy-Free Self-Supervised Relational Learning for Graph Clustering* [[Paper](../files/23TNNLS-R2FGC.pdf)][[Code](https://github.com/yisiyu95/R2FGC)] <br>
 Siyu Yi, **Wei Ju**, Yifang Qin, Xiao Luo, Luchen Liu, Yongdao Zhou, Ming Zhang <br>
-IEEE Transactions on Neural Networks and Learning Systems <br>
+IEEE Transactions on Neural Networks and Learning Systems, 35(12): 18313-18327 [Pub: 2023-9-27] <br>
 ***TNNLS 2023, <span style="color:red">CCF-B, JCR Q1, IF=10.4</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *Towards Effective Semi-supervised Node Classification with Hybrid Curriculum Pseudo-labeling* [[Paper](../files/TOMM23-HCPL.pdf)] <br>
@@ -418,9 +418,9 @@ Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Meng Qu, Chong Chen, Minghua Den
 IEEE International Conference on Data Engineering <br>
 ***ICDE 2022, <span style="color:red">CCF-A</span>, <span style="color:orange">Co-first Author</span>, <span style="color:orange">Early Accept</span>***
 
-1.  *Improved Deep Unsupervised Hashing via Prototypical Learning* [[Paper](../files/MM22-PURPLE.pdf)] <br>
+1.  *Improved Deep Unsupervised Hashing via Prototypical Learning* [[Paper](../files/22MM-PURPLE.pdf)] <br>
 Zeyu Ma<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Xiao Luo, Chong Chen, Xian-Sheng Hua, Guangming Lu <br>
-ACM International Conference on Multimedia <br>
+ACM International Conference on Multimedia, 659-667 [Pub: 2023-10-10] <br>
 ***ACMMM 2022, <span style="color:red">CCF-A</span>, <span style="color:orange">Co-first Author</span>***
 
 1.  *CLEAR: Cluster-enhanced Contrast for Self-supervised Graph Representation Learning* [[Paper](../files/TNNLS22-CLEAR.pdf)] <br>
