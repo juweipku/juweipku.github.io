@@ -208,8 +208,8 @@ Nations of the Americas Chapter of the Association for Computational Linguistics
 ***NAACL 2025, <span style="color:red">CCF-B</span>***
 
 1.  *SemiEvol: Semi-supervised Fine-tuning for LLM Adaptation* [[Paper](../files/25NAACL-SemiEvol.pdf)] <br>
-Junyu Luo, Xiao Luo, Xiusi Chen, Zhiping Xiao, **Wei Ju**, Ming Zhang, 2795–2808 [Pub: 2025-4-29] <br>
-Nations of the Americas Chapter of the Association for Computational Linguistics <br>
+Junyu Luo, Xiao Luo, Xiusi Chen, Zhiping Xiao, **Wei Ju**, Ming Zhang <br>
+Nations of the Americas Chapter of the Association for Computational Linguistics, 2795–2808 [Pub: 2025-4-29] <br>
 ***NAACL 2025 Findings, <span style="color:red">CCF-B</span>***
 
 1.  *Reversible Column Disentangled Augmentation Tricks for Graph Contrastive Learning* [To appear] <br>
