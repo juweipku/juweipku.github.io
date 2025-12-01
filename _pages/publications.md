@@ -341,7 +341,7 @@ Zhengyang Mao<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yifang Qin, Xiao Luo, Ming 
 ACM International Conference on Multimedia, 3817-3826 [Pub: 2023-10-27] <br>
 ***ACMMM 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Co-first Author</span>***
 
-1.  *Self-supervised Graph-level Representation Learning with Adversarial Contrastive Learning* [[Paper](../files/23TKDD-GraphACL.pdf)][[Code](https://github.com/liamgu06/GraphACL)][[Link](../files/tkdd23-graphacl-highly-cited.jpeg)]  <br>
+1.  *Self-supervised Graph-level Representation Learning with Adversarial Contrastive Learning* [[Paper](../files/23TKDD-GraphACL.pdf)][[Code](https://github.com/liamgu06/GraphACL)][[Link](../files/23tkdd-graphacl-highly-cited.jpeg)]  <br>
 Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yiyang Gu, Zhengyang Mao, Luchen Liu, Yuhui Yuan, Ming Zhang <br>
 ACM Transactions on Knowledge Discovery from Data, 18(2): 34 [Pub: 2023-11-14] <br>
 ***TKDD 2023, <span style="color:red">CCF-B, IF=3.6</span>, <span style="color:orange">Co-first Author</span>, <span style="color:red">ESI Highly Cited Paper</span>***
