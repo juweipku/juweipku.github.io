@@ -142,9 +142,9 @@ Junyu Luo, Yuhao Tang, yiwei Fu, Xiao Luo, Zhizhuo KOU, Zhiping Xiao, **Wei Ju**
 International Conference on Machine Learning <br>
 ***ICML 2025, <span style="color:red">CCF-A</span>***
 
-1.  *A Survey on Efficient Large Language Model Training: From Data-centric Perspectives* [[Paper](../files/25ACL_Survey.pdf)] <br>
+1.  *A Survey on Efficient Large Language Model Training: From Data-centric Perspectives* [[Paper](../files/25ACL-Survey.pdf)] <br>
 Junyu Luo, Bohan Wu, Xiao Luo, Zhiping Xiao, Yiqiao Jin, Rong-Cheng Tu, Nan Yin, Yifan Wang, Jingyang Yuan, **Wei Ju**, Ming Zhang <br>
-Annual Meeting of the Association for Computational Linguistics, 1: 30904–30920 [Pub: 2025-7-27] <br> <br>
+Annual Meeting of the Association for Computational Linguistics, 1: 30904–30920 [Pub: 2025-7-27] <br>
 ***ACL 2025, <span style="color:red">CCF-A</span>***
 
 1.  *Embracing Large Language Models in Traffic Flow Forecasting* [[Paper](../files/25ACL-LEAF.pdf)] <br>
