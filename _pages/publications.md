@@ -52,19 +52,19 @@ AAAI Conference on Artificial Intelligence, 39(11), 11924-11932 [Pub: 2025-4-11]
 SCIENCE CHINA Information Sciences, 68(1): 112101 [Pub: 2025-1-1] <br>
 ***SCIS 2025, <span style="color:red">CCF-A, JCR Q1, IF=8.8</span>, <span style="color:red">ESI Highly Cited Paper</span>***
 
-1.  *Dual Prototype-Enhanced Contrastive Framework for Class-Imbalanced Graph Domain Adaptation* [[Paper]()] <br>
+1.  *Dual Prototype-Enhanced Contrastive Framework for Class-Imbalanced Graph Domain Adaptation* [To appear] <br>
 Xin Ma, Yifan Wang, Siyu Yi, **Wei Ju**, Junyu Luo, Yusheng Zhao, Xiao Luo, Jiancheng Lv <br>
 Advances in Neural Information Processing Systems <br>
 ***NeurIPS 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *DANCE: Dual Unbiased Expansion with Group-acquired Alignment for Out-of-distribution Graph Fairness Learning* [[Paper]()] <br>
+1.  *DANCE: Dual Unbiased Expansion with Group-acquired Alignment for Out-of-distribution Graph Fairness Learning* [To appear] <br>
 Yifan Wang, Hourun Li, Ling Yue, Zhiping Xiao, Jia Yang, Changling Zhou, **Wei Ju**, Ming Zhang, Xiao Luo <br>
 International Conference on Machine Learning <br>
 ***ICML 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *PALA: Class-imbalanced Graph Domain Adaptation via Prototype-anchored Learning and Alignment* [[Paper]()] <br>
+1.  *PALA: Class-imbalanced Graph Domain Adaptation via Prototype-anchored Learning and Alignment* [[Paper](../files/25IJCAI-PALA.pdf)][[Code](https://github.com/maxin88scu/PALA)] <br>
 Xin Ma, Yifan Wang, Siyu Yi, **Wei Ju**, Bei Wu, Ziyue Qiao, Chenwei Tang, Jiancheng Lv <br>
-International Joint Conference on Artificial Intelligence <br>
+International Joint Conference on Artificial Intelligence, 3198-3207 [Pub: 2025-8-15] <br>
 ***IJCAI 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *DisCo: Graph-Based Disentangled Contrastive Learning for Cold-Start Cross-Domain Recommendation* [[Paper](../files/25AAAI-DisCo.pdf)][[Code](https://github.com/HourunLi/2025-AAAI-DisCo)] <br>
