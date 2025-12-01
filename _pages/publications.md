@@ -267,14 +267,14 @@ Junwei Yang, Hanwen Xu, Srbuhi Mirzoyan, Tong Chen, Zixuan Liu, Zequn Liu, **Wei
 Nature Machine Intelligence <br>
 ***NMI 2024, <span style="color:red">IF=18.8 (Nature 子刊)</span>***
 
-1.  *GALA: Graph Diffusion-based Alignment with Jigsaw for Source-free Domain Adaptation* [[Paper](../files/TPAMI24-GALA.pdf)][[Code](https://github.com/luo-junyu/GALA)] <br>
+1.  *GALA: Graph Diffusion-based Alignment with Jigsaw for Source-free Domain Adaptation* [[Paper](../files/24TPAMI-GALA.pdf)][[Code](https://github.com/luo-junyu/GALA)] <br>
 Junyu Luo, Yiyang Gu, Xiao Luo, **Wei Ju**, Yusheng Zhao, Zhiping Xiao, Jingyang Yuan, Ming Zhang <br>
-IEEE Transactions on Pattern Analysis and Machine Intelligence <br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 46(12): 9038-9051 [Pub: 2024-6-18] <br>
 ***TPAMI 2024, <span style="color:red">CCF-A, JCR Q1, IF=23.6</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *DisenSemi: Semi-supervised Graph Classification via Disentangled Representation Learning* [[Paper](../files/24TNNLS-DisenSemi.pdf)][[Code](https://github.com/jamesyifan/DisenSemi)] <br>
 Yifan Wang, Xiao Luo, Chong Chen, Xian-Sheng Hua, Ming Zhang, **Wei Ju** <br>
-IEEE Transactions on Neural Networks and Learning Systems 36(5): 8192-8204 [Pub: 2024-8-14]<br>
+IEEE Transactions on Neural Networks and Learning Systems, 36(5): 8192-8204 [Pub: 2024-8-14]<br>
 ***TNNLS 2024, <span style="color:red">CCF-B, JCR Q1, IF=10.2</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *Learning Knowledge-diverse Experts for Long-tailed Graph Classification* [[Paper]()] <br>
