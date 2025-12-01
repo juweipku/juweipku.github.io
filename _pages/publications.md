@@ -92,6 +92,11 @@ Siyu Yi, Zhengyang Mao, Yifan Wang, Yiyang Gu, Zhiping Xiao, Chong Chen, Xian-Sh
 IEEE Transactions on Multimedia, 27: 7028-7039 [Pub: 2025-2-17] <br>
 ***TMM 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.4</span>, <span style="color:orange">Corresponding Author</span>***
 
+1.  *Learning Knowledge-diverse Experts for Long-tailed Graph Classification* [[Paper](../files/24TKDD-KDEX.pdf)] <br>
+Zhengyang Mao, **Wei Ju**, Siyu Yi, Yifan Wang, Zhiping Xiao, Qingqing Long, Nan Yin, Xinwang Liu, Ming Zhang <br>
+ACM Transactions on Knowledge Discovery from Data, 19(2): 32 [Pub: 2025-1-11] <br>
+***TKDD 2025, <span style="color:red">CCF-B, IF=4.0</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *GMR-Rec: Graph mutual regularization learning for multi-domain recommendation* [[Paper](../files/25IS-GMR-Rec.pdf)] <br>
 Yifan Wang, Yangzi Yang, Shuai Li, Yutao Xie, Zhiping Xiao, Ming Zhang, **Wei Ju** <br>
 Information Sciences, 703: 121946 [Pub: 2025-2-5] <br>
@@ -239,9 +244,9 @@ Asian Conference on Machine Learning <br>
 
 2024
 ====
-1.  *Hypergraph-enhanced Dual Semi-supervised Graph Classification* [[Paper](../files/ICML24-HEAL.pdf)] <br>
+1.  *Hypergraph-enhanced Dual Semi-supervised Graph Classification* [[Paper](../files/24ICML-HEAL.pdf)] <br>
 **Wei Ju**, Zhengyang Mao, Siyu Yi, Yifang Qin, Yiyang Gu, Zhiping Xiao, Yifan Wang, Xiao Luo, Ming Zhang <br>
-International Conference on Machine Learning <br>
+International Conference on Machine Learning, 235: 22594-22604 [Pub: 2024-7-21] <br>
 ***ICML 2024, <span style="color:red">CCF-A</span>***
 
 1.  *A Survey of Data-Efficient Graph Learning* [[Paper](../files/24IJCAI-Survey.pdf)] <br>
@@ -249,16 +254,19 @@ International Conference on Machine Learning <br>
 International Joint Conference on Artificial Intelligence, 8104-8113 [Pub: 2024-8-3] <br>
 ***IJCAI 2024, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation</span>***
 
-1.  *Focus on Informative Graphs! Semi-supervised Active Learning for Graph-level Classification* [[Paper](../files/PR24-GraphSpa.pdf)] <br>
+1.  *Focus on Informative Graphs! Semi-supervised Active Learning for Graph-level Classification* [[Paper](../files/24PR-GraphSpa.pdf)] <br>
 **Wei Ju**, Zhengyang Mao, Ziyue Qiao, Yifang Qin, Siyu Yi, Zhiping Xiao, Xiao Luo, Yanjie Fu, Ming Zhang <br>
+Pattern Recognition, 153: 110567 [Pub: 2024-5-5] <br>
 ***Pattern Recognition 2024, <span style="color:red">CCF-B, JCR Q1, IF=8.0</span>***
 
-1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](../files/NN24-Survey.pdf)][[Link](../files/nn24-survey-hot.jpeg)] <br>
+1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](../files/24NN-Survey.pdf)][[Link](../files/24nn-survey-hot.jpeg)] <br>
 **Wei Ju**, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Yifan Wang, Xiao Luo, Ming Zhang <br>
+Neural Networks, 173: 106207 [Pub: 2024-2-27] <br>
 ***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>, <span style="color:red">ESI Hot & Highly Cited Paper</span>***
 
-1.  *COOL: A Conjoint Perspective on Spatio-Temporal Graph Neural Network for Traffic Forecasting* [[Paper](../files/IF24-COOL.pdf)] <br>
+1.  *COOL: A Conjoint Perspective on Spatio-Temporal Graph Neural Network for Traffic Forecasting* [[Paper](../files/24IF-COOL.pdf)] <br>
 **Wei Ju**<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Yifang Qin, Siyu Yi, Jingyang Yuan, Zhiping Xiao, Xiao Luo, Xiting Yan, Ming Zhang <br>
+Information Fusion, 107: 102341 [Pub: 2024-3-4] <br>
 ***Information Fusion 2024, <span style="color:red">JCR Q1, IF=18.6</span>***
 
 1.  *Learning Graph ODE for Continuous-Time Sequential Recommendation* [[Paper](../files/24TKDE-GDERec.pdf)] <br>
@@ -266,9 +274,9 @@ Yifang Qin<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Hongjun Wu, Xiao Luo, Ming Z
 IEEE Transactions on Knowledge and Data Engineering, 36(7): 3224-3236 [Pub: 2024-1-3] <br>
 ***TKDE 2024, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>, <span style="color:orange">Co-first Author</span>***
 
-1.  *Poisoning medical knowledge using large language models* [[Paper](../files/NMI24.pdf)] <br>
+1.  *Poisoning medical knowledge using large language models* [[Paper](../files/24NMI.pdf)] <br>
 Junwei Yang, Hanwen Xu, Srbuhi Mirzoyan, Tong Chen, Zixuan Liu, Zequn Liu, **Wei Ju**, Luchen Liu, Zhiping Xiao, Ming Zhang, Sheng Wang <br>
-Nature Machine Intelligence <br>
+Nature Machine Intelligence, 6: 1156–1168  [Pub: 2024-9-20] <br>
 ***NMI 2024, <span style="color:red">IF=18.8 (Nature 子刊)</span>***
 
 1.  *GALA: Graph Diffusion-based Alignment with Jigsaw for Source-free Domain Adaptation* [[Paper](../files/24TPAMI-GALA.pdf)][[Code](https://github.com/luo-junyu/GALA)] <br>
@@ -278,35 +286,30 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence, 46(12): 9038-905
 
 1.  *DisenSemi: Semi-supervised Graph Classification via Disentangled Representation Learning* [[Paper](../files/24TNNLS-DisenSemi.pdf)][[Code](https://github.com/jamesyifan/DisenSemi)] <br>
 Yifan Wang, Xiao Luo, Chong Chen, Xian-Sheng Hua, Ming Zhang, **Wei Ju** <br>
-IEEE Transactions on Neural Networks and Learning Systems, 36(5): 8192-8204 [Pub: 2024-8-14]<br>
+IEEE Transactions on Neural Networks and Learning Systems, 36(5): 8192-8204 [Pub: 2024-8-14] <br>
 ***TNNLS 2024, <span style="color:red">CCF-B, JCR Q1, IF=10.2</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Learning Knowledge-diverse Experts for Long-tailed Graph Classification* [[Paper]()] <br>
-Zhengyang Mao, **Wei Ju**, Siyu Yi, Yifan Wang, Zhiping Xiao, Qingqing Long, Nan Yin, Xinwang Liu, Ming Zhang <br>
-ACM Transactions on Knowledge Discovery from Data <br>
-***TKDD 2024, <span style="color:red">CCF-B, IF=4.0</span>, <span style="color:orange">Corresponding Author</span>***
-
-1.  *PGODE: Towards High-quality System Dynamics Modeling* [[Paper](../files/ICML24-PGODE.pdf)] <br>
+1.  *PGODE: Towards High-quality System Dynamics Modeling* [[Paper](../files/24ICML-PGODE.pdf)] <br>
 Xiao Luo, Yiyang Gu, Huiyu Jiang, Hang Zhou, Jinsheng Huang, **Wei Ju**, Zhiping Xiao, Ming Zhang, Yizhou Sun <br>
-International Conference on Machine Learning <br>
+International Conference on Machine Learning, 235: 33305-33328 [Pub: 2024-7-21] <br> <br>
 ***ICML 2024, <span style="color:red">CCF-A</span>***
 
-1.  *EGODE: An Event-attended Graph ODE Framework for Modeling Rigid Dynamics* [[Paper]()] <br>
+1.  *EGODE: An Event-attended Graph ODE Framework for Modeling Rigid Dynamics* [[Paper](../files/24NIPS-EGODE.pdf)] <br>
 Jingyang Yuan, Gongbo Sun, Zhiping Xiao, Hang Zhou, Xiao Luo, Junyu Luo, Yusheng Zhao, **Wei Ju**, Ming Zhang <br>
-Advances in Neural Information Processing Systems <br>
+Advances in Neural Information Processing Systems, 37: 59093-59118 [Pub: 2024-12-10] <br>
 ***NeurIPS 2024, <span style="color:red">CCF-A</span>***
 
-1.  *Rank and Align: Towards effective Source-free Graph Domain Adaptation* [[Paper](../files/IJCAI24-RNA.pdf)] <br>
+1.  *Rank and Align: Towards effective Source-free Graph Domain Adaptation* [[Paper](../files/24IJCAI-RNA.pdf)] <br>
 Junyu Luo, Zhiping Xiao, Yifan Wang, Xiao Luo, Jingyang Yuan, **Wei Ju**, Langechuan Liu, Ming Zhang <br>
-International Joint Conference on Artificial Intelligence <br>
+International Joint Conference on Artificial Intelligence, 4706-4714 [Pub: 2024-8-3] <br>
 ***IJCAI 2024, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation</span>***
 
-1.  *MOAT: Graph Prompting for 3D Molecular Graphs* [[Paper](../files/CIKM24-MOAT.pdf)] <br>
+1.  *MOAT: Graph Prompting for 3D Molecular Graphs* [[Paper](../files/24CIKM-MOAT.pdf)] <br>
 Qingqing Long, Yuchen Yan, Wentao Cui, Meng Xiao, Zhihong Zhu, **Wei Ju**, Xuezhi Wang, Yuanchun Zhou <br>
-ACM International Conference on Information and Knowledge Management <br>
+ACM International Conference on Information and Knowledge Management, 1586-1596 [Pub: 2024-10-21] <br>
 ***CIKM 2024, <span style="color:red">CCF-B</span>***
 
-1.  *DEER: Distribution Divergence-based Graph Contrast for Partial Label Learning on Graphs* [[Paper](../files/TMM24-DEER.pdf)] <br>
+1.  *DEER: Distribution Divergence-based Graph Contrast for Partial Label Learning on Graphs* [To appear] <br>
 Yiyang Gu, Zihao Chen, Yifang Qin, Zhengyang Mao, Zhiping Xiao, **Wei Ju**, Chong Chen, Xian-Sheng Hua, Yifan Wang, Xiao Luo, Ming Zhang <br>
 IEEE Transactions on Multimedia <br>
 ***TMM 2024, <span style="color:red">CCF-B, JCR Q1, IF=8.4</span>***
