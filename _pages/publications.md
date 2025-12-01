@@ -403,58 +403,59 @@ Transactions on Machine Learning Research, [Pub: 2023-9-24] <br>
 
 2022
 ====
-1.  *TGNN: A Joint Semi-supervised Framework for Graph-level Classification* [[Paper](../files/IJCAI22-TGNN.pdf)] <br>
+1.  *TGNN: A Joint Semi-supervised Framework for Graph-level Classification* [[Paper](../files/22IJCAI-TGNN.pdf)] <br>
 **Wei Ju**<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Meng Qu, Yifan Wang, Chong Chen, Minghua Deng, Xian-Sheng Hua, Ming Zhang <br>
-International Joint Conference on Artificial Intelligence <br>
+International Joint Conference on Artificial Intelligence, 2122-2128 [Pub: 2022-7-23] <br>
 ***IJCAI 2022, <span style="color:red">CCF-A</span>***
 
-1.  *Kernel-based Substructure Exploration for Next POI Recommendation* [[Paper](../files/ICDM22-KBGNN.pdf)][[Code](https://github.com/Fang6ang/KBGNN)] <br>
+1.  *Kernel-based Substructure Exploration for Next POI Recommendation* [[Paper](../files/22ICDM-KBGNN.pdf)][[Code](https://github.com/Fang6ang/KBGNN)] <br>
 **Wei Ju**<sup>\*</sup>, Yifang Qin<sup>\*</sup>, Ziyue Qiao, Xiao Luo, Yifan Wang, Yanjie Fu, Ming Zhang <br>
-IEEE International Conference on Data Mining <br>
+IEEE International Conference on Data Mining, 221-230 [Pub: 2022-11-28] <br>
 ***ICDM 2022, <span style="color:red">CCF-B</span>, 🏆 <span style="color:orange">Best Paper Finalist</span>***
 
-1.  *KGNN: Harnessing Kernel-based Networks for Semi-supervised Graph Classification* [[Paper](../files/WSDM22-KGNN.pdf)] <br>
+1.  *KGNN: Harnessing Kernel-based Networks for Semi-supervised Graph Classification* [[Paper](../files/22WSDM-KGNN.pdf)] <br>
 **Wei Ju**, Junwei Yang, Meng Qu, Weiping Song, Jianhao Shen, Ming Zhang <br>
-ACM International Conference on Web Search and Data Mining <br>
+ACM International Conference on Web Search and Data Mining, 421-429 [Pub: 2022-2-15] <br>
 ***WSDM 2022, <span style="color:red">CCF-B</span>***
 
-1.  *GHNN: Graph Harmonic Neural Networks for Semi-supervised Graph-level Classification* [[Paper](../files/NN22-GHNN.pdf)] <br>
+1.  *GHNN: Graph Harmonic Neural Networks for Semi-supervised Graph-level Classification* [[Paper](../files/22NN-GHNN.pdf)] <br>
 **Wei Ju**<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Zequ Ma, Junwei Yang, Minghua Deng, Ming Zhang <br>
+Neural Networks, 151: 70-79 [Pub: 2022-3-24] <br>
 ***Neural Networks 2022, <span style="color:red">CCF-B, JCR Q1, IF=9.657</span>***
 
-1.  *DualGraph: Improving Semi-supervised Graph Classification via Dual Contrastive Learning* [[Paper](../files/ICDE22-DualGraph.pdf)] <br>
+1.  *DualGraph: Improving Semi-supervised Graph Classification via Dual Contrastive Learning* [[Paper](../files/22ICDE-DualGraph.pdf)] <br>
 Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Meng Qu, Chong Chen, Minghua Deng, Xian-Sheng Hua, Ming Zhang <br>
-IEEE International Conference on Data Engineering <br>
+IEEE International Conference on Data Engineering, 699-712 [Pub: 2022-5-9] <br>
 ***ICDE 2022, <span style="color:red">CCF-A</span>, <span style="color:orange">Co-first Author</span>, <span style="color:orange">Early Accept</span>***
 
 1.  *Improved Deep Unsupervised Hashing via Prototypical Learning* [[Paper](../files/22MM-PURPLE.pdf)] <br>
 Zeyu Ma<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Xiao Luo, Chong Chen, Xian-Sheng Hua, Guangming Lu <br>
-ACM International Conference on Multimedia, 659-667 [Pub: 2023-10-10] <br>
+ACM International Conference on Multimedia, 659-667 [Pub: 2022-10-10] <br>
 ***ACMMM 2022, <span style="color:red">CCF-A</span>, <span style="color:orange">Co-first Author</span>***
 
-1.  *CLEAR: Cluster-enhanced Contrast for Self-supervised Graph Representation Learning* [[Paper](../files/TNNLS22-CLEAR.pdf)] <br>
+1.  *CLEAR: Cluster-enhanced Contrast for Self-supervised Graph Representation Learning* [[Paper](../files/22TNNLS-CLEAR.pdf)] <br>
 Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Meng Qu, Yiyang Gu, Chong Chen, Minghua Deng, Xian-Sheng Hua, Ming Zhang <br>
-IEEE Transactions on Neural Networks and Learning Systems <br>
+IEEE Transactions on Neural Networks and Learning Systems, 35(1): 899-912 [Pub: 2022-6-8] <br>
 ***TNNLS 2022, <span style="color:red">CCF-B, JCR Q1, IF=14.255</span>, <span style="color:orange">Co-first Author</span>***
 
-1.  *DisenCite: Graph-based Disentangled Representation Learning for Context-specific Citation Generation* [[Paper](../files/AAAI22-DisenCite.pdf)][[Code](https://github.com/jamesyifan/DisenCite)] <br>
+1.  *DisenCite: Graph-based Disentangled Representation Learning for Context-specific Citation Generation* [[Paper](../files/22AAAI-DisenCite.pdf)][[Code](https://github.com/jamesyifan/DisenCite)] <br>
 Yifan Wang, Yiping Song, Shuai Li, Chaoran Cheng, **Wei Ju**, Ming Zhang, Sheng Wang <br>
-AAAI Conference on Artificial Intelligence <br>
+AAAI Conference on Artificial Intelligence, 36(10): 11449-11458 [Pub: 2022-6-28] <br>
 ***AAAI 2022, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation</span>***
 
-1.  *Building Conversational Diagnosis Systems for Fine-grained Diseases using Few Annotated Data* [[Paper](../files/ICONIP-22.pdf)] <br>
+1.  *Building Conversational Diagnosis Systems for Fine-grained Diseases using Few Annotated Data* [[Paper](../files/22ICONIP.pdf)] <br>
 Yiping Song, **Wei Ju**, Zhiliang Tian, Luchen Liu, Ming Zhang,nd Zheng Xie <br>
-International Conference on Neural Information Processing <br>
+International Conference on Neural Information Processing, 13625: 591-603 [Pub: 2023-4-13] <br>
 ***ICONIP 2022, <span style="color:red">CCF-C</span>, <span style="color:orange">Oral Representation</span>***
 
 2021
 ====
-1.  *An Interpretation of Convolutional Neural Networks for Motif Finding from the View of Probability* [[Paper](../files/ICTAI-21.pdf)] <br>
+1.  *An Interpretation of Convolutional Neural Networks for Motif Finding from the View of Probability* [[Paper](../files/21ICTAI.pdf)] <br>
 Weinan Wang, Yuhang Guo, **Wei Ju**, Xiao Luo, Minghua Deng <br>
-IEEE International Conference on Tools with Artificial Intelligence <br>
+IEEE International Conference on Tools with Artificial Intelligence, 176-183 [Pub: 2021-11-1] <br>
 ***ICTAI 2021, <span style="color:red">CCF-C</span>***
 
-1.  *Deep Supervised Hashing by Classification For Image Retrieval* [[Paper](../files/ICONIP-21.pdf)] <br>
+1.  *Deep Supervised Hashing by Classification For Image Retrieval* [[Paper](../files/21ICONIP.pdf)] <br>
 Xiao Luo, Yuhang Guo, Zeyu Ma, Tao Li, **Wei Ju**, Chong Chen, Minghua Deng <br>
-International Conference on Neural Information Processing <br>
+International Conference on Neural Information Processing, 13111: 3-14 [Pub: 2021-12-5] <br>
 ***ICONIP 2021, <span style="color:red">CCF-C</span>, <span style="color:orange">Oral Representation</span>***
