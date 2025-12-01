@@ -376,7 +376,7 @@ Xiao Luo, **Wei Ju**, Yiyang Gu, Yifang Qin, Siyu Yi, Daqing Wu, Luchen Liu, Min
 ACM Transactions on Multimedia Computing Communications and Applications, 20(3): 82 [Pub: 2023-11-10] <br>
 ***TOMM 2023, <span style="color:red">CCF-B, JCR Q1, IF=5.1</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *DisenPOI: Disentangling Sequential and Geographical Influence for Point-of-Interest Recommendation* [[Paper](../files/23WSDM-DisenPOI.pdf)] <br>
+1.  *DisenPOI: Disentangling Sequential and Geographical Influence for Point-of-Interest Recommendation* [[Paper](../files/23WSDM-DisenPOI.pdf)][[Code](https://github.com/Yifang-Qin/DisenPOI)] <br>
 Yifang Qin<sup>\*</sup>, Yifan Wang<sup>\*</sup>, Fang Sun<sup>\*</sup>, **Wei Ju**, Xuyang Hou, Zhe Wang, Jia Cheng, Jun Lei, Ming Zhang <br>
 ACM International Conference on Web Search and Data Mining, 508-516 [Pub: 2023-2-27] <br>
 ***WSDM 2023, <span style="color:red">CCF-B</span>, <span style="color:orange">Corresponding Author</span>***
