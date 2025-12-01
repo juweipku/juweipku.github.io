@@ -92,49 +92,52 @@ Siyu Yi, Zhengyang Mao, Yifan Wang, Yiyang Gu, Zhiping Xiao, Chong Chen, Xian-Sh
 IEEE Transactions on Multimedia, 27: 7028-7039 [Pub: 2025-2-17] <br>
 ***TMM 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.4</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *GMR-Rec: Graph mutual regularization learning for multi-domain recommendation* [[Paper](../files/IS25-GMR-Rec.pdf)] <br>
+1.  *GMR-Rec: Graph mutual regularization learning for multi-domain recommendation* [[Paper](../files/25IS-GMR-Rec.pdf)] <br>
 Yifan Wang, Yangzi Yang, Shuai Li, Yutao Xie, Zhiping Xiao, Ming Zhang, **Wei Ju** <br>
+Information Sciences, 703: 121946 [Pub: 2025-2-5] <br>
 ***Information Sciences 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.1</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *A Multimodal Perception System for Predicting Restorative Effect in University Open Spaces* [[Paper]()] <br>
+1.  *A Multimodal Perception System for Predicting Restorative Effect in University Open Spaces* [To appear] <br>
 Jiazhen Huang, Ruoling Qi, Jiayi LIU, Tengfei Han, Fansheng Zhang, Jieqian Sun, Wei Zhao, **Wei Ju** <br>
 IEEE International Conference on Systems, Man, and Cybernetics <br>
 ***SMC 2025, <span style="color:red">CCF-C</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *SMI-Editor: Edit-based SMILES Language Model with Fragment-level Supervision* [[Paper](https://arxiv.org/pdf/2412.05569)] <br>
+1.  *SMI-Editor: Edit-based SMILES Language Model with Fragment-level Supervision* [[Paper](../files/25ICLR-SMI-Editor.pdf)][[Code](https://github.com/zhengkangjie/smi-editor)] <br>
 Kangjie Zheng, Siyue Liang, Junwei Yang, Bin Feng, Zequn Liu, **Wei Ju**, Zhiping Xiao, Ming Zhang <br>
-International Conference on Learning Representations <br>
+International Conference on Learning Representations, [Pub: 2025-1-23]<br>
 ***ICLR 2025, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Rethinking Neural Architecture Representation for Predictors: Topological Encoding in Pixel Space* [[Paper](../files/IF25-DIMNP.pdf)] <br>
+1.  *Rethinking Neural Architecture Representation for Predictors: Topological Encoding in Pixel Space* [[Paper](../files/25IF-DIMNP.pdf)] <br>
 Caiyang Yu, Jian Wang, Yifan Wang, **Wei Ju**, Chenwei Tang, Jiancheng Lv <br>
+Information Fusion, 118: 102925 [Pub: 2025-1-10] <br>
 ***Information Fusion 2025, <span style="color:red">JCR Q1, IF=14.8</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Deep cut-informed graph embedding and clustering* [[Paper]()] <br>
+1.  *Deep cut-informed graph embedding and clustering* [[Paper](../files/25IF-DCGC.pdf)][[Code](https://github.com/CNICDS/DCGC)] <br>
 Zhiyuan Ning, Zaitian Wang, Ran Zhang, Ping Xu, Kunpeng Liu, Pengyang Wang, **Wei Ju**, Pengfei Wang, Yuanchun Zhou, Erik Cambria, Chong Chen <br>
+Information Fusion, 126: 103603 [Pub: 2025-8-10] <br>
 ***Information Fusion 2025, <span style="color:red">JCR Q1, IF=15.5</span>***
 
-1.  *Dynamic Text Bundling Supervision for Zero-Shot Inference on Text-Attributed Graphs* [[Paper]()] <br>
+1.  *Dynamic Text Bundling Supervision for Zero-Shot Inference on Text-Attributed Graphs* [To appear] <br>
 Yusheng Zhao, Qixin Zhang, Xiao Luo, Weizhi Zhang, Zhiping Xiao, **Wei Ju**, Philip S. Yu, Ming Zhang <br>
 Advances in Neural Information Processing Systems <br>
 ***NeurIPS 2025, <span style="color:red">CCF-A</span>***
 
-1.  *SEGA: Shaping Semantic Geometry for Robust Hashing under Noisy Supervision* [[Paper]()] <br>
+1.  *SEGA: Shaping Semantic Geometry for Robust Hashing under Noisy Supervision* [To appear] <br>
 Yiyang Gu, Bohan Wu, Qinghua Ran, Rong-Cheng Tu, Xiao Luo, Zhiping Xiao, **Wei Ju**, Dacheng Tao, Ming Zhang <br>
 Advances in Neural Information Processing Systems <br>
 ***NeurIPS 2025, <span style="color:red">CCF-A</span>***
 
-1.  *Test-time Adaptation on Graphs via Adaptive Subgraph-based Selection and Regularized Prototypes* [[Paper]()] <br>
+1.  *Test-time Adaptation on Graphs via Adaptive Subgraph-based Selection and Regularized Prototypes* [To appear] <br>
 Yusheng Zhao, Qixin Zhang, Xiao Luo, Junyu Luo, **Wei Ju**, Zhiping Xiao, Ming Zhang <br>
 International Conference on Machine Learning <br>
 ***ICML 2025, <span style="color:red">CCF-A</span>***
 
-1.  *ExLM: Rethinking the Impact of *[MASK]* Tokens in Masked Language Models* [[Paper](https://arxiv.org/pdf/2501.13397)] <br>
+1.  *ExLM: Rethinking the Impact of *[MASK]* Tokens in Masked Language Models* [To appear] <br>
 Kangjie Zheng, Junwei Yang, Siyue Liang, Bin Feng, Zequn Liu, **Wei Ju**, Zhiping Xiao, Ming Zhang <br>
 International Conference on Machine Learning <br>
 ***ICML 2025, <span style="color:red">CCF-A</span>***
 
-1.  *Sparse Causal Discovery with Generative Intervention for Unsupervised Graph Domain Adaptation* [[Paper]()] <br>
+1.  *Sparse Causal Discovery with Generative Intervention for Unsupervised Graph Domain Adaptation* [To appear] <br>
 Junyu Luo, Yuhao Tang, yiwei Fu, Xiao Luo, Zhizhuo KOU, Zhiping Xiao, **Wei Ju**, Wentao Zhang, Ming Zhang <br>
 International Conference on Machine Learning <br>
 ***ICML 2025, <span style="color:red">CCF-A</span>***
