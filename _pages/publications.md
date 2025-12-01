@@ -142,19 +142,19 @@ Junyu Luo, Yuhao Tang, yiwei Fu, Xiao Luo, Zhizhuo KOU, Zhiping Xiao, **Wei Ju**
 International Conference on Machine Learning <br>
 ***ICML 2025, <span style="color:red">CCF-A</span>***
 
-1.  *A Survey on Efficient Large Language Model Training: From Data-centric Perspectives* [[Paper](../files/ACL25_Survey.pdf)] <br>
+1.  *A Survey on Efficient Large Language Model Training: From Data-centric Perspectives* [[Paper](../files/25ACL_Survey.pdf)] <br>
 Junyu Luo, Bohan Wu, Xiao Luo, Zhiping Xiao, Yiqiao Jin, Rong-Cheng Tu, Nan Yin, Yifan Wang, Jingyang Yuan, **Wei Ju**, Ming Zhang <br>
-Annual Meeting of the Association for Computational Linguistics <br>
+Annual Meeting of the Association for Computational Linguistics, 1: 30904–30920 [Pub: 2025-7-27] <br> <br>
 ***ACL 2025, <span style="color:red">CCF-A</span>***
 
-1.  *Embracing Large Language Models in Traffic Flow Forecasting* [[Paper](https://arxiv.org/pdf/2412.12201)] <br>
+1.  *Embracing Large Language Models in Traffic Flow Forecasting* [[Paper](../files/25ACL-LEAF.pdf)] <br>
 Yusheng Zhao, Xiao Luo, Haomin Wen, Zhiping Xiao, **Wei Ju**, Ming Zhang <br>
-Annual Meeting of the Association for Computational Linguistics <br>
+Annual Meeting of the Association for Computational Linguistics, 8108–8123 [Pub: 2025-7-27] <br>
 ***ACL 2025 Findings, <span style="color:red">CCF-A</span>***
 
-1.  *Future Matters for Present: Towards Effective Physical Simulation over Meshes* [[Paper]()] <br>
+1.  *Future Matters for Present: Towards Effective Physical Simulation over Meshes* [[Paper](../files/25KDD-FAIR.pdf)] <br>
 Xiao Luo, Junyu Luo, Huiyu Jiang, Hang Zhou, Zhiping Xiao, **Wei Ju**, Carl Yang, Ming Zhang, Yizhou Sun <br>
-ACM SIGKDD Conference on Knowledge Discovery and Data Mining <br>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 906-917 [Pub: 2025-7-20] <br>
 ***SIGKDD 2025, <span style="color:red">CCF-A</span>***
 
 1.  *TRACI: A Data-centric Approach for Multi-Domain Generalization on Graphs* [[Paper](../files/25AAAI-TRACI.pdf)][[Code](https://github.com/YushengZhao/TRACI-AAAI25)] <br>
@@ -172,66 +172,67 @@ Yiyang Gu, Taian Guo, Hang Zhou, Zihao Chen, Zhiping Xiao, Yifang Qin, Xiao Luo,
 ACM International Conference on Multimedia, 8949-8958 [Pub: 2025-10-27] <br>
 ***ACMMM 2025, <span style="color:red">CCF-A</span>***
 
-1.  *TowerDNA: Fast and Accurate Graph Retrieval with Dividing, Contrasting and Alignment* [[Paper]()] <br>
+1.  *TowerDNA: Fast and Accurate Graph Retrieval with Dividing, Contrasting and Alignment* [To appear] <br>
 Junwei Yang, Yiyang Gu, Yifang Qin, Xiao Luo, Zhiping Xiao, Kangjie Zheng, **Wei Ju**, Xian-Sheng Hua, Ming Zhang <br>
 IEEE Transactions on Knowledge and Data Engineering <br>
 ***TKDE 2025, <span style="color:red">CCF-A, JCR Q1, IF=10.4</span>***
 
-1.  *MATE: Masked Optimal Transport with Dynamic Selection for Partial Label Graph Learning* [[Paper]()] <br>
+1.  *MATE: Masked Optimal Transport with Dynamic Selection for Partial Label Graph Learning* [[Paper](../files/25AIJ-MATE.pdf)] <br>
 Yiyang Gu, Binqi Chen, Zihao Chen, Ziyue Qiao, Xiao Luo, Junyu Luo, Zhiping Xiao, **Wei Ju**, Ming Zhang<br>
-Artificial Intelligence <br>
+Artificial Intelligence, 348: 104396 [Pub: 2025-7-29] <br>
 ***AIJ 2025, <span style="color:red">CCF-A, JCR Q1, IF=4.6</span>***
 
-1.  *Cross-Domain Diffusion with Progressive Alignment for Efficient Adaptive Retrieval* [[Paper]()] <br>
+1.  *Cross-Domain Diffusion with Progressive Alignment for Efficient Adaptive Retrieval* [[Paper](../files/25TIP-COUPLE.pdf)] <br>
 Junyu Luo, Yusheng Zhao, Xiao Luo, Zhiping Xiao, **Wei Ju**, Li Shen, Dacheng Tao, Ming Zhang<br>
-IEEE Transactions on Image Processing <br>
+IEEE Transactions on Image Processing, 34: 1820-1834 [Pub: 2025-3-11] <br>
 ***TIP 2025, <span style="color:red">CCF-A, JCR Q1, IF=10.8</span>***
 
-1.  *HEAL: Hybrid Enhancement with LLM-based Agents for Text-attributed Hypergraph Self-supervised Representation Learning* [[Paper]()] <br>
+1.  *HEAL: Hybrid Enhancement with LLM-based Agents for Text-attributed Hypergraph Self-supervised Representation Learning* [[Paper](../files/25EMNLP-HEAL.pdf)] <br>
 Ruochang Li, Xiao Luo, Zhiping Xiao, **Wei Ju**, Ming Zhang <br>
-Conference on Empirical Methods in Natural Language Processing <br>
+Conference on Empirical Methods in Natural Language Processing, 6815–6829 [Pub: 2025-11-4] <br>
 ***EMNLP 2025 Findings, <span style="color:red">CCF-B</span>***
 
-1.  *LEAF: Large Language Diffusion Model for Time Series Forecasting* [[Paper]()] <br>
+1.  *LEAF: Large Language Diffusion Model for Time Series Forecasting* [[Paper](../files/25EMNLP-LEAF.pdf)] <br>
 Yuhang Pei, Yifan Wang, Tao Ren, Zhipeng Sun, **Wei Ju**, Chong Chen, Xian-Sheng Hua, Xiao Luo <br>
-Conference on Empirical Methods in Natural Language Processing <br>
+Conference on Empirical Methods in Natural Language Processing, 1076–1091 [Pub: 2025-11-4] <br>
 ***EMNLP 2025 Findings, <span style="color:red">CCF-B</span>***
 
-1.  *Multifaceted Evaluation of Audio-Visual Capability for MLLMs: Effectiveness, Efficiency, Generalizability and Robustness* [[Paper](../files/EMNLP25_Audio__arxiv_.pdf)] <br>
+1.  *Multifaceted Evaluation of Audio-Visual Capability for MLLMs: Effectiveness, Efficiency, Generalizability and Robustness* [[Paper](../files/25EMNLP-MLLM.pdf)] <br>
 Yusheng Zhao, Xiao Luo, Junyu Luo, Weizhi Zhang, Zhiping Xiao, **Wei Ju**, Philip S. Yu, Ming Zhang <br>
-Conference on Empirical Methods in Natural Language Processing <br>
+Conference on Empirical Methods in Natural Language Processing, 1026–1041 [Pub: 2025-11-4] <br>
 ***EMNLP 2025 Findings, <span style="color:red">CCF-B</span>***
 
-1.  *MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation* [[Paper](../files/NAACL25-MMEvalPro.pdf)] <br>
+1.  *MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation* [[Paper](../files/25NAACL-MMEvalPro.pdf)] <br>
 Jinsheng Huang, Liang Chen, Taian Guo, Fu Zeng, Yusheng Zhao, Bohan Wu, Ye Yuan, Haozhe Zhao, Zhihui Guo, Yichi Zhang, Jingyang Yuan, **Wei Ju**, Luchen Liu, Tianyu Liu, Baobao Chang, Ming Zhang <br>
-Nations of the Americas Chapter of the Association for Computational Linguistics <br>
+Nations of the Americas Chapter of the Association for Computational Linguistics, 1: 4805–4822 [Pub: 2025-4-29] <br>
 ***NAACL 2025, <span style="color:red">CCF-B</span>***
 
-1.  *SemiEvol: Semi-supervised Fine-tuning for LLM Adaptation* [[Paper](../files/NAACL25-SemiEvol.pdf)] <br>
-Junyu Luo, Xiao Luo, Xiusi Chen, Zhiping Xiao, **Wei Ju**, Ming Zhang <br>
+1.  *SemiEvol: Semi-supervised Fine-tuning for LLM Adaptation* [[Paper](../files/25NAACL-SemiEvol.pdf)] <br>
+Junyu Luo, Xiao Luo, Xiusi Chen, Zhiping Xiao, **Wei Ju**, Ming Zhang, 2795–2808 [Pub: 2025-4-29] <br>
 Nations of the Americas Chapter of the Association for Computational Linguistics <br>
 ***NAACL 2025 Findings, <span style="color:red">CCF-B</span>***
 
-1.  *Reversible Column Disentangled Augmentation Tricks for Graph Contrastive Learning* [[Paper]()] <br>
+1.  *Reversible Column Disentangled Augmentation Tricks for Graph Contrastive Learning* [To appear] <br>
 Yuntai Ding, Tao Ren, Yifan Wang, Chong Chen, Xian-Sheng Hua, **Wei Ju** <br>
 IEEE Transactions on Multimedia <br>
 ***TMM 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.4</span>***
 
-1.  *Cluster-Aware Few-Shot Molecular Property Prediction with Factor Disentanglement* [[Paper]()] <br>
+1.  *Cluster-Aware Few-Shot Molecular Property Prediction with Factor Disentanglement* [[Paper](../files/25TNNLS-Meta-DREAM.pdf)] <br>
 Haodong Zhang, Yifan Wang, Tao Ren, Fanchun Meng, **Wei Ju**, Ying Tian <br>
-IEEE Transactions on Neural Networks and Learning Systems <br>
+IEEE Transactions on Neural Networks and Learning Systems, 36(11): 19644-19656 [Pub: 2025-8-15] <br>
 ***TNNLS 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.9</span>***
 
-1.  *SPOT: Spectral Optimal Transport for Graph Domain Generalization* [[Paper]()] <br>
+1.  *SPOT: Spectral Optimal Transport for Graph Domain Generalization* [[Paper](../files/25TKDD-SPOT.pdf)] <br>
 Yusheng Zhao, Xiao Luo, Junyu Luo, **Wei Ju**, Zhonghui Gu, Zhiping Xiao, Xian-Sheng Hua, Ming Zhang <br>
-ACM Transactions on Knowledge Discovery from Data <br>
+ACM Transactions on Knowledge Discovery from Data, 20(1): 6 [Pub: 2025-11-21] <br>
 ***TKDD 2025, <span style="color:red">CCF-B, JCR Q1, IF=4.8</span>***
 
-1.  *MHGC: Multi-scale hard sample mining for contrastive deep graph clustering* [[Paper]()] <br>
+1.  *MHGC: Multi-scale hard sample mining for contrastive deep graph clustering* [[Paper](../files/25IPM-MHGC.pdf)] <br>
 Tao Ren, Haodong Zhang, Yifan Wang, **Wei Ju**, Chengwu Liu, Fanchun Meng, Siyu Yi, Xiao Luo <br>
+Information Processing and Management, 62: 104084 [Pub: 2025-2-13] <br>
 ***Information Processing and Management 2025, <span style="color:red">CCF-B, JCR Q1, IF=7.4</span>***
 
-1.  *Bridging the Gap between Learning and Inference for Diffusion-Based Molecule Generation* [[Paper]()] <br>
+1.  *Bridging the Gap between Learning and Inference for Diffusion-Based Molecule Generation* [To appear] <br>
 Peidong Liu, Wenbo Zhang, **Wei Ju**, Jiancheng Lv, Xianggen Liu <br>
 Asian Conference on Machine Learning <br>
 ***ACML 2025, <span style="color:red">CCF-C</span>, <span style="color:orange">Oral Representation</span>***
