@@ -316,22 +316,24 @@ IEEE Transactions on Multimedia <br>
 
 2023
 ====
-1.  *GLCC: A General Framework for Graph-level Clustering* [[Paper](../files/AAAI23-GLCC.pdf)] <br>
+1.  *GLCC: A General Framework for Graph-level Clustering* [[Paper](../files/23AAAI-GLCC.pdf)] <br>
 **Wei Ju**<sup>\*</sup>, Yiyang Gu<sup>\*</sup>, Binqi Chen, Gongbo Sun, Yifang Qin, Xingyuming Liu, Xiao Luo, Ming Zhang <br>
-AAAI Conference on Artificial Intelligence <br>
+AAAI Conference on Artificial Intelligence, 37(4): 4391-4399 [Pub: 2023-6-26] <br>
 ***AAAI 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation</span>***
 
-1.  *Few-shot Molecular Property Prediction via Hierarchically Structured Learning on Relation Graphs* [[Paper](../files/NN23-HSL-RG.pdf)] <br>
+1.  *Few-shot Molecular Property Prediction via Hierarchically Structured Learning on Relation Graphs* [[Paper](../files/23NN-HSL-RG.pdf)] <br>
 **Wei Ju**<sup>\*</sup>, Zequn Liu<sup>\*</sup>, Yifang Qin, Bin Feng, Chen Wang, Zhihui Guo, Xiao Luo, Ming Zhang <br>
+Neural Networks, 163: 122-131 [Pub: 2023-3-30] <br>
 ***Neural Networks 2023, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
 
-1.  *Unsupervised Graph-level Representation Learning with Hierarchical Contrasts* [[Paper](../files/NN23-HGCL.pdf)] <br>
+1.  *Unsupervised Graph-level Representation Learning with Hierarchical Contrasts* [[Paper](../files/23NN-HGCL.pdf)] <br>
 **Wei Ju**<sup>\*</sup>, Yiyang Gu<sup>\*</sup>, Xiao Luo, Yifan Wang, Haochen Yuan, Huasong Zhong, Ming Zhang <br>
+Neural Networks, 158: 359-368 [Pub: 2023-1-1] <br>
 ***Neural Networks 2023, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
 
-1.  *Zero-shot Node Classification with Graph Contrastive Embedding Network* [[Paper](../files/TMLR23-GraphCEN.pdf)] <br>
+1.  *Zero-shot Node Classification with Graph Contrastive Embedding Network* [[Paper](../files/23TMLR-GraphCEN.pdf)] <br>
 **Wei Ju**, Yifang Qin, Siyu Yi, Zhengyang Mao, Kangjie Zheng, Luchen Liu, Xiao Luo, Ming Zhang <br>
-Transactions on Machine Learning Research <br>
+Transactions on Machine Learning Research, [Pub: 2023-10-13] <br>
 ***TMLR 2023***
 
 1.  *RAHNet: Retrieval Augmented Hybrid Network for Long-tailed Graph Classification* [[Paper](../files/23MM-RAHNet.pdf)] <br>
@@ -344,9 +346,9 @@ Xiao Luo<sup>\*</sup>, **Wei Ju**<sup>\*</sup>, Yiyang Gu, Zhengyang Mao, Luchen
 ACM Transactions on Knowledge Discovery from Data, 18(2): 34 [Pub: 2023-11-14] <br>
 ***TKDD 2023, <span style="color:red">CCF-B, IF=3.6</span>, <span style="color:orange">Co-first Author</span>, <span style="color:red">ESI Highly Cited Paper</span>***
 
-1.  *Towards Semi-supervised Universal Graph Classification* [[Paper](../files/TKDE23-UGNN.pdf)][[Link](../files/tkde23-ugnn-highly-cited.jpeg)]  <br>
+1.  *Towards Semi-supervised Universal Graph Classification* [[Paper](../files/23TKDE-UGNN.pdf)][[Link](../files/23tkde-ugnn-highly-cited.jpeg)]  <br>
 Xiao Luo<sup>\*</sup>, Yusheng Zhao<sup>\*</sup>, Yifang Qin<sup>\*</sup>, **Wei Ju**, Ming Zhang <br>
-IEEE Transactions on Knowledge and Data Engineering <br>
+IEEE Transactions on Knowledge and Data Engineering, 36(1): 416-428 [Pub: 2023-5-29] <br>
 ***TKDE 2023, <span style="color:red">CCF-A, JCR Q1, IF=8.9</span>, <span style="color:orange">Corresponding Author</span>, <span style="color:red">ESI Highly Cited Paper</span>***
 
 1.  *A Diffusion model for POI recommendation* [[Paper](../files/23TOIS-Diff-POI.pdf)][[Code](https://github.com/Yifang-Qin/Diff-POI)] <br>
@@ -354,9 +356,9 @@ Yifang Qin, Hongjun Wu, **Wei Ju**, Xiao Luo, Ming Zhang <br>
 ACM Transactions on Information Systems, 42(2): 54 [Pub: 2023-11-8] <br>
 ***TOIS 2023, <span style="color:red">CCF-A, IF=5.6</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting* [[Paper](../files/ICDE23-DyHSL.pdf)] <br>
+1.  *Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting* [[Paper](../files/23ICDE-DyHSL.pdf)] <br>
 Yusheng Zhao<sup>\*</sup>, Xiao Luo<sup>\*</sup>, **Wei Ju**, Chong Chen, Xian-Sheng Hua, Ming Zhang <br>
-IEEE International Conference on Data Engineering <br>
+IEEE International Conference on Data Engineering, 2303-2316 [Pub: 2023-4-3] <br>
 ***ICDE 2023, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *ALEX: Towards Effective Graph Transfer Learning with Noisy Labels* [[Paper](../files/23MM-ALEX.pdf)] <br>
@@ -369,34 +371,34 @@ Siyu Yi, **Wei Ju**, Yifang Qin, Xiao Luo, Luchen Liu, Yongdao Zhou, Ming Zhang 
 IEEE Transactions on Neural Networks and Learning Systems, 35(12): 18313-18327 [Pub: 2023-9-27] <br>
 ***TNNLS 2023, <span style="color:red">CCF-B, JCR Q1, IF=10.4</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Towards Effective Semi-supervised Node Classification with Hybrid Curriculum Pseudo-labeling* [[Paper](../files/TOMM23-HCPL.pdf)] <br>
+1.  *Towards Effective Semi-supervised Node Classification with Hybrid Curriculum Pseudo-labeling* [[Paper](../files/23TOMM-HCPL.pdf)] <br>
 Xiao Luo, **Wei Ju**, Yiyang Gu, Yifang Qin, Siyu Yi, Daqing Wu, Luchen Liu, Ming Zhang <br>
-ACM Transactions on Multimedia Computing Communications and Applications <br>
+ACM Transactions on Multimedia Computing Communications and Applications, 20(3): 82 [Pub: 2023-11-10] <br>
 ***TOMM 2023, <span style="color:red">CCF-B, JCR Q1, IF=5.1</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *DisenPOI: Disentangling Sequential and Geographical Influence for Point-of-Interest Recommendation* [[Paper](../files/WSDM23-DisenPOI.pdf)] <br>
+1.  *DisenPOI: Disentangling Sequential and Geographical Influence for Point-of-Interest Recommendation* [[Paper](../files/23WSDM-DisenPOI.pdf)] <br>
 Yifang Qin<sup>\*</sup>, Yifan Wang<sup>\*</sup>, Fang Sun<sup>\*</sup>, **Wei Ju**, Xuyang Hou, Zhe Wang, Jia Cheng, Jun Lei, Ming Zhang <br>
-ACM International Conference on Web Search and Data Mining <br>
+ACM International Conference on Web Search and Data Mining, 508-516 [Pub: 2023-2-27] <br>
 ***WSDM 2023, <span style="color:red">CCF-B</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Learning on Graphs under Label Noise* [[Paper](../files/ICASSP23-CGNN.pdf)] <br>
+1.  *Learning on Graphs under Label Noise* [[Paper](../files/23ICASSP-CGNN.pdf)] <br>
 Jingyang Yuan<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Yifang Qin, Yusheng Zhao, **Wei Ju**, Ming Zhang <br>
-IEEE International Conference on Acoustics, Speech and Signal Processing <br>
+IEEE International Conference on Acoustics, Speech and Signal Processing, [Pub: 2023-6-4] <br>
 ***ICASSP 2023, <span style="color:red">CCF-B</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Towards Long-Tailed Recognition for Graph Classification via Collaborative Experts* [[Paper](../files/TBD23-CoMe.pdf)] <br>
+1.  *Towards Long-Tailed Recognition for Graph Classification via Collaborative Experts* [[Paper](../files/23TBD-CoMe.pdf)] <br>
 Si-Yu Yi<sup>\*</sup>, Zhengyang Mao<sup>\*</sup>, **Wei Ju**, Yong-Dao Zhou, Luchen Liu, Xiao Luo, Ming Zhang <br>
-IEEE Transactions on Big Data <br>
+IEEE Transactions on Big Data, 9(6): 1683-1696 [Pub: 2023-9-7] <br>
 ***TBD 2023, <span style="color:red">CCF-C, JCR Q1, IF=7.2</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *HOPE: High-order Graph ODE For Modeling Interacting Dynamics* [[Paper](../files/ICML23-HOPE.pdf)] <br>
+1.  *HOPE: High-order Graph ODE For Modeling Interacting Dynamics* [[Paper](../files/23ICML-HOPE.pdf)] <br>
 Xiao Luo, Jingyang Yuan, Zijie Huang, Huiyu Jiang, Yifang Qin, **Wei Ju**, Ming Zhang, Yizhou Sun <br>
-International Conference on Machine Learning <br>
+International Conference on Machine Learning, 202: 23124-23139 [Pub: 2023-7-23] <br>
 ***ICML 2023, <span style="color:red">CCF-A</span>***
 
-1.  *RIGNN: A Rationale Perspective for Semi-supervised Open-world Graph Classification* [[Paper](../files/TMLR23-RIGNN.pdf)] <br>
+1.  *RIGNN: A Rationale Perspective for Semi-supervised Open-world Graph Classification* [[Paper](../files/23TMLR-RIGNN.pdf)] <br>
 Xiao Luo, Yusheng Zhao, Zhengyang Mao, Yifang Qin, **Wei Ju**, Ming Zhang, Yizhou Sun <br>
-Transactions on Machine Learning Research <br>
+Transactions on Machine Learning Research, [Pub: 2023-9-24] <br>
 ***TMLR 2023***
 
 2022
