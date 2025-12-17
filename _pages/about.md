@@ -51,6 +51,8 @@ Area Chair / Senior Program Committee Member
 
 <span style="color:red">What’s New</span>
 =====
+* **2025-12**: One paper has been accepted by ***Neurocomputing 2026*** !!
+* **2025-12**: One paper has been accepted by ***TII 2026*** !!
 * **2025-11**: Two papers have been accepted by ***SIGKDD 2026*** !!
 * **2025-11**: Invited to serve as the Area Chair for ICML 2026!
 * **2025-11**: Invited to serve as the Area Chair for ICASSP 2026!
