@@ -35,6 +35,16 @@ Yuhang Pei, Fanchun Meng, Qinghua Ran, Tao Ren, Yifan Wang, **Wei Ju**, Zimo Wan
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining <br>
 ***SIGKDD 2026, <span style="color:red">CCF-A</span>***
 
+1.  *IF4FD: Multi-Scale Information Fusion for Zero-Shot Industrial Fault Diagnosis* [To appear] <br>
+Chenwei Tang, Ying Wang, Weijia Wang, Wangyang Ying, Jie Liu, Yong Wang, Nanxu Gong, **Wei Ju**, Rong Xiao, Jiancheng Lv <br>
+IEEE Transactions on Industrial Informatics <br>
+***TII 2026, <span style="color:red">CCF-C, JCR Q1, IF=9.9</span>***
+
+1.  *Optimizing Few-Shot Distribution Estimation with Negative Calibration Mitigation* [To appear] <br>
+Juan Zhao, Lili Kong, Chenwei Tang, **Wei Ju**, Deng Xiong, Jiancheng Lv <br>
+Neurocomputing <br>
+***Neurocomputing 2026, <span style="color:red">CCF-C, JCR Q1, IF=6.5</span>***
+
 2025
 ====
 1.  *A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges* [[Paper](https://arxiv.org/pdf/2403.04468.pdf)] <br>
