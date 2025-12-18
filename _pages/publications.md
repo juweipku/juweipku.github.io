@@ -147,7 +147,7 @@ Yusheng Zhao, Qixin Zhang, Xiao Luo, Junyu Luo, **Wei Ju**, Zhiping Xiao, Ming Z
 International Conference on Machine Learning <br>
 ***ICML 2025, <span style="color:red">CCF-A</span>***
 
-1.  *ExLM: Rethinking the Impact of *[MASK]* Tokens in Masked Language Models* [To appear] <br>
+1.  *ExLM: Rethinking the Impact of [MASK] Tokens in Masked Language Models* [To appear] <br>
 Kangjie Zheng, Junwei Yang, Siyue Liang, Bin Feng, Zequn Liu, **Wei Ju**, Zhiping Xiao, Ming Zhang <br>
 International Conference on Machine Learning <br>
 ***ICML 2025, <span style="color:red">CCF-A</span>***
@@ -227,9 +227,9 @@ Junyu Luo, Xiao Luo, Xiusi Chen, Zhiping Xiao, **Wei Ju**, Ming Zhang <br>
 Nations of the Americas Chapter of the Association for Computational Linguistics, 2795–2808 [Pub: 2025-4-29] <br>
 ***NAACL 2025 Findings, <span style="color:red">CCF-B</span>***
 
-1.  *Reversible Column Disentangled Augmentation Tricks for Graph Contrastive Learning* [To appear] <br>
+1.  *Reversible Column Disentangled Augmentation Tricks for Graph Contrastive Learning* [[Paper](../files/25TMM-Rev-GCL.pdf)] <br>
 Yuntai Ding, Tao Ren, Yifan Wang, Chong Chen, Xian-Sheng Hua, **Wei Ju** <br>
-IEEE Transactions on Multimedia <br>
+IEEE Transactions on Multimedia, 27: 9818-9831 [Pub: 2025-10-9] <br>
 ***TMM 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.4</span>***
 
 1.  *Cluster-Aware Few-Shot Molecular Property Prediction with Factor Disentanglement* [[Paper](../files/25TNNLS-Meta-DREAM.pdf)] <br>
