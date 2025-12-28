@@ -40,11 +40,6 @@ Chenwei Tang, Ying Wang, Weijia Wang, Wangyang Ying, Jie Liu, Yong Wang, Nanxu G
 IEEE Transactions on Industrial Informatics <br>
 ***TII 2026, <span style="color:red">CCF-C, JCR Q1, IF=9.9</span>***
 
-1.  *Optimizing Few-Shot Distribution Estimation with Negative Calibration Mitigation* [To appear] <br>
-Juan Zhao, Lili Kong, Chenwei Tang, **Wei Ju**, Deng Xiong, Jiancheng Lv <br>
-Neurocomputing <br>
-***Neurocomputing 2026, <span style="color:red">CCF-C, JCR Q1, IF=6.5</span>***
-
 2025
 ====
 1.  *A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges* [[Paper](https://arxiv.org/pdf/2403.04468.pdf)] <br>
@@ -246,6 +241,11 @@ ACM Transactions on Knowledge Discovery from Data, 20(1): 6 [Pub: 2025-11-21] <b
 Tao Ren, Haodong Zhang, Yifan Wang, **Wei Ju**, Chengwu Liu, Fanchun Meng, Siyu Yi, Xiao Luo <br>
 Information Processing and Management, 62: 104084 [Pub: 2025-2-13] <br>
 ***Information Processing and Management 2025, <span style="color:red">CCF-B, JCR Q1, IF=7.4</span>***
+
+1.  *Optimizing Few-Shot Distribution Estimation with Negative Calibration Mitigation* [../files/25NC-optimizing.pdf] <br>
+Juan Zhao, Lili Kong, Chenwei Tang, **Wei Ju**, Deng Xiong, Jiancheng Lv <br>
+Neurocomputing, 669: 132432 [Pub: 2025-12-17]  <br>
+***Neurocomputing 2025, <span style="color:red">CCF-C, JCR Q1, IF=6.5</span>***
 
 1.  *Bridging the Gap between Learning and Inference for Diffusion-Based Molecule Generation* [To appear] <br>
 Peidong Liu, Wenbo Zhang, **Wei Ju**, Jiancheng Lv, Xianggen Liu <br>
