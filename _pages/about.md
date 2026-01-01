@@ -15,7 +15,7 @@ Wei Ju (琚玮) is currently an associate professor (副研究员) with the Coll
 **Email:** juwei@scu.edu.cn, juwei@pku.edu.cn
 <!-- I have also been closely working with Prof. [Jian Tang](https://jian-tang.com/), who is my supervior at [Mila](https://mila.quebec/en/) during Sept. 2018 - Sept. 2019. -->
 
-**<span style="color:red">招收2026年秋季入学硕士研究生1名，欢迎有意向的保研同学投递简历至juwei@scu.edu.cn</span>**
+**<span style="color:red">招收2026年秋季入学硕士研究生1名，欢迎有意向的同学投递简历至juwei@scu.edu.cn</span>**
 
 **<span style="color:red">长期招收solid background and self-motivated的研究生与本科生</span>**
 
