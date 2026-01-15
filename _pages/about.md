@@ -47,11 +47,12 @@ Area Chair / Senior Program Committee Member
 2025: ICML, ARR, ACMMM, ACML, IJCNN
 
 * **SPC**:\\
-2026: AAAI, PAKDD\\
+2026: AAAI, IJCAI, PAKDD\\
 2025: IJCAI, CIKM
 
 <span style="color:red">What’s New</span>
 =====
+* **2026-1**: Invited to serve as the Senior Program Committee (SPC) Member for IJCAI 2026!
 * **2026-1**: Two papers have been accepted by ***WWW 2026*** !!
 * **2025-12**: One paper has been accepted by ***Neurocomputing 2025*** !!
 * **2025-12**: One paper has been accepted by ***TII 2026*** !!
@@ -76,7 +77,7 @@ Area Chair / Senior Program Committee Member
 * **2025-7**: One paper has been accepted by ***Artificial Intelligence 2025*** !!
 * **2025-7**: Honored to be appointed as an ***<span style="color:orange">Associate Editor</span>*** of ***Pattern Recognition*** !!
 * **2025-7**: One paper has been accepted by ***TNNLS 2025*** !!
-* **2023-7**: Three papers have been accepted by ***ACMMM 2025*** !!
+* **2025-7**: Three papers have been accepted by ***ACMMM 2025*** !!
 * **2025-6**: One paper has been accepted by ***SMC 2025*** !!
 * **2025-6**: Project supported by the ***<span style="color:orange">Postdoctoral Innovation Talent Support Program</span>*** **<span style="color:orange">(博士后创新人才支持计划)</span>** !!
 * **2025-5**: Two papers have been accepted by ***ACL 2025*** !!
