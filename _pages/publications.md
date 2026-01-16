@@ -45,6 +45,11 @@ Yuhang Pei, Fanchun Meng, Qinghua Ran, Tao Ren, Yifan Wang, **Wei Ju**, Zimo Wan
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining <br>
 ***SIGKDD 2026, <span style="color:red">CCF-A</span>***
 
+1.  *Robust Cross Supervision with Target Mining for Source-free Graph Domain Adaptation* [To appear] <br>
+Junyu Luo, Haoyu Tao, Xiao Luo, Yusheng Zhao, Zhiping Xiao, Dailan He, **Wei Ju**, Chong Chen, Xian-Sheng Hua, Ming Zhang <br>
+IEEE Transactions on Knowledge and Data Engineering <br>
+***TKDE 2026, <span style="color:red">CCF-A, JCR Q1, IF=10.4</span>***
+
 1.  *IF4FD: Multi-Scale Information Fusion for Zero-Shot Industrial Fault Diagnosis* [To appear] <br>
 Chenwei Tang, Ying Wang, Weijia Wang, Wangyang Ying, Jie Liu, Yong Wang, Nanxu Gong, **Wei Ju**, Rong Xiao, Jiancheng Lv <br>
 IEEE Transactions on Industrial Informatics <br>
