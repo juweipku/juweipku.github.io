@@ -10,10 +10,20 @@ author_profile: true
 
 2026
 ====
+1.  *Compactness and Consistency: A Conjoint Framework for Deep Graph Clustering* [To appear] <br>
+**Wei Ju**, Siyu Yi, Kangjie Zheng, Yifan Wang, Ziyue Qiao, Li Shen, Yongdao Zhou, Xiaochun Cao, Jiancheng Lv <br>
+International Conference on Learning Representations<br>
+***ICLR 2026***
+
 1.  *Long-Tailed Recognition of Evidential Experts for Graph-level Classification* [To appear] <br>
 **Wei Ju**, Siyu Yi, Zhengyang Mao, Yifang Qin, Yifan Wang, Zhiping Xiao, Yiwei Fu, Ziyue Qiao, Ming Zhang <br>
 ACM The Web Conference <br>
 ***WWW 2026, <span style="color:red">CCF-A</span>***
+
+1.  *Dynamic Multi-sample Mixup with Gradient Exploration for Open-set Graph Anomaly Detection* [To appear] <br>
+Caiyang Yu, **Wei Ju**, Haixin Wang, Yifan Wang, Ziyue Qiao <br>
+International Conference on Learning Representations<br>
+***ICLR 2026, <span style="color:orange">Corresponding Author</span>***
 
 1.  *KEGOD: Kernel-enhanced Latent Substructure Learning for Graph Out-Of-Distribution Detection* [To appear] <br>
 Yifan Wang, Haodong Zhang, Zhiping Xiao, Yusheng Zhao, Siyu Yi, Nan Yin, Xinwang Liu, Ming Zhang, **Wei Ju** <br>
@@ -54,6 +64,22 @@ IEEE Transactions on Knowledge and Data Engineering <br>
 Chenwei Tang, Ying Wang, Weijia Wang, Wangyang Ying, Jie Liu, Yong Wang, Nanxu Gong, **Wei Ju**, Rong Xiao, Jiancheng Lv <br>
 IEEE Transactions on Industrial Informatics <br>
 ***TII 2026, <span style="color:red">CCF-C, JCR Q1, IF=9.9</span>***
+
+1.  *PRISM: Partial-label Relational Inference with Spatial and Spectral Cues* [To appear] <br>
+Yiyang Gu, Wenrui Wu, Yifang Qin, Taian Guo, Tao Zhe, Jiaru Tang, Zhiping Xiao, Weizhi Zhang, Ziyue Qiao, **Wei Ju**, Dongjie Wang, Xiao Luo, Philip S. Yu, Ming Zhang <br>
+International Conference on Learning Representations<br>
+***ICLR 2026***
+
+1.  *Conformalized Hierarchical Calibration for Uncertainty-Aware Adaptive Hashing* [To appear] <br>
+Junyu Luo, Jinsheng Huang, Yang Xu, Lutong Zou, Xiao Luo, Bohan Wu, Yifan Wang, **Wei Ju**, Ming Zhang <br>
+International Conference on Learning Representations<br>
+***ICLR 2026***
+
+1.  *Hierarchical Encoding Tree with Modality Mixup for Cross-modal Hashing* [To appear] <br>
+Junyu Luo, Hang Zhou, Yusheng Zhao, Xiao Luo, Zhiping Xiao, Pengyun Wang, **Wei Ju**, Siyu Heng, Ming Zhang <br>
+International Conference on Learning Representations<br>
+***ICLR 2026***
+
 
 2025
 ====
