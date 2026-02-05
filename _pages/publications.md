@@ -60,6 +60,11 @@ Junyu Luo, Haoyu Tao, Xiao Luo, Yusheng Zhao, Zhiping Xiao, Dailan He, **Wei Ju
 IEEE Transactions on Knowledge and Data Engineering <br>
 ***TKDE 2026, <span style="color:red">CCF-A, JCR Q1, IF=10.4</span>***
 
+1.  *A Survey of Large Language Models for Traffic Forecasting: Methods and Applications* [To appear] <br>
+Qingqing Long, Shuai Liu, Ning Cao, Zhicheng Ren, Xiao Luo, **Wei Ju**, Chen Fang, Zhihong Zhu, Hengshu Zhu and Yuanchun Zhou <br>
+IEEE Transactions on Big Data <br>
+***TBD 2026, <span style="color:red">CCF-C, JCR Q1, IF=5.7</span>***
+
 1.  *IF4FD: Multi-Scale Information Fusion for Zero-Shot Industrial Fault Diagnosis* [To appear] <br>
 Chenwei Tang, Ying Wang, Weijia Wang, Wangyang Ying, Jie Liu, Yong Wang, Nanxu Gong, **Wei Ju**, Rong Xiao, Jiancheng Lv <br>
 IEEE Transactions on Industrial Informatics <br>
@@ -283,7 +288,7 @@ Tao Ren, Haodong Zhang, Yifan Wang, **Wei Ju**, Chengwu Liu, Fanchun Meng, Siyu 
 Information Processing and Management, 62: 104084 [Pub: 2025-2-13] <br>
 ***Information Processing and Management 2025, <span style="color:red">CCF-B, JCR Q1, IF=7.4</span>***
 
-1.  *Optimizing Few-Shot Distribution Estimation with Negative Calibration Mitigation* [../files/25NC-optimizing.pdf] <br>
+1.  *Optimizing Few-Shot Distribution Estimation with Negative Calibration Mitigation* [[Paper](../files/25NC-optimizing.pdf)] <br>
 Juan Zhao, Lili Kong, Chenwei Tang, **Wei Ju**, Deng Xiong, Jiancheng Lv <br>
 Neurocomputing, 669: 132432 [Pub: 2025-12-17]  <br>
 ***Neurocomputing 2025, <span style="color:red">CCF-C, JCR Q1, IF=6.5</span>***
