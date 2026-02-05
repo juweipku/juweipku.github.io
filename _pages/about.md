@@ -52,6 +52,7 @@ Area Chair / Senior Program Committee Member
 
 <span style="color:red">What’s New</span>
 =====
+* **2026-2**: One paper has been accepted by ***TBD 2026*** !!
 * **2026-1**: Five papers have been accepted by ***ICLR 2026*** !!
 * **2025-1**: Invited to serve as the Area Chair for IJCNN 2026!
 * **2026-1**: One paper has been accepted by ***TKDE 2026*** !!
@@ -186,6 +187,11 @@ International Joint Conference on Artificial Intelligence <br>
 Junyu Luo, Bohan Wu, Xiao Luo, Zhiping Xiao, Yiqiao Jin, Rong-Cheng Tu, Nan Yin, Yifan Wang, Jingyang Yuan, **Wei Ju**, Ming Zhang <br>
 Annual Meeting of the Association for Computational Linguistics <br>
 ***ACL 2025, <span style="color:red">CCF-A</span>***
+
+1.  *A Survey of Large Language Models for Traffic Forecasting: Methods and Applications* [[Paper](https://www.techrxiv.org/users/912709/articles/1286327/master/file/data/traffic_survey_arxiv/traffic_survey_arxiv.pdf?inline=true)] <br>
+Qingqing Long, Shuai Liu, Ning Cao, Zhicheng Ren, Xiao Luo, **Wei Ju**, Chen Fang, Zhihong Zhu, Hengshu Zhu and Yuanchun Zhou <br>
+IEEE Transactions on Big Data <br>
+***TBD 2026, <span style="color:red">CCF-C, JCR Q1, IF=5.7</span>***
 
 1.  *Towards Graph Contrastive Learning: A Survey and Beyond* [[Paper](https://arxiv.org/pdf/2405.11868.pdf)] <br>
 **Wei Ju**, Yifan Wang, Yifang Qin, Zhengyang Mao, Zhiping Xiao, Junyu Luo, Junwei Yang, Yiyang Gu, Dongjie Wang, Qingqing Long, Siyu Yi, Xiao Luo, Ming Zhang <br>
