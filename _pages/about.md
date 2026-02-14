@@ -43,7 +43,7 @@ Editorial Board Member
 Area Chair / Senior Program Committee Member
 =====
 * **Area Chair**:\\
-2026: ICML, ICLR, ARR, ICASSP, IJCNN\\
+2026: ICML, ICLR, ARR, KDD, ICASSP, IJCNN\\
 2025: ICML, ARR, ACMMM, ACML, IJCNN
 
 * **SPC**:\\
