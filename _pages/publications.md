@@ -13,7 +13,7 @@ author_profile: true
 1.  *Compactness and Consistency: A Conjoint Framework for Deep Graph Clustering* [To appear] <br>
 **Wei Ju**, Siyu Yi, Kangjie Zheng, Yifan Wang, Ziyue Qiao, Li Shen, Yongdao Zhou, Xiaochun Cao, Jiancheng Lv <br>
 International Conference on Learning Representations<br>
-***ICLR 2026***
+***ICLR 2026, <span style="color:orange">Oral Representation, Top 1%</span>***
 
 1.  *Long-Tailed Recognition of Evidential Experts for Graph-level Classification* [To appear] <br>
 **Wei Ju**, Siyu Yi, Zhengyang Mao, Yifang Qin, Yifan Wang, Zhiping Xiao, Yiwei Fu, Ziyue Qiao, Ming Zhang <br>
