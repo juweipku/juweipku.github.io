@@ -224,39 +224,35 @@ Selected Publications [[See All](https://juweipku.github.io/publications/)]
 IEEE Transactions on Pattern Analysis and Machine Intelligence <br>
 ***TPAMI 2025, <span style="color:red">CCF-A, JCR Q1, IF=18.6</span>***
 
+1.  *GALA: Graph Diffusion-based Alignment with Jigsaw for Source-free Domain Adaptation* [[Paper](../files/24TPAMI-GALA.pdf)][[Code](https://github.com/luo-junyu/GALA)] <br>
+Junyu Luo, Yiyang Gu, Xiao Luo, **Wei Ju**, Yusheng Zhao, Zhiping Xiao, Jingyang Yuan, Ming Zhang <br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 46(12): 9038-9051 [Pub: 2024-6-18] <br>
+***TPAMI 2024, <span style="color:red">CCF-A, JCR Q1, IF=23.6</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *Compactness and Consistency: A Conjoint Framework for Deep Graph Clustering* [To appear] <br>
 **Wei Ju**, Siyu Yi, Kangjie Zheng, Yifan Wang, Ziyue Qiao, Li Shen, Yongdao Zhou, Xiaochun Cao, Jiancheng Lv <br>
 International Conference on Learning Representations<br>
 ***ICLR 2026, <span style="color:orange">Oral Representation, Top 1%</span>***
-
-1.  *Hypergraph-enhanced Dual Semi-supervised Graph Classification* [[Paper](../files/ICML24-HEAL.pdf)] <br>
-**Wei Ju**, Zhengyang Mao, Siyu Yi, Yifang Qin, Yiyang Gu, Zhiping Xiao, Yifan Wang, Xiao Luo, Ming Zhang <br>
-International Conference on Machine Learning <br>
-***ICML 2024, <span style="color:red">CCF-A</span>***
 
 1.  *Dynamic Multi-sample Mixup with Gradient Exploration for Open-set Graph Anomaly Detection* [To appear] <br>
 Caiyang Yu, **Wei Ju**, Haixin Wang, Yifan Wang, Ziyue Qiao <br>
 International Conference on Learning Representations<br>
 ***ICLR 2026, <span style="color:orange">Corresponding Author</span>***
 
+1.  *Hypergraph-enhanced Dual Semi-supervised Graph Classification* [[Paper](../files/ICML24-HEAL.pdf)] <br>
+**Wei Ju**, Zhengyang Mao, Siyu Yi, Yifang Qin, Yiyang Gu, Zhiping Xiao, Yifan Wang, Xiao Luo, Ming Zhang <br>
+International Conference on Machine Learning <br>
+***ICML 2024, <span style="color:red">CCF-A</span>***
+
+1.  *DANCE: Dual Unbiased Expansion with Group-acquired Alignment for Out-of-distribution Graph Fairness Learning* [To appear] <br>
+Yifan Wang, Hourun Li, Ling Yue, Zhiping Xiao, Jia Yang, Changling Zhou, **Wei Ju**, Ming Zhang, Xiao Luo <br>
+International Conference on Machine Learning <br>
+***ICML 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *Dual Prototype-Enhanced Contrastive Framework for Class-Imbalanced Graph Domain Adaptation* [To appear] <br>
 Xin Ma, Yifan Wang, Siyu Yi, **Wei Ju**, Junyu Luo, Yusheng Zhao, Xiao Luo, Jiancheng Lv <br>
 Advances in Neural Information Processing Systems <br>
 ***NeurIPS 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
-
-1.  *GALA: Graph Diffusion-based Alignment with Jigsaw for Source-free Domain Adaptation* [[Paper](../files/24TPAMI-GALA.pdf)][[Code](https://github.com/luo-junyu/GALA)] <br>
-Junyu Luo, Yiyang Gu, Xiao Luo, **Wei Ju**, Yusheng Zhao, Zhiping Xiao, Jingyang Yuan, Ming Zhang <br>
-IEEE Transactions on Pattern Analysis and Machine Intelligence, 46(12): 9038-9051 [Pub: 2024-6-18] <br>
-***TPAMI 2024, <span style="color:red">CCF-A, JCR Q1, IF=23.6</span>, <span style="color:orange">Corresponding Author</span>***
-
-1.  *Kernel-based Substructure Exploration for Next POI Recommendation* [[Paper](../files/ICDM22-KBGNN.pdf)][[Code](https://github.com/Fang6ang/KBGNN)] <br>
-**Wei Ju**<sup>\*</sup>, Yifang Qin<sup>\*</sup>, Ziyue Qiao, Xiao Luo, Yifan Wang, Yanjie Fu, Ming Zhang <br>
-IEEE International Conference on Data Mining <br>
-***ICDM 2022, <span style="color:red">CCF-B</span>, 🏆 <span style="color:orange">Best Paper Finalist</span>***
-
-1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](../files/NN24-Survey.pdf)][[Link](../files/nn24-survey-hot.jpeg)] <br>
-**Wei Ju**, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Yifan Wang, Xiao Luo, Ming Zhang <br>
-***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>, <span style="color:red">ESI Hot & Highly Cited Paper</span>***
 
 
 Funds and Projects
@@ -266,6 +262,7 @@ Funds and Projects
 
 Honors and Awards
 =====
+* Apr. 2024: **Tianfu Emei Plan (天府峨眉计划 / 四川省“千人计划”)**
 * Sep. 2023: [**Outstanding Doctoral Dissertation Award (The Only Winner in ACM SIGCSE Chapter)**](https://mp.weixin.qq.com/s/q7mgixyw9tbdIcKq3C3GNw), ACM SIGCSE
 * Nov. 2022: 🏆 **Best Paper Finalist**, ICDM
 * Dec. 2021: **Award for Scientific Research**, Peking University
