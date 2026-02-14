@@ -48,12 +48,12 @@ AAAI Conference on Artificial Intelligence <br>
 1.  *DisCo: Diffusion-guided Unbiased Discriminative Learning for Unsupervised Graph Domain Adaptation* [To appear] <br>
 Haodong Zhang, Tao Ren, Changhu Wang, Yifan Wang, **Wei Ju**, Huaizhi Tang, Junyu Luo, Zimo Wang, Ziyue Qiao, Xian-Sheng Hua, Xiao Luo  <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining <br>
-***SIGKDD 2026, <span style="color:red">CCF-A</span>***
+***KDD 2026, <span style="color:red">CCF-A</span>***
 
 1.  *Dual Data-centric Separation with Circular Mixup for Noise-resistant Time Series Learning* [To appear] <br>
 Yuhang Pei, Fanchun Meng, Qinghua Ran, Tao Ren, Yifan Wang, **Wei Ju**, Zimo Wang, Xian-Sheng Hua, Xiao Luo <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining <br>
-***SIGKDD 2026, <span style="color:red">CCF-A</span>***
+***KDD 2026, <span style="color:red">CCF-A</span>***
 
 1.  *Robust Cross Supervision with Target Mining for Source-free Graph Domain Adaptation* [To appear] <br>
 Junyu Luo, Haoyu Tao, Xiao Luo, Yusheng Zhao, Zhiping Xiao, Dailan He, **Wei Ju**, Chong Chen, Xian-Sheng Hua, Ming Zhang <br>
@@ -211,7 +211,7 @@ Annual Meeting of the Association for Computational Linguistics, 8108–8123 [Pu
 1.  *Future Matters for Present: Towards Effective Physical Simulation over Meshes* [[Paper](../files/25KDD-FAIR.pdf)] <br>
 Xiao Luo, Junyu Luo, Huiyu Jiang, Hang Zhou, Zhiping Xiao, **Wei Ju**, Carl Yang, Ming Zhang, Yizhou Sun <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 906-917 [Pub: 2025-7-20] <br>
-***SIGKDD 2025, <span style="color:red">CCF-A</span>***
+***KDD 2025, <span style="color:red">CCF-A</span>***
 
 1.  *TRACI: A Data-centric Approach for Multi-Domain Generalization on Graphs* [[Paper](../files/25AAAI-TRACI.pdf)][[Code](https://github.com/YushengZhao/TRACI-AAAI25)] <br>
 Yusheng Zhao, Changhu Wang, Xiao Luo, Junyu Luo, **Wei Ju**, Zhiping Xiao, Ming Zhang <br>
