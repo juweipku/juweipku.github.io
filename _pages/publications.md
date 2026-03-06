@@ -25,6 +25,11 @@ Caiyang Yu, **Wei Ju**, Haixin Wang, Yifan Wang, Ziyue Qiao <br>
 International Conference on Learning Representations<br>
 ***ICLR 2026, <span style="color:orange">Corresponding Author</span>***
 
+1.  *Progressive Neural Architecture Generation* [To appear] <br>
+Caiyang Yu, Chen Huang, Yun Liu, Chenwei Tang, **Wei Ju**, Jiancheng Lv <br>
+The IEEE/CVF Conference on Computer Vision and Pattern Recognition <br>
+***CVPR 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *KEGOD: Kernel-enhanced Latent Substructure Learning for Graph Out-Of-Distribution Detection* [To appear] <br>
 Yifan Wang, Haodong Zhang, Zhiping Xiao, Yusheng Zhao, Siyu Yi, Nan Yin, Xinwang Liu, Ming Zhang, **Wei Ju** <br>
 ACM The Web Conference <br>
