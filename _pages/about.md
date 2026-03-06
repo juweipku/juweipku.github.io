@@ -43,7 +43,7 @@ Editorial Board Member
 Area Chair / Senior Program Committee Member
 =====
 * **Area Chair**:\\
-2026: ICML, ICLR, ARR, KDD, ICASSP, IJCNN\\
+2026: ICML, ICLR, ARR, KDD, ACMMM, ICASSP, IJCNN\\
 2025: ICML, ARR, ACMMM, ACML, IJCNN
 
 * **SPC**:\\
@@ -52,6 +52,8 @@ Area Chair / Senior Program Committee Member
 
 <span style="color:red">What’s New</span>
 =====
+* **2026-3**: Invited to serve as the Area Chair for ACMMM 2026!
+* **2026-2**: One paper has been accepted by ***CVPR 2026*** !!
 * **2026-2**: Invited to serve as the Area Chair for KDD 2026!
 * **2026-2**: One paper has been accepted by ***TBD 2026*** !!
 * **2026-1**: Five papers have been accepted by ***ICLR 2026*** !!
