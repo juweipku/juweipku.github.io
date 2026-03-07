@@ -22,7 +22,8 @@ Wei Ju (琚玮) is currently an associate professor (副研究员) with the Coll
 Research Interests
 ======
 * Deep Learning, Machine Learning, Data Mining
-* Data-Efficient/Data-Centric Graph Representation Learning, Graph Neural Networks
+* Graph Neural Networks，GNN
+* Data-Efficient/Data-Centric Graph Representation Learning
 * Bioinformatics (Spatial Transcriptomics, Multi-Omics), Drug Discovery
 * Large Language Model，LLM
 * Recommender Systems, Drug/Medicine Recommendation
