@@ -234,7 +234,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence, 46(12): 9038-905
 1.  *Compactness and Consistency: A Conjoint Framework for Deep Graph Clustering* [To appear] <br>
 **Wei Ju**, Siyu Yi, Kangjie Zheng, Yifan Wang, Ziyue Qiao, Li Shen, Yongdao Zhou, Xiaochun Cao, Jiancheng Lv <br>
 International Conference on Learning Representations<br>
-***ICLR 2026, <span style="color:orange">Oral Representation, Top 1%</span>***
+***ICLR 2026, <span style="color:orange">CCF-A, Oral Representation, Top 1%</span>***
 
 1.  *Dynamic Multi-sample Mixup with Gradient Exploration for Open-set Graph Anomaly Detection* [To appear] <br>
 Caiyang Yu, **Wei Ju**, Haixin Wang, Yifan Wang, Ziyue Qiao <br>
