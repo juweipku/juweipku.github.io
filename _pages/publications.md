@@ -13,7 +13,7 @@ author_profile: true
 1.  *Compactness and Consistency: A Conjoint Framework for Deep Graph Clustering* [To appear] <br>
 **Wei Ju**, Siyu Yi, Kangjie Zheng, Yifan Wang, Ziyue Qiao, Li Shen, Yongdao Zhou, Xiaochun Cao, Jiancheng Lv <br>
 International Conference on Learning Representations<br>
-***ICLR 2026, <span style="color:orange">CCF-A, Oral Representation, Top 1%</span>***
+***ICLR 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation, Top 1%</span>***
 
 1.  *Long-Tailed Recognition of Evidential Experts for Graph-level Classification* [To appear] <br>
 **Wei Ju**, Siyu Yi, Zhengyang Mao, Yifang Qin, Yifan Wang, Zhiping Xiao, Yiwei Fu, Ziyue Qiao, Ming Zhang <br>
@@ -23,7 +23,7 @@ ACM The Web Conference <br>
 1.  *Dynamic Multi-sample Mixup with Gradient Exploration for Open-set Graph Anomaly Detection* [To appear] <br>
 Caiyang Yu, **Wei Ju**, Haixin Wang, Yifan Wang, Ziyue Qiao <br>
 International Conference on Learning Representations<br>
-***ICLR 2026, <span style="color:orange">CCF-A, Corresponding Author</span>***
+***ICLR 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *Progressive Neural Architecture Generation* [To appear] <br>
 Caiyang Yu, Chen Huang, Yun Liu, Chenwei Tang, **Wei Ju**, Jiancheng Lv <br>
