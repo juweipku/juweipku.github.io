@@ -37,7 +37,7 @@ ACM The Web Conference <br>
 
 1.  *Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data* [[Paper](../files/26AAAI_PREST.pdf)] <br>
 Wei Zhang, Siyu Yi, Lezhi Chen, Yifan Wang, Ziyue Qiao, Yongdao Zhou, **Wei Ju** <br>
-AAAI Conference on Artificial Intelligence <br>
+AAAI Conference on Artificial Intelligence, 40(19), 16352-16360 [Pub: 2026-3-14] <br>
 ***AAAI 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *PRISM: Partial-label Relational Inference with Spatial and Spectral Cues* [To appear] <br>
@@ -93,7 +93,7 @@ IEEE Transactions on Industrial Informatics <br>
 
 2025
 ====
-1.  *A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges* [[Paper](25-TPAMI-Survey.pdf)] <br>
+1.  *A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges* [[Paper](25TPAMI-Survey.pdf)] <br>
 **Wei Ju**, Siyu Yi, Yifan Wang, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Philip S Yu, Ming Zhang <br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 48(3), 3036-3055 [Pub: 2025-11-7] <br>
 ***TPAMI 2025, <span style="color:red">CCF-A, JCR Q1, IF=18.6</span>***
