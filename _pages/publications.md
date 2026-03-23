@@ -93,9 +93,9 @@ IEEE Transactions on Industrial Informatics <br>
 
 2025
 ====
-1.  *A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges* [[Paper](https://arxiv.org/pdf/2403.04468.pdf)] <br>
+1.  *A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges* [[Paper](25-TPAMI-Survey.pdf)] <br>
 **Wei Ju**, Siyu Yi, Yifan Wang, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Philip S Yu, Ming Zhang <br>
-IEEE Transactions on Pattern Analysis and Machine Intelligence <br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 48(3), 3036-3055 [Pub: 2025-11-7] <br>
 ***TPAMI 2025, <span style="color:red">CCF-A, JCR Q1, IF=18.6</span>***
 
 1.  *Cluster-guided Contrastive Class-imbalanced Graph Classification* [[Paper](../files/25AAAI-C3GNN.pdf)] <br>
@@ -337,7 +337,7 @@ IEEE Transactions on Knowledge and Data Engineering, 36(7): 3224-3236 [Pub: 2024
 
 1.  *Poisoning medical knowledge using large language models* [[Paper](../files/24NMI.pdf)][[Code](https://github.com/yjwtheonly/Scorpius)] <br>
 Junwei Yang, Hanwen Xu, Srbuhi Mirzoyan, Tong Chen, Zixuan Liu, Zequn Liu, **Wei Ju**, Luchen Liu, Zhiping Xiao, Ming Zhang, Sheng Wang <br>
-Nature Machine Intelligence, 6: 1156–1168  [Pub: 2024-9-20] <br>
+Nature Machine Intelligence, 6(10): 1156–1168  [Pub: 2024-9-20] <br>
 ***NMI 2024, <span style="color:red">IF=18.8 (Nature 子刊)</span>***
 
 1.  *GALA: Graph Diffusion-based Alignment with Jigsaw for Source-free Domain Adaptation* [[Paper](../files/24TPAMI-GALA.pdf)][[Code](https://github.com/luo-junyu/GALA)] <br>
