@@ -30,6 +30,16 @@ Caiyang Yu, Chen Huang, Yun Liu, Chenwei Tang, **Wei Ju**, Jiancheng Lv <br>
 The IEEE/CVF Conference on Computer Vision and Pattern Recognition <br>
 ***CVPR 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
+1.  *Calibrating Inference Time Alignment with Sequence-level Risk Accumulation* [To appear] <br>
+Shanwen Tan, Ziyang Dong, **Wei Ju**, Yiwei Fu, Hao Wu, Kun Wang, Yifan Wang, Ziyue Qiao <br>
+Annual Meeting of the Association for Computational Linguistics <br>
+***ACL 2026, <span style="color:red">CCF-A</span>***
+
+1.  *DANCE: Diversity-attended Dynamic Caching with Asymmetric Quantization for Test-time Adaptation of Vision-language Models* [To appear] <br>
+Shunge Zou, Changhu Wang, **Wei Ju**, Ziyue Qiao, Xiao Luo <br>
+Annual Meeting of the Association for Computational Linguistics <br>
+***ACL 2026 Findings, <span style="color:red">CCF-A</span>***
+
 1.  *KEGOD: Kernel-enhanced Latent Substructure Learning for Graph Out-Of-Distribution Detection* [To appear] <br>
 Yifan Wang, Haodong Zhang, Zhiping Xiao, Yusheng Zhao, Siyu Yi, Nan Yin, Xinwang Liu, Ming Zhang, **Wei Ju** <br>
 ACM The Web Conference <br>
