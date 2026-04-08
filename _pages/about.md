@@ -53,6 +53,7 @@ Area Chair / Senior Program Committee Member
 
 <span style="color:red">What’s New</span>
 =====
+* **2026-4**: Two papers have been accepted by ***ACL 2026*** !!
 * **2026-3**: Invited to serve as the Area Chair for ACMMM 2026!
 * **2026-2**: One paper has been accepted by ***CVPR 2026*** !!
 * **2026-2**: Invited to serve as the Area Chair for KDD 2026!
