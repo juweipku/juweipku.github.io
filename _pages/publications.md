@@ -90,6 +90,11 @@ Junyu Luo, Haoyu Tao, Xiao Luo, Yusheng Zhao, Zhiping Xiao, Dailan He, **Wei Ju
 IEEE Transactions on Knowledge and Data Engineering <br>
 ***TKDE 2026, <span style="color:red">CCF-A, JCR Q1, IF=10.4</span>***
 
+1.  *Bones to identity: Generative contrastive fusion for cross-modality medical person identification from skeletal data* [To appear] <br>
+Chaoqun Niu, Dongdong Chen, Jizhe Zhou, Jian Wang, Quan-Hui Liu, Caiyang Yu, Yuan Li, **Wei Ju**, Jiancheng Lv <br>
+Pattern Recognition <br>
+***Pattern Recognition 2026, <span style="color:red">CCF-B, JCR Q1, IF=7.6</span>***
+
 1.  *A Survey of Large Language Models for Traffic Forecasting: Methods and Applications* [To appear] <br>
 Qingqing Long, Shuai Liu, Ning Cao, Zhicheng Ren, Xiao Luo, **Wei Ju**, Chen Fang, Zhihong Zhu, Hengshu Zhu and Yuanchun Zhou <br>
 IEEE Transactions on Big Data <br>
