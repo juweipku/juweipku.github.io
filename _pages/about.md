@@ -15,7 +15,7 @@ Wei Ju (琚玮) is currently an associate professor (副研究员) with the Coll
 **Email:** juwei@scu.edu.cn, juwei@pku.edu.cn
 <!-- I have also been closely working with Prof. [Jian Tang](https://jian-tang.com/), who is my supervior at [Mila](https://mila.quebec/en/) during Sept. 2018 - Sept. 2019. -->
 
-**<span style="color:red">招收2026年秋季入学硕士研究生1名，欢迎有意向的同学投递简历至juwei@scu.edu.cn</span>**
+**<span style="color:red">招收2027年秋季入学硕士研究生2名，欢迎有意向的同学投递简历至juwei@scu.edu.cn</span>**
 
 **<span style="color:red">长期招收solid background and self-motivated的研究生与本科生</span>**
 
@@ -53,6 +53,7 @@ Area Chair / Senior Program Committee Member
 
 <span style="color:red">What’s New</span>
 =====
+* **2024-4**: One paper has been accepted by ***Pattern Recognition 2026*** !!
 * **2026-4**: Two papers have been accepted by ***ACL 2026*** !!
 * **2026-3**: Invited to serve as the Area Chair for ACMMM 2026!
 * **2026-2**: One paper has been accepted by ***CVPR 2026*** !!
