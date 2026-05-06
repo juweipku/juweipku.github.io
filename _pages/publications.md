@@ -15,6 +15,11 @@ author_profile: true
 International Conference on Learning Representations<br>
 ***ICLR 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation, Top 1%</span>***
 
+1.  *Identifying and Correcting Label Noise for Robust GNNs via Influence Contradiction* [To appear] <br>
+**Wei Ju**, Wei Zhang, Siyu Yi, Zhengyang Mao, Yifan Wang, Jingyang Yuan, Zhiping Xiao, Ziyue Qiao, Ming Zhang <br>
+International Conference on Machine Learning <br>
+***ICML 2026, <span style="color:red">CCF-A</span>***
+
 1.  *Long-Tailed Recognition of Evidential Experts for Graph-level Classification* [To appear] <br>
 **Wei Ju**, Siyu Yi, Zhengyang Mao, Yifang Qin, Yifan Wang, Zhiping Xiao, Yiwei Fu, Ziyue Qiao, Ming Zhang <br>
 ACM The Web Conference <br>
@@ -25,6 +30,11 @@ Caiyang Yu, **Wei Ju**, Haixin Wang, Yifan Wang, Ziyue Qiao <br>
 International Conference on Learning Representations<br>
 ***ICLR 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
+1.  *Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction* [To appear] <br>
+Jiazhen Huang, Zhiming Liu, Changhu Wang, **Wei Ju**, Ziyue Qiao, Xiao Luo <br>
+International Conference on Machine Learning <br>
+***ICML 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *Progressive Neural Architecture Generation* [To appear] <br>
 Caiyang Yu, Chen Huang, Yun Liu, Chenwei Tang, **Wei Ju**, Jiancheng Lv <br>
 The IEEE/CVF Conference on Computer Vision and Pattern Recognition <br>
@@ -33,12 +43,12 @@ The IEEE/CVF Conference on Computer Vision and Pattern Recognition <br>
 1.  *Calibrating Inference Time Alignment with Sequence-level Risk Accumulation* [To appear] <br>
 Shanwen Tan, Ziyang Dong, **Wei Ju**, Yiwei Fu, Hao Wu, Kun Wang, Yifan Wang, Ziyue Qiao <br>
 Annual Meeting of the Association for Computational Linguistics <br>
-***ACL 2026, <span style="color:red">CCF-A</span>***
+***ACL 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *DANCE: Diversity-attended Dynamic Caching with Asymmetric Quantization for Test-time Adaptation of Vision-language Models* [To appear] <br>
 Shunge Zou, Changhu Wang, **Wei Ju**, Ziyue Qiao, Xiao Luo <br>
 Annual Meeting of the Association for Computational Linguistics <br>
-***ACL 2026 Findings, <span style="color:red">CCF-A</span>***
+***ACL 2026 Findings, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *KEGOD: Kernel-enhanced Latent Substructure Learning for Graph Out-Of-Distribution Detection* [To appear] <br>
 Yifan Wang, Haodong Zhang, Zhiping Xiao, Yusheng Zhao, Siyu Yi, Nan Yin, Xinwang Liu, Ming Zhang, **Wei Ju** <br>
@@ -49,6 +59,11 @@ ACM The Web Conference <br>
 Wei Zhang, Siyu Yi, Lezhi Chen, Yifan Wang, Ziyue Qiao, Yongdao Zhou, **Wei Ju** <br>
 AAAI Conference on Artificial Intelligence, 40(19), 16352-16360 [Pub: 2026-3-14] <br>
 ***AAAI 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+
+1.  *scGTN: Deep Siamese Graph Transformer Network for Single-cell RNA Sequencing Clustering* [To appear] <br>
+Jinke Wu, Yifan Wang, Siyu Yi, Caiyang Yu, Ziyue Qiao, Nan Yin, Jiancheng Lv, **Wei Ju** <br>
+International Joint Conference on Artificial Intelligence <br>
+***IJCAI 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *PRISM: Partial-label Relational Inference with Spatial and Spectral Cues* [To appear] <br>
 Yiyang Gu, Wenrui Wu, Yifang Qin, Taian Guo, Tao Zhe, Jiaru Tang, Zhiping Xiao, Weizhi Zhang, Ziyue Qiao, **Wei Ju**, Dongjie Wang, Xiao Luo, Philip S. Yu, Ming Zhang <br>
@@ -64,6 +79,21 @@ International Conference on Learning Representations<br>
 Junyu Luo, Hang Zhou, Yusheng Zhao, Xiao Luo, Zhiping Xiao, Pengyun Wang, **Wei Ju**, Siyu Heng, Ming Zhang <br>
 International Conference on Learning Representations<br>
 ***ICLR 2026, <span style="color:red">CCF-A</span>***
+
+1.  *CLINIC: Towards High-quality Graph Out-Of-Distribution Detection* [To appear] <br>
+Yifan Wang, Haodong Zhang, Changhu Wang, Tao Ren, Dongjie Wang, **Wei Ju**, Chong Chen, Xian-Sheng Hua, Xiao Luo <br>
+International Conference on Machine Learning <br>
+***ICML 2026, <span style="color:red">CCF-A</span>***
+
+1.  *CELL: A Causal Perspective for Fairness-aware Graph Adaptation* [To appear] <br>
+Hourun Li, Yifan Wang, Qinghua Ran, Junyu Luo, Jia Yang, Changling Zhou, Zhiping Xiao, **Wei Ju**, Xiao Luo, Ming Zhang <br>
+International Conference on Machine Learning <br>
+***ICML 2026, <span style="color:red">CCF-A</span>***
+
+1.  *CURE: Context-driven Diffusion with Progressive Expansion for Single Domain Generalization in Time Series Classification* [To appear] <br>
+Yuhang Pei, Fanchun Meng, Wenrui Wu, Tao Ren, Yifan Wang, **Wei Ju**, Chao Zheng, Xiao Luo <br>
+International Conference on Machine Learning <br>
+***ICML 2026, <span style="color:red">CCF-A</span>***
 
 1.  *DisCo: Diffusion-guided Unbiased Discriminative Learning for Unsupervised Graph Domain Adaptation* [To appear] <br>
 Haodong Zhang, Tao Ren, Changhu Wang, Yifan Wang, **Wei Ju**, Huaizhi Tang, Junyu Luo, Zimo Wang, Ziyue Qiao, Xian-Sheng Hua, Xiao Luo  <br>
@@ -89,6 +119,16 @@ AAAI Conference on Artificial Intelligence <br>
 Junyu Luo, Haoyu Tao, Xiao Luo, Yusheng Zhao, Zhiping Xiao, Dailan He, **Wei Ju**, Chong Chen, Xian-Sheng Hua, Ming Zhang <br>
 IEEE Transactions on Knowledge and Data Engineering <br>
 ***TKDE 2026, <span style="color:red">CCF-A, JCR Q1, IF=10.4</span>***
+
+1.  *HGOOD-D: Hyperbolic Hierarchical Exploration for Graph Out-of-Distribution Detection* [To appear] <br>
+Yuntai Ding, Tao Ren, Yiwei Fu, Yifan Wang, Haodong Zhang, Chong Chen, **Wei Ju**, Xiao Luo, Xian-Sheng Hua  <br>
+IEEE Transactions on Knowledge and Data Engineering <br>
+***TKDE 2026, <span style="color:red">CCF-A, JCR Q1, IF=10.4</span>***
+
+1.  *HGOOD: Hypergraph-enhanced Graph Contrastive Learning for Graph Out-of-Distribution Detection* [To appear] <br>
+Yueyue Gao, Chenyu Wang, Xuanting Fan, **Wei Ju**, Yifan Wang <br>
+International Joint Conference on Artificial Intelligence <br>
+***IJCAI 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *Bones to identity: Generative contrastive fusion for cross-modality medical person identification from skeletal data* [To appear] <br>
 Chaoqun Niu, Dongdong Chen, Jizhe Zhou, Jian Wang, Quan-Hui Liu, Caiyang Yu, Yuan Li, **Wei Ju**, Jiancheng Lv <br>
