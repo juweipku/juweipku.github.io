@@ -63,7 +63,7 @@ AAAI Conference on Artificial Intelligence, 40(19), 16352-16360 [Pub: 2026-3-14]
 1.  *scGTN: Deep Siamese Graph Transformer Network for Single-cell RNA Sequencing Clustering* [To appear] <br>
 Jinke Wu, Yifan Wang, Siyu Yi, Caiyang Yu, Ziyue Qiao, Nan Yin, Jiancheng Lv, **Wei Ju** <br>
 International Joint Conference on Artificial Intelligence <br>
-***IJCAI 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+***IJCAI 2026, <span style="color:red">CCF-B</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *PRISM: Partial-label Relational Inference with Spatial and Spectral Cues* [To appear] <br>
 Yiyang Gu, Wenrui Wu, Yifang Qin, Taian Guo, Tao Zhe, Jiaru Tang, Zhiping Xiao, Weizhi Zhang, Ziyue Qiao, **Wei Ju**, Dongjie Wang, Xiao Luo, Philip S. Yu, Ming Zhang <br>
@@ -128,7 +128,7 @@ IEEE Transactions on Knowledge and Data Engineering <br>
 1.  *HGOOD: Hypergraph-enhanced Graph Contrastive Learning for Graph Out-of-Distribution Detection* [To appear] <br>
 Yueyue Gao, Chenyu Wang, Xuanting Fan, **Wei Ju**, Yifan Wang <br>
 International Joint Conference on Artificial Intelligence <br>
-***IJCAI 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+***IJCAI 2026, <span style="color:red">CCF-B</span>***
 
 1.  *Bones to identity: Generative contrastive fusion for cross-modality medical person identification from skeletal data* [To appear] <br>
 Chaoqun Niu, Dongdong Chen, Jizhe Zhou, Jian Wang, Quan-Hui Liu, Caiyang Yu, Yuan Li, **Wei Ju**, Jiancheng Lv <br>
