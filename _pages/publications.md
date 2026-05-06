@@ -60,6 +60,11 @@ Wei Zhang, Siyu Yi, Lezhi Chen, Yifan Wang, Ziyue Qiao, Yongdao Zhou, **Wei Ju**
 AAAI Conference on Artificial Intelligence, 40(19), 16352-16360 [Pub: 2026-3-14] <br>
 ***AAAI 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
+1.  *PolyCF: Towards Optimal Spectral Graph Filters for Collaborative Filtering* [To appear] <br>
+Yifang Qin, Zhaobin Li, Arisa Watanabe, **Wei Ju**, Zhiping Xiao, and Ming Zhang <br>
+ACM Transactions on Information Systems <br>
+***TOIS 2026, <span style="color:red">CCF-A, IF=5.4</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *scGTN: Deep Siamese Graph Transformer Network for Single-cell RNA Sequencing Clustering* [To appear] <br>
 Jinke Wu, Yifan Wang, Siyu Yi, Caiyang Yu, Ziyue Qiao, Nan Yin, Jiancheng Lv, **Wei Ju** <br>
 International Joint Conference on Artificial Intelligence <br>
