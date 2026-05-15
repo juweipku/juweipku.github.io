@@ -140,6 +140,11 @@ Chaoqun Niu, Dongdong Chen, Jizhe Zhou, Jian Wang, Quan-Hui Liu, Caiyang Yu, Yua
 Pattern Recognition <br>
 ***Pattern Recognition 2026, <span style="color:red">CCF-B, JCR Q1, IF=7.6</span>***
 
+1.  *Towards distribution-aware active learning for data-efficient neural architecture predictor* [To appear] <br>
+Caiyang Yu, Yifan Wang, Chenwei Tang, **Wei Ju**, Xianggen Liu, Jiancheng Lv <br>
+Information Processing and Management <br>
+***Information Processing and Management 2026, <span style="color:red">CCF-B, JCR Q1, IF=6.9</span>***
+
 1.  *A Survey of Large Language Models for Traffic Forecasting: Methods and Applications* [To appear] <br>
 Qingqing Long, Shuai Liu, Ning Cao, Zhicheng Ren, Xiao Luo, **Wei Ju**, Chen Fang, Zhihong Zhu, Hengshu Zhu and Yuanchun Zhou <br>
 IEEE Transactions on Big Data <br>
