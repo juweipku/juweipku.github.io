@@ -73,7 +73,8 @@ Area Chair / Senior Program Committee Member
 * **2026-1**: Two papers have been accepted by ***WWW 2026*** !!
 <!-- 从第21条开始，放进折叠区 -->
 <details>
-<summary>More ▼</summary>
+<summary><span style="color:grey">More</span> ▼</summary>
+=====
 * **2025-12**: One paper has been accepted by ***Neurocomputing 2025*** !!
 * **2025-12**: One paper has been accepted by ***TII 2026*** !!
 * **2025-11**: Two papers have been accepted by ***KDD 2026*** !!
