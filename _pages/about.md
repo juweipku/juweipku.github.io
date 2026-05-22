@@ -74,10 +74,10 @@ Area Chair / Senior Program Committee Member
 
 <!-- 从第21条开始，放进折叠区 -->
 <details>
+
 <summary style="color:#ff6600; font-size:1.2em; text-align:center; font-weight:bold; cursor:pointer;">
 More ▼
 </summary>
-
 * **2025-12**: One paper has been accepted by ***Neurocomputing 2025*** !!
 * **2025-12**: One paper has been accepted by ***TII 2026*** !!
 * **2025-11**: Two papers have been accepted by ***KDD 2026*** !!
