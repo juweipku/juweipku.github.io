@@ -178,7 +178,8 @@ More ▼
 * **2021-10**: One paper has been accepted by ***WSDM 2022*** !!
 * **2021-10**: One paper has been accepted by ***ICONIP 2021*** !!
 * **2021-9**: One paper has been accepted by ***ICTAI 2021*** !!
-* **2021-8**: One paper has been accepted by ***ICDE 2022*** !!\\
+* **2021-8**: One paper has been accepted by ***ICDE 2022*** !!
+  
 </details>
 
 
