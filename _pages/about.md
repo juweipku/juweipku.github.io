@@ -78,8 +78,6 @@ Area Chair / Senior Program Committee Member
 More ▼
 </summary>
 
----
-
 * **2025-12**: One paper has been accepted by ***Neurocomputing 2025*** !!
   
 * **2025-12**: One paper has been accepted by ***TII 2026*** !!
