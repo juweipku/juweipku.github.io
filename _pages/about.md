@@ -75,7 +75,9 @@ Area Chair / Senior Program Committee Member
 <details>
 
 <summary><span style="color:grey">More</span> ▼</summary>
-=====
+
+---
+
 * **2025-12**: One paper has been accepted by ***Neurocomputing 2025*** !!
 * **2025-12**: One paper has been accepted by ***TII 2026*** !!
 * **2025-11**: Two papers have been accepted by ***KDD 2026*** !!
@@ -176,11 +178,10 @@ Area Chair / Senior Program Committee Member
 * **2021-10**: One paper has been accepted by ***WSDM 2022*** !!
 * **2021-10**: One paper has been accepted by ***ICONIP 2021*** !!
 * **2021-9**: One paper has been accepted by ***ICTAI 2021*** !!
-* **2021-8**: One paper has been accepted by ***ICDE 2022*** !!
+* **2021-8**: One paper has been accepted by ***ICDE 2022*** !!\\
 
 </details>
 
-\\
 
 Nature 子刊
 =====
