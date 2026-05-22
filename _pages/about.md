@@ -71,6 +71,7 @@ Area Chair / Senior Program Committee Member
 * **2026-1**: One paper has been accepted by ***TKDE 2026*** !!
 * **2026-1**: Invited to serve as the Senior Program Committee (SPC) Member for IJCAI 2026!
 * **2026-1**: Two papers have been accepted by ***WWW 2026*** !!
+
 <!-- 从第21条开始，放进折叠区 -->
 <details>
 <summary style="color:#ff6600; font-size:1.2em; text-align:center; font-weight:bold; cursor:pointer;">
@@ -179,92 +180,8 @@ More ▼
 * **2021-10**: One paper has been accepted by ***ICONIP 2021*** !!
 * **2021-9**: One paper has been accepted by ***ICTAI 2021*** !!
 * **2021-8**: One paper has been accepted by ***ICDE 2022*** !!\\
-
 </details>
 
-
-
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  .hidden { display: none; }
-  .toggle-btn {
-    cursor: pointer;
-    color: blue;
-    text-decoration: underline;
-    margin: 10px 0;
-    display: inline-block;
-  }
-</style>
-</head>
-<body>
-
-<span style="color:red">What's New</span>
-=====
-
-<div id="news-list">
-  <!-- 这里放你的所有新闻条目 -->
-  <div>* **2026-5**: One paper has been accepted by ***Information Processing and Management 2026*** !!</div>
-  <div>* **2026-5**: One paper has been accepted by ***TOIS 2026*** !!</div>
-  <div>* **2026-5**: Two papers have been accepted by ***IJCAI 2026*** !!</div>
-  <div>* **2026-5**: Five papers have been accepted by ***ICML 2026*** !!</div>
-  <div>* **2026-5**: One paper has been accepted by ***TKDE 2026*** !!</div>
-  <div>* **2026-4**: One paper has been accepted by ***Pattern Recognition 2026*** !!</div>
-  <div>* **2026-4**: Two papers have been accepted by ***ACL 2026*** !!</div>
-  <div>* **2026-3**: Invited to serve as the Senior Program Committee (SPC) Member for CIKM 2026!</div>
-  <div>* **2026-3**: Invited to serve as the Area Chair for ACMMM 2026!</div>
-  <div>* **2026-2**: One paper has been accepted by ***CVPR 2026*** !!</div>
-  <div>* **2026-2**: Invited to serve as the Area Chair for KDD 2026!</div>
-  <div>* **2026-2**: One paper has been accepted by ***TBD 2026*** !!</div>
-  <div>* **2026-1**: Five papers have been accepted by ***ICLR 2026*** !!</div>
-  <div>* **2025-1**: Invited to serve as the Area Chair for IJCNN 2026!</div>
-  <div>* **2026-1**: One paper has been accepted by ***TKDE 2026*** !!</div>
-  <div>* **2026-1**: Invited to serve as the Senior Program Committee (SPC) Member for IJCAI 2026!</div>
-  <div>* **2026-1**: Two papers have been accepted by ***WWW 2026*** !!</div>
-  <div>* **2025-12**: One paper has been accepted by ***Neurocomputing 2025*** !!</div>
-  <div>* **2025-12**: One paper has been accepted by ***TII 2026*** !!</div>
-  <div>* **2025-11**: Two papers have been accepted by ***KDD 2026*** !!</div>
-  <!-- 以下为隐藏部分 -->
-  <div class="hidden">* **2025-11**: Invited to serve as the Area Chair for ICML 2026!</div>
-  <div class="hidden">* **2025-11**: Invited to serve as the Area Chair for ICASSP 2026!</div>
-  <div class="hidden">* **2025-11**: Three papers have been accepted by ***AAAI 2026*** !!</div>
-  <div class="hidden">* **2025-11**: One paper has been accepted by ***TPAMI 2025*** !!</div>
-  <div class="hidden">* **2025-11**: Honored to be appointed as a committee member of the ***<span style="color:orange">Large Models and Gene...</span>*** !!</div>
-  <div class="hidden">* **2025-10**: Honored to be appointed as an ***<span style="color:orange">Associate Editor</span>*** of ***IEEE Transa...</div>
-  <div class="hidden">* **2025-9**: One paper has been accepted by ***TKDE 2025*** !!</div>
-  <div class="hidden">* **2025-9**: One paper has been accepted by ***TKDD 2025*** !!</div>
-  <div class="hidden">* **2025-9**: Honored as ***<span style="color:orange">World's Top2% Scientists</span>*** in 2025 ranked by Stanford Un...</div>
-  <div class="hidden">* **2025-9**: Three papers have been accepted by ***NeurIPS 2025*** !!</div>
-  <div class="hidden">* **2025-9**: Honored to be appointed as an ***<span style="color:orange">Review Editor</span>*** of ***Frontiers in Bi...</div>
-  <div class="hidden">* **2025-9**: One paper has been accepted by ***ACML 2025*** !!</div>
-  <div class="hidden">* **2025-8**: Invited to serve as the Area Chair for ICLR 2026!</div>
-  <div class="hidden">* **2025-8**: Three papers have been accepted by ***EMNLP 2025*** !!</div>
-  <div class="hidden">* **2025-8**: Invited to serve as the Senior Program Committee (SPC) Member for PAKDD 2026!</div>
-  <div class="hidden">* **2025-8**: Invited to serve as the Senior Program Committee (SPC) Member for AAAI 2026!</div>
-  <div class="hidden">* **2025-8**: One paper has been accepted by ***Information Fusion 2025*** !!</div>
-  <div class="hidden">* **2025-7**: One paper has been accepted by ***Artificial Intelligence 2025*** !!</div>
-  <div class="hidden">* **2025-7**: Honored to be appointed as an ***<span style="color:orange">Associate Editor</span>*** of ***Pattern Reco...</div>
-  <div class="hidden">* **2025-7**: One paper has been accepted by ***TNNLS 2025*** !!</div>
-  <div class="hidden">* **2025-7**: Three papers have been accepted by ***ACMMM 2025*** !!</div>
-  <div class="hidden">* **2025-6**: One paper has been accepted by ***SMC 2025*** !!</div>
-  <div class="hidden">* **2025-6**: Project supported by the ***<span style="color:orange">Postdoctoral Innovation Talent Support Program</span>*** ...</div>
-  <div class="hidden">* **2025-5**: Two papers have been accepted by ***ACL 2025*** !!</div>
-</div>
-
-<div class="toggle-btn" onclick="toggleNews()">查看更多...</div>
-
-<script>
-  function toggleNews() {
-    const hiddenItems = document.querySelectorAll('.hidden');
-    const btn = document.querySelector('.toggle-btn');
-    hiddenItems.forEach(item => item.classList.toggle('hidden'));
-    btn.textContent = btn.textContent === '查看更多...' ? '收起' : '查看更多...';
-  }
-</script>
-
-</body>
-<html>
 
 Nature 子刊
 =====
