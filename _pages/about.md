@@ -59,7 +59,7 @@ Area Chair / Senior Program Committee Member
 * **2026-5**: Two papers have been accepted by ***IJCAI 2026*** !!
 * **2026-5**: Five papers have been accepted by ***ICML 2026*** !!
 * **2026-4**: One paper has been accepted by ***TKDE 2026*** !!
-* **2024-4**: One paper has been accepted by ***Pattern Recognition 2026*** !!
+* **2026-4**: One paper has been accepted by ***Pattern Recognition 2026*** !!
 * **2026-4**: Two papers have been accepted by ***ACL 2026*** !!
 * **2026-3**: Invited to serve as the Senior Program Committee (SPC) Member for CIKM 2026!
 * **2026-3**: Invited to serve as the Area Chair for ACMMM 2026!
@@ -67,12 +67,13 @@ Area Chair / Senior Program Committee Member
 * **2026-2**: Invited to serve as the Area Chair for KDD 2026!
 * **2026-2**: One paper has been accepted by ***TBD 2026*** !!
 * **2026-1**: Five papers have been accepted by ***ICLR 2026*** !!
-* **2025-1**: Invited to serve as the Area Chair for IJCNN 2026!
+* **2026-1**: Invited to serve as the Area Chair for IJCNN 2026!
 * **2026-1**: One paper has been accepted by ***TKDE 2026*** !!
 * **2026-1**: Invited to serve as the Senior Program Committee (SPC) Member for IJCAI 2026!
 * **2026-1**: Two papers have been accepted by ***WWW 2026*** !!
 <!-- 从第21条开始，放进折叠区 -->
 <details>
+
 <summary><span style="color:grey">More</span> ▼</summary>
 =====
 * **2025-12**: One paper has been accepted by ***Neurocomputing 2025*** !!
@@ -176,7 +177,10 @@ Area Chair / Senior Program Committee Member
 * **2021-10**: One paper has been accepted by ***ICONIP 2021*** !!
 * **2021-9**: One paper has been accepted by ***ICTAI 2021*** !!
 * **2021-8**: One paper has been accepted by ***ICDE 2022*** !!
+
 </details>
+
+\\
 
 Nature 子刊
 =====
