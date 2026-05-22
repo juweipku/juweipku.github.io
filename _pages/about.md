@@ -53,6 +53,7 @@ Area Chair / Senior Program Committee Member
 
 <span style="color:red">What’s New</span>
 =====
+<!-- 前20条 直接显示 -->
 * **2026-5**: One paper has been accepted by ***Information Processing and Management 2026*** !!
 * **2026-5**: One paper has been accepted by ***TOIS 2026*** !!
 * **2026-5**: Two papers have been accepted by ***IJCAI 2026*** !!
@@ -70,6 +71,9 @@ Area Chair / Senior Program Committee Member
 * **2026-1**: One paper has been accepted by ***TKDE 2026*** !!
 * **2026-1**: Invited to serve as the Senior Program Committee (SPC) Member for IJCAI 2026!
 * **2026-1**: Two papers have been accepted by ***WWW 2026*** !!
+<!-- 从第21条开始，放进折叠区 -->
+<details>
+<summary>More ▼</summary>
 * **2025-12**: One paper has been accepted by ***Neurocomputing 2025*** !!
 * **2025-12**: One paper has been accepted by ***TII 2026*** !!
 * **2025-11**: Two papers have been accepted by ***KDD 2026*** !!
@@ -171,6 +175,7 @@ Area Chair / Senior Program Committee Member
 * **2021-10**: One paper has been accepted by ***ICONIP 2021*** !!
 * **2021-9**: One paper has been accepted by ***ICTAI 2021*** !!
 * **2021-8**: One paper has been accepted by ***ICDE 2022*** !!
+</details>
 
 Nature 子刊
 =====
