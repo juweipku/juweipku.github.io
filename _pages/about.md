@@ -52,10 +52,68 @@ Area Chair / Senior Program Committee Member
 2025: IJCAI, CIKM
 
 
+<style>
+.news-container {
+    position: relative;
+    max-width: 900px;
+}
+
+#news-list {
+    margin: 0;
+    padding-left: 20px;
+}
+
+/* 隐藏区域 */
+#more-news {
+    display: none;
+}
+
+/* 渐变遮罩效果 */
+.fade-mask {
+    position: relative;
+    height: 55px;
+    margin-top: -10px;
+    background: linear-gradient(
+        to bottom,
+        rgba(255,255,255,0) 0%,
+        rgba(255,255,255,0.75) 55%,
+        rgba(255,255,255,1) 100%
+    );
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    pointer-events: none;
+}
+
+/* More / Less 按钮 */
+#toggle-btn {
+    pointer-events: auto;
+    display: inline-block;
+    margin-bottom: 6px;
+    padding: 4px 14px;
+    border-radius: 20px;
+    background: rgba(240,240,240,0.92);
+    backdrop-filter: blur(4px);
+    color: #666;
+    font-size: 14px;
+    text-decoration: none;
+    transition: all 0.25s ease;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+#toggle-btn:hover {
+    background: rgba(220,220,220,0.98);
+    color: #222;
+}
+</style>
+
+<div class="news-container">
+
 <span style="color:red">What’s New</span>
 =====
+
 <ul id="news-list">
-    <!-- 前5条直接显示 -->
+    <!-- 前5条 -->
     <li><b>2026-5</b>: One paper has been accepted by <i><b>Information Processing and Management 2026</b></i> !!</li>
     <li><b>2026-5</b>: One paper has been accepted by <i><b>TOIS 2026</b></i> !!</li>
     <li><b>2026-5</b>: Two papers have been accepted by <i><b>IJCAI 2026</b></i> !!</li>
@@ -63,7 +121,7 @@ Area Chair / Senior Program Committee Member
     <li><b>2026-4</b>: One paper has been accepted by <i><b>TKDE 2026</b></i> !!</li>
 
     <!-- 隐藏内容 -->
-    <div id="more-news" style="display:none;">
+    <div id="more-news">
         <li><b>2026-4</b>: One paper has been accepted by <i><b>Pattern Recognition 2026</b></i> !!</li>
         <li><b>2026-4</b>: Two papers have been accepted by <i><b>ACL 2026</b></i> !!</li>
         <li><b>2026-3</b>: Invited to serve as the Senior Program Committee (SPC) Member for CIKM 2026!</li>
@@ -79,20 +137,36 @@ Area Chair / Senior Program Committee Member
     </div>
 </ul>
 
-<!-- 按钮 -->
-<a href="javascript:void(0);" id="toggle-btn" onclick="toggleNews()">More</a>
+<!-- 渐变遮罩 + More按钮 -->
+<div class="fade-mask" id="fade-mask">
+    <a href="javascript:void(0);" id="toggle-btn" onclick="toggleNews()">More</a>
+</div>
+
+</div>
 
 <script>
 function toggleNews() {
-    var moreNews = document.getElementById("more-news");
-    var btn = document.getElementById("toggle-btn");
+    const moreNews = document.getElementById("more-news");
+    const btn = document.getElementById("toggle-btn");
+    const fadeMask = document.getElementById("fade-mask");
 
-    if (moreNews.style.display === "none") {
+    if (moreNews.style.display === "none" || moreNews.style.display === "") {
         moreNews.style.display = "block";
         btn.innerHTML = "Less";
+        fadeMask.style.height = "40px";
+        fadeMask.style.background = "none";
     } else {
         moreNews.style.display = "none";
         btn.innerHTML = "More";
+        fadeMask.style.height = "55px";
+        fadeMask.style.background = `
+            linear-gradient(
+                to bottom,
+                rgba(255,255,255,0) 0%,
+                rgba(255,255,255,0.75) 55%,
+                rgba(255,255,255,1) 100%
+            )
+        `;
     }
 }
 </script>
