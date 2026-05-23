@@ -58,13 +58,6 @@ Area Chair / Senior Program Committee Member
     max-width: 1000px;
 }
 
-/* 列表样式 */
-#news-list {
-    margin: 0;
-    padding-left: 22px;
-    line-height: 1.7;
-}
-
 /* 默认隐藏 */
 #more-news {
     display: none;
@@ -117,7 +110,6 @@ Area Chair / Senior Program Committee Member
 
 <span style="color:red">What’s New</span>
 =====
-
 <ul id="news-list">
 
 <!-- ================= 2026 ================= -->
