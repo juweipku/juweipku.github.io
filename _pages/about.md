@@ -51,6 +51,53 @@ Area Chair / Senior Program Committee Member
 2026: AAAI, IJCAI, CIKM, PAKDD\\
 2025: IJCAI, CIKM
 
+
+<span style="color:red">What’s New</span>
+=====
+<ul id="news-list">
+    <!-- 前5条直接显示 -->
+    <li><b>2026-5</b>: One paper has been accepted by <i><b>Information Processing and Management 2026</b></i> !!</li>
+    <li><b>2026-5</b>: One paper has been accepted by <i><b>TOIS 2026</b></i> !!</li>
+    <li><b>2026-5</b>: Two papers have been accepted by <i><b>IJCAI 2026</b></i> !!</li>
+    <li><b>2026-5</b>: Five papers have been accepted by <i><b>ICML 2026</b></i> !!</li>
+    <li><b>2026-4</b>: One paper has been accepted by <i><b>TKDE 2026</b></i> !!</li>
+
+    <!-- 隐藏内容 -->
+    <div id="more-news" style="display:none;">
+        <li><b>2026-4</b>: One paper has been accepted by <i><b>Pattern Recognition 2026</b></i> !!</li>
+        <li><b>2026-4</b>: Two papers have been accepted by <i><b>ACL 2026</b></i> !!</li>
+        <li><b>2026-3</b>: Invited to serve as the Senior Program Committee (SPC) Member for CIKM 2026!</li>
+        <li><b>2026-3</b>: Invited to serve as the Area Chair for ACMMM 2026!</li>
+        <li><b>2026-2</b>: One paper has been accepted by <i><b>CVPR 2026</b></i> !!</li>
+        <li><b>2026-2</b>: Invited to serve as the Area Chair for KDD 2026!</li>
+        <li><b>2026-2</b>: One paper has been accepted by <i><b>TBD 2026</b></i> !!</li>
+        <li><b>2026-1</b>: Five papers have been accepted by <i><b>ICLR 2026</b></i> !!</li>
+        <li><b>2026-1</b>: Invited to serve as the Area Chair for IJCNN 2026!</li>
+        <li><b>2026-1</b>: One paper has been accepted by <i><b>TKDE 2026</b></i> !!</li>
+        <li><b>2026-1</b>: Invited to serve as the Senior Program Committee (SPC) Member for IJCAI 2026!</li>
+        <li><b>2026-1</b>: Two papers have been accepted by <i><b>WWW 2026</b></i> !!</li>
+    </div>
+</ul>
+
+<!-- 按钮 -->
+<a href="javascript:void(0);" id="toggle-btn" onclick="toggleNews()">More</a>
+
+<script>
+function toggleNews() {
+    var moreNews = document.getElementById("more-news");
+    var btn = document.getElementById("toggle-btn");
+
+    if (moreNews.style.display === "none") {
+        moreNews.style.display = "block";
+        btn.innerHTML = "Less";
+    } else {
+        moreNews.style.display = "none";
+        btn.innerHTML = "More";
+    }
+}
+</script>
+
+
 <span style="color:red">What’s New</span>
 =====
 <!-- 前20条 直接显示 -->
