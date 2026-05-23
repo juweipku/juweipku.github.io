@@ -55,33 +55,36 @@ Area Chair / Senior Program Committee Member
 <style>
 .news-container {
     position: relative;
-    max-width: 900px;
+    max-width: 1000px;
 }
 
+/* 列表样式 */
 #news-list {
     margin: 0;
-    padding-left: 20px;
+    padding-left: 22px;
+    line-height: 1.7;
 }
 
-/* 隐藏区域 */
+/* 默认隐藏 */
 #more-news {
     display: none;
 }
 
-/* 渐变遮罩效果 */
+/* 渐变遮罩 */
 .fade-mask {
     position: relative;
-    height: 55px;
-    margin-top: -10px;
+    height: 70px;
+    margin-top: -12px;
     background: linear-gradient(
         to bottom,
         rgba(255,255,255,0) 0%,
-        rgba(255,255,255,0.75) 55%,
+        rgba(255,255,255,0.78) 55%,
         rgba(255,255,255,1) 100%
     );
     display: flex;
     justify-content: center;
     align-items: flex-end;
+    transition: all 0.3s ease;
     pointer-events: none;
 }
 
@@ -89,21 +92,24 @@ Area Chair / Senior Program Committee Member
 #toggle-btn {
     pointer-events: auto;
     display: inline-block;
-    margin-bottom: 6px;
-    padding: 4px 14px;
-    border-radius: 20px;
-    background: rgba(240,240,240,0.92);
-    backdrop-filter: blur(4px);
-    color: #666;
-    font-size: 14px;
+    margin-bottom: 10px;
+    padding: 7px 24px;
+    border-radius: 28px;
+    background: rgba(245,245,245,0.95);
+    backdrop-filter: blur(6px);
+    color: #555;
+    font-size: 17px;
+    font-weight: 600;
+    letter-spacing: 0.3px;
     text-decoration: none;
     transition: all 0.25s ease;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    box-shadow: 0 3px 12px rgba(0,0,0,0.10);
 }
 
 #toggle-btn:hover {
-    background: rgba(220,220,220,0.98);
-    color: #222;
+    background: rgba(230,230,230,0.98);
+    color: #111;
+    transform: translateY(-1px);
 }
 </style>
 
@@ -113,31 +119,45 @@ Area Chair / Senior Program Committee Member
 =====
 
 <ul id="news-list">
-    <!-- 前5条 -->
-    <li><b>2026-5</b>: One paper has been accepted by <i><b>Information Processing and Management 2026</b></i> !!</li>
-    <li><b>2026-5</b>: One paper has been accepted by <i><b>TOIS 2026</b></i> !!</li>
-    <li><b>2026-5</b>: Two papers have been accepted by <i><b>IJCAI 2026</b></i> !!</li>
-    <li><b>2026-5</b>: Five papers have been accepted by <i><b>ICML 2026</b></i> !!</li>
-    <li><b>2026-4</b>: One paper has been accepted by <i><b>TKDE 2026</b></i> !!</li>
 
-    <!-- 隐藏内容 -->
-    <div id="more-news">
-        <li><b>2026-4</b>: One paper has been accepted by <i><b>Pattern Recognition 2026</b></i> !!</li>
-        <li><b>2026-4</b>: Two papers have been accepted by <i><b>ACL 2026</b></i> !!</li>
-        <li><b>2026-3</b>: Invited to serve as the Senior Program Committee (SPC) Member for CIKM 2026!</li>
-        <li><b>2026-3</b>: Invited to serve as the Area Chair for ACMMM 2026!</li>
-        <li><b>2026-2</b>: One paper has been accepted by <i><b>CVPR 2026</b></i> !!</li>
-        <li><b>2026-2</b>: Invited to serve as the Area Chair for KDD 2026!</li>
-        <li><b>2026-2</b>: One paper has been accepted by <i><b>TBD 2026</b></i> !!</li>
-        <li><b>2026-1</b>: Five papers have been accepted by <i><b>ICLR 2026</b></i> !!</li>
-        <li><b>2026-1</b>: Invited to serve as the Area Chair for IJCNN 2026!</li>
-        <li><b>2026-1</b>: One paper has been accepted by <i><b>TKDE 2026</b></i> !!</li>
-        <li><b>2026-1</b>: Invited to serve as the Senior Program Committee (SPC) Member for IJCAI 2026!</li>
-        <li><b>2026-1</b>: Two papers have been accepted by <i><b>WWW 2026</b></i> !!</li>
-    </div>
+<!-- ================= 2026 ================= -->
+<li><b>2026-5</b>: One paper has been accepted by <i><b>Information Processing and Management 2026</b></i> !!</li>
+<li><b>2026-5</b>: One paper has been accepted by <i><b>TOIS 2026</b></i> !!</li>
+<li><b>2026-5</b>: Two papers have been accepted by <i><b>IJCAI 2026</b></i> !!</li>
+<li><b>2026-5</b>: Five papers have been accepted by <i><b>ICML 2026</b></i> !!</li>
+<li><b>2026-4</b>: One paper has been accepted by <i><b>TKDE 2026</b></i> !!</li>
+<li><b>2026-4</b>: One paper has been accepted by <i><b>Pattern Recognition 2026</b></i> !!</li>
+<li><b>2026-4</b>: Two papers have been accepted by <i><b>ACL 2026</b></i> !!</li>
+<li><b>2026-3</b>: Invited to serve as the Senior Program Committee (SPC) Member for CIKM 2026!</li>
+<li><b>2026-3</b>: Invited to serve as the Area Chair for ACMMM 2026!</li>
+<li><b>2026-2</b>: One paper has been accepted by <i><b>CVPR 2026</b></i> !!</li>
+<li><b>2026-2</b>: Invited to serve as the Area Chair for KDD 2026!</li>
+<li><b>2026-2</b>: One paper has been accepted by <i><b>TBD 2026</b></i> !!</li>
+<li><b>2026-1</b>: Five papers have been accepted by <i><b>ICLR 2026</b></i> !!</li>
+<li><b>2026-1</b>: Invited to serve as the Area Chair for IJCNN 2026!</li>
+<li><b>2026-1</b>: One paper has been accepted by <i><b>TKDE 2026</b></i> !!</li>
+<li><b>2026-1</b>: Invited to serve as the Senior Program Committee (SPC) Member for IJCAI 2026!</li>
+<li><b>2026-1</b>: Two papers have been accepted by <i><b>WWW 2026</b></i> !!</li>
+
+<!-- ================= Hidden: Before 2026 ================= -->
+<div id="more-news">
+
+<li><b>2025-12</b>: One paper has been accepted by <i><b>Neurocomputing 2025</b></i> !!</li>
+<li><b>2025-12</b>: One paper has been accepted by <i><b>TII 2026</b></i> !!</li>
+<li><b>2025-11</b>: Two papers have been accepted by <i><b>KDD 2026</b></i> !!</li>
+<li><b>2025-11</b>: Invited to serve as the Area Chair for ICML 2026!</li>
+<li><b>2025-11</b>: Invited to serve as the Area Chair for ICASSP 2026!</li>
+<li><b>2025-11</b>: Three papers have been accepted by <i><b>AAAI 2026</b></i> !!</li>
+<li><b>2025-11</b>: One paper has been accepted by <i><b>TPAMI 2025</b></i> !!</li>
+<li><b>2025-11</b>: Honored to be appointed as a committee member of the <i><b><span style="color:orange">Large Models and Generation (LMG) Committee of the Chinese Information Processing Society (CIPS)</span></b></i> !!</li>
+
+<!-- 后续内容继续放这里 -->
+<!-- 你可以把剩余2025~2021内容全部粘贴到这里 -->
+
+</div>
 </ul>
 
-<!-- 渐变遮罩 + More按钮 -->
+<!-- 渐变遮罩 + 按钮 -->
 <div class="fade-mask" id="fade-mask">
     <a href="javascript:void(0);" id="toggle-btn" onclick="toggleNews()">More</a>
 </div>
@@ -153,17 +173,19 @@ function toggleNews() {
     if (moreNews.style.display === "none" || moreNews.style.display === "") {
         moreNews.style.display = "block";
         btn.innerHTML = "Less";
-        fadeMask.style.height = "40px";
+
+        fadeMask.style.height = "55px";
         fadeMask.style.background = "none";
     } else {
         moreNews.style.display = "none";
         btn.innerHTML = "More";
-        fadeMask.style.height = "55px";
+
+        fadeMask.style.height = "70px";
         fadeMask.style.background = `
             linear-gradient(
                 to bottom,
                 rgba(255,255,255,0) 0%,
-                rgba(255,255,255,0.75) 55%,
+                rgba(255,255,255,0.78) 55%,
                 rgba(255,255,255,1) 100%
             )
         `;
@@ -174,7 +196,6 @@ function toggleNews() {
 
 <span style="color:red">What’s New</span>
 =====
-<!-- 前20条 直接显示 -->
 * **2026-5**: One paper has been accepted by ***Information Processing and Management 2026*** !!
 * **2026-5**: One paper has been accepted by ***TOIS 2026*** !!
 * **2026-5**: Two papers have been accepted by ***IJCAI 2026*** !!
@@ -192,14 +213,6 @@ function toggleNews() {
 * **2026-1**: One paper has been accepted by ***TKDE 2026*** !!
 * **2026-1**: Invited to serve as the Senior Program Committee (SPC) Member for IJCAI 2026!
 * **2026-1**: Two papers have been accepted by ***WWW 2026*** !!
-
-<!-- 从第21条开始，放进折叠区 -->
-<details>
-
-<summary style="color:#ff6600; font-size:1.2em; text-align:center; font-weight:bold; cursor:pointer;">
-More ▼
-</summary>
-=====
 * **2025-12**: One paper has been accepted by ***Neurocomputing 2025*** !!
 * **2025-12**: One paper has been accepted by ***TII 2026*** !!
 * **2025-11**: Two papers have been accepted by ***KDD 2026*** !!
@@ -301,7 +314,6 @@ More ▼
 * **2021-10**: One paper has been accepted by ***ICONIP 2021*** !!
 * **2021-9**: One paper has been accepted by ***ICTAI 2021*** !!
 * **2021-8**: One paper has been accepted by ***ICDE 2022*** !!
-</details>
 
 
 Nature 子刊
