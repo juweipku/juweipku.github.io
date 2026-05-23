@@ -62,7 +62,8 @@ Area Chair / Senior Program Committee Member
 * **2026-4**: One paper has been accepted by ***Pattern Recognition 2026*** !!
 * **2026-4**: Two papers have been accepted by ***ACL 2026*** !!
 * **2026-3**: Invited to serve as the Senior Program Committee (SPC) Member for CIKM 2026!
-* **2026-3**: Invited to serve as the Area Chair for ACMMM 2026!
+* **2026-3**: Honored to be appointed as a committee member of the ***<span style="color:orange">Youth Working Committee of Chinese Association for Artificial Intelligence (CAAI)</span>*** !!
+* **2026-2**: Invited to serve as the Area Chair for ACMMM 2026!
 * **2026-2**: One paper has been accepted by ***CVPR 2026*** !!
 * **2026-2**: Invited to serve as the Area Chair for KDD 2026!
 * **2026-2**: One paper has been accepted by ***TBD 2026*** !!
