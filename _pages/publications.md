@@ -140,9 +140,9 @@ Chaoqun Niu, Dongdong Chen, Jizhe Zhou, Jian Wang, Quan-Hui Liu, Caiyang Yu, Yua
 Pattern Recognition, 179: 113711 [Pub: 206-4-20] <br>
 ***Pattern Recognition 2026, <span style="color:red">CCF-B, JCR Q1, IF=7.6</span>***
 
-1.  *Towards distribution-aware active learning for data-efficient neural architecture predictor* [To appear] <br>
+1.  *Towards distribution-aware active learning for data-efficient neural architecture predictor* [[Paper](../files/26IPM-DARE.pdf)] <br>
 Caiyang Yu, Yifan Wang, Chenwei Tang, **Wei Ju**, Xianggen Liu, Jiancheng Lv <br>
-Information Processing and Management <br>
+Information Processing and Management, 63: 104892 [Pub: 2026-5-13] <br>
 ***Information Processing and Management 2026, <span style="color:red">CCF-B, JCR Q1, IF=6.9</span>***
 
 1.  *A Survey of Large Language Models for Traffic Forecasting: Methods and Applications* [To appear] <br>
@@ -150,9 +150,9 @@ Qingqing Long, Shuai Liu, Ning Cao, Zhicheng Ren, Xiao Luo, **Wei Ju**, Chen Fan
 IEEE Transactions on Big Data <br>
 ***TBD 2026, <span style="color:red">CCF-C, JCR Q1, IF=5.7</span>***
 
-1.  *IF4FD: Multi-Scale Information Fusion for Zero-Shot Industrial Fault Diagnosis* [To appear] <br>
+1.  *IF4FD: Multi-Scale Information Fusion for Zero-Shot Industrial Fault Diagnosis* [[Paper](../files/26TII-IF4FD.pdf)] <br>
 Chenwei Tang, Ying Wang, Weijia Wang, Wangyang Ying, Jie Liu, Yong Wang, Nanxu Gong, **Wei Ju**, Rong Xiao, Jiancheng Lv <br>
-IEEE Transactions on Industrial Informatics <br>
+IEEE Transactions on Industrial Informatics, 22(4): 3227-3238 [Pub: 2026-2-3] <br>
 ***TII 2026, <span style="color:red">CCF-C, JCR Q1, IF=9.9</span>***
 
 
