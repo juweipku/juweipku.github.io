@@ -35,9 +35,9 @@ Jiazhen Huang, Zhiming Liu, Changhu Wang, **Wei Ju**, Ziyue Qiao, Xiao Luo <br>
 International Conference on Machine Learning <br>
 ***ICML 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Progressive Neural Architecture Generation* [To appear] <br>
+1.  *Progressive Neural Architecture Generation* [[Paper](../files/26CVPR-PNAG.pdf)] <br>
 Caiyang Yu, Chen Huang, Yun Liu, Chenwei Tang, **Wei Ju**, Jiancheng Lv <br>
-The IEEE/CVF Conference on Computer Vision and Pattern Recognition <br>
+The IEEE/CVF Conference on Computer Vision and Pattern Recognition, 34524-34534 [Pub: 2026-4-12] <br>
 ***CVPR 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *Calibrating Inference Time Alignment with Sequence-level Risk Accumulation* [To appear] <br>
@@ -55,7 +55,7 @@ Yifan Wang, Haodong Zhang, Zhiping Xiao, Yusheng Zhao, Siyu Yi, Nan Yin, Xinwang
 ACM The Web Conference, 1160-1170 [Pub: 2026-4-12] <br>
 ***WWW 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data* [[Paper](../files/26AAAI_PREST.pdf)][[Code](https://github.com/wayc04/PREST)] <br>
+1.  *Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data* [[Paper](../files/26AAAI-PREST.pdf)][[Code](https://github.com/wayc04/PREST)] <br>
 Wei Zhang, Siyu Yi, Lezhi Chen, Yifan Wang, Ziyue Qiao, Yongdao Zhou, **Wei Ju** <br>
 AAAI Conference on Artificial Intelligence, 40(19), 16352-16360 [Pub: 2026-3-14] <br>
 ***AAAI 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
@@ -110,14 +110,14 @@ Yuhang Pei, Fanchun Meng, Qinghua Ran, Tao Ren, Yifan Wang, **Wei Ju**, Zimo Wan
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining <br>
 ***KDD 2026, <span style="color:red">CCF-A</span>***
 
-1.  *FairGC: Fostering Individual and Group Fairness for Deep Graph Clustering* [To appear] <br>
+1.  *FairGC: Fostering Individual and Group Fairness for Deep Graph Clustering* [[Paper](../files/26AAAI-FairGC.pdf)] <br>
 Haodong Zhang, Xinyue Wang, Tao Ren, Yifan Wang, Siyu Yi, Fanchun Meng, Zeyu Ma, QingqingLong, **Wei Ju** <br>
-AAAI Conference on Artificial Intelligence <br>
+AAAI Conference on Artificial Intelligence, 40(33), 28194–28202 [Pub: 2026-3-14] <br>
 ***AAAI 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation</span>***
 
-1.  *CogniTrust: Cognitive Memory-Driven Verifiable Supervision for Robust Hashing* [To appear] <br>
+1.  *CogniTrust: Cognitive Memory-Driven Verifiable Supervision for Robust Hashing* [[Paper](../files/26AAAI-CogniTrust.pdf)] <br>
 Yiyang Gu, Bohan Wu, Yifang Qin, Jiaru Tang, Rong-Cheng Tu, Zhiping Xiao, Taian Guo, Junyu Luo, **Wei Ju**, Xiao Luo, Dacheng Tao, Ming Zhang <br>
-AAAI Conference on Artificial Intelligence <br>
+AAAI Conference on Artificial Intelligence, 40(6), 4339–4347 [Pub: 2026-3-14] <br>
 ***AAAI 2026, <span style="color:red">CCF-A</span>***
 
 1.  *Robust Cross Supervision with Target Mining for Source-free Graph Domain Adaptation* [To appear] <br>
