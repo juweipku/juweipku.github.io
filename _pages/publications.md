@@ -55,7 +55,7 @@ Yifan Wang, Haodong Zhang, Zhiping Xiao, Yusheng Zhao, Siyu Yi, Nan Yin, Xinwang
 ACM The Web Conference, 1160-1170 [Pub: 2026-4-12] <br>
 ***WWW 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data* [[Paper](../files/26AAAI_PREST.pdf)] <br>
+1.  *Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data* [[Paper](../files/26AAAI_PREST.pdf)][[Code](https://github.com/wayc04/PREST)] <br>
 Wei Zhang, Siyu Yi, Lezhi Chen, Yifan Wang, Ziyue Qiao, Yongdao Zhou, **Wei Ju** <br>
 AAAI Conference on Artificial Intelligence, 40(19), 16352-16360 [Pub: 2026-3-14] <br>
 ***AAAI 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
@@ -70,19 +70,19 @@ Jinke Wu, Yifan Wang, Siyu Yi, Caiyang Yu, Ziyue Qiao, Nan Yin, Jiancheng Lv, **
 International Joint Conference on Artificial Intelligence <br>
 ***IJCAI 2026, <span style="color:red">CCF-B</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *PRISM: Partial-label Relational Inference with Spatial and Spectral Cues* [To appear] <br>
+1.  *PRISM: Partial-label Relational Inference with Spatial and Spectral Cues* [[Paper](../files/26ICLR-PRISM.pdf)] <br>
 Yiyang Gu, Wenrui Wu, Yifang Qin, Taian Guo, Tao Zhe, Jiaru Tang, Zhiping Xiao, Weizhi Zhang, Ziyue Qiao, **Wei Ju**, Dongjie Wang, Xiao Luo, Philip S. Yu, Ming Zhang <br>
-International Conference on Learning Representations<br>
+International Conference on Learning Representations, [Pub: 2026-1-26]<br>
 ***ICLR 2026, <span style="color:red">CCF-A</span>***
 
-1.  *Conformalized Hierarchical Calibration for Uncertainty-Aware Adaptive Hashing* [To appear] <br>
+1.  *Conformalized Hierarchical Calibration for Uncertainty-Aware Adaptive Hashing* [[Paper](../files/26ICLR-COLA.pdf)] <br>
 Junyu Luo, Jinsheng Huang, Yang Xu, Lutong Zou, Xiao Luo, Bohan Wu, Yifan Wang, **Wei Ju**, Ming Zhang <br>
-International Conference on Learning Representations<br>
+International Conference on Learning Representations, [Pub: 2026-1-26]<br>
 ***ICLR 2026, <span style="color:red">CCF-A</span>***
 
-1.  *Hierarchical Encoding Tree with Modality Mixup for Cross-modal Hashing* [To appear] <br>
+1.  *Hierarchical Encoding Tree with Modality Mixup for Cross-modal Hashing* [[Paper](../files/26ICLR-HINT.pdf)] <br>
 Junyu Luo, Hang Zhou, Yusheng Zhao, Xiao Luo, Zhiping Xiao, Pengyun Wang, **Wei Ju**, Siyu Heng, Ming Zhang <br>
-International Conference on Learning Representations<br>
+International Conference on Learning Representations, [Pub: 2026-1-26]<br>
 ***ICLR 2026, <span style="color:red">CCF-A</span>***
 
 1.  *CLINIC: Towards High-quality Graph Out-Of-Distribution Detection* [To appear] <br>
@@ -158,7 +158,7 @@ IEEE Transactions on Industrial Informatics <br>
 
 2025
 ====
-1.  *A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges* [[Paper](25TPAMI-Survey.pdf)] <br>
+1.  *A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges* [[Paper](../files/25TPAMI-Survey.pdf)] <br>
 **Wei Ju**, Siyu Yi, Yifan Wang, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Philip S Yu, Ming Zhang <br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 48(3), 3036-3055 [Pub: 2025-11-7] <br>
 ***TPAMI 2025, <span style="color:red">CCF-A, JCR Q1, IF=18.6</span>***
