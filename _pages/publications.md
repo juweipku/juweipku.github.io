@@ -37,7 +37,7 @@ International Conference on Machine Learning <br>
 
 1.  *Progressive Neural Architecture Generation* [[Paper](../files/26CVPR-PNAG.pdf)] <br>
 Caiyang Yu, Chen Huang, Yun Liu, Chenwei Tang, **Wei Ju**, Jiancheng Lv <br>
-The IEEE/CVF Conference on Computer Vision and Pattern Recognition, 34524-34534 [Pub: 2026-4-12] <br>
+The IEEE/CVF Conference on Computer Vision and Pattern Recognition, 34524-34534 [Pub: 2026-6-3] <br>
 ***CVPR 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *Calibrating Inference Time Alignment with Sequence-level Risk Accumulation* [To appear] <br>
@@ -100,14 +100,14 @@ Yuhang Pei, Fanchun Meng, Wenrui Wu, Tao Ren, Yifan Wang, **Wei Ju**, Chao Zheng
 International Conference on Machine Learning <br>
 ***ICML 2026, <span style="color:red">CCF-A</span>***
 
-1.  *DisCo: Diffusion-guided Unbiased Discriminative Learning for Unsupervised Graph Domain Adaptation* [To appear] <br>
+1.  *DisCo: Diffusion-guided Unbiased Discriminative Learning for Unsupervised Graph Domain Adaptation* [[Paper](../files/26KDD-DisCo.pdf)] <br>
 Haodong Zhang, Tao Ren, Changhu Wang, Yifan Wang, **Wei Ju**, Huaizhi Tang, Junyu Luo, Zimo Wang, Ziyue Qiao, Xian-Sheng Hua, Xiao Luo  <br>
-ACM SIGKDD Conference on Knowledge Discovery and Data Mining <br>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 1892-1903 [Pub: 2026-4-20] <br>
 ***KDD 2026, <span style="color:red">CCF-A</span>***
 
-1.  *Dual Data-centric Separation with Circular Mixup for Noise-resistant Time Series Learning* [To appear] <br>
+1.  *Dual Data-centric Separation with Circular Mixup for Noise-resistant Time Series Learning* [[Paper](../files/26KDD-DREAM.pdf)] <br>
 Yuhang Pei, Fanchun Meng, Qinghua Ran, Tao Ren, Yifan Wang, **Wei Ju**, Zimo Wang, Xian-Sheng Hua, Xiao Luo <br>
-ACM SIGKDD Conference on Knowledge Discovery and Data Mining <br>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 1159-1170 [Pub: 2026-4-20] <br>
 ***KDD 2026, <span style="color:red">CCF-A</span>***
 
 1.  *FairGC: Fostering Individual and Group Fairness for Deep Graph Clustering* [[Paper](../files/26AAAI-FairGC.pdf)] <br>
@@ -120,14 +120,14 @@ Yiyang Gu, Bohan Wu, Yifang Qin, Jiaru Tang, Rong-Cheng Tu, Zhiping Xiao, Taian 
 AAAI Conference on Artificial Intelligence, 40(6), 4339–4347 [Pub: 2026-3-14] <br>
 ***AAAI 2026, <span style="color:red">CCF-A</span>***
 
-1.  *Robust Cross Supervision with Target Mining for Source-free Graph Domain Adaptation* [To appear] <br>
+1.  *Robust Cross Supervision with Target Mining for Source-free Graph Domain Adaptation* [[Paper](../files/26TKDE-ROSE.pdf)][[Code](https://github.com/luo-junyu/ROSE)] <br>
 Junyu Luo, Haoyu Tao, Xiao Luo, Yusheng Zhao, Zhiping Xiao, Dailan He, **Wei Ju**, Chong Chen, Xian-Sheng Hua, Ming Zhang <br>
-IEEE Transactions on Knowledge and Data Engineering <br>
+IEEE Transactions on Knowledge and Data Engineering, 38(4): 2394-2407 [Pub: 2026-2-3] <br>
 ***TKDE 2026, <span style="color:red">CCF-A, JCR Q1, IF=10.4</span>***
 
-1.  *HGOOD-D: Hyperbolic Hierarchical Exploration for Graph Out-of-Distribution Detection* [To appear] <br>
+1.  *HGOOD-D: Hyperbolic Hierarchical Exploration for Graph Out-of-Distribution Detection* [[Paper](../files/26TKDE-HGOOD-D.pdf)][[Code](https://github.com/BBDing-DYT/HGOOD-D)] <br>
 Yuntai Ding, Tao Ren, Yiwei Fu, Yifan Wang, Haodong Zhang, Chong Chen, **Wei Ju**, Xiao Luo, Xian-Sheng Hua  <br>
-IEEE Transactions on Knowledge and Data Engineering <br>
+IEEE Transactions on Knowledge and Data Engineering, 38(7): 4405-4418 [Pub: 2026-5-5] <br>
 ***TKDE 2026, <span style="color:red">CCF-A, JCR Q1, IF=10.4</span>***
 
 1.  *HGOOD: Hypergraph-enhanced Graph Contrastive Learning for Graph Out-of-Distribution Detection* [To appear] <br>
@@ -135,9 +135,9 @@ Yueyue Gao, Chenyu Wang, Xuanting Fan, **Wei Ju**, Yifan Wang <br>
 International Joint Conference on Artificial Intelligence <br>
 ***IJCAI 2026, <span style="color:red">CCF-B</span>***
 
-1.  *Bones to identity: Generative contrastive fusion for cross-modality medical person identification from skeletal data* [To appear] <br>
+1.  *Bones to identity: Generative contrastive fusion for cross-modality medical person identification from skeletal data* [[Paper](../files/26PR-Niu.pdf)] <br>
 Chaoqun Niu, Dongdong Chen, Jizhe Zhou, Jian Wang, Quan-Hui Liu, Caiyang Yu, Yuan Li, **Wei Ju**, Jiancheng Lv <br>
-Pattern Recognition <br>
+Pattern Recognition, 179: 113711 [Pub: 206-4-20] <br>
 ***Pattern Recognition 2026, <span style="color:red">CCF-B, JCR Q1, IF=7.6</span>***
 
 1.  *Towards distribution-aware active learning for data-efficient neural architecture predictor* [To appear] <br>
