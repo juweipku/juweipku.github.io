@@ -173,9 +173,9 @@ AAAI Conference on Artificial Intelligence, 39(11), 11924-11932 [Pub: 2025-4-11]
 SCIENCE CHINA Information Sciences, 68(1): 112101 [Pub: 2025-1-1] <br>
 ***SCIS 2025, <span style="color:red">CCF-A, JCR Q1, IF=8.8</span>, <span style="color:red">ESI Highly Cited Paper</span>***
 
-1.  *Dual Prototype-Enhanced Contrastive Framework for Class-Imbalanced Graph Domain Adaptation* [To appear] <br>
+1.  *Dual Prototype-Enhanced Contrastive Framework for Class-Imbalanced Graph Domain Adaptation* [[Paper](../files/25NeurIPS-ImGDA.pdf)][[Code](https://github.com/maxin88scu/ImGDA)] <br>
 Xin Ma, Yifan Wang, Siyu Yi, **Wei Ju**, Junyu Luo, Yusheng Zhao, Xiao Luo, Jiancheng Lv <br>
-Advances in Neural Information Processing Systems <br>
+Annual Conference on Neural Information Processing Systems, 37: 59093-59118 [Pub: 2025-12-2] <br>
 ***NeurIPS 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *DANCE: Dual Unbiased Expansion with Group-acquired Alignment for Out-of-distribution Graph Fairness Learning* [To appear] <br>
@@ -243,14 +243,14 @@ Zhiyuan Ning, Zaitian Wang, Ran Zhang, Ping Xu, Kunpeng Liu, Pengyang Wang, **We
 Information Fusion, 126: 103603 [Pub: 2025-8-10] <br>
 ***Information Fusion 2025, <span style="color:red">JCR Q1, IF=15.5</span>***
 
-1.  *Dynamic Text Bundling Supervision for Zero-Shot Inference on Text-Attributed Graphs* [To appear] <br>
+1.  *Dynamic Bundling with Large Language Models for Zero-Shot Inference on Text-Attributed Graphs* [[Paper](../files/25NeurIPS-DENSE.pdf)][[Code](https://github.com/YushengZhao/bundle-neurips25)] <br>
 Yusheng Zhao, Qixin Zhang, Xiao Luo, Weizhi Zhang, Zhiping Xiao, **Wei Ju**, Philip S. Yu, Ming Zhang <br>
-Advances in Neural Information Processing Systems <br>
+Annual Conference on Neural Information Processing Systems, 37: 59093-59118 [Pub: 2025-12-2] <br>
 ***NeurIPS 2025, <span style="color:red">CCF-A</span>***
 
-1.  *SEGA: Shaping Semantic Geometry for Robust Hashing under Noisy Supervision* [To appear] <br>
+1.  *SEGA: Shaping Semantic Geometry for Robust Hashing under Noisy Supervision* [[Paper](../files/25NeurIPS-SEGA.pdf)][[Code](https://github.com/dllab001/SEGA)] <br>
 Yiyang Gu, Bohan Wu, Qinghua Ran, Rong-Cheng Tu, Xiao Luo, Zhiping Xiao, **Wei Ju**, Dacheng Tao, Ming Zhang <br>
-Advances in Neural Information Processing Systems <br>
+Annual Conference on Neural Information Processing Systems, 37: 59093-59118 [Pub: 2025-12-2] <br>
 ***NeurIPS 2025, <span style="color:red">CCF-A</span>***
 
 1.  *Test-time Adaptation on Graphs via Adaptive Subgraph-based Selection and Regularized Prototypes* [To appear] <br>
@@ -422,7 +422,7 @@ International Conference on Machine Learning, 235: 33305-33328 [Pub: 2024-7-21] 
 
 1.  *EGODE: An Event-attended Graph ODE Framework for Modeling Rigid Dynamics* [[Paper](../files/24NIPS-EGODE.pdf)][[Code](https://github.com/yuanjypku/EGODE)] <br>
 Jingyang Yuan, Gongbo Sun, Zhiping Xiao, Hang Zhou, Xiao Luo, Junyu Luo, Yusheng Zhao, **Wei Ju**, Ming Zhang <br>
-Advances in Neural Information Processing Systems, 37: 59093-59118 [Pub: 2024-12-10] <br>
+Annual Conference on Neural Information Processing Systems, 37: 59093-59118 [Pub: 2024-12-10] <br>
 ***NeurIPS 2024, <span style="color:red">CCF-A</span>***
 
 1.  *Rank and Align: Towards effective Source-free Graph Domain Adaptation* [[Paper](../files/24IJCAI-RNA.pdf)] <br>
