@@ -268,12 +268,12 @@ Junyu Luo, Yuhao Tang, yiwei Fu, Xiao Luo, Zhizhuo KOU, Zhiping Xiao, **Wei Ju**
 International Conference on Machine Learning, 267: 41331-41345 [Pub: 2025-7-13] <br>
 ***ICML 2025, <span style="color:red">CCF-A</span>***
 
-1.  *A Survey on Efficient Large Language Model Training: From Data-centric Perspectives* [[Paper](../files/25ACL-Survey.pdf)] <br>
+1.  *A Survey on Efficient Large Language Model Training: From Data-centric Perspectives* [[Paper](../files/25ACL-Survey.pdf)][[Code](https://github.com/luo-junyu/Awesome-Data-Efficient-LLM)] <br>
 Junyu Luo, Bohan Wu, Xiao Luo, Zhiping Xiao, Yiqiao Jin, Rong-Cheng Tu, Nan Yin, Yifan Wang, Jingyang Yuan, **Wei Ju**, Ming Zhang <br>
 Annual Meeting of the Association for Computational Linguistics, 1: 30904–30920 [Pub: 2025-7-27] <br>
 ***ACL 2025, <span style="color:red">CCF-A</span>***
 
-1.  *Embracing Large Language Models in Traffic Flow Forecasting* [[Paper](../files/25ACL-LEAF.pdf)] <br>
+1.  *Embracing Large Language Models in Traffic Flow Forecasting* [[Paper](../files/25ACL-LEAF.pdf)][[Code](https://github.com/YushengZhao/LEAF)] <br>
 Yusheng Zhao, Xiao Luo, Haomin Wen, Zhiping Xiao, **Wei Ju**, Ming Zhang <br>
 Annual Meeting of the Association for Computational Linguistics, 8108–8123 [Pub: 2025-7-27] <br>
 ***ACL 2025 Findings, <span style="color:red">CCF-A</span>***
@@ -328,17 +328,17 @@ Yusheng Zhao, Xiao Luo, Junyu Luo, Weizhi Zhang, Zhiping Xiao, **Wei Ju**, Phili
 Conference on Empirical Methods in Natural Language Processing, 1026–1041 [Pub: 2025-11-4] <br>
 ***EMNLP 2025 Findings, <span style="color:red">CCF-B</span>***
 
-1.  *MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation* [[Paper](../files/25NAACL-MMEvalPro.pdf)] <br>
+1.  *MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation* [[Paper](../files/25NAACL-MMEvalPro.pdf)][[Code](https://mmevalpro.github.io)] <br>
 Jinsheng Huang, Liang Chen, Taian Guo, Fu Zeng, Yusheng Zhao, Bohan Wu, Ye Yuan, Haozhe Zhao, Zhihui Guo, Yichi Zhang, Jingyang Yuan, **Wei Ju**, Luchen Liu, Tianyu Liu, Baobao Chang, Ming Zhang <br>
 Nations of the Americas Chapter of the Association for Computational Linguistics, 1: 4805–4822 [Pub: 2025-4-29] <br>
 ***NAACL 2025, <span style="color:red">CCF-B</span>***
 
-1.  *SemiEvol: Semi-supervised Fine-tuning for LLM Adaptation* [[Paper](../files/25NAACL-SemiEvol.pdf)] <br>
+1.  *SemiEvol: Semi-supervised Fine-tuning for LLM Adaptation* [[Paper](../files/25NAACL-SemiEvol.pdf)][[Code](https://github.com/luo-junyu/SemiEvol)] <br>
 Junyu Luo, Xiao Luo, Xiusi Chen, Zhiping Xiao, **Wei Ju**, Ming Zhang <br>
 Nations of the Americas Chapter of the Association for Computational Linguistics, 2795–2808 [Pub: 2025-4-29] <br>
 ***NAACL 2025 Findings, <span style="color:red">CCF-B</span>***
 
-1.  *Reversible Column Disentangled Augmentation Tricks for Graph Contrastive Learning* [[Paper](../files/25TMM-Rev-GCL.pdf)] <br>
+1.  *Reversible Column Disentangled Augmentation Tricks for Graph Contrastive Learning* [[Paper](../files/25TMM-Rev-GCL.pdf)][[Code](https://github.com/BBDing-DYT/Rev-GCL)] <br>
 Yuntai Ding, Tao Ren, Yifan Wang, Chong Chen, Xian-Sheng Hua, **Wei Ju** <br>
 IEEE Transactions on Multimedia, 27: 9818-9831 [Pub: 2025-10-9] <br>
 ***TMM 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.4</span>***
@@ -353,7 +353,7 @@ Yusheng Zhao, Xiao Luo, Junyu Luo, **Wei Ju**, Zhonghui Gu, Zhiping Xiao, Xian-S
 ACM Transactions on Knowledge Discovery from Data, 20(1): 6 [Pub: 2025-11-21] <br>
 ***TKDD 2025, <span style="color:red">CCF-B, JCR Q1, IF=4.8</span>***
 
-1.  *MHGC: Multi-scale hard sample mining for contrastive deep graph clustering* [[Paper](../files/25IPM-MHGC.pdf)] <br>
+1.  *MHGC: Multi-scale hard sample mining for contrastive deep graph clustering* [[Paper](../files/25IPM-MHGC.pdf)][[Code](https://github.com/sodarin/MHGC)] <br>
 Tao Ren, Haodong Zhang, Yifan Wang, **Wei Ju**, Chengwu Liu, Fanchun Meng, Siyu Yi, Xiao Luo <br>
 Information Processing and Management, 62: 104084 [Pub: 2025-2-13] <br>
 ***Information Processing and Management 2025, <span style="color:red">CCF-B, JCR Q1, IF=7.4</span>***
