@@ -178,9 +178,9 @@ Xin Ma, Yifan Wang, Siyu Yi, **Wei Ju**, Junyu Luo, Yusheng Zhao, Xiao Luo, Jian
 Annual Conference on Neural Information Processing Systems, [Pub: 2025-12-2] <br>
 ***NeurIPS 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *DANCE: Dual Unbiased Expansion with Group-acquired Alignment for Out-of-distribution Graph Fairness Learning* [To appear] <br>
+1.  *DANCE: Dual Unbiased Expansion with Group-acquired Alignment for Out-of-distribution Graph Fairness Learning* [[Paper](../files/25ICML-DANCE.pdf)][[Code](https://github.com/HourunLi/DANCE_ICML_2025)] <br>
 Yifan Wang, Hourun Li, Ling Yue, Zhiping Xiao, Jia Yang, Changling Zhou, **Wei Ju**, Ming Zhang, Xiao Luo <br>
-International Conference on Machine Learning <br>
+International Conference on Machine Learning, 267: 63516-63529 [Pub: 2025-7-13] <br>
 ***ICML 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *PALA: Class-imbalanced Graph Domain Adaptation via Prototype-anchored Learning and Alignment* [[Paper](../files/25IJCAI-PALA.pdf)][[Code](https://github.com/maxin88scu/PALA)] <br>
@@ -253,19 +253,19 @@ Yiyang Gu, Bohan Wu, Qinghua Ran, Rong-Cheng Tu, Xiao Luo, Zhiping Xiao, **Wei J
 Annual Conference on Neural Information Processing Systems, [Pub: 2025-12-2] <br>
 ***NeurIPS 2025, <span style="color:red">CCF-A</span>***
 
-1.  *Test-time Adaptation on Graphs via Adaptive Subgraph-based Selection and Regularized Prototypes* [To appear] <br>
+1.  *Test-time Adaptation on Graphs via Adaptive Subgraph-based Selection and Regularized Prototypes* [[Paper](../files/25ICML-ASSESS.pdf)][[Code](https://github.com/YushengZhao/ASSESS)] <br>
 Yusheng Zhao, Qixin Zhang, Xiao Luo, Junyu Luo, **Wei Ju**, Zhiping Xiao, Ming Zhang <br>
-International Conference on Machine Learning <br>
+International Conference on Machine Learning, 267: 78003-78022 [Pub: 2025-7-13] <br>
 ***ICML 2025, <span style="color:red">CCF-A</span>***
 
-1.  *ExLM: Rethinking the Impact of [MASK] Tokens in Masked Language Models* [To appear] <br>
+1.  *ExLM: Rethinking the Impact of [MASK] Tokens in Masked Language Models* [[Paper](../files/25ICML-EXLM.pdf)][[Code](https://github.com/zhengkangjie/ExLM)] <br>
 Kangjie Zheng, Junwei Yang, Siyue Liang, Bin Feng, Zequn Liu, **Wei Ju**, Zhiping Xiao, Ming Zhang <br>
-International Conference on Machine Learning <br>
+International Conference on Machine Learning, 267: 78405-78433 [Pub: 2025-7-13] <br>
 ***ICML 2025, <span style="color:red">CCF-A</span>***
 
-1.  *Sparse Causal Discovery with Generative Intervention for Unsupervised Graph Domain Adaptation* [To appear] <br>
+1.  *Sparse Causal Discovery with Generative Intervention for Unsupervised Graph Domain Adaptation* [[Paper](../files/25ICML-SLOGAN.pdf)] <br>
 Junyu Luo, Yuhao Tang, yiwei Fu, Xiao Luo, Zhizhuo KOU, Zhiping Xiao, **Wei Ju**, Wentao Zhang, Ming Zhang <br>
-International Conference on Machine Learning <br>
+International Conference on Machine Learning, 267: 41331-41345 [Pub: 2025-7-13] <br>
 ***ICML 2025, <span style="color:red">CCF-A</span>***
 
 1.  *A Survey on Efficient Large Language Model Training: From Data-centric Perspectives* [[Paper](../files/25ACL-Survey.pdf)] <br>
