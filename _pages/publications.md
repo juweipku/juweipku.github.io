@@ -175,7 +175,7 @@ SCIENCE CHINA Information Sciences, 68(1): 112101 [Pub: 2025-1-1] <br>
 
 1.  *Dual Prototype-Enhanced Contrastive Framework for Class-Imbalanced Graph Domain Adaptation* [[Paper](../files/25NeurIPS-ImGDA.pdf)][[Code](https://github.com/maxin88scu/ImGDA)] <br>
 Xin Ma, Yifan Wang, Siyu Yi, **Wei Ju**, Junyu Luo, Yusheng Zhao, Xiao Luo, Jiancheng Lv <br>
-Annual Conference on Neural Information Processing Systems, 37: 59093-59118 [Pub: 2025-12-2] <br>
+Annual Conference on Neural Information Processing Systems, [Pub: 2025-12-2] <br>
 ***NeurIPS 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *DANCE: Dual Unbiased Expansion with Group-acquired Alignment for Out-of-distribution Graph Fairness Learning* [To appear] <br>
@@ -245,12 +245,12 @@ Information Fusion, 126: 103603 [Pub: 2025-8-10] <br>
 
 1.  *Dynamic Bundling with Large Language Models for Zero-Shot Inference on Text-Attributed Graphs* [[Paper](../files/25NeurIPS-DENSE.pdf)][[Code](https://github.com/YushengZhao/bundle-neurips25)] <br>
 Yusheng Zhao, Qixin Zhang, Xiao Luo, Weizhi Zhang, Zhiping Xiao, **Wei Ju**, Philip S. Yu, Ming Zhang <br>
-Annual Conference on Neural Information Processing Systems, 37: 59093-59118 [Pub: 2025-12-2] <br>
+Annual Conference on Neural Information Processing Systems, [Pub: 2025-12-2] <br>
 ***NeurIPS 2025, <span style="color:red">CCF-A</span>***
 
 1.  *SEGA: Shaping Semantic Geometry for Robust Hashing under Noisy Supervision* [[Paper](../files/25NeurIPS-SEGA.pdf)][[Code](https://github.com/dllab001/SEGA)] <br>
 Yiyang Gu, Bohan Wu, Qinghua Ran, Rong-Cheng Tu, Xiao Luo, Zhiping Xiao, **Wei Ju**, Dacheng Tao, Ming Zhang <br>
-Annual Conference on Neural Information Processing Systems, 37: 59093-59118 [Pub: 2025-12-2] <br>
+Annual Conference on Neural Information Processing Systems, [Pub: 2025-12-2] <br>
 ***NeurIPS 2025, <span style="color:red">CCF-A</span>***
 
 1.  *Test-time Adaptation on Graphs via Adaptive Subgraph-based Selection and Regularized Prototypes* [To appear] <br>
