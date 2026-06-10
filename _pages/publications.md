@@ -10,9 +10,9 @@ author_profile: true
 
 2026
 ====
-1.  *Compactness and Consistency: A Conjoint Framework for Deep Graph Clustering* [To appear] <br>
+1.  *Compactness and Consistency: A Conjoint Framework for Deep Graph Clustering* [[Paper](../files/26ICLR-CoCo.pdf)][[Code](https://github.com/juweipku/CoCo)] <br>
 **Wei Ju**, Siyu Yi, Kangjie Zheng, Yifan Wang, Ziyue Qiao, Li Shen, Yongdao Zhou, Xiaochun Cao, Jiancheng Lv <br>
-International Conference on Learning Representations<br>
+International Conference on Learning Representations, [Pub: 2026-1-26]<br>
 ***ICLR 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation, Top 1%</span>***
 
 1.  *Identifying and Correcting Label Noise for Robust GNNs via Influence Contradiction* [To appear] <br>
@@ -20,14 +20,14 @@ International Conference on Learning Representations<br>
 International Conference on Machine Learning <br>
 ***ICML 2026, <span style="color:red">CCF-A</span>***
 
-1.  *Long-Tailed Recognition of Evidential Experts for Graph-level Classification* [To appear] <br>
+1.  *Long-Tailed Recognition of Evidential Experts for Graph-level Classification* [[Paper](../files/26WWW-GraphEVER.pdf)] <br>
 **Wei Ju**, Siyu Yi, Zhengyang Mao, Yifang Qin, Yifan Wang, Zhiping Xiao, Yiwei Fu, Ziyue Qiao, Ming Zhang <br>
-ACM The Web Conference <br>
+ACM The Web Conference, 1286-1297 [Pub: 2026-4-12] <br>
 ***WWW 2026, <span style="color:red">CCF-A</span>***
 
-1.  *Dynamic Multi-sample Mixup with Gradient Exploration for Open-set Graph Anomaly Detection* [To appear] <br>
+1.  *Dynamic Multi-sample Mixup with Gradient Exploration for Open-set Graph Anomaly Detection* [[Paper](../files/26ICLR-DEMO.pdf)][[Code](https://github.com/yucy324/DEMO)] <br>
 Caiyang Yu, **Wei Ju**, Haixin Wang, Yifan Wang, Ziyue Qiao <br>
-International Conference on Learning Representations<br>
+International Conference on Learning Representations, [Pub: 2026-1-26]<br>
 ***ICLR 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction* [To appear] <br>
@@ -50,9 +50,9 @@ Shunge Zou, Changhu Wang, **Wei Ju**, Ziyue Qiao, Xiao Luo <br>
 Annual Meeting of the Association for Computational Linguistics <br>
 ***ACL 2026 Findings, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *KEGOD: Kernel-enhanced Latent Substructure Learning for Graph Out-Of-Distribution Detection* [To appear] <br>
+1.  *KEGOD: Kernel-enhanced Latent Substructure Learning for Graph Out-Of-Distribution Detection* [[Paper](../files/26WWW-KEGOD.pdf)][[Code](https://github.com/jamesyifan/KEGOD)] <br>
 Yifan Wang, Haodong Zhang, Zhiping Xiao, Yusheng Zhao, Siyu Yi, Nan Yin, Xinwang Liu, Ming Zhang, **Wei Ju** <br>
-ACM The Web Conference <br>
+ACM The Web Conference, 1160-1170 [Pub: 2026-4-12] <br>
 ***WWW 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data* [[Paper](../files/26AAAI_PREST.pdf)] <br>
