@@ -223,9 +223,9 @@ Yifan Wang, Yangzi Yang, Shuai Li, Yutao Xie, Zhiping Xiao, Ming Zhang, **Wei Ju
 Information Sciences, 703: 121946 [Pub: 2025-2-5] <br>
 ***Information Sciences 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.1</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *A Multimodal Perception System for Predicting Restorative Effect in University Open Spaces* [To appear] <br>
+1.  *A Multimodal Perception System for Predicting Restorative Effect in University Open Spaces* [[Paper](../files/25SMC-Huang.pdf)] <br>
 Jiazhen Huang, Ruoling Qi, Jiayi LIU, Tengfei Han, Fansheng Zhang, Jieqian Sun, Wei Zhao, **Wei Ju** <br>
-IEEE International Conference on Systems, Man, and Cybernetics <br>
+IEEE International Conference on Systems, Man, and Cybernetics, 4242-4249 [Pub: 2025-10-5] <br>
 ***SMC 2025, <span style="color:red">CCF-C</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *SMI-Editor: Edit-based SMILES Language Model with Fragment-level Supervision* [[Paper](../files/25ICLR-SMI-Editor.pdf)][[Code](https://github.com/zhengkangjie/smi-editor)] <br>
@@ -298,9 +298,9 @@ Yiyang Gu, Taian Guo, Hang Zhou, Zihao Chen, Zhiping Xiao, Yifang Qin, Xiao Luo,
 ACM International Conference on Multimedia, 8949-8958 [Pub: 2025-10-27] <br>
 ***ACMMM 2025, <span style="color:red">CCF-A</span>***
 
-1.  *TowerDNA: Fast and Accurate Graph Retrieval with Dividing, Contrasting and Alignment* [To appear] <br>
+1.  *TowerDNA: Fast and Accurate Graph Retrieval with Dividing, Contrasting and Alignment* [[Paper](../files/25TKDE-TowerDNA.pdf)][[Code](https://github.com/yjwtheonly/TowerDNA)] <br>
 Junwei Yang, Yiyang Gu, Yifang Qin, Xiao Luo, Zhiping Xiao, Kangjie Zheng, **Wei Ju**, Xian-Sheng Hua, Ming Zhang <br>
-IEEE Transactions on Knowledge and Data Engineering <br>
+IEEE Transactions on Knowledge and Data Engineering, 38(2): 1364-1379 [Pub: 2025-10-14] <br>
 ***TKDE 2025, <span style="color:red">CCF-A, JCR Q1, IF=10.4</span>***
 
 1.  *MATE: Masked Optimal Transport with Dynamic Selection for Partial Label Graph Learning* [[Paper](../files/25AIJ-MATE.pdf)] <br>
@@ -363,9 +363,9 @@ Juan Zhao, Lili Kong, Chenwei Tang, **Wei Ju**, Deng Xiong, Jiancheng Lv <br>
 Neurocomputing, 669: 132432 [Pub: 2025-12-17]  <br>
 ***Neurocomputing 2025, <span style="color:red">CCF-C, JCR Q1, IF=6.5</span>***
 
-1.  *Bridging the Gap between Learning and Inference for Diffusion-Based Molecule Generation* [To appear] <br>
+1.  *Bridging the Gap between Learning and Inference for Diffusion-Based Molecule Generation* [[Paper](../files/25ACML-DiffGap.pdf)][[Code](https://github.com/neusymlab/DiffGap)] <br>
 Peidong Liu, Wenbo Zhang, **Wei Ju**, Jiancheng Lv, Xianggen Liu <br>
-Asian Conference on Machine Learning <br>
+Asian Conference on Machine Learning, 304 [Pub: 2025-12-9] <br>
 ***ACML 2025, <span style="color:red">CCF-C</span>, <span style="color:orange">Oral Representation</span>***
 
 2024
