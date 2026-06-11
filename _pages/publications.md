@@ -435,9 +435,9 @@ Qingqing Long, Yuchen Yan, Wentao Cui, Meng Xiao, Zhihong Zhu, **Wei Ju**, Xuezh
 ACM International Conference on Information and Knowledge Management, 1586-1596 [Pub: 2024-10-21] <br>
 ***CIKM 2024, <span style="color:red">CCF-B</span>***
 
-1.  *DEER: Distribution Divergence-based Graph Contrast for Partial Label Learning on Graphs* [To appear] <br>
+1.  *DEER: Distribution Divergence-based Graph Contrast for Partial Label Learning on Graphs* [[Paper](../files/24TMM-DEER.pdf)] <br>
 Yiyang Gu, Zihao Chen, Yifang Qin, Zhengyang Mao, Zhiping Xiao, **Wei Ju**, Chong Chen, Xian-Sheng Hua, Yifan Wang, Xiao Luo, Ming Zhang <br>
-IEEE Transactions on Multimedia <br>
+IEEE Transactions on Multimedia, 28: 2031-2046 [Pub: 2024-5-31] <br>
 ***TMM 2024, <span style="color:red">CCF-B, JCR Q1, IF=8.4</span>***
 
 2023
