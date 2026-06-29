@@ -10,7 +10,7 @@ author_profile: true
 
 2026
 ====
-1.  *Compactness and Consistency: A Conjoint Framework for Deep Graph Clustering* [[Paper](../files/26ICLR-CoCo.pdf)][[Code](https://github.com/juweipku/CoCo)] <br>
+1.  *Compactness and Consistency: A Conjoint Framework for Deep Graph Clustering* [[Paper](https://openreview.net/pdf?id=9jdQLmPUHW)][[Code](https://github.com/juweipku/CoCo)] <br>
 **Wei Ju**, Siyu Yi, Kangjie Zheng, Yifan Wang, Ziyue Qiao, Li Shen, Yongdao Zhou, Xiaochun Cao, Jiancheng Lv <br>
 International Conference on Learning Representations, [Pub: 2026-1-26]<br>
 ***ICLR 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation, Top 1%</span>***
@@ -25,7 +25,7 @@ International Conference on Machine Learning <br>
 ACM The Web Conference, 1286-1297 [Pub: 2026-4-12] <br>
 ***WWW 2026, <span style="color:red">CCF-A</span>***
 
-1.  *Dynamic Multi-sample Mixup with Gradient Exploration for Open-set Graph Anomaly Detection* [[Paper](../files/26ICLR-DEMO.pdf)][[Code](https://github.com/yucy324/DEMO)] <br>
+1.  *Dynamic Multi-sample Mixup with Gradient Exploration for Open-set Graph Anomaly Detection* [[Paper](https://openreview.net/pdf?id=zefuSJ3nOg)][[Code](https://github.com/yucy324/DEMO)] <br>
 Caiyang Yu, **Wei Ju**, Haixin Wang, Yifan Wang, Ziyue Qiao <br>
 International Conference on Learning Representations, [Pub: 2026-1-26]<br>
 ***ICLR 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
@@ -35,17 +35,17 @@ Jiazhen Huang, Zhiming Liu, Changhu Wang, **Wei Ju**, Ziyue Qiao, Xiao Luo <br>
 International Conference on Machine Learning <br>
 ***ICML 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Progressive Neural Architecture Generation* [[Paper](../files/26CVPR-PNAG.pdf)] <br>
+1.  *Progressive Neural Architecture Generation* [[Paper]([../files/26CVPR-PNAG.pdf](https://openaccess.thecvf.com/content/CVPR2026/papers/Yu_Progressive_Neural_Architecture_Generation_CVPR_2026_paper.pdf))] <br>
 Caiyang Yu, Chen Huang, Yun Liu, Chenwei Tang, **Wei Ju**, Jiancheng Lv <br>
 The IEEE/CVF Conference on Computer Vision and Pattern Recognition, 34524-34534 [Pub: 2026-6-3] <br>
 ***CVPR 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Calibrating Inference Time Alignment with Sequence-level Risk Accumulation* [To appear] <br>
+1.  *Calibrating Inference Time Alignment with Sequence-level Risk Accumulation* [[Paper]([../files/26ICLR-DEMO.pdf](https://aclanthology.org/2026.acl-long.305.pdf))][[Code](https://github.com/ShanwenTan/SEAT)] <br>
 Shanwen Tan, Ziyang Dong, **Wei Ju**, Yiwei Fu, Hao Wu, Kun Wang, Yifan Wang, Ziyue Qiao <br>
 Annual Meeting of the Association for Computational Linguistics <br>
 ***ACL 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *DANCE: Diversity-attended Dynamic Caching with Asymmetric Quantization for Test-time Adaptation of Vision-language Models* [To appear] <br>
+1.  *DANCE: Diversity-attended Dynamic Caching with Asymmetric Quantization for Test-time Adaptation of Vision-language Models* [[Paper]([../files/26WWW-GraphEVER.pdf](https://aclanthology.org/2026.findings-acl.1860.pdf))] <br>
 Shunge Zou, Changhu Wang, **Wei Ju**, Ziyue Qiao, Xiao Luo <br>
 Annual Meeting of the Association for Computational Linguistics <br>
 ***ACL 2026 Findings, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
