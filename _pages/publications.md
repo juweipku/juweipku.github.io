@@ -70,17 +70,17 @@ Jinke Wu, Yifan Wang, Siyu Yi, Caiyang Yu, Ziyue Qiao, Nan Yin, Jiancheng Lv, **
 International Joint Conference on Artificial Intelligence <br>
 ***IJCAI 2026, <span style="color:red">CCF-B</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *PRISM: Partial-label Relational Inference with Spatial and Spectral Cues* [[Paper](../files/26ICLR-PRISM.pdf)] <br>
+1.  *PRISM: Partial-label Relational Inference with Spatial and Spectral Cues* [[Paper](https://openreview.net/pdf?id=m2MeiYOJED)] <br>
 Yiyang Gu, Wenrui Wu, Yifang Qin, Taian Guo, Tao Zhe, Jiaru Tang, Zhiping Xiao, Weizhi Zhang, Ziyue Qiao, **Wei Ju**, Dongjie Wang, Xiao Luo, Philip S. Yu, Ming Zhang <br>
 International Conference on Learning Representations, [Pub: 2026-1-26]<br>
 ***ICLR 2026, <span style="color:red">CCF-A</span>***
 
-1.  *Conformalized Hierarchical Calibration for Uncertainty-Aware Adaptive Hashing* [[Paper](../files/26ICLR-COLA.pdf)] <br>
+1.  *Conformalized Hierarchical Calibration for Uncertainty-Aware Adaptive Hashing* [[Paper](https://openreview.net/pdf?id=fBmRLVAw4T)] <br>
 Junyu Luo, Jinsheng Huang, Yang Xu, Lutong Zou, Xiao Luo, Bohan Wu, Yifan Wang, **Wei Ju**, Ming Zhang <br>
 International Conference on Learning Representations, [Pub: 2026-1-26]<br>
 ***ICLR 2026, <span style="color:red">CCF-A</span>***
 
-1.  *Hierarchical Encoding Tree with Modality Mixup for Cross-modal Hashing* [[Paper](../files/26ICLR-HINT.pdf)] <br>
+1.  *Hierarchical Encoding Tree with Modality Mixup for Cross-modal Hashing* [[Paper](https://openreview.net/pdf?id=Gq7mjFEoDm)] <br>
 Junyu Luo, Hang Zhou, Yusheng Zhao, Xiao Luo, Zhiping Xiao, Pengyun Wang, **Wei Ju**, Siyu Heng, Ming Zhang <br>
 International Conference on Learning Representations, [Pub: 2026-1-26]<br>
 ***ICLR 2026, <span style="color:red">CCF-A</span>***
