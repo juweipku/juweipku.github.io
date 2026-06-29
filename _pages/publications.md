@@ -55,7 +55,7 @@ Yifan Wang, Haodong Zhang, Zhiping Xiao, Yusheng Zhao, Siyu Yi, Nan Yin, Xinwang
 ACM The Web Conference, 1160-1170 [Pub: 2026-4-12] <br>
 ***WWW 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data* [[Paper](../files/26AAAI-PREST.pdf)][[Code](https://github.com/wayc04/PREST)] <br>
+1.  *Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data* [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38673)][[Code](https://github.com/wayc04/PREST)] <br>
 Wei Zhang, Siyu Yi, Lezhi Chen, Yifan Wang, Ziyue Qiao, Yongdao Zhou, **Wei Ju** <br>
 AAAI Conference on Artificial Intelligence, 40(19), 16352-16360 [Pub: 2026-3-14] <br>
 ***AAAI 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
@@ -110,12 +110,12 @@ Yuhang Pei, Fanchun Meng, Qinghua Ran, Tao Ren, Yifan Wang, **Wei Ju**, Zimo Wan
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 1159-1170 [Pub: 2026-4-20] <br>
 ***KDD 2026, <span style="color:red">CCF-A</span>***
 
-1.  *FairGC: Fostering Individual and Group Fairness for Deep Graph Clustering* [[Paper](../files/26AAAI-FairGC.pdf)] <br>
+1.  *FairGC: Fostering Individual and Group Fairness for Deep Graph Clustering* [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40046)] <br>
 Haodong Zhang, Xinyue Wang, Tao Ren, Yifan Wang, Siyu Yi, Fanchun Meng, Zeyu Ma, QingqingLong, **Wei Ju** <br>
 AAAI Conference on Artificial Intelligence, 40(33), 28194–28202 [Pub: 2026-3-14] <br>
 ***AAAI 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation</span>***
 
-1.  *CogniTrust: Cognitive Memory-Driven Verifiable Supervision for Robust Hashing* [[Paper](../files/26AAAI-CogniTrust.pdf)] <br>
+1.  *CogniTrust: Cognitive Memory-Driven Verifiable Supervision for Robust Hashing* [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/42431)] <br>
 Yiyang Gu, Bohan Wu, Yifang Qin, Jiaru Tang, Rong-Cheng Tu, Zhiping Xiao, Taian Guo, Junyu Luo, **Wei Ju**, Xiao Luo, Dacheng Tao, Ming Zhang <br>
 AAAI Conference on Artificial Intelligence, 40(6), 4339–4347 [Pub: 2026-3-14] <br>
 ***AAAI 2026, <span style="color:red">CCF-A</span>***
