@@ -348,7 +348,7 @@ Haodong Zhang, Yifan Wang, Tao Ren, Fanchun Meng, **Wei Ju**, Ying Tian <br>
 IEEE Transactions on Neural Networks and Learning Systems, 36(11): 19644-19656 [Pub: 2025-8-15] <br>
 ***TNNLS 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.9</span>***
 
-1.  *SPOT: Spectral Optimal Transport for Graph Domain Generalization* [[Paper](../files/25TKDD-SPOT.pdf)] <br>
+1.  *SPOT: Spectral Optimal Transport for Graph Domain Generalization* [[Paper](https://dl.acm.org/doi/epdf/10.1145/3772720)] <br>
 Yusheng Zhao, Xiao Luo, Junyu Luo, **Wei Ju**, Zhonghui Gu, Zhiping Xiao, Xian-Sheng Hua, Ming Zhang <br>
 ACM Transactions on Knowledge Discovery from Data, 20(1): 6 [Pub: 2025-11-21] <br>
 ***TKDD 2025, <span style="color:red">CCF-B, JCR Q1, IF=4.8</span>***
