@@ -120,12 +120,12 @@ Yiyang Gu, Bohan Wu, Yifang Qin, Jiaru Tang, Rong-Cheng Tu, Zhiping Xiao, Taian 
 AAAI Conference on Artificial Intelligence, 40(6), 4339–4347 [Pub: 2026-3-14] <br>
 ***AAAI 2026, <span style="color:red">CCF-A</span>***
 
-1.  *Robust Cross Supervision with Target Mining for Source-free Graph Domain Adaptation* [[Paper](../files/26TKDE-ROSE.pdf)][[Code](https://github.com/luo-junyu/ROSE)] <br>
+1.  *Robust Cross Supervision with Target Mining for Source-free Graph Domain Adaptation* [[Paper](https://ieeexplore.ieee.org/document/11370238)][[Code](https://github.com/luo-junyu/ROSE)] <br>
 Junyu Luo, Haoyu Tao, Xiao Luo, Yusheng Zhao, Zhiping Xiao, Dailan He, **Wei Ju**, Chong Chen, Xian-Sheng Hua, Ming Zhang <br>
 IEEE Transactions on Knowledge and Data Engineering, 38(4): 2394-2407 [Pub: 2026-2-3] <br>
 ***TKDE 2026, <span style="color:red">CCF-A, JCR Q1, IF=10.4</span>***
 
-1.  *HGOOD-D: Hyperbolic Hierarchical Exploration for Graph Out-of-Distribution Detection* [[Paper](../files/26TKDE-HGOOD-D.pdf)][[Code](https://github.com/BBDing-DYT/HGOOD-D)] <br>
+1.  *HGOOD-D: Hyperbolic Hierarchical Exploration for Graph Out-of-Distribution Detection* [[Paper](https://ieeexplore.ieee.org/document/11506311)][[Code](https://github.com/BBDing-DYT/HGOOD-D)] <br>
 Yuntai Ding, Tao Ren, Yiwei Fu, Yifan Wang, Haodong Zhang, Chong Chen, **Wei Ju**, Xiao Luo, Xian-Sheng Hua  <br>
 IEEE Transactions on Knowledge and Data Engineering, 38(7): 4405-4418 [Pub: 2026-5-5] <br>
 ***TKDE 2026, <span style="color:red">CCF-A, JCR Q1, IF=10.4</span>***
@@ -135,12 +135,12 @@ Yueyue Gao, Chenyu Wang, Xuanting Fan, **Wei Ju**, Yifan Wang <br>
 International Joint Conference on Artificial Intelligence <br>
 ***IJCAI 2026, <span style="color:red">CCF-B</span>***
 
-1.  *Bones to identity: Generative contrastive fusion for cross-modality medical person identification from skeletal data* [[Paper](../files/26PR-Niu.pdf)] <br>
+1.  *Bones to identity: Generative contrastive fusion for cross-modality medical person identification from skeletal data* [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132032600676X)] <br>
 Chaoqun Niu, Dongdong Chen, Jizhe Zhou, Jian Wang, Quan-Hui Liu, Caiyang Yu, Yuan Li, **Wei Ju**, Jiancheng Lv <br>
 Pattern Recognition, 179: 113711 [Pub: 206-4-20] <br>
 ***Pattern Recognition 2026, <span style="color:red">CCF-B, JCR Q1, IF=7.6</span>***
 
-1.  *Towards distribution-aware active learning for data-efficient neural architecture predictor* [[Paper](../files/26IPM-DARE.pdf)] <br>
+1.  *Towards distribution-aware active learning for data-efficient neural architecture predictor* [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457326002839)] <br>
 Caiyang Yu, Yifan Wang, Chenwei Tang, **Wei Ju**, Xianggen Liu, Jiancheng Lv <br>
 Information Processing and Management, 63: 104892 [Pub: 2026-5-13] <br>
 ***Information Processing and Management 2026, <span style="color:red">CCF-B, JCR Q1, IF=6.9</span>***
@@ -150,7 +150,7 @@ Qingqing Long, Shuai Liu, Ning Cao, Zhicheng Ren, Xiao Luo, **Wei Ju**, Chen Fan
 IEEE Transactions on Big Data <br>
 ***TBD 2026, <span style="color:red">CCF-C, JCR Q1, IF=5.7</span>***
 
-1.  *IF4FD: Multi-Scale Information Fusion for Zero-Shot Industrial Fault Diagnosis* [[Paper](../files/26TII-IF4FD.pdf)] <br>
+1.  *IF4FD: Multi-Scale Information Fusion for Zero-Shot Industrial Fault Diagnosis* [[Paper](https://ieeexplore.ieee.org/document/11370240)] <br>
 Chenwei Tang, Ying Wang, Weijia Wang, Wangyang Ying, Jie Liu, Yong Wang, Nanxu Gong, **Wei Ju**, Rong Xiao, Jiancheng Lv <br>
 IEEE Transactions on Industrial Informatics, 22(4): 3227-3238 [Pub: 2026-2-3] <br>
 ***TII 2026, <span style="color:red">CCF-C, JCR Q1, IF=9.9</span>***
