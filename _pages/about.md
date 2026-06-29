@@ -54,6 +54,7 @@ Area Chair / Senior Program Committee Member
 
 <span style="color:red">What’s New</span>
 =====
+* **2026-6**: Invited to serve as the Area Chair for IJCNN 2027!
 * **2026-5**: One paper has been accepted by ***Information Processing and Management 2026*** !!
 * **2026-5**: One paper has been accepted by ***TOIS 2026*** !!
 * **2026-5**: Two papers have been accepted by ***IJCAI 2026*** !!
