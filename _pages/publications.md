@@ -20,7 +20,7 @@ International Conference on Learning Representations, [Pub: 2026-1-26]<br>
 International Conference on Machine Learning <br>
 ***ICML 2026, <span style="color:red">CCF-A</span>***
 
-1.  *Long-Tailed Recognition of Evidential Experts for Graph-level Classification* [[Paper](../files/26WWW-GraphEVER.pdf)] <br>
+1.  *Long-Tailed Recognition of Evidential Experts for Graph-level Classification* [[Paper](https://dl.acm.org/doi/epdf/10.1145/3774904.3792521)] <br>
 **Wei Ju**, Siyu Yi, Zhengyang Mao, Yifang Qin, Yifan Wang, Zhiping Xiao, Yiwei Fu, Ziyue Qiao, Ming Zhang <br>
 ACM The Web Conference, 1286-1297 [Pub: 2026-4-12] <br>
 ***WWW 2026, <span style="color:red">CCF-A</span>***
@@ -50,7 +50,7 @@ Shunge Zou, Changhu Wang, **Wei Ju**, Ziyue Qiao, Xiao Luo <br>
 Annual Meeting of the Association for Computational Linguistics <br>
 ***ACL 2026 Findings, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *KEGOD: Kernel-enhanced Latent Substructure Learning for Graph Out-Of-Distribution Detection* [[Paper](../files/26WWW-KEGOD.pdf)][[Code](https://github.com/jamesyifan/KEGOD)] <br>
+1.  *KEGOD: Kernel-enhanced Latent Substructure Learning for Graph Out-Of-Distribution Detection* [[Paper](https://dl.acm.org/doi/epdf/10.1145/3774904.3792465)][[Code](https://github.com/jamesyifan/KEGOD)] <br>
 Yifan Wang, Haodong Zhang, Zhiping Xiao, Yusheng Zhao, Siyu Yi, Nan Yin, Xinwang Liu, Ming Zhang, **Wei Ju** <br>
 ACM The Web Conference, 1160-1170 [Pub: 2026-4-12] <br>
 ***WWW 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
@@ -100,12 +100,12 @@ Yuhang Pei, Fanchun Meng, Wenrui Wu, Tao Ren, Yifan Wang, **Wei Ju**, Chao Zheng
 International Conference on Machine Learning <br>
 ***ICML 2026, <span style="color:red">CCF-A</span>***
 
-1.  *DisCo: Diffusion-guided Unbiased Discriminative Learning for Unsupervised Graph Domain Adaptation* [[Paper](../files/26KDD-DisCo.pdf)] <br>
+1.  *DisCo: Diffusion-guided Unbiased Discriminative Learning for Unsupervised Graph Domain Adaptation* [[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3780287)] <br>
 Haodong Zhang, Tao Ren, Changhu Wang, Yifan Wang, **Wei Ju**, Huaizhi Tang, Junyu Luo, Zimo Wang, Ziyue Qiao, Xian-Sheng Hua, Xiao Luo  <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 1892-1903 [Pub: 2026-4-20] <br>
 ***KDD 2026, <span style="color:red">CCF-A</span>***
 
-1.  *Dual Data-centric Separation with Circular Mixup for Noise-resistant Time Series Learning* [[Paper](../files/26KDD-DREAM.pdf)] <br>
+1.  *Dual Data-centric Separation with Circular Mixup for Noise-resistant Time Series Learning* [[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3780265)] <br>
 Yuhang Pei, Fanchun Meng, Qinghua Ran, Tao Ren, Yifan Wang, **Wei Ju**, Zimo Wang, Xian-Sheng Hua, Xiao Luo <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 1159-1170 [Pub: 2026-4-20] <br>
 ***KDD 2026, <span style="color:red">CCF-A</span>***
