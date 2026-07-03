@@ -40,12 +40,12 @@ Caiyang Yu, Chen Huang, Yun Liu, Chenwei Tang, **Wei Ju**, Jiancheng Lv <br>
 The IEEE/CVF Conference on Computer Vision and Pattern Recognition, 34524-34534 [Pub: 2026-6-3] <br>
 ***CVPR 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Calibrating Inference Time Alignment with Sequence-level Risk Accumulation* [[Paper]([../files/26ICLR-DEMO.pdf](https://aclanthology.org/2026.acl-long.305.pdf))][[Code](https://github.com/ShanwenTan/SEAT)] <br>
+1.  *Calibrating Inference Time Alignment with Sequence-level Risk Accumulation* [[Paper](https://aclanthology.org/2026.acl-long.305.pdf)][[Code](https://github.com/ShanwenTan/SEAT)] <br>
 Shanwen Tan, Ziyang Dong, **Wei Ju**, Yiwei Fu, Hao Wu, Kun Wang, Yifan Wang, Ziyue Qiao <br>
 Annual Meeting of the Association for Computational Linguistics <br>
 ***ACL 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *DANCE: Diversity-attended Dynamic Caching with Asymmetric Quantization for Test-time Adaptation of Vision-language Models* [[Paper]([../files/26WWW-GraphEVER.pdf](https://aclanthology.org/2026.findings-acl.1860.pdf))] <br>
+1.  *DANCE: Diversity-attended Dynamic Caching with Asymmetric Quantization for Test-time Adaptation of Vision-language Models* [[Paper]((https://aclanthology.org/2026.findings-acl.1860.pdf)] <br>
 Shunge Zou, Changhu Wang, **Wei Ju**, Ziyue Qiao, Xiao Luo <br>
 Annual Meeting of the Association for Computational Linguistics <br>
 ***ACL 2026 Findings, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
