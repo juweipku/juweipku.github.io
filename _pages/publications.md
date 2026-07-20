@@ -60,6 +60,11 @@ Wei Zhang, Siyu Yi, Lezhi Chen, Yifan Wang, Ziyue Qiao, Yongdao Zhou, **Wei Ju**
 AAAI Conference on Artificial Intelligence, 40(19), 16352-16360 [Pub: 2026-3-14] <br>
 ***AAAI 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
+1.  *stMRPC: Decoding Spatial Transcriptomics with Multimodal Rebalancing and Perspective-aware Clustering* [To appear] <br>
+Chang Liu, Jinghong Tang, Lezhi Chen, Yifan Wang, Ziyue Qiao, Siyu Yi, **Wei Ju**  <br>
+ACM International Conference on Multimedia <br>
+***ACMMM 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *Interests Burn-down Diffusion Process for Personalized Collaborative Filtering* [To appear] <br>
 Yifang Qin, Zhaobin Li, Arisa Watanabe, **Wei Ju**, Zhiping Xiao, and Ming Zhang <br>
 ACM Transactions on Information Systems <br>
@@ -119,6 +124,11 @@ AAAI Conference on Artificial Intelligence, 40(33), 28194–28202 [Pub: 2026-3-1
 Yiyang Gu, Bohan Wu, Yifang Qin, Jiaru Tang, Rong-Cheng Tu, Zhiping Xiao, Taian Guo, Junyu Luo, **Wei Ju**, Xiao Luo, Dacheng Tao, Ming Zhang <br>
 AAAI Conference on Artificial Intelligence, 40(6), 4339–4347 [Pub: 2026-3-14] <br>
 ***AAAI 2026, <span style="color:red">CCF-A</span>***
+
+1.  *DUET: Dual-view Uncertainty Driven Entrusted Teaching for Contrastive Deep Graph Clustering* [To appear] <br>
+Yaoyuzhi Wang, Siyu Yi, Yifan Wang, Ziyue Qiao, Xianggen Liu, **Wei Ju**  <br>
+ACM International Conference on Multimedia <br>
+***ACMMM 2026, <span style="color:red">CCF-A</span>***
 
 1.  *Robust Cross Supervision with Target Mining for Source-free Graph Domain Adaptation* [[Paper](https://ieeexplore.ieee.org/document/11370238)][[Code](https://github.com/luo-junyu/ROSE)] <br>
 Junyu Luo, Haoyu Tao, Xiao Luo, Yusheng Zhao, Zhiping Xiao, Dailan He, **Wei Ju**, Chong Chen, Xian-Sheng Hua, Ming Zhang <br>
