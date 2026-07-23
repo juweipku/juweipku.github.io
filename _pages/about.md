@@ -45,8 +45,8 @@ Area Chair / Senior Program Committee Member
 =====
 * **Area Chair**:\\
 2027: IJCNN\\
-2026: ICML, ICLR, ARR, KDD, ACMMM, ICASSP, IJCNN\\
-2025: ICML, ARR, ACMMM, ACML, IJCNN
+2026: ICML, ICLR, ARR, KDD, ACMMM, ICASSP, IJCNN, ACML\\
+2025: ICML, ARR, ACMMM, IJCNN, ACML
 
 * **SPC**:\\
 2027: AAAI\\
@@ -56,6 +56,7 @@ Area Chair / Senior Program Committee Member
 
 <span style="color:red">What’s New</span>
 =====
+* **2026-6**: Invited to serve as the Area Chair for ACML 2026!
 * **2026-7**: Two papers have been accepted by ***ACMMM 2026*** !!
 * **2026-6**: Invited to serve as the Senior Program Committee (SPC) Member for AAAI 2027!
 * **2026-6**: Invited to serve as the Area Chair for IJCNN 2027!
