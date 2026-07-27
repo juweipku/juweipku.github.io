@@ -44,21 +44,21 @@ Editorial Board Member
 Area Chair / Senior Program Committee Member
 =====
 * **Area Chair**:\\
-2027: IJCNN\\
+2027: AAAI, IJCNN\\
 2026: ICML, ICLR, ARR, KDD, ACMMM, ICASSP, IJCNN, ACML\\
 2025: ICML, ARR, ACMMM, IJCNN, ACML
 
 * **SPC**:\\
-2027: AAAI\\
 2026: AAAI, IJCAI, CIKM, PAKDD\\
 2025: IJCAI, CIKM
 
 
 <span style="color:red">What’s New</span>
 =====
-* **2026-6**: Invited to serve as the Area Chair for ACML 2026!
+* **2026-7**: Invited to serve as the Area Chair for AAAI 2027!
+* **2026-7**: One paper has been accepted by ***TKDE 2026*** !!
+* **2026-7**: Invited to serve as the Area Chair for ACML 2026!
 * **2026-7**: Two papers have been accepted by ***ACMMM 2026*** !!
-* **2026-6**: Invited to serve as the Senior Program Committee (SPC) Member for AAAI 2027!
 * **2026-6**: Invited to serve as the Area Chair for IJCNN 2027!
 * **2026-5**: One paper has been accepted by ***Information Processing and Management 2026*** !!
 * **2026-5**: One paper has been accepted by ***TOIS 2026*** !!
