@@ -65,6 +65,11 @@ Chang Liu, Jinghong Tang, Lezhi Chen, Yifan Wang, Ziyue Qiao, Siyu Yi, **Wei Ju*
 ACM International Conference on Multimedia <br>
 ***ACMMM 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
+1.  *FOND: Fine-grained Boundary Mining with Dual Bridging for Fair Graph Anomaly Detection* [To appear] <br>
+Caiyang Yu, **Wei Ju**, Wenrui Wu, Yifan Wang, Ziyue Qiao, Chong Chen, Xian-Sheng Hua, Xiao Luo <br>
+IEEE Transactions on Knowledge and Data Engineering <br>
+***TKDE 2026, <span style="color:red">CCF-A, JCR Q1, IF=11.6</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *Interests Burn-down Diffusion Process for Personalized Collaborative Filtering* [To appear] <br>
 Yifang Qin, Zhaobin Li, Arisa Watanabe, **Wei Ju**, Zhiping Xiao, and Ming Zhang <br>
 ACM Transactions on Information Systems <br>
