@@ -150,6 +150,11 @@ Yueyue Gao, Chenyu Wang, Xuanting Fan, **Wei Ju**, Yifan Wang <br>
 International Joint Conference on Artificial Intelligence <br>
 ***IJCAI 2026, <span style="color:red">CCF-B</span>***
 
+1.  *stHGNN: Deciphering spatial transcriptomics data via dual hypergraph learning enhancement* [To appear] <br>
+Jinghong Tang, Lezhi Chen, Siyu Yi, Wei Liu, Mingyang Li, Yifan Wang, Ziyue Qiao, Bin Guo, Xianggen Liu, Jiancheng Lv, **Wei Ju** <br>
+Pattern Recognition <br>
+***Pattern Recognition 2026, <span style="color:red">CCF-B, JCR Q1, IF=9.1</span>***
+
 1.  *Bones to identity: Generative contrastive fusion for cross-modality medical person identification from skeletal data* [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132032600676X)] <br>
 Chaoqun Niu, Dongdong Chen, Jizhe Zhou, Jian Wang, Quan-Hui Liu, Caiyang Yu, Yuan Li, **Wei Ju**, Jiancheng Lv <br>
 Pattern Recognition, 179: 113711 [Pub: 206-4-20] <br>
