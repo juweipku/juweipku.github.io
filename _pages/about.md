@@ -9,7 +9,7 @@ redirect_from:
 
 Wei Ju (琚玮) is currently an Associate Professor (副研究员) with the School of Artificial Intelligence, Sichuan University (SCU), Chengdu, China. He is also a member of [DICALab](https://dicalab.cn/) (Data Intelligence and Computing Arts Lab), which is led by Prof. [Jiancheng Lv (吕建成)](https://cs.scu.edu.cn/info/1303/13767.htm). Before joining SCU, he worked as a postdoc research fellow and received his Ph.D. degree in the School of Computer Science from Peking University in June 2022, under the supervision of Prof. [Ming Zhang (张铭)](https://cs.pku.edu.cn/info/1086/1730.htm). His current research interests lie primarily in the area of machine learning on graphs including graph representation learning and graph neural networks, and interdisciplinary applications such as bioinformatics (spatial transcriptomics, multi-omics), drug discovery, recommender systems, and spatio-temporal analysis.
 
-琚玮，四川大学人工智能学院特聘副研究员，入选国家博士后创新人才支持计划（国资计划A档），天府峨眉计划青年人才（四川省“千人计划”），斯坦福大学年度全球前 2% 顶尖科学家，中国中文信息学会大模型与生成专业委员会委员。于2022年在北京大学计算机学院获博士学位，长期从事人工智能、机器学习、数据挖掘等方面的研究。研究兴趣主要集中图神经网络、图表示学习、科学智能（AI4Science：生物信息学、药物发现）、大语言模型（LLM）、推荐系统、时空数据分析等等。主持国家自然科学基金青年科学基金项目（C类）、中国博士后科学基金面上项目、四川省自然科学基金青年科学基金项目，作为项目核心骨干参与多项国家重点研发计划和企业横向基金课题。近5年来共发表国际顶级学术论文100余篇（Nature子刊一篇，CCF-A/一区论文80余篇），总引用次数为<a href='https://scholar.google.com/citations?user=GX05vA4AAAAJ'><img src="https://img.shields.io/endpoint?url=https://maxin88scu.github.io/google-scholar-citations-badge/citations.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>，总影响因子超过400，相关研究成果发表在**Nature Machine Intelligence (Nature 子刊)**、TPAMI、TKDE、TOIS、TIP、TMM、AIJ、ICLR、ICML、NeurIPS、ACL、KDD、WWW、AAAI、IJCAI等机器学习和数据挖掘的国际顶级期刊和会议上，其中多篇会议论文入选口头报告（ICLR 2026 Oral Paper, Top 1%），入选ESI全球前0.1%热点论文1篇，前1%高被引论文6篇，荣获2022年国际顶级会议ICDM的最佳论文提名奖和2023年度ACM SIGCSE中国“优博奖”。**现担任国际顶级期刊IEEE TCSVT、Pattern Recognition、Expert Systems with Applications副主编，Information Fusion、Neurocomputing、Applied Soft Computing，Frontiers in Big Data编委**，并在多个国际顶级会议和期刊如ICLR、ICML、NeurIPS、KDD、WWW、CVPR、ACL、AAAI、IJCAI、TPAMI、TKDE、TOIS、TNNLS、TMM等担任领域主席、高级程序委员会成员和审稿人。
+琚玮，四川大学人工智能学院特聘副研究员，入选国家博士后创新人才支持计划（国资计划A档），天府峨眉计划青年人才（四川省“千人计划”），斯坦福大学年度全球前 2% 顶尖科学家，中国计算机学会人工智能与模式识别专委会委员，中文信息学会大模型与生成专委会委员。于2022年在北京大学计算机学院获博士学位，长期从事人工智能、机器学习、数据挖掘等方面的研究。研究兴趣主要集中图神经网络、图表示学习、科学智能（AI4Science：生物信息学、药物发现）、大语言模型（LLM）、推荐系统、时空数据分析等等。主持国家自然科学基金青年科学基金项目（C类）、中国博士后科学基金面上项目、四川省自然科学基金青年科学基金项目，作为项目核心骨干参与多项国家重点研发计划和企业横向基金课题。近5年来共发表国际顶级学术论文100余篇（Nature子刊一篇，CCF-A/一区论文80余篇），总引用次数为<a href='https://scholar.google.com/citations?user=GX05vA4AAAAJ'><img src="https://img.shields.io/endpoint?url=https://maxin88scu.github.io/google-scholar-citations-badge/citations.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>，总影响因子超过400，相关研究成果发表在**Nature Machine Intelligence (Nature 子刊)**、TPAMI、TKDE、TOIS、TIP、TMM、AIJ、ICLR、ICML、NeurIPS、ACL、KDD、WWW、AAAI、IJCAI等机器学习和数据挖掘的国际顶级期刊和会议上，其中多篇会议论文入选口头报告（ICLR 2026 Oral Paper, Top 1%），入选ESI全球前0.1%热点论文1篇，前1%高被引论文6篇，荣获2022年国际顶级会议ICDM的最佳论文提名奖和2023年度ACM SIGCSE中国“优博奖”。**现担任国际顶级期刊IEEE TCSVT、Pattern Recognition、Expert Systems with Applications副主编，Information Fusion、Neurocomputing、Applied Soft Computing，Frontiers in Big Data编委**，并在多个国际顶级会议和期刊如ICLR、ICML、NeurIPS、KDD、WWW、CVPR、ACL、AAAI、IJCAI、TPAMI、TKDE、TOIS、TNNLS、TMM等担任领域主席、高级程序委员会成员和审稿人。
 <!-- 此外，长期担任由中国科协和教育部联合组织的中学生科技创新后备人才培养计划（“英才计划”）的辅导老师，指导优秀中学生进行科研探索和科技创新。 -->
 
 **Email:** juwei@scu.edu.cn, juwei@pku.edu.cn
@@ -32,13 +32,13 @@ Research Interests
 
 Editorial Board Member
 =====
-* IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), **Associate Editor**, **<span style="color:red">CCF-B, JCR Q1, IF=11.1, 中科院一区</span>**
-* Pattern Recognition, **Associate Editor**, **<span style="color:red">CCF-B, JCR Q1, IF=7.6, 中科院一区</span>**
-* Information Fusion, **Editorial Board**, **<span style="color:red">JCR Q1, IF=15.5, 中科院一区</span>**
-* Expert Systems with Applications, **Associate Editor**, **<span style="color:red">JCR Q1, IF=7.5, 中科院一区</span>**
-* Applied Soft Computing, **Editorial Board**, **<span style="color:red">JCR Q1, IF=6.6, 中科院二区</span>**
-* Neurocomputing, **Editorial Board**, **<span style="color:red">JCR Q1, IF=6.5, 中科院二区</span>**
-* Frontiers in Big Data, **Review Editor**, **<span style="color:red">JCR Q2, IF=2.3, 中科院四区</span>**
+* IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), **Associate Editor**, **<span style="color:red">CCF-B, JCR Q1, IF=10.8, 中科院一区</span>**
+* Pattern Recognition, **Associate Editor**, **<span style="color:red">CCF-B, JCR Q1, IF=9.1, 中科院一区</span>**
+* Information Fusion, **Editorial Board**, **<span style="color:red">JCR Q1, IF=17.4, 中科院一区</span>**
+* Expert Systems with Applications, **Associate Editor**, **<span style="color:red">JCR Q1, IF=9.4, 中科院一区</span>**
+* Applied Soft Computing, **Editorial Board**, **<span style="color:red">JCR Q1, IF=7.8, 中科院二区</span>**
+* Neurocomputing, **Editorial Board**, **<span style="color:red">JCR Q1, IF=6.7, 中科院二区</span>**
+* Frontiers in Big Data, **Review Editor**, **<span style="color:red">JCR Q2, IF=3.8, 中科院四区</span>**
 * Applied Research
 
 Area Chair / Senior Program Committee Member
@@ -55,6 +55,8 @@ Area Chair / Senior Program Committee Member
 
 <span style="color:red">What’s New</span>
 =====
+* **2026-7**: Honored to be appointed as a committee member of the ***<span style="color:orange">Artificial Intelligence & Pattern Recognition Committee of the China Computer Federation (CCF)</span>*** !!
+* **2026-7**: One paper has been accepted by ***Pattern Recognition 2026*** !!
 * **2026-7**: Invited to serve as the Area Chair for AAAI 2027!
 * **2026-7**: One paper has been accepted by ***TKDE 2026*** !!
 * **2026-7**: Invited to serve as the Area Chair for ACML 2026!
