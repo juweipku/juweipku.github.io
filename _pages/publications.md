@@ -40,14 +40,14 @@ Caiyang Yu, Chen Huang, Yun Liu, Chenwei Tang, **Wei Ju**, Jiancheng Lv <br>
 The IEEE/CVF Conference on Computer Vision and Pattern Recognition, 34524-34534 [Pub: 2026-6-3] <br>
 ***CVPR 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Calibrating Inference Time Alignment with Sequence-level Risk Accumulation* [[Paper](https://aclanthology.org/2026.acl-long.305.pdf)][[Code](https://github.com/ShanwenTan/SEAT)] <br>
+1.  *Calibrating Inference Time Alignment with Sequence-level Risk Accumulation* [[Paper]((https://aclanthology.org/2026.acl-long.305.pdf)][[Code](https://github.com/ShanwenTan/SEAT)] <br>
 Shanwen Tan, Ziyang Dong, **Wei Ju**, Yiwei Fu, Hao Wu, Kun Wang, Yifan Wang, Ziyue Qiao <br>
-Annual Meeting of the Association for Computational Linguistics <br>
+Annual Meeting of the Association for Computational Linguistics, 1: 6711--6735 [Pub: 2026-7-2]
 ***ACL 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *DANCE: Diversity-attended Dynamic Caching with Asymmetric Quantization for Test-time Adaptation of Vision-language Models* [[Paper]((https://aclanthology.org/2026.findings-acl.1860.pdf)] <br>
 Shunge Zou, Changhu Wang, **Wei Ju**, Ziyue Qiao, Xiao Luo <br>
-Annual Meeting of the Association for Computational Linguistics <br>
+Annual Meeting of the Association for Computational Linguistics, 37329–37343 [Pub: 2026-7-2]
 ***ACL 2026 Findings, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *KEGOD: Kernel-enhanced Latent Substructure Learning for Graph Out-Of-Distribution Detection* [[Paper](https://dl.acm.org/doi/epdf/10.1145/3774904.3792465)][[Code](https://github.com/jamesyifan/KEGOD)] <br>
