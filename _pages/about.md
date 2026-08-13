@@ -22,10 +22,10 @@ Wei Ju (琚玮) is currently an Associate Professor (副研究员) with the Scho
 Research Interests
 ======
 * Deep Learning, Machine Learning, Data Mining
-* Graph Neural Networks，GNN
+* Graph Neural Networks, GNN
 * Data-Efficient/Data-Centric Graph Representation Learning
 * Bioinformatics (Spatial Transcriptomics, Multi-Omics), Drug Discovery
-* Large Language Model，LLM
+* Large Language Model, LLM
 * Recommender Systems, Drug/Medicine Recommendation
 * Spatio-temporal Analysis, Traffic Prediction
 * Cross-modal Learning, Image Retrieval
@@ -44,7 +44,7 @@ Editorial Board Member
 Area Chair / Senior Program Committee Member
 =====
 * **Area Chair**:\\
-2027: AAAI, IJCNN\\
+2027: ICLR, AAAI, IJCNN\\
 2026: ICML, ICLR, ARR, KDD, ACMMM, ICASSP, IJCNN, ACML\\
 2025: ICML, ARR, ACMMM, IJCNN, ACML
 
@@ -55,6 +55,7 @@ Area Chair / Senior Program Committee Member
 
 <span style="color:red">What’s New</span>
 =====
+* **2026-8**: Invited to serve as the Area Chair for ICLR 2027!
 * **2026-7**: Honored to be appointed as a committee member of the ***<span style="color:orange">Artificial Intelligence & Pattern Recognition Committee of the China Computer Federation (CCF)</span>*** !!
 * **2026-7**: One paper has been accepted by ***Pattern Recognition 2026*** !!
 * **2026-7**: Invited to serve as the Area Chair for AAAI 2027!
