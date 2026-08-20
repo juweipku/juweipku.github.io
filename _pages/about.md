@@ -56,7 +56,7 @@ Area Chair / Senior Program Committee Member
 
 <span style="color:red">What’s New</span>
 =====
-* **2026-8**: 🏆 We win the [[***<span style="color:orange">Best Student Paper Award</span>***](../files/ISNN2026-Best-Student-Paper.pdf)] in ***ISNN 2026*** !!
+* **2026-8**: 🏆 We win the [***<span style="color:orange">Best Student Paper Award</span>***](../files/ISNN2026-Best-Student-Paper.pdf) in ***ISNN 2026*** !!
 * **2026-8**: Invited to serve as the Senior Program Committee (SPC) Member for WSDM 2027!
 * **2026-8**: Invited to serve as the Area Chair for ICLR 2027!
 * **2026-7**: Honored to be appointed as a committee member of the ***<span style="color:orange">Artificial Intelligence & Pattern Recognition Committee of the China Computer Federation (CCF)</span>*** !!
@@ -293,7 +293,8 @@ Funds and Projects
 
 Honors and Awards
 =====
-* Apr. 2024: **Tianfu Emei Plan (天府峨眉计划 / 四川省“千人计划”)**
+* Aug. 2026: [***Best Student Paper Award***](../files/ISNN2026-Best-Student-Paper.pdf), ISNN
+* Apr. 2025: **Tianfu Emei Plan (天府峨眉计划 / 四川省“千人计划”)**
 * Sep. 2023: [**Outstanding Doctoral Dissertation Award (The Only Winner in ACM SIGCSE Chapter)**](https://mp.weixin.qq.com/s/q7mgixyw9tbdIcKq3C3GNw), ACM SIGCSE
 * Nov. 2022: 🏆 **Best Paper Finalist**, ICDM
 * Dec. 2021: **Award for Scientific Research**, Peking University
