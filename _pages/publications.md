@@ -75,6 +75,26 @@ Yifang Qin, Zhaobin Li, Arisa Watanabe, **Wei Ju**, Zhiping Xiao, and Ming Zhang
 ACM Transactions on Information Systems <br>
 ***TOIS 2026, <span style="color:red">CCF-A, IF=5.4</span>, <span style="color:orange">Corresponding Author</span>***
 
+1.  *Evidence-guided Learning against Noisy and Sparse Labels on Graphs* [To appear] <br>
+Siyu Yi, Wei Zhang, Zhengyang Mao, Yongdao Zhou, Ziyue Qiao, Li Shen, Dacheng Tao, Jiancheng Lv, **Wei Ju** <br>
+Artificial Intelligence <br>
+***AIJ 2026, <span style="color:red">CCF-A, JCR Q1, IF=4.7</span>, <span style="color:orange">Corresponding Author</span>***
+
+1.  *Reward-guided Meta-Prompt Evolving with Reflection for LLM Jailbreaking* [To appear] <br>
+Caiyang Yu, **Wei Ju**, Yun Liu, Qingqing Long, Siyu Yi, Yifan Wang, Junyu Luo, Ziyue Qiao <br>
+Conference on Empirical Methods in Natural Language Processing <br>
+***EMNLP 2026 Findings, <span style="color:red">CCF-B</span>, <span style="color:orange">Corresponding Author</span>***
+
+1.  *Context-anchored Asymmetric Conformal Prediction for Uncertainty-aware Reasoning over Knowledge Graphs* [To appear] <br>
+Boyang Fan, Ziyue Qiao, **Wei Ju**, Xiao Luo <br>
+Conference on Empirical Methods in Natural Language Processing <br>
+***EMNLP 2026 Findings, <span style="color:red">CCF-B</span>, <span style="color:orange">Corresponding Author</span>***
+
+1.  *Bias-Aware Orchestration: Role-Specialized Multi-Agent Collaboration of Heterogeneous LLMs* [To appear] <br>
+Yuanpei Zhao, Haowei Zhang, Ziyue Qiao, Jiancheng Lv, Mao Li, **Wei Ju** <br>
+Conference on Empirical Methods in Natural Language Processing <br>
+***EMNLP 2026 Findings, <span style="color:red">CCF-B</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *scGTN: Deep Siamese Graph Transformer Network for Single-cell RNA Sequencing Clustering* [To appear] <br>
 Jinke Wu, Yifan Wang, Siyu Yi, Caiyang Yu, Ziyue Qiao, Nan Yin, Jiancheng Lv, **Wei Ju** <br>
 International Joint Conference on Artificial Intelligence <br>
@@ -144,6 +164,11 @@ IEEE Transactions on Knowledge and Data Engineering, 38(4): 2394-2407 [Pub: 2026
 Yuntai Ding, Tao Ren, Yiwei Fu, Yifan Wang, Haodong Zhang, Chong Chen, **Wei Ju**, Xiao Luo, Xian-Sheng Hua  <br>
 IEEE Transactions on Knowledge and Data Engineering, 38(7): 4405-4418 [Pub: 2026-5-5] <br>
 ***TKDE 2026, <span style="color:red">CCF-A, JCR Q1, IF=10.4</span>***
+
+1.  *SciRerankBench: Benchmarking Rerankers Towards Scientific Retrieval-Augmented Generation with LLMs* [To appear] <br>
+Haotian Chen, Qingqing Long, Meng Xiao, Xiao Luo, **Wei Ju**, Yuanchun Zhou, Xuezhi Wang, Hengshu Zhu <br>
+Conference on Empirical Methods in Natural Language Processing <br>
+***EMNLP 2026, <span style="color:red">CCF-B</span>***
 
 1.  *HGOOD: Hypergraph-enhanced Graph Contrastive Learning for Graph Out-of-Distribution Detection* [To appear] <br>
 Yueyue Gao, Chenyu Wang, Xuanting Fan, **Wei Ju**, Yifan Wang <br>
