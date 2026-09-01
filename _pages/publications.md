@@ -402,7 +402,7 @@ ACM Transactions on Knowledge Discovery from Data, 20(1): 6 [Pub: 2025-11-21] <b
 1.  *MHGC: Multi-scale hard sample mining for contrastive deep graph clustering* [[Paper](../files/25IPM-MHGC.pdf)][[Code](https://github.com/sodarin/MHGC)][[Link](../files/25ipm-mhgc-highly-cited.jpeg)] <br>
 Tao Ren, Haodong Zhang, Yifan Wang, **Wei Ju**, Chengwu Liu, Fanchun Meng, Siyu Yi, Xiao Luo <br>
 Information Processing and Management, 62: 104084 [Pub: 2025-2-13] <br>
-***Information Processing and Management 2025, <span style="color:red">CCF-B, JCR Q1, IF=7.4</span>***
+***Information Processing and Management 2025, <span style="color:red">CCF-B, JCR Q1, IF=7.4</span>, <span style="color:red">ESI Highly Cited Paper</span>***
 
 1.  *Optimizing Few-Shot Distribution Estimation with Negative Calibration Mitigation* [[Paper](../files/25NC-optimizing.pdf)] <br>
 Juan Zhao, Lili Kong, Chenwei Tang, **Wei Ju**, Deng Xiong, Jiancheng Lv <br>
@@ -484,7 +484,7 @@ ACM International Conference on Information and Knowledge Management, 1586-1596 
 1.  *DEER: Distribution Divergence-based Graph Contrast for Partial Label Learning on Graphs* [[Paper](../files/24TMM-DEER.pdf)][[Link](../files/24tmm-deer-highly-cited.jpeg)] <br>
 Yiyang Gu, Zihao Chen, Yifang Qin, Zhengyang Mao, Zhiping Xiao, **Wei Ju**, Chong Chen, Xian-Sheng Hua, Yifan Wang, Xiao Luo, Ming Zhang <br>
 IEEE Transactions on Multimedia, 28: 2031-2046 [Pub: 2024-5-31] <br>
-***TMM 2024, <span style="color:red">CCF-B, JCR Q1, IF=8.4</span>***
+***TMM 2024, <span style="color:red">CCF-B, JCR Q1, IF=8.4</span>, <span style="color:red">ESI Highly Cited Paper</span>***
 
 2023
 ====
