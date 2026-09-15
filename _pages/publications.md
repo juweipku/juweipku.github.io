@@ -165,6 +165,11 @@ Yuntai Ding, Tao Ren, Yiwei Fu, Yifan Wang, Haodong Zhang, Chong Chen, **Wei Ju*
 IEEE Transactions on Knowledge and Data Engineering, 38(7): 4405-4418 [Pub: 2026-5-5] <br>
 ***TKDE 2026, <span style="color:red">CCF-A, JCR Q1, IF=10.4</span>***
 
+1.  *CrossMol: Cross-Modal Mask-Predict Pre-training For 3D Molecular Data* [To appear] <br>
+Kangjie Zheng, Junwei Yang, Siyu Long, **Wei Ju**, Ming Zhang, Wei-Ying Ma, Hao Zhou  <br>
+Bioinformatics <br>
+***Bioinformatics 2026, <span style="color:red">CCF-A, JCR Q1, IF=5.497</span>***
+
 1.  *SciRerankBench: Benchmarking Rerankers Towards Scientific Retrieval-Augmented Generation with LLMs* [To appear] <br>
 Haotian Chen, Qingqing Long, Meng Xiao, Xiao Luo, **Wei Ju**, Yuanchun Zhou, Xuezhi Wang, Hengshu Zhu <br>
 Conference on Empirical Methods in Natural Language Processing <br>
