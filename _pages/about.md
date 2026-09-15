@@ -56,6 +56,7 @@ Area Chair / Senior Program Committee Member
 
 <span style="color:red">What’s New</span>
 =====
+* **2026-9**: One paper has been accepted by ***Bioinformatics 2026*** !!
 * **2026-9**: One paper has been accepted by ***Pattern Recognition 2026*** !!
 * **2026-8**: One paper has been accepted by ***Artificial Intelligence 2026*** !!
 * **2026-8**: Four papers have been accepted by ***EMNLP 2026*** !!
