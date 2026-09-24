@@ -100,6 +100,11 @@ Jinke Wu, Yifan Wang, Siyu Yi, Caiyang Yu, Ziyue Qiao, Nan Yin, Jiancheng Lv, **
 International Joint Conference on Artificial Intelligence <br>
 ***IJCAI 2026, <span style="color:red">CCF-B</span>, <span style="color:orange">Corresponding Author</span>***
 
+1.  *Hyperbolic Self-Supervised Pretraining for Hierarchical EEG Representation Learning in Generalizable Parkinson’s Disease Detection* [To appear] <br>
+Jinghong Tang, Zhijing Wu, Yikun Liu, **Wei Ju**, and Jiyao Wang <br>
+IEEE International Conference on Bioinformatics and Biomedicine <br>
+***BIBM 2026, <span style="color:red">CCF-B</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *PRISM: Partial-label Relational Inference with Spatial and Spectral Cues* [[Paper](https://openreview.net/pdf?id=m2MeiYOJED)] <br>
 Yiyang Gu, Wenrui Wu, Yifang Qin, Taian Guo, Tao Zhe, Jiaru Tang, Zhiping Xiao, Weizhi Zhang, Ziyue Qiao, **Wei Ju**, Dongjie Wang, Xiao Luo, Philip S. Yu, Ming Zhang <br>
 International Conference on Learning Representations, [Pub: 2026-1-26]<br>
