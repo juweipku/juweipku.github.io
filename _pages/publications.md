@@ -80,6 +80,11 @@ Siyu Yi, Wei Zhang, Zhengyang Mao, Yongdao Zhou, Ziyue Qiao, Li Shen, Dacheng Ta
 Artificial Intelligence <br>
 ***AIJ 2026, <span style="color:red">CCF-A, JCR Q1, IF=4.7</span>, <span style="color:orange">Corresponding Author</span>***
 
+1.  *CMGL: Confidence-guided Multi-omics Graph Learning for Cancer Subtype Classification* [To appear] <br>
+Boyang Fan, Hengchuang Yin, Siyu Yi, Yifan Wang, Zhicheng Li, Leijiyu Zhou, Jiancheng Lv, **Wei Ju**  <br>
+Bioinformatics <br>
+***Bioinformatics 2026, <span style="color:red">CCF-A, JCR Q1, IF=5.497</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *Reward-guided Meta-Prompt Evolving with Reflection for LLM Jailbreaking* [To appear] <br>
 Caiyang Yu, **Wei Ju**, Yun Liu, Qingqing Long, Siyu Yi, Yifan Wang, Junyu Luo, Ziyue Qiao <br>
 Conference on Empirical Methods in Natural Language Processing <br>
@@ -134,6 +139,21 @@ International Conference on Machine Learning <br>
 Yuhang Pei, Fanchun Meng, Wenrui Wu, Tao Ren, Yifan Wang, **Wei Ju**, Chao Zheng, Xiao Luo <br>
 International Conference on Machine Learning <br>
 ***ICML 2026, <span style="color:red">CCF-A</span>***
+
+1.  *CLEAR: Complementary Tripartite Play with Bayesian Calibration for Semi-Supervised Edge Classification* [To appear] <br>
+Zhipeng Sun, Fanchun Meng, Jiazhen Huang, Yongpeng Zhang, Tao Ren, Yifan Wang, **Wei Ju**, Xiao Luo <br>
+Annual Conference on Neural Information Processing Systems <br>
+***NeurIPS 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Spotlight, Top 1%</span>***
+
+1.  *PATH: A Dual Perspective for High-quality Text-attributed Graph Learning* [To appear] <br>
+Yuhang Pei, Fanchun Meng, Changhu Wang, Tao Ren, Yifan Wang, **Wei Ju**, Chong Chen, Xian-Sheng Hua, Xiao Luo <br>
+Annual Conference on Neural Information Processing Systems <br>
+***NeurIPS 2026, <span style="color:red">CCF-A</span>***
+
+1.  *Complementary Cache Guidance with Gradient Disentanglement for Continuous Test-Time Adaptation* [To appear] <br>
+Fanchun Meng, Yuhang Pei, Jiazhen Huang, Tao Ren, Yifan Wang, **Wei Ju**, Xiao Luo <br>
+Annual Conference on Neural Information Processing Systems <br>
+***NeurIPS 2026, <span style="color:red">CCF-A</span>***
 
 1.  *DisCo: Diffusion-guided Unbiased Discriminative Learning for Unsupervised Graph Domain Adaptation* [[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3780287)] <br>
 Haodong Zhang, Tao Ren, Changhu Wang, Yifan Wang, **Wei Ju**, Huaizhi Tang, Junyu Luo, Zimo Wang, Ziyue Qiao, Xian-Sheng Hua, Xiao Luo  <br>
