@@ -44,7 +44,7 @@ Editorial Board Member
 Area Chair / Senior Program Committee Member
 =====
 * **Area Chair**:\\
-2027: ICLR, AAAI, IJCNN\\
+2027: ICML, ICLR, AAAI, IJCNN\\
 2026: ICML, ICLR, ARR, KDD, ACMMM, ICASSP, IJCNN, ACML\\
 2025: ICML, ARR, ACMMM, IJCNN, ACML
 
@@ -56,6 +56,7 @@ Area Chair / Senior Program Committee Member
 
 <span style="color:red">What’s New</span>
 =====
+* **2026-10**: Invited to serve as the Area Chair for ICML 2027!
 * **2026-9**: One paper has been accepted by ***Bioinformatics 2026*** !!
 * **2026-9**: Three papers have been accepted by ***NeurIPS 2025*** !!
 * **2026-9**: One paper has been accepted by ***BIBM 2026*** !!
