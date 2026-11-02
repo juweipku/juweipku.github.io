@@ -45,7 +45,7 @@ Shanwen Tan, Ziyang Dong, **Wei Ju**, Yiwei Fu, Hao Wu, Kun Wang, Yifan Wang, Zi
 Annual Meeting of the Association for Computational Linguistics, 1: 6711--6735 [Pub: 2026-7-2] <br>
 ***ACL 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *DANCE: Diversity-attended Dynamic Caching with Asymmetric Quantization for Test-time Adaptation of Vision-language Models* [[Paper](https://aclanthology.org/2026.findings-acl.1860.pdf)] <br>
+1.  *DANCE: Diversity-attended Dynamic Caching with Asymmetric Quantization for Test-time Adaptation of Vision-language Models* [[Paper](https://aclanthology.org/2026.findings-acl.1860.pdf)][[Code](https://github.com/lingtingting123/DANCE)] <br>
 Shunge Zou, Changhu Wang, **Wei Ju**, Ziyue Qiao, Xiao Luo <br>
 Annual Meeting of the Association for Computational Linguistics, 37329–37343 [Pub: 2026-7-2] <br>
 ***ACL 2026 Findings, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
