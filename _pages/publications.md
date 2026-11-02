@@ -15,9 +15,9 @@ author_profile: true
 International Conference on Learning Representations, [Pub: 2026-1-26]<br>
 ***ICLR 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation, Top 1%</span>***
 
-1.  *Identifying and Correcting Label Noise for Robust GNNs via Influence Contradiction* [To appear] <br>
+1.  *Identifying and Correcting Label Noise for Robust GNNs via Influence Contradiction* [[Paper](https://openreview.net/pdf?id=rR97qOfb7W)][[Code](https://github.com/wayc04/ICGNN)] <br>
 **Wei Ju**, Wei Zhang, Siyu Yi, Zhengyang Mao, Yifan Wang, Jingyang Yuan, Zhiping Xiao, Ziyue Qiao, Ming Zhang <br>
-International Conference on Machine Learning <br>
+International Conference on Machine Learning, 306: 54828-54846 [Pub: 2026-7-6] <br>
 ***ICML 2026, <span style="color:red">CCF-A</span>***
 
 1.  *Long-Tailed Recognition of Evidential Experts for Graph-level Classification* [[Paper](https://dl.acm.org/doi/epdf/10.1145/3774904.3792521)] <br>
@@ -30,9 +30,9 @@ Caiyang Yu, **Wei Ju**, Haixin Wang, Yifan Wang, Ziyue Qiao <br>
 International Conference on Learning Representations, [Pub: 2026-1-26]<br>
 ***ICLR 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction* [To appear] <br>
+1.  *Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction* [[Paper](https://openreview.net/pdf?id=YHLkqytT2p)][[Code](https://github.com/walawalagoose/MOON)] <br>
 Jiazhen Huang, Zhiming Liu, Changhu Wang, **Wei Ju**, Ziyue Qiao, Xiao Luo <br>
-International Conference on Machine Learning <br>
+International Conference on Machine Learning, 306: 47178–47211 [Pub: 2026-7-6] <br>
 ***ICML 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *Progressive Neural Architecture Generation* [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Yu_Progressive_Neural_Architecture_Generation_CVPR_2026_paper.pdf)] <br>
@@ -125,19 +125,19 @@ Junyu Luo, Hang Zhou, Yusheng Zhao, Xiao Luo, Zhiping Xiao, Pengyun Wang, **Wei 
 International Conference on Learning Representations, [Pub: 2026-1-26]<br>
 ***ICLR 2026, <span style="color:red">CCF-A</span>***
 
-1.  *CLINIC: Towards High-quality Graph Out-Of-Distribution Detection* [To appear] <br>
+1.  *CLINIC: Towards High-quality Graph Out-Of-Distribution Detection* [[Paper](https://openreview.net/pdf?id=iU0G5m6dhf)][[Code](https://github.com/sodarin/CLINIC-for-OOD-detection)] <br>
 Yifan Wang, Haodong Zhang, Changhu Wang, Tao Ren, Dongjie Wang, **Wei Ju**, Chong Chen, Xian-Sheng Hua, Xiao Luo <br>
-International Conference on Machine Learning <br>
+International Conference on Machine Learning, 306: 132464–132478 [Pub: 2026-7-6] <br>
 ***ICML 2026, <span style="color:red">CCF-A</span>***
 
-1.  *CELL: A Causal Perspective for Fairness-aware Graph Adaptation* [To appear] <br>
+1.  *CELL: A Causal Perspective for Fairness-aware Graph Adaptation* [[Paper](https://openreview.net/pdf?id=AheW1kJ5E9)][[Code](https://github.com/HourunLi/CELL_ICML_2026.git)] <br>
 Hourun Li, Yifan Wang, Qinghua Ran, Junyu Luo, Jia Yang, Changling Zhou, Zhiping Xiao, **Wei Ju**, Xiao Luo, Ming Zhang <br>
-International Conference on Machine Learning <br>
+International Conference on Machine Learning, 306: 70878–70896 [Pub: 2026-7-6] <br>
 ***ICML 2026, <span style="color:red">CCF-A</span>***
 
-1.  *CURE: Context-driven Diffusion with Progressive Expansion for Single Domain Generalization in Time Series Classification* [To appear] <br>
+1.  *CURE: Context-driven Diffusion with Progressive Expansion for Single Domain Generalization in Time Series Classification* [[Paper](https://openreview.net/pdf?id=BgCTOYTtqi)] <br>
 Yuhang Pei, Fanchun Meng, Wenrui Wu, Tao Ren, Yifan Wang, **Wei Ju**, Chao Zheng, Xiao Luo <br>
-International Conference on Machine Learning <br>
+International Conference on Machine Learning, 306: 97738–97755 [Pub: 2026-7-6] <br>s
 ***ICML 2026, <span style="color:red">CCF-A</span>***
 
 1.  *CLEAR: Complementary Tripartite Play with Bayesian Calibration for Semi-Supervised Edge Classification* [To appear] <br>
