@@ -137,7 +137,7 @@ International Conference on Machine Learning, 306: 70878–70896 [Pub: 2026-7-6]
 
 1.  *CURE: Context-driven Diffusion with Progressive Expansion for Single Domain Generalization in Time Series Classification* [[Paper](https://openreview.net/pdf?id=BgCTOYTtqi)] <br>
 Yuhang Pei, Fanchun Meng, Wenrui Wu, Tao Ren, Yifan Wang, **Wei Ju**, Chao Zheng, Xiao Luo <br>
-International Conference on Machine Learning, 306: 97738–97755 [Pub: 2026-7-6] <br>s
+International Conference on Machine Learning, 306: 97738–97755 [Pub: 2026-7-6] <br>
 ***ICML 2026, <span style="color:red">CCF-A</span>***
 
 1.  *CLEAR: Complementary Tripartite Play with Bayesian Calibration for Semi-Supervised Edge Classification* [To appear] <br>
