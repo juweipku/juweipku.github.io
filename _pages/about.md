@@ -200,7 +200,88 @@ Area Chair / Senior Program Committee Member
 
 </div>
 
-<button id="news-toggle" type="button" aria-expanded="false" aria-controls="news-list" hidden style="border:none;background:none;padding:0;color:#007acc;cursor:pointer;font:inherit;">More</button>
+<style>
+.news-toggle-wrap {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+#news-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+
+  min-width: 112px;
+  margin: 18px 0 28px;
+  padding: 10px 26px;
+
+  border: 1px solid rgba(148, 163, 184, 0.25);
+  border-radius: 999px;
+
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.88),
+    rgba(233, 240, 247, 0.65)
+  );
+
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+
+  color: #64748b;
+  font: inherit;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1.4;
+
+  box-shadow:
+    0 4px 18px rgba(71, 85, 105, 0.10),
+    inset 0 1px 0 rgba(255, 255, 255, 0.9);
+
+  cursor: pointer;
+  transition:
+    background 0.2s ease,
+    box-shadow 0.2s ease,
+    transform 0.2s ease;
+}
+
+#news-toggle:hover {
+  background: rgba(235, 242, 249, 0.9);
+  box-shadow: 0 6px 22px rgba(71, 85, 105, 0.16);
+  transform: translateY(-1px);
+}
+
+/* More 右侧的向下箭头 */
+#news-toggle::after {
+  content: "";
+  width: 6px;
+  height: 6px;
+  border-right: 1.5px solid currentColor;
+  border-bottom: 1.5px solid currentColor;
+  transform: translateY(-2px) rotate(45deg);
+}
+
+/* 展开后，箭头朝上 */
+#news-toggle[aria-expanded="true"]::after {
+  transform: translateY(2px) rotate(225deg);
+}
+
+#news-toggle:focus-visible {
+  outline: 2px solid #94a3b8;
+  outline-offset: 4px;
+}
+
+#news-toggle[hidden] {
+  display: none;
+}
+</style>
+
+<div class="news-toggle-wrap" markdown="0">
+<button id="news-toggle" type="button" aria-expanded="false" aria-controls="news-list" hidden>More</button>
+</div>
+
+
 
 <script>
 (function () {
