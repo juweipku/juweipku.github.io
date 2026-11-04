@@ -214,7 +214,7 @@ Area Chair / Senior Program Committee Member
   gap: 10px;
 
   min-width: 112px;
-  margin: 18px 0 28px;
+  margin: 4px 0 28px;
   padding: 10px 26px;
 
   border: 1px solid rgba(148, 163, 184, 0.25);
@@ -231,7 +231,7 @@ Area Chair / Senior Program Committee Member
 
   color: #64748b;
   font: inherit;
-  font-size: 15px;
+  font-size: 17px;
   font-weight: 500;
   line-height: 1.4;
 
