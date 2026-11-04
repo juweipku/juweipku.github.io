@@ -320,35 +320,6 @@ Area Chair / Senior Program Committee Member
 })();
 </script>
 
-
-
-<script>
-(function () {
-  const limit = 20;
-  const items = document.querySelectorAll("#news-list > ul > li");
-  const button = document.getElementById("news-toggle");
-
-  let expanded = false;
-
-  function updateNews() {
-    items.forEach((item, index) => {
-      item.style.display = (expanded || index < limit) ? "" : "none";
-    });
-
-    button.textContent = expanded ? "Less" : "More";
-    button.setAttribute("aria-expanded", String(expanded));
-    button.hidden = items.length <= limit;
-  }
-
-  button.addEventListener("click", function () {
-    expanded = !expanded;
-    updateNews();
-  });
-
-  updateNews();
-})();
-</script>
-
 <!-- Nature 子刊
 =====
 1.  *Poisoning medical knowledge using large language models* [[Paper](../files/24NMI.pdf)][[Code](https://github.com/yjwtheonly/Scorpius)] <br>
