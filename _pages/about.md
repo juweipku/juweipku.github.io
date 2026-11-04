@@ -300,10 +300,10 @@ Advances in Neural Information Processing Systems <br>
 ***NeurIPS 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 
-Funds and Projects
+<!-- Funds and Projects
 =====
 * Young Scientists Fund of the National Natural Science Foundation of China, **Principal Investigator**
-* China Postdoctoral Science Foundation Funded Project, **Principal Investigator**
+* China Postdoctoral Science Foundation Funded Project, **Principal Investigator** -->
 
 Honors and Awards
 =====
@@ -320,7 +320,7 @@ Honors and Awards
 * Jan. 2017: **The First Price Scholarship**, Sichuan University
 * May. 2014: **Top 1 of men's singles in table tennis competition for college students**, Sichuan Province
 
-Program Committee Member and Reviewer
+<!-- Program Committee Member and Reviewer
 =====
 Journal:
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
@@ -363,4 +363,4 @@ Conference:
 * 2025: ICLR, ICML, NeurIPS, KDD, WWW, CVPR, ICCV, ACL, EMNLP, AAAI, IJCAI, ACMMM, WSDM, CIKM, ICASSP
 * 2024: ICLR, ICML, NeurIPS, KDD, WWW, CVPR, ECCV, ACL, EMNLP, AAAI, IJCAI, ACMMM, WSDM, ICDM, CIKM, SDM, ICASSP, AISTATS, DASFAA, BMVC, PAKDD, LoG <!-- ACML, CAI -->
 * 2023: NeurIPS, KDD, AAAI, IJCAI, SIGIR, ACMMM, CIKM, ICDM, BMVC, LoG, ISKE
-* 2022: ECCV, IJCNN, ICONIP
+* 2022: ECCV, IJCNN, ICONIP -->
