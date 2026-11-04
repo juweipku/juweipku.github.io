@@ -200,17 +200,7 @@ Area Chair / Senior Program Committee Member
 
 </div>
 
-<button
-  id="news-toggle"
-  type="button"
-  aria-expanded="false"
-  aria-controls="news-list"
-  hidden
-  style="border: none; background: none; padding: 0;
-         color: #007acc; cursor: pointer; font: inherit;"
->
-  More
-</button>
+<button id="news-toggle" type="button" aria-expanded="false" aria-controls="news-list" hidden style="border:none;background:none;padding:0;color:#007acc;cursor:pointer;font:inherit;">More</button>
 
 <script>
 (function () {
