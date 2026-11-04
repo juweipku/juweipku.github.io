@@ -56,6 +56,7 @@ Area Chair / Senior Program Committee Member
 
 <span style="color:red">What’s New</span>
 =====
+<div id="news-list" markdown="1">
 * **2026-10**: Invited to serve as the Senior Program Committee (SPC) Member for IJCAI 2027!
 * **2026-10**: Invited to serve as the Area Chair for ICML 2027!
 * **2026-9**: One paper has been accepted by ***Bioinformatics 2026*** !!
@@ -194,6 +195,49 @@ Area Chair / Senior Program Committee Member
 * **2021-10**: One paper has been accepted by ***ICONIP 2021*** !!
 * **2021-9**: One paper has been accepted by ***ICTAI 2021*** !!
 * **2021-8**: One paper has been accepted by ***ICDE 2022*** !!
+</div>
+
+<button
+  id="news-toggle"
+  type="button"
+  aria-expanded="false"
+  aria-controls="news-list"
+  hidden
+  style="border: none; background: none; padding: 0;
+         color: #007acc; cursor: pointer; font: inherit;"
+>
+  More
+</button>
+
+<script>
+(function () {
+  const limit = 20;
+  const items = document.querySelectorAll("#news-list > ul > li");
+  const button = document.getElementById("news-toggle");
+
+  let expanded = false;
+
+  function updateNews() {
+    items.forEach((item, index) => {
+      item.style.display = (expanded || index < limit) ? "" : "none";
+    });
+
+    button.textContent = expanded ? "Less" : "More";
+    button.setAttribute("aria-expanded", String(expanded));
+
+    // 不超过20条时，不显示展开按钮
+    button.hidden = items.length <= limit;
+  }
+
+  button.addEventListener("click", function () {
+    expanded = !expanded;
+    updateNews();
+  });
+
+  // 页面打开时，默认只显示前20条
+  updateNews();
+})();
+</script>
 
 
 <!-- Nature 子刊
