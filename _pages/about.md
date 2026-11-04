@@ -9,13 +9,13 @@ redirect_from:
 
 Wei Ju (琚玮) is currently an Associate Professor (副研究员) with the School of Artificial Intelligence, Sichuan University (SCU), Chengdu, China. He is also a member of [DICALab](https://dicalab.cn/) (Data Intelligence and Computing Arts Lab), which is led by Prof. [Jiancheng Lv (吕建成)](https://cs.scu.edu.cn/info/1303/13767.htm). Before joining SCU, he worked as a postdoc research fellow and received his Ph.D. degree in the School of Computer Science from Peking University in June 2022, under the supervision of Prof. [Ming Zhang (张铭)](https://cs.pku.edu.cn/info/1086/1730.htm). His current research interests lie primarily in the area of graph machine learning (graph neural networks, graph representation learning), large language model (multi-agent), and interdisciplinary applications such as bioinformatics (spatial transcriptomics, multi-omics), drug discovery, recommender systems, and knowledge graphs.
 
-琚玮，四川大学人工智能学院特聘副研究员，**入选国家博士后创新人才支持计划（国资计划A档），天府峨眉计划青年人才（四川省“千人计划”），斯坦福大学年度全球前 2% 顶尖科学家**，中国计算机学会人工智能与模式识别专委会委员，中文信息学会大模型与生成专委会委员。于2022年在北京大学计算机学院获博士学位，研究兴趣主要集中图机器学习（图神经网络、图表示学习）、科学智能（AI4Science：生物信息学、药物发现）、大语言模型、多智能体、推荐系统、知识图谱等等。主持国家自然科学基金（面上+青年）、国家科技重大专项子课题（任务负责人）、四川省自然科学基金青年基金B类、中国博士后科学基金面上项目，作为项目核心骨干参与多项国家重点研发计划和企业横向基金课题。近5年来共发表国际顶级学术论文100余篇（Nature子刊一篇，CCF-A/一区论文80余篇），总引用次数为<a href='https://scholar.google.com/citations?user=GX05vA4AAAAJ'><img src="https://img.shields.io/endpoint?url=https://maxin88scu.github.io/google-scholar-citations-badge/citations.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>，总影响因子超过400，相关研究成果发表在**Nature Machine Intelligence (Nature 子刊)**、TPAMI、TKDE、TOIS、TIP、TMM、AIJ、ICLR、ICML、NeurIPS、CVPR、ACL、KDD、WWW、AAAI、ACMMM、IJCAI等机器学习和数据挖掘的国际顶级期刊和会议上，其中多篇会议论文入选最佳论文/口头报告（ICLR 2026 Oral Paper, Top 1%、NeurIPS 2026 Spotlight, Top 1%、ICDM 2022最佳论文提名奖、ISNN 2026最佳学生论文奖），并荣获2023年度ACM SIGCSE中国“优博奖”。入选ESI全球前0.1%热点论文1篇，前1%高被引论文6篇。**现担任国际顶级期刊IEEE TCSVT、Pattern Recognition、Expert Systems with Applications副主编，Information Fusion、Neurocomputing、Applied Soft Computing，Frontiers in Big Data编委**，并在多个国际顶级会议和期刊如ICLR、ICML、NeurIPS、KDD、WWW、CVPR、ACL、AAAI、ACMMM、IJCAI、TPAMI、TKDE、TOIS、TMM、TNNLS等担任领域主席、高级程序委员会成员和审稿人。
+琚玮，四川大学人工智能学院特聘副研究员，**TCL青年学者，入选国家博士后创新人才支持计划（国资计划A档），天府峨眉计划青年人才（四川省“千人计划”），斯坦福大学年度全球前 2% 顶尖科学家**，中国计算机学会人工智能与模式识别专委会委员，中文信息学会大模型与生成专委会委员。于2022年在北京大学计算机学院获博士学位，研究兴趣主要集中图机器学习（图神经网络、图表示学习）、科学智能（AI4Science：生物信息学、药物发现）、大语言模型、多智能体、推荐系统、知识图谱等等。主持国家自然科学基金（面上+青年）、国家科技重大专项子课题（任务负责人）、四川省自然科学基金青年基金B类、中国博士后科学基金面上项目，作为项目核心骨干参与多项国家重点研发计划和企业横向基金课题。近5年来共发表国际顶级学术论文100余篇（Nature子刊一篇，CCF-A/一区论文80余篇），总引用次数为<a href='https://scholar.google.com/citations?user=GX05vA4AAAAJ'><img src="https://img.shields.io/endpoint?url=https://maxin88scu.github.io/google-scholar-citations-badge/citations.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>，总影响因子超过400，相关研究成果发表在**Nature Machine Intelligence (Nature 子刊)**、TPAMI、TKDE、TOIS、TIP、TMM、AIJ、ICLR、ICML、NeurIPS、CVPR、ACL、KDD、WWW、AAAI、ACMMM、IJCAI等机器学习和数据挖掘的国际顶级期刊和会议上，其中多篇会议论文入选最佳论文/口头报告（ICLR 2026 Oral Paper, Top 1%、NeurIPS 2026 Spotlight, Top 1%、ICDM 2022最佳论文提名奖、ISNN 2026最佳学生论文奖），并荣获2023年度ACM SIGCSE中国“优博奖”。入选ESI全球前0.1%热点论文1篇，前1%高被引论文6篇。**现担任国际顶级期刊IEEE TCSVT、Pattern Recognition、Expert Systems with Applications副主编，Information Fusion、Neurocomputing、Applied Soft Computing，Frontiers in Big Data编委**，并在多个国际顶级会议和期刊如ICLR、ICML、NeurIPS、KDD、WWW、CVPR、ACL、AAAI、ACMMM、IJCAI、TPAMI、TKDE、TOIS、TMM、TNNLS等担任领域主席、高级程序委员会成员和审稿人。
 <!-- 此外，长期担任由中国科协和教育部联合组织的中学生科技创新后备人才培养计划（“英才计划”）的辅导老师，指导优秀中学生进行科研探索和科技创新。 -->
 
 **Email:** juwei@scu.edu.cn, juwei@pku.edu.cn
 <!-- I have also been closely working with Prof. [Jian Tang](https://jian-tang.com/), who is my supervior at [Mila](https://mila.quebec/en/) during Sept. 2018 - Sept. 2019. -->
 
-**<span style="color:red">招收2027年秋季入学硕士研究生2名，欢迎有意向的同学投递简历至juwei@scu.edu.cn</span>**
+**<span style="color:red">招收2028年秋季入学硕士研究生2名，欢迎有意向的同学投递简历至juwei@scu.edu.cn</span>**
 
 **<span style="color:red">长期招收solid background and self-motivated的研究生与本科生</span>**
 
@@ -196,14 +196,14 @@ Area Chair / Senior Program Committee Member
 * **2021-8**: One paper has been accepted by ***ICDE 2022*** !!
 
 
-Nature 子刊
+<!-- Nature 子刊
 =====
 1.  *Poisoning medical knowledge using large language models* [[Paper](../files/24NMI.pdf)][[Code](https://github.com/yjwtheonly/Scorpius)] <br>
 Junwei Yang, Hanwen Xu, Srbuhi Mirzoyan, Tong Chen, Zixuan Liu, Zequn Liu, **Wei Ju**, Luchen Liu, Zhiping Xiao, Ming Zhang, Sheng Wang <br>
 Nature Machine Intelligence, 6(10): 1156–1168  [Pub: 2024-9-20] <br>
-***NMI 2024, <span style="color:red">IF=18.8 (Nature 子刊)</span>***
+***NMI 2024, <span style="color:red">IF=18.8 (Nature 子刊)</span>*** -->
 
-Survey
+<!-- Survey
 =====
 1.  *A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges* [[Paper](../files/25TPAMI-Survey.pdf)] <br>
 **Wei Ju**, Siyu Yi, Yifan Wang, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Philip S Yu, Ming Zhang <br>
@@ -236,7 +236,7 @@ IEEE Transactions on Big Data <br>
 Junyu Luo, Weizhi Zhang, Ye Yuan, Yusheng Zhao, Junwei Yang, Yiyang Gu, Bohan Wu, Binqi Chen, Ziyue Qiao, Qingqing Long, Rongcheng Tu, Xiao Luo, **Wei Ju**, Zhiping Xiao, Yifan Wang, Meng Xiao, Chenwu Liu, Jingyang Yuan, Shichang Zhang, Yiqiao Jin, Fan Zhang, Xian Wu, Hanqing Zhao, Dacheng Tao, Philip S. Yu, Ming Zhang <br>
 
 1.  *A Survey on Graph Neural Networks in Intelligent Transportation Systems* [[Paper](https://arxiv.org/pdf/2401.00713.pdf)] <br>
-Hourun Li, Yusheng Zhao, Zhengyang Mao, Yifang Qin, Zhiping Xiao, Jiaqi Feng, Yiyang Gu, **Wei Ju**, Xiao Luo, Ming Zhang <br>
+Hourun Li, Yusheng Zhao, Zhengyang Mao, Yifang Qin, Zhiping Xiao, Jiaqi Feng, Yiyang Gu, **Wei Ju**, Xiao Luo, Ming Zhang <br> -->
 
 <!-- Preprints
 =====
@@ -253,6 +253,11 @@ Zequn Liu, Ruiyi Zhang, Yiping Song, **Wei Ju**, Ming Zhang <br> -->
 Selected Publications [[See All](https://juweipku.github.io/publications/)]
 =====
 (\* Equal Contribution)
+
+1.  *Poisoning medical knowledge using large language models* [[Paper](../files/24NMI.pdf)][[Code](https://github.com/yjwtheonly/Scorpius)] <br>
+Junwei Yang, Hanwen Xu, Srbuhi Mirzoyan, Tong Chen, Zixuan Liu, Zequn Liu, **Wei Ju**, Luchen Liu, Zhiping Xiao, Ming Zhang, Sheng Wang <br>
+Nature Machine Intelligence, 6(10): 1156–1168  [Pub: 2024-9-20] <br>
+***NMI 2024, <span style="color:red">IF=18.8 (Nature 子刊)</span>***
 
 1.  *A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges* [[Paper](25-TPAMI-Survey.pdf)] <br>
 **Wei Ju**, Siyu Yi, Yifan Wang, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Philip S Yu, Ming Zhang <br>
