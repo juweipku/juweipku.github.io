@@ -201,12 +201,30 @@ Area Chair / Senior Program Committee Member
 </div>
 
 <style>
+/* 去掉列表之间的额外空白 */
+#news-list > ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* 第21条：只露出一行，并逐渐变透明 */
+#news-list > ul > li.news-preview {
+  line-height: 1.6;
+  max-height: 1.6em;
+  margin-bottom: 0;
+  overflow: hidden;
+  -webkit-mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.45), transparent);
+  mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.45), transparent);
+}
+
+/* 按钮居中 */
 .news-toggle-wrap {
   display: flex;
   justify-content: center;
   width: 100%;
 }
 
+/* 按钮外观 */
 #news-toggle {
   display: inline-flex;
   align-items: center;
@@ -219,12 +237,7 @@ Area Chair / Senior Program Committee Member
 
   border: 1px solid rgba(148, 163, 184, 0.25);
   border-radius: 999px;
-
-  background: linear-gradient(
-    135deg,
-    rgba(255, 255, 255, 0.88),
-    rgba(233, 240, 247, 0.65)
-  );
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.88), rgba(233, 240, 247, 0.65));
 
   -webkit-backdrop-filter: blur(12px);
   backdrop-filter: blur(12px);
@@ -235,15 +248,9 @@ Area Chair / Senior Program Committee Member
   font-weight: 500;
   line-height: 1.4;
 
-  box-shadow:
-    0 4px 18px rgba(71, 85, 105, 0.10),
-    inset 0 1px 0 rgba(255, 255, 255, 0.9);
-
+  box-shadow: 0 4px 18px rgba(71, 85, 105, 0.10);
   cursor: pointer;
-  transition:
-    background 0.2s ease,
-    box-shadow 0.2s ease,
-    transform 0.2s ease;
+  transition: background 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
 }
 
 #news-toggle:hover {
@@ -252,7 +259,7 @@ Area Chair / Senior Program Committee Member
   transform: translateY(-1px);
 }
 
-/* More 右侧的向下箭头 */
+/* 向下箭头 */
 #news-toggle::after {
   content: "";
   width: 6px;
@@ -262,7 +269,7 @@ Area Chair / Senior Program Committee Member
   transform: translateY(-2px) rotate(45deg);
 }
 
-/* 展开后，箭头朝上 */
+/* 展开后箭头向上 */
 #news-toggle[aria-expanded="true"]::after {
   transform: translateY(2px) rotate(225deg);
 }
@@ -280,6 +287,38 @@ Area Chair / Senior Program Committee Member
 <div class="news-toggle-wrap" markdown="0">
 <button id="news-toggle" type="button" aria-expanded="false" aria-controls="news-list" hidden>More</button>
 </div>
+
+<script>
+(function () {
+  const limit = 20;
+  const items = document.querySelectorAll("#news-list > ul > li");
+  const button = document.getElementById("news-toggle");
+
+  let expanded = false;
+
+  function updateNews() {
+    items.forEach((item, index) => {
+      const isPreview = !expanded && index === limit;
+
+      item.style.display =
+        (expanded || index < limit || isPreview) ? "" : "none";
+
+      item.classList.toggle("news-preview", isPreview);
+    });
+
+    button.textContent = expanded ? "Less" : "More";
+    button.setAttribute("aria-expanded", String(expanded));
+    button.hidden = items.length <= limit;
+  }
+
+  button.addEventListener("click", function () {
+    expanded = !expanded;
+    updateNews();
+  });
+
+  updateNews();
+})();
+</script>
 
 
 
