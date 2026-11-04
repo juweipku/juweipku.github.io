@@ -56,7 +56,9 @@ Area Chair / Senior Program Committee Member
 
 <span style="color:red">What’s New</span>
 =====
+
 <div id="news-list" markdown="1">
+
 * **2026-10**: Invited to serve as the Senior Program Committee (SPC) Member for IJCAI 2027!
 * **2026-10**: Invited to serve as the Area Chair for ICML 2027!
 * **2026-9**: One paper has been accepted by ***Bioinformatics 2026*** !!
@@ -195,6 +197,7 @@ Area Chair / Senior Program Committee Member
 * **2021-10**: One paper has been accepted by ***ICONIP 2021*** !!
 * **2021-9**: One paper has been accepted by ***ICTAI 2021*** !!
 * **2021-8**: One paper has been accepted by ***ICDE 2022*** !!
+
 </div>
 
 <button
@@ -224,8 +227,6 @@ Area Chair / Senior Program Committee Member
 
     button.textContent = expanded ? "Less" : "More";
     button.setAttribute("aria-expanded", String(expanded));
-
-    // 不超过20条时，不显示展开按钮
     button.hidden = items.length <= limit;
   }
 
@@ -234,11 +235,9 @@ Area Chair / Senior Program Committee Member
     updateNews();
   });
 
-  // 页面打开时，默认只显示前20条
   updateNews();
 })();
 </script>
-
 
 <!-- Nature 子刊
 =====
@@ -406,5 +405,5 @@ Conference:
 * 2026: ICLR, ICML, CVPR, AAAI, IJCAI
 * 2025: ICLR, ICML, NeurIPS, KDD, WWW, CVPR, ICCV, ACL, EMNLP, AAAI, IJCAI, ACMMM, WSDM, CIKM, ICASSP
 * 2024: ICLR, ICML, NeurIPS, KDD, WWW, CVPR, ECCV, ACL, EMNLP, AAAI, IJCAI, ACMMM, WSDM, ICDM, CIKM, SDM, ICASSP, AISTATS, DASFAA, BMVC, PAKDD, LoG <!-- ACML, CAI -->
-* 2023: NeurIPS, KDD, AAAI, IJCAI, SIGIR, ACMMM, CIKM, ICDM, BMVC, LoG, ISKE
+<!-- * 2023: NeurIPS, KDD, AAAI, IJCAI, SIGIR, ACMMM, CIKM, ICDM, BMVC, LoG, ISKE
 * 2022: ECCV, IJCNN, ICONIP -->
