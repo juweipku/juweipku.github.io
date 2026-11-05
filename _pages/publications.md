@@ -10,6 +10,13 @@ author_profile: true
 
 2026
 ====
+1.  **Wei Ju**, Siyu Yi, Kangjie Zheng, Yifan Wang, Ziyue Qiao, Li Shen, Yongdao Zhou, Xiaochun Cao, Jiancheng Lv[[**Compactness and Consistency: A Conjoint Framework for Deep Graph Clustering**](https://openreview.net/pdf?id=9jdQLmPUHW)]. **International Conference on Learning Representations**. [Pub: 2026-1-26][[Code](https://github.com/juweipku/CoCo)]<br>
+***ICLR 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation, Top 1%</span>***
+
+1.  **Wei Ju**, Siyu Yi, Kangjie Zheng, Yifan Wang, Ziyue Qiao, Li Shen, Yongdao Zhou, Xiaochun Cao, Jiancheng Lv[[**Identifying and Correcting Label Noise for Robust GNNs via Influence Contradiction**](https://openreview.net/pdf?id=rR97qOfb7W)]. **International Conference on Machine Learning**, , 306: 54828-54846. [Pub: 2026-7-6][[Code](https://github.com/wayc04/ICGNN)]<br>
+***ICML 2026, <span style="color:red">CCF-A</span>***
+
+
 1.  *Compactness and Consistency: A Conjoint Framework for Deep Graph Clustering* [[Paper](https://openreview.net/pdf?id=9jdQLmPUHW)][[Code](https://github.com/juweipku/CoCo)] <br>
 **Wei Ju**, Siyu Yi, Kangjie Zheng, Yifan Wang, Ziyue Qiao, Li Shen, Yongdao Zhou, Xiaochun Cao, Jiancheng Lv <br>
 International Conference on Learning Representations, [Pub: 2026-1-26]<br>
