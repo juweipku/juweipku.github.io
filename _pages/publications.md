@@ -16,12 +16,6 @@ author_profile: true
 1.  **Wei Ju**, Wei Zhang, Siyu Yi, Zhengyang Mao, Yifan Wang, Jingyang Yuan, Zhiping Xiao, Ziyue Qiao, Ming Zhang. <a href="https://openreview.net/pdf?id=rR97qOfb7W" style="text-decoration: none; border-bottom: none;"><em>Identifying and Correcting Label Noise for Robust GNNs via Influence Contradiction</em></a>. *International Conference on Machine Learning*, 306: 54828-54846. [Pub: 2026-7-6][[Code](https://github.com/wayc04/ICGNN)]<br>
 ***ICML 2026, <span style="color:red">CCF-A</span>***
 
-1.  **Wei Ju**, Siyu Yi, Kangjie Zheng, Yifan Wang, Ziyue Qiao, Li Shen, Yongdao Zhou, Xiaochun Cao, Jiancheng Lv. <a href="https://openreview.net/pdf?id=9jdQLmPUHW" style="text-decoration: none; border-bottom: none;"><em>Compactness and Consistency: A Conjoint Framework for Deep Graph Clustering</em></a>. *International Conference on Learning Representations*. [Pub: 2026-1-26][[Code](https://github.com/juweipku/CoCo)]<br>
-***ICLR 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation, Top 1%</span>***
-
-1.  **Wei Ju**, Wei Zhang, Siyu Yi, Zhengyang Mao, Yifan Wang, Jingyang Yuan, Zhiping Xiao, Ziyue Qiao, Ming Zhang. <a href="https://openreview.net/pdf?id=rR97qOfb7W" style="text-decoration: none; border-bottom: none;"><em>Identifying and Correcting Label Noise for Robust GNNs via Influence Contradiction</em></a>. *International Conference on Machine Learning*, 306: 54828-54846. [Pub: 2026-7-6][[Code](https://github.com/wayc04/ICGNN)]<br>
-***ICML 2026, <span style="color:red">CCF-A</span>***
-
 1.  **Wei Ju**, Siyu Yi, Zhengyang Mao, Yifang Qin, Yifan Wang, Zhiping Xiao, Yiwei Fu, Ziyue Qiao, Ming Zhang. <a href="https://dl.acm.org/doi/epdf/10.1145/3774904.3792521" style="text-decoration: none; border-bottom: none;"><em>Long-Tailed Recognition of Evidential Experts for Graph-level Classification</em></a>. *ACM The Web Conference*, 1286-1297. [Pub: 2026-4-12]<br>
 ***WWW 2026, <span style="color:red">CCF-A</span>***
 
