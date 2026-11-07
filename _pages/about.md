@@ -399,6 +399,9 @@ Selected Publications [[See All](https://juweipku.github.io/publications/)]
 1.  **Wei Ju**, Zhengyang Mao, Siyu Yi, Yifang Qin, Yiyang Gu, Zhiping Xiao, Yifan Wang, Xiao Luo, Ming Zhang. <a href="https://proceedings.mlr.press/v235/ju24a.html" style="text-decoration: none; border-bottom: none;"><em>Hypergraph-enhanced Dual Semi-supervised Graph Classification</em></a>. *Proceedings of the 41st International Conference on Machine Learning, PMLR*, 235: 22594-22604, Vienna, Austria. [Pub: 2024-7-21]<br>
 ***ICML 2024, <span style="color:red">CCF-A</span>***
 
+1.  Jiazhen Huang, Zhiming Liu, Changhu Wang, **Wei Ju**, Ziyue Qiao, Xiao Luo. <a href="https://proceedings.mlr.press/v306/huang26ag.html" style="text-decoration: none; border-bottom: none;"><em>Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction</em></a>. *Proceedings of the 43rd International Conference on Machine Learning, PMLR*, 306: 47178–47211, Seoul, South Korea. [Pub: 2026-7-6][[Code](https://github.com/walawalagoose/MOON)]<br>
+***ICML 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  Yifan Wang, Hourun Li, Ling Yue, Zhiping Xiao, Jia Yang, Changling Zhou, **Wei Ju**, Ming Zhang, Xiao Luo. <a href="https://proceedings.mlr.press/v267/wang25bf.html" style="text-decoration: none; border-bottom: none;"><em>DANCE: Dual Unbiased Expansion with Group-acquired Alignment for Out-of-distribution Graph Fairness Learning</em></a>. *Proceedings of the 42nd International Conference on Machine Learning, PMLR*, 267: 63516-63529, Vancouver, Canada. [Pub: 2025-7-13][[Code](https://github.com/HourunLi/DANCE_ICML_2025)]<br>
 ***ICML 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
