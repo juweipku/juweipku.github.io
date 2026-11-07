@@ -378,49 +378,31 @@ Selected Publications [[See All](https://juweipku.github.io/publications/)]
 =====
 (\* Equal Contribution)
 
-1.  *Poisoning medical knowledge using large language models* [[Paper](../files/24NMI.pdf)][[Code](https://github.com/yjwtheonly/Scorpius)] <br>
-Junwei Yang, Hanwen Xu, Srbuhi Mirzoyan, Tong Chen, Zixuan Liu, Zequn Liu, **Wei Ju**, Luchen Liu, Zhiping Xiao, Ming Zhang, Sheng Wang <br>
-Nature Machine Intelligence, 6(10): 1156–1168  [Pub: 2024-9-20] <br>
+1.  Junwei Yang, Hanwen Xu, Srbuhi Mirzoyan, Tong Chen, Zixuan Liu, Zequn Liu, **Wei Ju**, Luchen Liu, Zhiping Xiao, Ming Zhang, Sheng Wang. <a href="https://www.nature.com/articles/s42256-024-00899-3" style="text-decoration: none; border-bottom: none;"><em>Poisoning medical knowledge using large language models</em></a>. *Nature Machine Intelligence*, 6(10): 1156–1168. [Pub: 2024-9-20][[Code](https://github.com/yjwtheonly/Scorpius)]<br>
 ***NMI 2024, <span style="color:red">IF=18.8 (Nature 子刊)</span>***
 
-1.  *A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges* [[Paper](25-TPAMI-Survey.pdf)] <br>
-**Wei Ju**, Siyu Yi, Yifan Wang, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Philip S Yu, Ming Zhang <br>
-IEEE Transactions on Pattern Analysis and Machine Intelligence, 48(3), 3036-3055 [Pub: 2025-11-7] <br>
+1.  **Wei Ju**, Siyu Yi, Yifan Wang, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Philip S Yu, Ming Zhang. <a href="https://ieeexplore.ieee.org/document/11235609" style="text-decoration: none; border-bottom: none;"><em>A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges</em></a>. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 48(3), 3036-3055. [Pub: 2025-11-7]<br>
 ***TPAMI 2025, <span style="color:red">CCF-A, JCR Q1, IF=18.6</span>***
 
-1.  *GALA: Graph Diffusion-based Alignment with Jigsaw for Source-free Domain Adaptation* [[Paper](../files/24TPAMI-GALA.pdf)][[Code](https://github.com/luo-junyu/GALA)] <br>
-Junyu Luo, Yiyang Gu, Xiao Luo, **Wei Ju**, Yusheng Zhao, Zhiping Xiao, Jingyang Yuan, Ming Zhang <br>
-IEEE Transactions on Pattern Analysis and Machine Intelligence, 46(12): 9038-9051 [Pub: 2024-6-18] <br>
+1.  Junyu Luo, Yiyang Gu, Xiao Luo, **Wei Ju**, Yusheng Zhao, Zhiping Xiao, Jingyang Yuan, Ming Zhang. <a href="https://ieeexplore.ieee.org/document/10561561" style="text-decoration: none; border-bottom: none;"><em>GALA: Graph Diffusion-based Alignment with Jigsaw for Source-free Domain Adaptation</em></a>. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 46(12): 9038-9051. [Pub: 2024-6-18][[Code](https://github.com/luo-junyu/GALA)]<br>
 ***TPAMI 2024, <span style="color:red">CCF-A, JCR Q1, IF=23.6</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Compactness and Consistency: A Conjoint Framework for Deep Graph Clustering* [To appear] <br>
-**Wei Ju**, Siyu Yi, Kangjie Zheng, Yifan Wang, Ziyue Qiao, Li Shen, Yongdao Zhou, Xiaochun Cao, Jiancheng Lv <br>
-International Conference on Learning Representations<br>
+1.  **Wei Ju**, Siyu Yi, Kangjie Zheng, Yifan Wang, Ziyue Qiao, Li Shen, Yongdao Zhou, Xiaochun Cao, Jiancheng Lv. <a href="https://openreview.net/forum?id=9jdQLmPUHW" style="text-decoration: none; border-bottom: none;"><em>Compactness and Consistency: A Conjoint Framework for Deep Graph Clustering</em></a>. *International Conference on Learning Representations*, Rio de Janeiro, Brazil. [Pub: 2026-1-26][[Code](https://github.com/juweipku/CoCo)]<br>
 ***ICLR 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation, Top 1%</span>***
 
-1.  *Identifying and Correcting Label Noise for Robust GNNs via Influence Contradiction* [To appear] <br>
-**Wei Ju**, Wei Zhang, Siyu Yi, Zhengyang Mao, Yifan Wang, Jingyang Yuan, Zhiping Xiao, Ziyue Qiao, Ming Zhang <br>
-International Conference on Machine Learning <br>
+1.  **Wei Ju**, Wei Zhang, Siyu Yi, Zhengyang Mao, Yifan Wang, Jingyang Yuan, Zhiping Xiao, Ziyue Qiao, Ming Zhang. <a href="https://proceedings.mlr.press/v306/ju26c.html" style="text-decoration: none; border-bottom: none;"><em>Identifying and Correcting Label Noise for Robust GNNs via Influence Contradiction</em></a>. *Proceedings of the 43rd International Conference on Machine Learning, PMLR*, 306: 54828-54846, Seoul, South Korea. [Pub: 2026-7-6][[Code](https://github.com/wayc04/ICGNN)]<br>
 ***ICML 2026, <span style="color:red">CCF-A</span>***
 
-1.  *Dynamic Multi-sample Mixup with Gradient Exploration for Open-set Graph Anomaly Detection* [To appear] <br>
-Caiyang Yu, **Wei Ju**, Haixin Wang, Yifan Wang, Ziyue Qiao <br>
-International Conference on Learning Representations<br>
-***ICLR 2026, <span style="color:orange">Corresponding Author</span>***
+1.  Caiyang Yu, **Wei Ju**, Haixin Wang, Yifan Wang, Ziyue Qiao. <a href="https://openreview.net/forum?id=zefuSJ3nOg" style="text-decoration: none; border-bottom: none;"><em>Dynamic Multi-sample Mixup with Gradient Exploration for Open-set Graph Anomaly Detection</em></a>. *International Conference on Learning Representations*, Rio de Janeiro, Brazil. [Pub: 2026-1-26][[Code](https://github.com/yucy324/DEMO)]<br>
+***ICLR 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Hypergraph-enhanced Dual Semi-supervised Graph Classification* [[Paper](../files/ICML24-HEAL.pdf)] <br>
-**Wei Ju**, Zhengyang Mao, Siyu Yi, Yifang Qin, Yiyang Gu, Zhiping Xiao, Yifan Wang, Xiao Luo, Ming Zhang <br>
-International Conference on Machine Learning <br>
+1.  **Wei Ju**, Zhengyang Mao, Siyu Yi, Yifang Qin, Yiyang Gu, Zhiping Xiao, Yifan Wang, Xiao Luo, Ming Zhang. <a href="https://proceedings.mlr.press/v235/ju24a.html" style="text-decoration: none; border-bottom: none;"><em>Hypergraph-enhanced Dual Semi-supervised Graph Classification</em></a>. *Proceedings of the 41st International Conference on Machine Learning, PMLR*, 235: 22594-22604, Vienna, Austria. [Pub: 2024-7-21]<br>
 ***ICML 2024, <span style="color:red">CCF-A</span>***
 
-1.  *DANCE: Dual Unbiased Expansion with Group-acquired Alignment for Out-of-distribution Graph Fairness Learning* [To appear] <br>
-Yifan Wang, Hourun Li, Ling Yue, Zhiping Xiao, Jia Yang, Changling Zhou, **Wei Ju**, Ming Zhang, Xiao Luo <br>
-International Conference on Machine Learning <br>
+1.  Yifan Wang, Hourun Li, Ling Yue, Zhiping Xiao, Jia Yang, Changling Zhou, **Wei Ju**, Ming Zhang, Xiao Luo. <a href="https://proceedings.mlr.press/v267/wang25bf.html" style="text-decoration: none; border-bottom: none;"><em>DANCE: Dual Unbiased Expansion with Group-acquired Alignment for Out-of-distribution Graph Fairness Learning</em></a>. *Proceedings of the 42nd International Conference on Machine Learning, PMLR*, 267: 63516-63529, Vancouver, Canada. [Pub: 2025-7-13][[Code](https://github.com/HourunLi/DANCE_ICML_2025)]<br>
 ***ICML 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  *Dual Prototype-Enhanced Contrastive Framework for Class-Imbalanced Graph Domain Adaptation* [To appear] <br>
-Xin Ma, Yifan Wang, Siyu Yi, **Wei Ju**, Junyu Luo, Yusheng Zhao, Xiao Luo, Jiancheng Lv <br>
-Advances in Neural Information Processing Systems <br>
+1.  Xin Ma, Yifan Wang, Siyu Yi, **Wei Ju**, Junyu Luo, Yusheng Zhao, Xiao Luo, Jiancheng Lv. <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/455b24e256981fb97f7a650993c35c98-Abstract-Conference.html" style="text-decoration: none; border-bottom: none;"><em>Dual Prototype-Enhanced Contrastive Framework for Class-Imbalanced Graph Domain Adaptation</em></a>. *Annual Conference on Neural Information Processing Systems*, 38: 54013-54039, San Diego, California, United States. [Pub: 2025-12-2][[Code](https://github.com/maxin88scu/ImGDA)]<br>
 ***NeurIPS 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 
