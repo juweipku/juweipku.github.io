@@ -43,16 +43,16 @@ author_profile: true
 1.  Chang Liu, Jinghong Tang, Lezhi Chen, Yifan Wang, Ziyue Qiao, Siyu Yi, **Wei Ju**. <em>stMRPC: Decoding Spatial Transcriptomics with Multimodal Rebalancing and Perspective-aware Clustering</em>. *ACM International Conference on Multimedia*. [To appear]<br>
 ***ACMMM 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  Caiyang Yu, **Wei Ju**, Wenrui Wu, Yifan Wang, Ziyue Qiao, Chong Chen, Xian-Sheng Hua, Xiao Luo. <a href="https://ieeexplore.ieee.org/document/11636210" style="text-decoration: none; border-bottom: none;"><em>FOND: Fine-grained Boundary Mining with Dual Bridging for Fair Graph Anomaly Detection</em>. *IEEE Transactions on Knowledge and Data Engineering*, 38(10), 6630-6643. [Pub: 2026-7-31]<br>
+1.  Caiyang Yu, **Wei Ju**, Wenrui Wu, Yifan Wang, Ziyue Qiao, Chong Chen, Xian-Sheng Hua, Xiao Luo. <a href="https://ieeexplore.ieee.org/document/11636210" style="text-decoration: none; border-bottom: none;"><em>FOND: Fine-grained Boundary Mining with Dual Bridging for Fair Graph Anomaly Detection</em></a>. *IEEE Transactions on Knowledge and Data Engineering*, 38(10), 6630-6643. [Pub: 2026-7-31]<br>
 ***TKDE 2026, <span style="color:red">CCF-A, JCR Q1, IF=11.6</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  Yifang Qin, Zhaobin Li, Arisa Watanabe, **Wei Ju**, Zhiping Xiao, and Ming Zhang. <em>Interests Burn-down Diffusion Process for Personalized Collaborative Filtering</em>. *ACM Transactions on Information Systems*. [To appear]<br>
 ***TOIS 2026, <span style="color:red">CCF-A, IF=5.4</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  Siyu Yi, Wei Zhang, Zhengyang Mao, Yongdao Zhou, Ziyue Qiao, Li Shen, Dacheng Tao, Jiancheng Lv, **Wei Ju**. <a href="https://www.sciencedirect.com/science/article/pii/S0004370226001347" style="text-decoration: none; border-bottom: none;"><em>Evidence-guided Learning against Noisy and Sparse Labels on Graphs</em>. *Artificial Intelligence*, 360: 104608. [Pub: 2026-9-2]<br>
+1.  Siyu Yi, Wei Zhang, Zhengyang Mao, Yongdao Zhou, Ziyue Qiao, Li Shen, Dacheng Tao, Jiancheng Lv, **Wei Ju**. <a href="https://www.sciencedirect.com/science/article/pii/S0004370226001347" style="text-decoration: none; border-bottom: none;"><em>Evidence-guided Learning against Noisy and Sparse Labels on Graphs</em></a>. *Artificial Intelligence*, 360: 104608. [Pub: 2026-9-2]<br>
 ***AIJ 2026, <span style="color:red">CCF-A, JCR Q1, IF=4.7</span>, <span style="color:orange">Corresponding Author</span>***
 
-1.  Boyang Fan, Hengchuang Yin, Siyu Yi, Yifan Wang, Zhicheng Li, Leijiyu Zhou, Jiancheng Lv, **Wei Ju**. <a href="https://academic.oup.com/bioinformatics/article/42/10/btag763/8911834" style="text-decoration: none; border-bottom: none;"><em>CMGL: Confidence-guided Multi-omics Graph Learning for Cancer Subtype Classification</em>. *Bioinformatics*, 42(10), btag763. [Pub: 2026-10-12][[Code](https://github.com/fanboyang/CMGL)]<br>
+1.  Boyang Fan, Hengchuang Yin, Siyu Yi, Yifan Wang, Zhicheng Li, Leijiyu Zhou, Jiancheng Lv, **Wei Ju**. <a href="https://academic.oup.com/bioinformatics/article/42/10/btag763/8911834" style="text-decoration: none; border-bottom: none;"><em>CMGL: Confidence-guided Multi-omics Graph Learning for Cancer Subtype Classification</em></a>. *Bioinformatics*, 42(10), btag763. [Pub: 2026-10-12][[Code](https://github.com/fanboyang/CMGL)]<br>
 ***Bioinformatics 2026, <span style="color:red">CCF-A, JCR Q1, IF=5.497</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  Caiyang Yu, **Wei Ju**, Yun Liu, Qingqing Long, Siyu Yi, Yifan Wang, Junyu Luo, Ziyue Qiao. <em>Reward-guided Meta-Prompt Evolving with Reflection for LLM Jailbreaking</em>. *Conference on Empirical Methods in Natural Language Processing*. [To appear]<br>
