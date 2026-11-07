@@ -315,7 +315,7 @@ author_profile: true
 1.  Qingqing Long, Yuchen Yan, Wentao Cui, Meng Xiao, Zhihong Zhu, **Wei Ju**, Xuezhi Wang, Yuanchun Zhou. <a href="https://dl.acm.org/doi/10.1145/3627673.3679628" style="text-decoration: none; border-bottom: none;"><em>MOAT: Graph Prompting for 3D Molecular Graphs</em></a>. *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management*, 1586-1596, Boise, Idaho, United States. [Pub: 2024-10-21]<br>
 ***CIKM 2024, <span style="color:red">CCF-B</span>***
 
-1.  Yiyang Gu, Zihao Chen, Yifang Qin, Zhengyang Mao, Zhiping Xiao, **Wei Ju**, Chong Chen, Xian-Sheng Hua, Yifan Wang, Xiao Luo, Ming Zhang. <a href="https://ieeexplore.ieee.org/document/10543125" style="text-decoration: none; border-bottom: none;"><em>DEER: Distribution Divergence-based Graph Contrast for Partial Label Learning on Graphs</em></a>. *IEEE Transactions on Multimedia*, 28: 2031-2046. [Pub: 2024-5-31][[Link](../files/25tmm-deer-highly-cited.jpeg)]<br>
+1.  Yiyang Gu, Zihao Chen, Yifang Qin, Zhengyang Mao, Zhiping Xiao, **Wei Ju**, Chong Chen, Xian-Sheng Hua, Yifan Wang, Xiao Luo, Ming Zhang. <a href="https://ieeexplore.ieee.org/document/10543125" style="text-decoration: none; border-bottom: none;"><em>DEER: Distribution Divergence-based Graph Contrast for Partial Label Learning on Graphs</em></a>. *IEEE Transactions on Multimedia*, 28: 2031-2046. [Pub: 2024-5-31][[Link](../files/24tmm-deer-highly-cited.jpeg)]<br>
 ***TMM 2024, <span style="color:red">CCF-B, JCR Q1, IF=8.4</span>, <span style="color:red">ESI Highly Cited Paper</span>***
 
 2023
