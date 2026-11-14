@@ -58,6 +58,8 @@ Area Chair / Senior Program Committee Member
 
 <div id="news-list" markdown="1">
 
+* **2026-11**: Three papers have been accepted by ***KDD 2027*** !!
+* **2026-11**: One paper has been accepted by ***EACL 2027*** !!
 * **2026-10**: Invited to serve as the Senior Program Committee (SPC) Member for IJCAI 2027!
 * **2026-10**: Invited to serve as the Area Chair for ICML 2027!
 * **2026-9**: One paper has been accepted by ***Bioinformatics 2026*** !!
