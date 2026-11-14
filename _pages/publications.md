@@ -8,6 +8,20 @@ author_profile: true
 <!-- You can also find my articles on <u><a href="https://scholar.google.com/citations?user=pppQSXgAAAAJ&hl=en">my Google Scholar profile</a>.</u> -->
 (\* Equal Contribution)
 
+2027
+====
+1.  Zhipeng Sun, Fanchun Meng, Zitong Li, Changhu Wang, Tao Ren, Yifan Wang, Wei Ju, Chong Chen, Xian-Sheng Hua, Xiao Luo. <a href="" style="text-decoration: none; border-bottom: none;"><em>STAR: Structure-aware Token Highlighter with Gap Bridging for Enhancing Multimodal Large Language Models</em></a>. *Proceedings of the 33rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining*. [To appear]<br>
+***KDD 2027, <span style="color:red">CCF-A</span>***
+
+1.  Xuanting Fan, Chenyu Wang, Shunge Zou, Qi Zhang, Yifan Wang, Wei Ju, Chong Chen, Xian-Sheng Hua, Xiao Luo. <a href="" style="text-decoration: none; border-bottom: none;"><em>AURORA: Asynchronous Dual Distillation with Trajectory Tracking for Test-time Graph Out-of-Distribution Detection</em></a>. *Proceedings of the 33rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining*. [To appear]<br>
+***KDD 2027, <span style="color:red">CCF-A</span>***
+
+1.  YifeiXu, Fanchun Meng, Zitong Li, Changhu Wang, Qi Zhang, Yifan Wang, Wei Ju, Chong Chen, Xian-Sheng Hua, Xiao Luo. <a href="" style="text-decoration: none; border-bottom: none;"><em>BULL: Bi-level Robust Transfer with Compatibility-aware Calibration for Graph Domain Adaptation</em></a>. *Proceedings of the 33rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining*. [To appear]<br>
+***KDD 2027, <span style="color:red">CCF-A</span>***
+
+1.  Xinyun Liu, Wei Ju, Ziyue Qiao, Xiao Luo. <a href="" style="text-decoration: none; border-bottom: none;"><em>KNIGHT: Key-attended Controlled Decoding with Topological Enhancement for Uncertainty Quantification in LLM-based Recommendation</em></a>. *Proceedings of the 20th Conference of the European Chapter of the Association for Computational Linguistics*. [To appear] <br>
+***EACL 2027, <span style="color:orange">Corresponding Author</span>***
+
 2026
 ====
 1.  **Wei Ju**, Siyu Yi, Kangjie Zheng, Yifan Wang, Ziyue Qiao, Li Shen, Yongdao Zhou, Xiaochun Cao, Jiancheng Lv. <a href="https://openreview.net/forum?id=9jdQLmPUHW" style="text-decoration: none; border-bottom: none;"><em>Compactness and Consistency: A Conjoint Framework for Deep Graph Clustering</em></a>. *International Conference on Learning Representations*, Rio de Janeiro, Brazil. [Pub: 2026-1-26][[Code](https://github.com/juweipku/CoCo)]<br>
