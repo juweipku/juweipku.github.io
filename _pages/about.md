@@ -48,7 +48,7 @@ Area Chair / Senior Program Committee Member
 2025: ICML, ARR, ACMMM, IJCNN, ACML
 
 * **SPC**:\\
-2027: WSDM\\
+2027: IJCAI, WSDM\\
 2026: AAAI, IJCAI, CIKM, PAKDD\\
 2025: IJCAI, CIKM
 
@@ -63,7 +63,7 @@ Area Chair / Senior Program Committee Member
 * **2026-10**: Invited to serve as the Senior Program Committee (SPC) Member for IJCAI 2027!
 * **2026-10**: Invited to serve as the Area Chair for ICML 2027!
 * **2026-9**: One paper has been accepted by ***Bioinformatics 2026*** !!
-* **2026-9**: Three papers have been accepted by ***NeurIPS 2025*** !!
+* **2026-9**: Three papers have been accepted by ***NeurIPS 2026*** !!
 * **2026-9**: One paper has been accepted by ***BIBM 2026*** !!
 * **2026-9**: One paper has been accepted by ***Bioinformatics 2026*** !!
 * **2026-9**: One paper has been accepted by ***Pattern Recognition 2026*** !!
